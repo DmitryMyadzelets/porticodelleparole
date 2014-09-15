@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+body {
+    padding: 0 1em;
+    margin: 0 auto;
+    max-width: 42em;
+    font: normal 100% "Arial", sans-serif;
+    color: #333;
+    opacity: .9;
+    background-color: #cddeb0;
+}
+
+/*p,ul,a {
+    font: normal 100% "Arial",sans-serif;
+}
+*/
+h1,h2 {
+    font-weight: normal;
+}
+
+img, object {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.shadow{
+    -webkit-box-shadow:.2em .1em .3em #888;
+    -moz-box-shadow:.2em .1em .3em #888;
+    box-shadow:.2em .1em .3em #888;
+}
+
+
+#association {
+    font-size: 1.2em;
+}
+
+#portico {
+    font-size: 1.5em;
+}
+
+.phone_number{
+    font-size: 2em;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+td {
+    width: 50%;
+}
+
+table.gridtable {
+    font-size: small;
+    color:#333333;
+    border-width: 1px;
+    border-color: black;
+    border-collapse: collapse;
+}
+table.gridtable th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    background-color: #cddeb0;
+}
+table.gridtable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+}
+
+#iscrizione {
+    width:100%; 
+    border:0; 
+    background-color: #cddeb0;
+}
+
+[itemprop="review"] {
+    font-size: small;
+    padding-bottom: 2em;
+}
+
+[itemprop="author"] {
+    font-weight: bold;
+}
+
+img.review_photo {
+    width: 10em;
+    float: left;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    /*vertical-align: text-top;*/
+}
+
+[itemprop="reviewbody"] {
+    font-style: italic;
+}
