@@ -64,17 +64,13 @@
 <div class="center">
 <p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e sempre motivante? Ti interessa saper parlare russo senza fare noiosissimi esercizi di grammatica? Vieni da noi e fai il corso di russo<br> <b>Immerssione in Russia</b>!</p>
 
-<p style="color:red"><b>Il corso di russo per i principianti in OFFERTA si comincia dal 22 di Settembre.
-<br>Mancano solo pochi giorni ed è rimasto soltanto 1 posto!</b>
-</p>
-
-<p>
+<p style="color:red">
 	<?php
-		$start_date = strtotime("7-10-2014");
+		$start_date = strtotime("8-10-2014");
 		$now = strtotime("now");
 		$days_left = floor(($start_date - $now)/(60*60*24));
 		if ($days_left > 0) {
-			echo "<b>La prossima edizione del corso di russo per i principianti si commincia dal 7 di Ottobre. </b>";
+			echo "<b>La prossima edizione del corso di russo per i principianti si commincia dal 8 di Ottobre. </b>";
 			echo "<b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
 		}
 	?>
