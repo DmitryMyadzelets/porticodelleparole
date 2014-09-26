@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width">
-	<meta name="description" content="Corso di Lingua Russa a Bologna">
+	<meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Ti interessa saper parlare russo senza fare noiosissimi esercizi di grammatica? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole">
 	<meta name="keywords" content="corso di russo a bologna,
 	corso russo,
 	scuola di lingue,
