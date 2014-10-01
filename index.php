@@ -70,7 +70,7 @@
 		$now = strtotime("now");
 		$days_left = floor(($start_date - $now)/(60*60*24));
 		if ($days_left > 0) {
-			echo "<b>La prossima edizione del corso di russo per i principianti si commincia dal 8 di Ottobre. </b>";
+			echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Ottobre. </b>";
 			echo "<b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
 		}
 	?>
