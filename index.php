@@ -76,15 +76,28 @@
 	?>
 </p>
 
+
+<p>
+<b><span style="color:red">Novità!</span> Un ciclo di incontri di Conversazioni in Russo!</b><br>
+Hai già studiato il russo o lo stai studiando e vuoi rispolverarlo e praticarlo con dei madrelingua?
+Questo corso è dedicato a te! 
+E' un corso molto flessibile e puoi scegliere qualsiasi incontro settimanale fino al 18 Dicembre 2014!
+</p>
+
 </div>	
 
-	
-<div align="right" style="font-size: 1.5em; padding: 0.2em;">
-		<img src="./img/phone-icon.png" alt="Phone" 
-		style="height:1em; width:1em; vertical-align: middle;"/>
-		<span style="vertical-align: middle;">&nbsp;
-			327 66 17 027</span>
+<div style="float: left">
+	<a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
+		<img src="./img/facebook.png" title="Portico Delle Parole at Facebook" alt="Facebook" style="width:48px; vertical-align: middle;" border="0"/></a>
 </div>
+
+<div align="right" style="font-size: 1.5em; padding: 0.2em;">
+	<img src="./img/phone-icon.png" alt="Phone" 
+	style="height:1em; width:1em; vertical-align: middle;"/>
+	<span style="vertical-align: middle;">&nbsp;
+		327 66 17 027</span>
+</div>
+
 
 <p>
 	Ciao! Piacere, siamo la associazione culturale <b>Portico delle Parole</b> e siamo aperti a chi voglia imparare il russo parlato e scritto, speriamo che tu lo sia uno di questi! Per conoscere meglio guarda il video sottо. 
