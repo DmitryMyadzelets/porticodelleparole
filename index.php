@@ -66,11 +66,11 @@
 
 <p style="color:red">
 	<?php
-		$start_date = strtotime("15-10-2014");
+		$start_date = strtotime("4-11-2014");
 		$now = strtotime("now");
 		$days_left = floor(($start_date - $now)/(60*60*24));
 		if ($days_left > 0) {
-			echo "<b>La prossima edizione del corso di russo per principianti comincia il 15 di Ottobre. </b>";
+			echo "<b>La prossima edizione del corso di russo per principianti comincia il 4 di Novembre. </b>";
 			echo "<b>Sono rimasti soltanto un paio di posti liberi. </b>";
 			echo "<b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
 		}
@@ -82,7 +82,7 @@
 <b><span style="color:red">Novità!</span> Un ciclo di incontri di Conversazioni in Russo!</b><br>
 Hai già studiato il russo o lo stai studiando e vuoi rispolverarlo e praticarlo con dei madrelingua?
 Questo corso è dedicato a te! 
-E' un corso molto flessibile e puoi scegliere qualsiasi incontro settimanale fino al 18 Dicembre 2014!
+E' un corso molto flessibile e puoi scegliere qualsiasi incontro settimanale!
 </p>
 
 </div>	
