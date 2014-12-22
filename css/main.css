@@ -7,8 +7,16 @@ body {
     font: normal 100% "Arial", sans-serif;
     color: #333;
     opacity: .9;
-    background-color: #cddeb0;
 }
+
+header {
+    background-color: lightgray;
+}
+
+footer {
+    text-align: center;
+}
+
 
 /*p,ul,a {
     font: normal 100% "Arial",sans-serif;
@@ -74,6 +82,7 @@ table.gridtable td {
     padding: 8px;
     border-style: solid;
 }
+
 
 #iscrizione {
     width:100%; 
