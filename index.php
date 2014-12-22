@@ -78,11 +78,11 @@
 
 <p style="color:red">
 	<?php
-		$start_date = strtotime("11-11-2014");
+		$start_date = strtotime("15-01-2015");
 		$now = strtotime("now");
 		$days_left = floor(($start_date - $now)/(60*60*24));
 		if ($days_left > 0) {
-			echo "<b>La prossima edizione del corso di russo per principianti comincia il 11 di Novembre. </b>";
+			echo "<b>La prossima edizione del corso di russo per principianti comincia il 15 di Gennaio. </b>";
 			echo "<b>Le iscrizioni sono già aperte. </b>";
 			echo "<b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
 		}
