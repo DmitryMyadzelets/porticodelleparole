@@ -58,6 +58,11 @@
 		NOTE: The <nav> element does not have to be contained within a <header> element, even though the two examples on this page are. -->
 		<nav role="navigation">
 		<!-- This can contain your site navigation either in an unordered list or even a paragraph that contains links that allow users to navigate your site -->	
+			<ul>
+				<li><a href="#" role="button">Menu</a></li>
+				<li><a href="#" role="button">Menu</a></li>
+				<li><a href="#" role="button">Menu</a></li>
+			</ul>
 		</nav>
 	</header>
 
