@@ -230,27 +230,32 @@ E' un corso molto flessibile e puoi scegliere qualsiasi incontro settimanale!
 
 
 <h2>
-	Si ma quanto costa il corso?
+	Prezzi per i corsi di russo
 </h2>
-<p>
-	Essendo senza fini di lucro i prezzi come non si trovano in nessuna scuola di lingue a Bologna.<br>
-	Ecco il listino dei nostri <b>prezzi eccezionali</b>. 
-</p>
 <table class="gridtable">
 	<tr>
 		<th>Individuale </th>
-		<th>In due</th>
+		<th>In due*</th>
 		<th>In gruppo <br>min 5 - max 10 persone</th>
 	</tr>
 	<tr>
-		<td>1 ora (60 min) – 27&#8364;<br>
+		<td>1 ora (60 min) – 24&#8364;<br>
 			<span style="color:red">
-			<b>10 ore* – <span style="text-decoration: line-through;">217&#8364;</span> 
-			adesso in promozione 187&#8364;</b>
+				<b>
+					10 ore – <span style="text-decoration: line-through;">217&#8364;</span> 
+					adesso in promozione 187&#8364;
+				</b>
 			</span>
 			<br>20 ore* – 417&#8364;
 			</td>
-		<td>1 ora (60 min) – 34&#8364;<br>10 ore* – 297&#8364;<br>20 ore* – 497&#8364;
+		<td>1 ora (60 min) – 18&#8364;<br>
+			<span style="color:red">
+				<b>
+					10 ore – <span style="text-decoration: line-through;">177&#8364;</span>
+					adesso in promozione 147&#8364;
+				</b>
+			</span>
+			<br>20 ore* – 347&#8364;
 			</td>
 		<td>
 			<span style="color:red"><b>
@@ -263,10 +268,59 @@ E' un corso molto flessibile e puoi scegliere qualsiasi incontro settimanale!
 	</tr>
 </table>
 <p>
-	*Ti diamo flessibilità, in caso tu abbia impegni potrai spostare tre lezioni su dieci. Importante e'pero'avvisarci almeno tre ore prima della lezione.
+	* Per le lezioni <b>In due</b> si paga il costo <b>a persona</b>.
 	<br>
-	Siccome siamo una associazione culturale c’è obbligo della tessera associativa che costa solo 10&#8364;.
+	Siccome siamo un’associazione culturale è obbligatorio il rilascio della tessera associativa che costa solo 10&#8364;.
 </p>
+
+
+<h2>
+	Orari dei corsi di russo
+</h2>
+<table class="gridtable">
+	<tr>
+		<th>
+			Corso individuale or in due<br>
+			10 ore or 20 ore
+		</th>
+		<th>
+			Corso in gruppo<br>
+			20 ore
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<p>
+				Puoi fare la lezione <b>qualsiasi giorno della settimana a qualsiasi ora </b>e si può anche fissare l’appuntamento a volta in volta per le prossime settimane.
+			</p>
+			<p>
+				<b>In 10 ore ci sono 7 lezioni:</b><br>
+				4 lezioni di 1 ora e 30 min<br>
+				3 lezioni di 1 ora e 20 min 
+			</p>
+			<p>
+				<b>In 20 ore ci sono 14 lezioni:</b><br>
+				8 lezioni di 1 ora e 30 min<br>
+				6 lezioni di 1 ora e 20 min
+			</p>
+		</td>
+		<td>
+			<p>
+				Le lezioni sono 1 volta alla settimana. Il giorno sarà concordato con gli altri partecipanti del corso.
+			</p>
+			<p>
+				<b>In 20 ore ci sono 13 lezioni</b><br>
+				La durata della lezione è di 1 ora e 35 min 
+			</p>
+			<p>
+				Puoi sceglere fra <b>due fascie orari</b>:<br>
+				1) dalle 18:15 alle 19:50<br>
+				2) dalle 20:00 alle 21:35
+			</p>
+		</td>
+	</tr>
+</table>
+
 
 
 <h2>
