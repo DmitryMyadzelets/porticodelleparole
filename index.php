@@ -187,39 +187,8 @@ E' un corso molto flessibile e puoi scegliere qualsiasi incontro settimanale!
 
 
 <h2>
-	Alla gente di quale età è indirizzato il corso?
+	Dicono di noi
 </h2>
-<p>
-	Il corso "Immerssione in Russia" è fattibile a qualsiasi persona di qualsiasi età perchè i contenuti del corso sono spiegati e rapresentati cosi` chiaramente che chiunchue lo faccia possa farlo con massimo successo. 
-	Quindi il corso va` benissimo per te!
-</p>
-
-
-
-<h2>
-	Quante volte a settimana ci sono le lezioni?
-</h2>
-<p>
-	Hai lezioni una volta alla settimana il giorno e l`ora che preferisci!
-</p>
-
-
-
-<h2>
-	Quanto dura una lezione?
-</h2>
-<p>
-	Una lezione dura due ore con una pausa di cinque minuti.
-</p>
-
-
-
-<h2>
-	C'è qualcuno chi ha già fatto questo corso?
-</h2>
-<p>
-	Si, certo! Abbiamo molti nostri clienti che hanno già fatto il corso "Immerssione in Russia", puoi leggere i loro giudizi:
-</p>
 
 
 <!-- Reviews -->

@@ -73,6 +73,7 @@ table.gridtable td {
     border-width: 1px;
     padding: 8px;
     border-style: solid;
+    vertical-align: top;
 }
 
 #iscrizione {
