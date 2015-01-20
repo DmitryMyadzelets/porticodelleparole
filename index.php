@@ -150,12 +150,39 @@
 </h2>
 <p>
     I nostri insegnanti sono tutti <b>madrelingua russa</b> laureati nell'insegnamento della lingua a stranieri e 
-    sono dalle citta' diverse dalla Russia: <br>
-    Olga, 27 anni, Irkutsk (Siberia)<br>
-    Daria, 29 anni, Mosca<br>
-    Anna, 25 anni Kazan<br>
-    Yury, 27 anni, Nizhni Novgorod
+    sono dalle citta' diverse dalla Russia:
+    <table>
+        <tr>
+            <th>
+                Olga, 27 anni,<br>Irkutsk (Siberia)
+            </th>
+            <th>
+                Daria, 29 anni,<br>Mosca                
+            </th>
+            <th>
+                Anna, 25 anni,<br>Kazan    
+            </th>
+            <th>
+                Yury, 27 anni,<br>Nizhni Novgorod    
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/olga.jpg" alt="Photo of Olga" class="review_photo"/>
+            </td>
+            <td>
+                <img src="./img/dasha.jpg" alt="Photo of Daria" class="review_photo"/>
+            </td>
+            <td>
+                <img src="./img/anna.jpg" alt="Photo of Anna" class="review_photo"/>    
+            </td>
+            <td>
+                <img src="./img/yura.jpg" alt="Photo of Yury" class="review_photo"/>    
+            </td>
+        </tr>
+    </table>
 </p>
+
 
 
 <h2>
@@ -167,7 +194,6 @@
 <iframe id="reviews" type="text/html" width="100%" height="400"
   src="./reviews.html"
   frameborder="0"/></iframe>
-
 
 
 <h2>
@@ -295,7 +321,7 @@
     ?>
     </span>
 </p>
- -->
+
 
 
 <h2>
