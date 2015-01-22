@@ -193,7 +193,8 @@
 <!-- Reviews -->
 <iframe id="reviews" type="text/html" width="100%" height="400"
   src="./reviews.html"
-  frameborder="0"/></iframe>
+  frameborder="0"/>
+</iframe>
 
 
 <h2>
@@ -321,21 +322,9 @@
     ?>
     </span>
 </p>
+//-->  
 
 
-
-<h2>
-    Quando e come posso pagare?
-</h2>   
-<p>
-    Se sei interessato ad immergerti nella lingua e cultura russa chiama il numero: 
-    <b>327 66 17 027</b> oppure scrivi una e-mail: <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>, ti contatterà uno dei nostri assistenti. 
-</p>
-
-
-
-<p>
-Ma per garantirti subito il tuo posto nel nuovo gruppo fai l'iscrizione on-line compilando questo modulo:
 <script type="text/javascript">
 <!--
 function autoResize(id){
