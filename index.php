@@ -66,12 +66,12 @@
 
 <p style="color:red">
     <?php
-        $start_date = strtotime("04-03-2015");
+        $start_date = strtotime("11-03-2015");
         $now = strtotime("now");
         $days_left = floor(($start_date - $now)/(60*60*24));
         if ($days_left > 0) {
-            echo "<b>La prossima edizione del corso di russo per principianti comincia il 4 di Marzo. </b>";
-            echo "<b>Le iscrizioni sono già aperte. </b>";
+            echo "<b>La prossima edizione del corso di russo per principianti comincia l'11 di Marzo. </b>";
+            echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
             echo "<b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
         }
     ?>
@@ -128,18 +128,18 @@
 <p>
     <b>Cosa è compreso nel corso</b>:
     <ul>
-        <li>Il manuale che è fatto dai nostri insegnanti
+        <li>Il <b>manuale</b> che è fatto dai nostri insegnanti
         <li>L’email settimanale con link per vedere video, ascoltare dialoghi, canzoni e materiali per fare i compiti
         <li>Supporto per qualsiasi domanda riguardando il corso via email, Facebook, Whatsup
-        <li>Workshop settimanale di 1 ora e 30 minuti di ascolto, fonetica e lettura
+        <li><b>Workshop settimanale</b> di 1 ora e 30 minuti di ascolto, fonetica e lettura
         <li>Una lezione di 1 ora e 30 minuti di recupero durante il corso
-        <li>L’aperitivo con russi alla fine o alla metà del corso
+        <li><b>L’aperitivo</b> con russi alla fine o alla metà del corso
     </ul>
 </p>
 
 <p>
     E inoltre... lo sapevi che i russi amano bere il tè? 
-    Ogni sabato dalle 11:00 alle 13:30 puoi scoprire le pecularità della cerimonia del tè in Russia che la rendono unica al mondo!
+    <b>Ogni sabato</b> dalle 11:00 alle 13:30 puoi scoprire le pecularità della cerimonia del tè in Russia che la rendono unica al mondo!
 </p>
 
 
@@ -274,7 +274,7 @@
         </td>
         <td>
             <p>
-                Le lezioni sono 1 volta alla settimana. Il giorno sarà concordato con gli altri partecipanti del corso.
+                Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso.
             </p>
             <p>
                 <b>In 20 ore ci sono 13 lezioni</b><br>
