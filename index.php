@@ -48,6 +48,8 @@
         })();
     </script>
 
+    <script type="text/javascript" src='./js/monitor.js'></script>
+
 </head>
 
 <body>
