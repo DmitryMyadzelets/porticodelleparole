@@ -91,6 +91,12 @@
     style="height:1em; width:1em; vertical-align: middle;"/>
     <span style="vertical-align: middle;">&nbsp;
         327 66 17 027</span>
+        <br>
+        <span style="font-size: 0.72em;">
+            <a href="mailto:info@porticodelleparole.it">
+                info@porticodelleparole.it
+            </a>
+        </span>   
 </div>
 
 
@@ -209,14 +215,15 @@
         <th>In gruppo <br>min 5 - max 10 persone</th>
     </tr>
     <tr>
-        <td>1 ora (60 min) – 24&#8364;<br>
+        <td>1 ora (60 min) – 
             <span style="color:red">
+                <span style="text-decoration: line-through;">24&#8364;</span><br>
                 <b>
-                    10 ore – <span style="text-decoration: line-through;">217&#8364;</span> 
-                    adesso in promozione 187&#8364;
+                    adesso in promozione estiva il corso individuale a 
+                    <span style="font-size:large">18&#8364;</span> all’ora
                 </b>
             </span>
-            <br>20 ore* – 417&#8364;
+            <!-- <br>20 ore* – 417&#8364; -->
             </td>
         <td>1 ora (60 min) – 18&#8364;<br>
             <span style="color:red">
