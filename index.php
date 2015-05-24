@@ -66,6 +66,22 @@
 <p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e sempre motivante? 
     Vieni da noi e fai il corso di russo<br> <b>Immerssione in Russia</b>!</p>
 
+<?php
+    $start_date = strtotime("20-07-2015");
+    $now = strtotime("now");
+    $days_left = floor(($start_date - $now)/(60*60*24));
+    if ($days_left > 0) {
+        echo "
+            <p style='color:red'>
+                <b>
+                    Adesso in promozione estiva il corso individuale a
+                    <span style='font-size:x-large'>18&#8364;</span> all’ora. 
+                    <br/>I posti sono limitati.
+                </b>
+            </p>";
+    }
+?>
+
 <p style="color:red">
     <?php
         $start_date = strtotime("08-04-2015");
@@ -215,15 +231,14 @@
         <th>In gruppo <br>min 5 - max 10 persone</th>
     </tr>
     <tr>
-        <td>1 ora (60 min) – 
+        <td>1 ora (60 min) – 24&#8364;<br>
             <span style="color:red">
-                <span style="text-decoration: line-through;">24&#8364;</span><br>
                 <b>
-                    adesso in promozione estiva il corso individuale a 
-                    <span style="font-size:large">18&#8364;</span> all’ora
+                    10 ore – <span style="text-decoration: line-through;">217&#8364;</span> 
+                    adesso in promozione 187&#8364;
                 </b>
             </span>
-            <!-- <br>20 ore* – 417&#8364; -->
+            <br>20 ore* – 417&#8364;
             </td>
         <td>1 ora (60 min) – 18&#8364;<br>
             <span style="color:red">
