@@ -48,6 +48,8 @@
         })();
     </script>
 
+    <script type="text/javascript" src='./js/monitor.js'></script>
+
 </head>
 
 <body>
@@ -63,6 +65,22 @@
 <div class="center">
 <p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e sempre motivante? 
     Vieni da noi e fai il corso di russo<br> <b>Immerssione in Russia</b>!</p>
+
+<?php
+    $start_date = strtotime("20-07-2015");
+    $now = strtotime("now");
+    $days_left = floor(($start_date - $now)/(60*60*24));
+    if ($days_left > 0) {
+        echo "
+            <p style='color:red'>
+                <b>
+                    Adesso in promozione estiva il corso individuale a
+                    <span style='font-size:x-large'>18&#8364;</span> all’ora. 
+                    <br/>I posti sono limitati.
+                </b>
+            </p>";
+    }
+?>
 
 <p style="color:red">
     <?php
@@ -89,6 +107,12 @@
     style="height:1em; width:1em; vertical-align: middle;"/>
     <span style="vertical-align: middle;">&nbsp;
         327 66 17 027</span>
+        <br>
+        <span style="font-size: 0.72em;">
+            <a href="mailto:info@porticodelleparole.it">
+                info@porticodelleparole.it
+            </a>
+        </span>   
 </div>
 
 
