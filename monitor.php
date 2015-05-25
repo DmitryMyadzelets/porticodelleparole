@@ -5,9 +5,9 @@
 
         // Get POST data
 
-        if (empty($_POST['page_height'])) break;
-        if (empty($_POST['view_height'])) break;
-        if (empty($_POST['view_offset'])) break;
+        if (!isset($_POST['page_height'])) break;
+        if (!isset($_POST['view_height'])) break;
+        if (!isset($_POST['view_offset'])) break;
 
         $page_height = $_POST['page_height'];
         $view_height = $_POST['view_height'];
