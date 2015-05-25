@@ -3,13 +3,12 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>
-        Monitor
+        User behaviour analysis
     </title>
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 
 <body>
-    <h1>User behaviour analysis</h1>
     <div class='files'>
 
         <?php
