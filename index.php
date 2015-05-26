@@ -385,15 +385,8 @@ Ti communichiamo il giorno e l’ora esatta quando devi venire alla prima lezion
 <h2>
     Foto
 </h2>
-<object width="640" height="480">
-    <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126701579%40N07%2Fsets%2F72157647133686116%2Fshow%2F&page_show_back_url=%2Fphotos%2F126701579%40N07%2Fsets%2F72157647133686116%2F&set_id=72157647133686116&jump_to="></param>
-    <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param>
-    <param name="allowFullScreen" value="true"></param>
-    <embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126701579%40N07%2Fsets%2F72157647133686116%2Fshow%2F&page_show_back_url=%2Fphotos%2F126701579%40N07%2Fsets%2F72157647133686116%2F&set_id=72157647133686116&jump_to=" width="640" height="480"></embed>
-</object>
-
 <div style='position: relative; padding-bottom: 76%; height: 0; overflow: hidden;'>
-    <!-- <iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=75&size=big&setId=72157647133686116&thumbnails=0&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe> -->
+    <iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=75&size=big&setId=72157647133686116&thumbnails=0&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe>
 </div>
 
 </div>
