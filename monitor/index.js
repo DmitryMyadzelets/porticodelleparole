@@ -189,6 +189,7 @@ function View (objects) {
             var height = box.height;
             var ratio_y = height / datum.page_height;
             var ratio_x = width / 10;
+            var stroke_width = datum.view_height * ratio_y;
 
             var i = seconds.length;
             var x, y;
@@ -201,7 +202,7 @@ function View (objects) {
                     .attr('y1', y)
                     .attr('x2', x)
                     .attr('y2', y)
-                    .attr('style', 'stroke:rgba(255,0,0,0.2); stroke-width:' + datum.view_height);
+                    .attr('style', 'stroke:rgba(255,0,0,0.2); stroke-width:' + stroke_width);
             }
         };
 }
@@ -234,7 +235,7 @@ function pull_log_file(d, callback) {
         // Get page and view sizes from the first record
         if (data.length > 0) {
             d.page_height = data[0].page_height;
-            d.view_height = data[0].view_offset;
+            d.view_height = data[0].view_height;
         }
         // Attach extracted log data to the root object
         d.log = data;
