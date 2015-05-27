@@ -105,7 +105,7 @@ function View (objects) {
         // Table
         this.table = d3.select('body').append('div').append('table');
 
-        var table_header = ['#', 'Date', 'IP', 'Time, sec', 'Moves'];
+        var table_header = ['#', 'Date', 'IP', 'Country', 'Time', 'Moves'];
 
         // Returns array of table row data
         function get_tr_data (d) {
@@ -116,7 +116,7 @@ function View (objects) {
             min = min - hour * 60;
             sec = sec - hour * 3600 - min * 60;
             var duration = (hour ? hour + ':' : '') + (min ? min + ':' : '') + sec;
-            return [d.index + 1, date, d.ip, duration, d.moves];
+            return [d.index + 1, date, d.ip, d.country, duration, d.moves];
         }
 
         // Table rows
@@ -321,6 +321,20 @@ function on_file_pulled(v) {
     // Update view
     view.update_datum(v);
 }
+
+function on_geolocated(o) {
+    if (typeof o !== 'object') { return; }
+    if (o.ip !== this.ip) { return; }
+    this.country = o.country_name;
+    view.update_datum(this);
+}
+
+// Get geolocation by IP
+// The service limits 10,000 queries per hour by default
+data.forEach(function (v) {
+    // Try to get geolocation information
+    d3.json('http://freegeoip.net/json/' + v.ip, on_geolocated.bind(v));
+});
 
 // Get log data from the server
 data.forEach(function (v) {
