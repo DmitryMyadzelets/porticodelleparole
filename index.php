@@ -64,21 +64,10 @@
 <p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e sempre motivante? 
     Vieni da noi e fai il corso di russo<br> <b>Immerssione in Russia</b>!</p>
 
-<?php
-    $start_date = strtotime("20-07-2015");
-    $now = strtotime("now");
-    $days_left = floor(($start_date - $now)/(60*60*24));
-    if ($days_left > 0) {
-        echo "
-            <p style='color:red'>
-                <b>
-                    Adesso in promozione estiva il corso individuale a
-                    <span style='font-size:x-large'>18&#8364;</span> all’ora. 
-                    <br/>I posti sono limitati.
-                </b>
-            </p>";
-    }
-?>
+<p style='color: red'>
+    L'associazione rimane operativa per tutta l'estate.<br>
+    I nostri corsi estivi sono in offerta per voi: individuali a 18 euro all'ora (60 minuti di lezione) e collettivi a soli 7 euro all'ora.
+</p>
 
 <p style="color:red">
     <?php
