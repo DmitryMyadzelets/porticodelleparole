@@ -93,7 +93,9 @@
     <img src="./img/phone-icon.png" alt="Phone" 
     style="height:1em; width:1em; vertical-align: middle;"/>
     <span style="vertical-align: middle;">&nbsp;
-        327 66 17 027</span>
+        <!-- 327 66 17 027 --> <!-- Olga -->
+        331 921 0150 <!-- Martina -->
+    </span>
         <br>
         <span style="font-size: 0.72em;">
             <a href="mailto:info@porticodelleparole.it">
