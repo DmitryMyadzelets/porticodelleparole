@@ -3,12 +3,16 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Ti interessa saper parlare russo senza fare noiosissimi esercizi di grammatica? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole">
+    <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole">
     <meta name="keywords" content="corso di russo a bologna,
+    corso di italiano a bologna,
     corso russo,
+    corso italiano,
     scuola di lingue,
     corso di lingua russa,
+    corso di lingua italiana,
     lezioni di russo a Bologna,
+    lezioni di italiano a Bologna,
     bologna centro,
     portico delle parole,
     porticodelleparole,
@@ -64,20 +68,22 @@
 <p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e sempre motivante? 
     Vieni da noi e fai il corso di russo<br> <b>Immerssione in Russia</b>!</p>
 
-<p style='color: red'>
-    L'associazione rimane operativa per tutta l'estate.<br>
-    I nostri corsi estivi sono in offerta per voi: individuali a 18 euro all'ora (60 minuti di lezione) e collettivi a soli 7 euro all'ora.
+<!-- <p style='color: red'>
+    Sono già aperte le iscrizioni ai nostri corsi collettivi, ma il numero dei posti è limitato!
+    Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa! Vi aspettiamo con impazienza!
 </p>
-
+ -->
 <p style="color:red">
+    Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa!<br/>Vi aspettiamo con impazienza!
     <?php
-        $start_date = strtotime("08-04-2015");
+        $start_date = strtotime("05-10-2015");
         $now = strtotime("now");
         $days_left = floor(($start_date - $now)/(60*60*24));
         if ($days_left > 0) {
-            echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Aprile. </b>";
-            echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
-            echo "<b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
+            echo "<br/>Le iscrizioni al gruppo principianti chiudono il <b>5 di Ottobre</b>, tra pochi giorni!";
+            // echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Aprile. </b>";
+            // echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
+            echo "<br/><b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
         }
     ?>
 </p>
@@ -93,17 +99,22 @@
     <img src="./img/phone-icon.png" alt="Phone" 
     style="height:1em; width:1em; vertical-align: middle;"/>
     <span style="vertical-align: middle;">&nbsp;
-        <!-- 327 66 17 027 --> <!-- Olga -->
-        331 921 0150 <!-- Martina -->
+        327 66 17 027 <!-- Olga -->
+        <!-- 331 921 0150 --> <!-- Martina -->
     </span>
-        <br>
+        <br/>
         <span style="font-size: 0.72em;">
             <a href="mailto:info@porticodelleparole.it">
                 info@porticodelleparole.it
             </a>
-        </span>   
+        </span> 
+        <br/>
+        <span style="font-size: 0.65em;">via Nosadella 15 b, Bologna</span>
 </div>
 
+<p style="color:red" class="center">
+    <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
+</p>
 
 <p>
     Ciao! 
@@ -224,10 +235,10 @@
             <span style="color:red">
                 <b>
                     10 ore – <span style="text-decoration: line-through;">217&#8364;</span> 
-                    adesso in promozione 187&#8364;
+                    adesso in promozione 197&#8364;
+            <br>20 ore* – <span style="text-decoration: line-through;">417&#8364;</span> 364&#8364;
                 </b>
             </span>
-            <br>20 ore* – 417&#8364;
             </td>
         <td>1 ora (60 min) – 18&#8364;<br>
             <span style="color:red">
@@ -236,14 +247,14 @@
                     adesso in promozione 147&#8364;
                 </b>
             </span>
-            <br>20 ore* – 347&#8364;
+            <br>20 ore – 347&#8364;
             </td>
         <td>
             <span style="color:red"><b>
             20 ore – 
             <span style="text-decoration: line-through;">207&#8364;</span> 
             adesso in promozione limitata 
-            <span style="font-size:large">147&#8364;</span></b>
+            <span style="font-size:large">177&#8364;</span></b>
             </span>
         </td>
     </tr>
@@ -303,6 +314,10 @@
 </table>
 
 
+<h2 id="corso_italiano">Corso di italiano</h2>
+<p>
+    Quest'anno c'è una novità! Offriamo infatti anche corsi di lingua e cultura italiane per stranieri, bambini e adulti. Sono lezioni individuali, il cui contenuto si cerca di adattare alle esigenze personali di ogni studente, affinché risultino interessanti e produttive! Il costo è di soli 19 euro all'ora. Sappiamo che cominciare a vivere in un nuovo paese è difficile, e per questo saremo felici di aiutarvi a fare conoscenza meglio e più in fretta con la lingua e la cultura italiane! Vi invitiamo con gioia ai nostri corsi e vi aspettiamo numerosi!
+</p>    
 
 <h2>
     Dove si trova la sede della vostra associazione?
