@@ -76,11 +76,11 @@
 <p style="color:red">
     Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa!<br/>Vi aspettiamo con impazienza!
     <?php
-        $start_date = strtotime("05-10-2015");
+        $start_date = strtotime("12-10-2015");
         $now = strtotime("now");
         $days_left = floor(($start_date - $now)/(60*60*24));
         if ($days_left > 0) {
-            echo "<br/>Le iscrizioni al gruppo principianti chiudono il <b>5 di Ottobre</b>, tra pochi giorni!";
+            echo "<br/>Le iscrizioni al gruppo principianti chiudono il <b>12 di Ottobre</b>, tra pochi giorni!";
             // echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Aprile. </b>";
             // echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
             echo "<br/><b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
@@ -173,39 +173,107 @@
     Nostri insegnanti
 </h2>
 <p>
-    I nostri insegnanti sono tutti <b>madrelingua russa</b> laureati nell'insegnamento della lingua a stranieri e 
-    sono dalle citta' diverse dalla Russia:
-    <table>
-        <tr>
-            <th>
-                Olga, 27 anni,<br>Irkutsk (Siberia)
-            </th>
-            <th>
-                Daria, 29 anni,<br>Mosca                
-            </th>
-            <th>
-                Anna, 25 anni,<br>Kazan    
-            </th>
-            <th>
-                Yury, 27 anni,<br>Nizhni Novgorod    
-            </th>
-        </tr>
-        <tr>
-            <td>
-                <img src="./img/olga.jpg" alt="Photo of Olga" class="review_photo"/>
-            </td>
-            <td>
-                <img src="./img/dasha.jpg" alt="Photo of Daria" class="review_photo"/>
-            </td>
-            <td>
-                <img src="./img/anna.jpg" alt="Photo of Anna" class="review_photo"/>    
-            </td>
-            <td>
-                <img src="./img/yura.jpg" alt="Photo of Yury" class="review_photo"/>    
-            </td>
-        </tr>
-    </table>
+    I nostri insegnanti sono tutti <b>madrelingua russa</b> laureati nell'insegnamento della lingua a stranieri:
 </p>
+<div>
+    <span itemprop="author">
+        Olga, Irkutsk (Siberia), Russia, 28 anni
+    </span>
+    <span iditemprop="reviewbody">
+        <img src="./img/olga.jpg" alt="Photo of Olga" class="review_photo"/>
+        <p>Amo insegnare, e sono proprio i miei studenti ad accrescere in me l'entusiasmo lezione dopo 
+            lezione! La loro curiosità nell'apprendere è contagiosa, e così nasce in me la voglia di 
+            perfezionarmi sempre per offrire loro lezioni sempre nuove, interessanti, utili e conoscitive.
+        </p>
+        <p>
+            Ho terminato i miei studi all'Università Statale di Mosca, dove mi sono specializzata 
+            nell'insegnamento del russo come lingua straniera; dal 2010 ho dato lezioni di russo, 
+            la mia lingua madre, a studenti americani e italiani. Vivo a Bologna da Febbraio del 2011. 
+        </p>
+        <span id="olga_readmore" style="display: none">
+            <p>
+                Prima del mio trasferimento a Bologna, ho lavorato un anno in America, nel Colorado e a Seattle.
+                Durante i miei anni universitari ho vissuto per sei mesi ad Algarve, in Portogallo, dove ho avuto 
+                modo di praticare il portoghese con il programma Erasmus. 
+            </p>
+            <p>
+                Ovviamente anche la mia vita in Italia è all'insegna delle lingue straniere. Grazie alle 
+                mie esperienze di studio e lavoro ho avuto l'opportunità di conoscere meglio anche la mia 
+                lingua madre, e ho così appreso le tecniche migliori per poterla insegnare e farla imparare 
+                ai miei studenti. 
+            </p>
+            <p>
+                Oltre al mio lavoro mi piace molto anche fare escursioni, passeggiate nella natura, e 
+                visitare nuove città. È con gioia che vorrei condividere con voi le mie conoscenze della 
+                lingua e della cultura russe! 
+            </p>
+            <p>
+                Aspetto con impazienza di incontrarvi e spero di avere presto questo grande piacere!
+            </p>
+        </span>
+        <p>
+            <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </span>
+    <br/>
+</div>
+
+<div>
+    <span itemprop="author">
+        Martina, 25 anni, Russia - Italia
+    </span>
+    <span iditemprop="reviewbody">
+        <img src="./img/martina.jpg" alt="Photo of Martina" class="review_photo"/>
+        <p>
+            Sebbene sia nata in Italia sono madrelingua russa. Strano, penserete, e non posso darvi torto! 
+            In realtà sono una bilingue, e quindi sono anche madrelingua italiana, oltre che russa.
+        </p>
+        <p>
+            La mia mamma è originaria di Mosca, città dove ho vissuto con lei durante la mia prima infanzia. 
+            Ho iniziato le scuole in Italia, ma questo non mi ha impedito di continuare a parlare, 
+            leggere e scrivere il russo. Il merito va tutto alla mia mamma, la quale sempre si è 
+            impegnata per coltivare in me l'amore per la sua cultura d'origine e di appartenenza. 
+            Questo attraverso frequenti viaggi, permanenze più o meno lunghe in territorio moscovita, 
+            letture, canzoni, film, e certamente l'abitudine di parlare solo russo tra le mura domestiche.
+        </p>
+        <span id="martina_readmore" style="display: none">
+            <p>
+                Quando avevo 14 anni scoprii l'associazione “Aiutiamoli a vivere”, per la quale feci 
+                volontariato molti anni, fino al mio trasferimento a Bologna. Fu un'esperienza molto 
+                importante per me, perché con l'associazione ci occupavamo di ospitare i bambini di un 
+                orfanotrofio bielorusso in Italia per alcuni mesi all'anno. All'epoca io stessa ero 
+                ancora piccola, ma già mi impegnavo a cercare di integrare i nostri bambini con quelli 
+                italiani, e mi rendevo conto di quanto questo fosse difficile a volte, viste le 
+                barriere linguistiche e culturali. Un buon mediatore è una figura importante, ed io 
+                mi sentivo certamente investita di tale compito, vista la mia conoscenza di entrambe 
+                le parti in gioco. 
+            <p>
+                La situazione che vi ho descritto non ha generato in me nessuna crisi di identità, 
+                al contrario! Trovo legittima da un lato, e assurda dall'altro, la frequente domanda: 
+                Ti senti più russa o italiana? Per evitare lunghi discorsi preferisco rispondere: 
+                metà e metà. Ma non è vero. Non sono una mela, che si puo' tagliare in due parti, 
+                per poi colorarne una di rosso blu e bianco, e l'altra di rosso bianco e verde! 
+                Sono una persona, e quindi le due culture con le quali sono cresciuta si intrecciano 
+                in me, si incastrano l'una nell'altra, si uniscono invece che dividersi. E dalla 
+                loro unione risulta la mia personalità. Questa sono io. 
+            </p>
+            <p>
+                Abito nella mia cara città di Bologna da cinque anni ormai. Mi trasferii qui nel 
+                2010 per frequentare  la facoltà di Lingue e letterature straniere all'università. 
+                Ho migliorato dunque il mio inglese e studiato anche il francese e il tedesco. 
+                Qui a Bologna, oltre a studiare, ho lavorato in più posti, svolgendo svariate 
+                attività: barista, commessa, interprete e finalmente insegnante. Sono contenta 
+                delle esperienze che ho avuto modo di fare, delle belle e delle brutte. 
+                Amo le lingue straniere perché queste ci permettono, secondo me, di scoprire 
+                realtà, anche personali, più vaste e impossibili da descrivere con le parole di una lingua sola. 
+            </p>
+        </span>
+        <p>
+            <a id="martina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </span>
+    <br/>
+</div>
 
 
 
@@ -409,6 +477,7 @@ Ti communichiamo il giorno e l’ora esatta quando devi venire alla prima lezion
 </div>
 
 <script src='./js/monitor.js'></script>
+<script src='./js/readmore.js'></script>
 
 </body>
 </html>
