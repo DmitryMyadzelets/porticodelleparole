@@ -315,7 +315,7 @@
                     adesso in promozione 147&#8364;
                 </b>
             </span>
-            <br>20 ore – 347&#8364;
+            <br>20 ore – 277&#8364;
             </td>
         <td>
             <span style="color:red"><b>
