@@ -11,7 +11,8 @@ body {
 }
 
 p, ul, td {
-    font: normal 88% "Arial",sans-serif;
+    font-size: 88%;
+    font-family: "Arial",sans-serif;
     line-height: 150%;
 }
 
