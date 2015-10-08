@@ -5,17 +5,21 @@ body {
     margin: 0 auto;
     max-width: 42em;
     font: normal 100% "Arial", sans-serif;
-    color: #333;
+    color: #444;
     opacity: .9;
     background-color: #cddeb0;
 }
 
-/*p,ul,a {
-    font: normal 100% "Arial",sans-serif;
+p, ul, td {
+    font: normal 88% "Arial",sans-serif;
+    line-height: 150%;
 }
-*/
-h1,h2 {
+
+h1, h2, h3 {
     font-weight: normal;
+    color: #212121;
+    margin-top: 1.1em;
+    margin-bottom: 0.6em;
 }
 
 img, object {
@@ -57,7 +61,6 @@ td {
 }
 
 table.gridtable {
-    font-size: small;
     color:#333333;
     border-width: 1px;
     border-color: black;
@@ -76,6 +79,13 @@ table.gridtable td {
     vertical-align: top;
 }
 
+.ads {
+    /*color: red;*/
+    border-style: solid;
+    border-color: red;
+    background-color: #blue;
+}
+
 #iscrizione {
     width:100%; 
     border:0; 
@@ -83,7 +93,7 @@ table.gridtable td {
 }
 
 [itemprop="review"] {
-    font-size: small;
+    font-size: 90%;
     padding-bottom: 2em;
 }
 

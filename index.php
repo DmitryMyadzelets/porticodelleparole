@@ -66,29 +66,36 @@
 
 <div class="center">
 <p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e sempre motivante? 
-    Vieni da noi e fai il corso di russo<br> <b>Immerssione in Russia</b>!</p>
+    Vieni da noi e fai il corso di russo <b>Immerssione in Russia</b>!</p>
+</div>  
 
 <!-- <p style='color: red'>
     Sono già aperte le iscrizioni ai nostri corsi collettivi, ma il numero dei posti è limitato!
     Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa! Vi aspettiamo con impazienza!
 </p>
  -->
-<p style="color:red">
-    Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa!<br/>Vi aspettiamo con impazienza!
-    <?php
-        $start_date = strtotime("12-10-2015");
-        $now = strtotime("now");
-        $days_left = floor(($start_date - $now)/(60*60*24));
-        if ($days_left > 0) {
-            echo "<br/>Le iscrizioni al gruppo principianti chiudono il <b>12 di Ottobre</b>, tra pochi giorni!";
-            // echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Aprile. </b>";
-            // echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
-            echo "<br/><b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
-        }
-    ?>
-</p>
+<div class="ads center">
+    <p>
+        <?php
+            $start_date = strtotime("12-10-2015");
+            $now = strtotime("now");
+            $days_left = floor(($start_date - $now)/(60*60*24));
+            if ($days_left > 0) {
+                echo "Le iscrizioni al gruppo principianti chiudono il <b>12 di Ottobre</b>, tra pochi giorni!";
+                // echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Aprile. </b>";
+                // echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
+                echo "<br/><b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
+            }
+        ?>
+    </p>
+    <p>
+        Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa!<br/>Vi aspettiamo con impazienza!
+    </p>
+</div>
 
-</div>  
+<p style="color:red" class="center">
+    <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
+</p>
 
 <div style="float: left">
     <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
@@ -112,9 +119,6 @@
         <span style="font-size: 0.65em;">via Nosadella 15 b, Bologna</span>
 </div>
 
-<p style="color:red" class="center">
-    <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
-</p>
 
 <p>
     Ciao! 
@@ -139,7 +143,7 @@
 <p> 
     Facciamo un esempio. Sei un principiante? <b>Cosa impari in 13 lezione, 20 ore</b>:
     <ul>
-        <li>L'alfabeto cirillico.</li>
+        <li>L'alfabeto cirillico</li>
         <li>Leggere i testi semplici in cirillico</li>
         <li>Scrivere l’email in russo usando gli addesivi con le lettere in cirillico per la tua testiera</li>
         <li>Sostenere una conversazione con madrelingua russa di uso quotidiano</li>
@@ -150,7 +154,7 @@
 </p>
 
 <p>
-    <b>Cosa è compreso nel corso</b>:
+    <h3>Cosa è compreso nel corso:</h3>
     <ul>
         <li>Il <b>manuale</b> che è fatto dai nostri insegnanti
         <li>L’email settimanale con link per vedere video, ascoltare dialoghi, canzoni e materiali per fare i compiti
@@ -215,7 +219,6 @@
             <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
     </span>
-    <br/>
 </div>
 
 <div>
@@ -272,7 +275,6 @@
             <a id="martina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
     </span>
-    <br/>
 </div>
 
 
@@ -350,33 +352,29 @@
     </tr>
     <tr>
         <td>
-            <p>
-                Puoi fare la lezione <b>qualsiasi giorno della settimana a qualsiasi ora </b>e si può anche fissare l’appuntamento a volta in volta per le prossime settimane.
-            </p>
-            <p>
-                <b>In 10 ore ci sono 7 lezioni:</b><br>
-                4 lezioni di 1 ora e 30 min<br>
-                3 lezioni di 1 ora e 20 min 
-            </p>
-            <p>
-                <b>In 20 ore ci sono 14 lezioni:</b><br>
-                8 lezioni di 1 ora e 30 min<br>
-                6 lezioni di 1 ora e 20 min
-            </p>
+            Puoi fare la lezione <b>qualsiasi giorno della settimana a qualsiasi ora </b>e si può anche fissare l’appuntamento a volta in volta per le prossime settimane.
+            <br/>
+            <br/>
+            <b>In 10 ore ci sono 7 lezioni:</b><br>
+            4 lezioni di 1 ora e 30 min<br>
+            3 lezioni di 1 ora e 20 min 
+            <br/>
+            <br/>
+            <b>In 20 ore ci sono 14 lezioni:</b><br>
+            8 lezioni di 1 ora e 30 min<br>
+            6 lezioni di 1 ora e 20 min
         </td>
         <td>
-            <p>
-                Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso.
-            </p>
-            <p>
-                <b>In 20 ore ci sono 13 lezioni</b><br>
-                La durata della lezione è di 1 ora e 35 min 
-            </p>
-            <p>
-                Puoi sceglere fra <b>due fascie orari</b>:<br>
-                1) dalle 18:15 alle 19:50<br>
-                2) dalle 20:00 alle 21:35
-            </p>
+            Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso.
+            <br/>
+            <br/>
+            <b>In 20 ore ci sono 13 lezioni</b><br>
+            La durata della lezione è di 1 ora e 35 min 
+            <br/>
+            <br/>
+            Puoi sceglere fra <b>due fascie orari</b>:<br>
+            1) dalle 18:15 alle 19:50<br>
+            2) dalle 20:00 alle 21:35
         </td>
     </tr>
 </table>
@@ -390,12 +388,15 @@
 <h2>
     Dove si trova la sede della vostra associazione?
 </h2>
+
 <p>
     Ci troviamo nel vero e proprio cuore di Bologna, nel centro storico, in via Nosadella, 15 B. 
 </p>    
+
 <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
 <img src="./img/map.gif" alt="Map: via Nosadella, 15B, Bologna">
 </a>
+
 <p>
     Posto che puoi raggiungere molto facilmente da tutte le parti della città, c’è anche il parcheggio publico nella piazetta di Porta Saragozza che si trova a 5-7 min camminando.
 </p>
@@ -441,6 +442,7 @@ function autoResize(id){
         scrolling="no"></iframe>
 </div>  
 
+<p>
 Dopo fissiamo appuntamento quando tu vieni in nostra sede prima dell’inizio del corso per versare la tua quota di partecipazione al corso. 
 Ti communichiamo il giorno e l’ora esatta quando devi venire alla prima lezione.
 </p>
@@ -451,8 +453,9 @@ Ti communichiamo il giorno e l’ora esatta quando devi venire alla prima lezion
 <h2>
     Alla fine
 </h2>   
+
 <p>
-    <b>Ti vogliamo ringraziare per aver dedicato il tuo tempo a conoscere la nostra associazione. Noi siamo sicuri che il nostro corso sarà estremamente utile e interessante per te se vuoi immerggerti nel mondo della lingua e cultura russa!</b>
+    Ti vogliamo ringraziare per aver dedicato il tuo tempo a conoscere la nostra associazione. Noi siamo sicuri che il nostro corso sarà estremamente utile e interessante per te se vuoi immerggerti nel mondo della lingua e cultura russa!
 </p>
 
 
