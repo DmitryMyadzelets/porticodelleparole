@@ -411,7 +411,7 @@
 </p>    
 
 <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
-<img src="./img/map.gif" alt="Map: via Nosadella, 15B, Bologna">
+<img src="./img/map.png" alt="Map: via Nosadella, 15B, Bologna">
 </a>
 
 <p>
