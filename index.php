@@ -420,25 +420,6 @@
 
 
 
-<!-- <h2>
-    Va bene, quando posso iniziare il corso "Immerssione in Russia"?
-</h2>
-<p>
-    Il corso inizia <b>il 08 di Settembre 2014</b> in giorno che ci sarà concordato con tutti i partecipanti del gruppo.
-    <span style="color:red">
-    <?php
-        $start_date = strtotime("01-09-2014");
-        $now = strtotime("now");
-        $days_left = floor(($start_date - $now)/(60*60*24));
-        if ($days_left > 0) {
-            echo "<b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
-        }
-    ?>
-    </span>
-</p>
-//-->  
-
-
 <script type="text/javascript">
 <!--
 function autoResize(id){
