@@ -2,6 +2,7 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole">
     <meta name="keywords" content="corso di russo a bologna,
@@ -52,16 +53,19 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+
 </head>
 
 <body>
-<div style="background: white; padding: 0 1em" class="shadow">
+<div id="main-container" class="shadow">
 
 
-<div >
-<!-- <img src="./img/bologna-moscow.gif" alt="Corso di lingua Russa"> -->
-        <img src="./img/bologna-moscow-rainbow-portico.gif" 
-        alt="Portico delle parole. Associazione. Corso di lingua Russa"/>
+<div class="stretchy-wrapper" style="padding-bottom: 59.69%">
+    <div>
+        <img src="./img/bologna-moscow-rainbow-portico.png"
+        alt="Portico delle parole. Associazione. Corso di lingua Russa"
+        />
+    </div>
 </div>
 
 <div class="center">
@@ -77,11 +81,11 @@
 <div class="ads center">
     <p>
         <?php
-            $start_date = strtotime("12-10-2015");
+            $start_date = strtotime("19-10-2015");
             $now = strtotime("now");
             $days_left = floor(($start_date - $now)/(60*60*24));
             if ($days_left > 0) {
-                echo "Le iscrizioni al gruppo principianti chiudono il <b>12 di Ottobre</b>, tra pochi giorni!";
+                echo "Le iscrizioni al gruppo principianti chiudono il <b>19 di Ottobre</b>, tra pochi giorni!";
                 // echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Aprile. </b>";
                 // echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
                 echo "<br/><b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
@@ -131,7 +135,6 @@
   src="http://www.youtube.com/embed/72R4ZLbuNPg?rel=0&controls=0&showinfo=0&origin=http://www.porticodelleparole.it/"
   frameborder="0"/></iframe>
 
-
 <h2>
     Corsi di russo
 </h2>
@@ -157,8 +160,8 @@
     <h3>Cosa è compreso nel corso:</h3>
     <ul>
         <li>Il <b>manuale</b> che è fatto dai nostri insegnanti
-        <li>L’email settimanale con link per vedere video, ascoltare dialoghi, canzoni e materiali per fare i compiti
-        <li>Supporto per qualsiasi domanda riguardando il corso via email, Facebook, Whatsup
+        <li>L’email settimanale con link per vedere video, ascoltare dialoghi, e materiali per fare i compiti
+        <li>Supporto per qualsiasi domanda riguardando il corso via email, Facebook, WhatsApp
         <li><b>Workshop settimanale</b> di 1 ora e 30 minuti di ascolto, fonetica e lettura
         <li>Una lezione di 1 ora e 30 minuti di recupero durante il corso
         <li><b>L’aperitivo</b> con russi alla fine o alla metà del corso
@@ -179,12 +182,19 @@
 <p>
     I nostri insegnanti sono tutti <b>madrelingua russa</b> laureati nell'insegnamento della lingua a stranieri:
 </p>
-<div>
-    <span itemprop="author">
+
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author">
         Olga, Irkutsk (Siberia), Russia, 28 anni
-    </span>
-    <span iditemprop="reviewbody">
-        <img src="./img/olga.jpg" alt="Photo of Olga" class="review_photo"/>
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/olga.jpg" alt="Photo of Olga"/>
+            </div>
+        </div>
+    </div>
+    <div itemprop="reviewbody">
         <p>Amo insegnare, e sono proprio i miei studenti ad accrescere in me l'entusiasmo lezione dopo 
             lezione! La loro curiosità nell'apprendere è contagiosa, e così nasce in me la voglia di 
             perfezionarmi sempre per offrire loro lezioni sempre nuove, interessanti, utili e conoscitive.
@@ -218,15 +228,22 @@
         <p>
             <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
-    </span>
+    </div>
 </div>
 
-<div>
-    <span itemprop="author">
+
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author">
         Martina, 25 anni, Russia - Italia
-    </span>
-    <span iditemprop="reviewbody">
-        <img src="./img/martina.jpg" alt="Photo of Martina" class="review_photo"/>
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/martina.jpg" alt="Photo of Martina"/>
+            </div>
+        </div>
+    </div>
+    <div itemprop="reviewbody">
         <p>
             Sebbene sia nata in Italia sono madrelingua russa. Strano, penserete, e non posso darvi torto! 
             In realtà sono una bilingue, e quindi sono anche madrelingua italiana, oltre che russa.
@@ -274,7 +291,7 @@
         <p>
             <a id="martina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
-    </span>
+    </div>
 </div>
 
 
@@ -386,7 +403,7 @@
 </p>    
 
 <h2>
-    Dove si trova la sede della vostra associazione?
+    Dove si trova la sede della associazione
 </h2>
 
 <p>
@@ -479,8 +496,8 @@ Ti communichiamo il giorno e l’ora esatta quando devi venire alla prima lezion
     C.F. 91361610370
 </div>
 
-<script src='./js/monitor.js'></script>
-<script src='./js/readmore.js'></script>
+<script async src='./js/monitor.js'></script>
+<script async src='./js/readmore.js'></script>
 
 </body>
 </html>

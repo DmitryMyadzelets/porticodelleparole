@@ -3,11 +3,16 @@
 body {
     padding: 0 1em;
     margin: 0 auto;
-    max-width: 42em;
+    max-width: 44em;
     font: normal 100% "Arial", sans-serif;
     color: #444;
     opacity: .9;
     background-color: #cddeb0;
+}
+
+#main-container {
+    background: white; 
+    padding: 0 2em;
 }
 
 p, ul, td {
@@ -26,6 +31,29 @@ h1, h2, h3 {
 img, object {
     max-width: 100%;
     width: 100%;
+    /*height: auto; this forces browsers recalculate the layout*/
+}
+
+/*
+Responsive design rules
+*/
+
+/*
+The trick with preserving aspect ratio of images, 
+and let know the browser the image size before loading it is taken there:;
+http://www.goldenapplewebdesign.com/responsive-aspect-ratios-with-pure-css/*/
+div.stretchy-wrapper {
+    position: relative;
+    /* set the padding-bottom as a percentage to the width, inline or other way*/
+}
+
+/* can use the same trick for another block element either*/
+div.stretchy-wrapper > div { 
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 
@@ -95,21 +123,31 @@ table.gridtable td {
 
 [itemprop="review"] {
     font-size: 90%;
-    padding-bottom: 2em;
 }
 
 [itemprop="author"] {
-    font-weight: bold;
 }
 
-img.review_photo {
+/*img.review_photo {
+    width: 10em;
+    height: auto;
+    float: left;
+    /*vertical-align: text-top;*/
+/*}*/
+
+div.review_photo {
     width: 10em;
     float: left;
     padding-right: 1em;
     padding-bottom: 1em;
-    /*vertical-align: text-top;*/
+}
+
+div.review_photo > div {
+    /*see stretchy-wrapper class*/
+    padding-bottom: 100%; 
 }
 
 [itemprop="reviewbody"] {
     font-style: italic;
 }
+
