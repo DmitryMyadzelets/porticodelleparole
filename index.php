@@ -74,30 +74,22 @@
     Vieni da noi a frequentare il corso di russo <b>Immersione in Russia</b>!</p>
 </div>  
 
-<!-- <p style='color: red'>
-    Sono già aperte le iscrizioni ai nostri corsi collettivi, ma il numero dei posti è limitato!
-    Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa! Vi aspettiamo con impazienza!
-</p>
- -->
-<div class="ads center">
-    <p>
-        <?php
-            $start_date = strtotime("19-10-2015");
-            $now = strtotime("now");
-            $days_left = floor(($start_date - $now)/(60*60*24));
-            if ($days_left > 0) {
-                echo "Le iscrizioni al gruppo principianti chiudono il <b>19 di Ottobre</b>, tra pochi giorni!";
-                // echo "<b>La prossima edizione del corso di russo per principianti comincia l'8 di Aprile. </b>";
-                // echo "<b>Le iscrizioni sono già aperte. I posti sono limitati. </b><br/>";
-                echo "<br/><b>Mancano solo ", $days_left, " giorni alla prima lezione!</b>";
-            }
-        ?>
-    </p>
-    <p>
+<?php
+    $start_date = strtotime("19-10-2015");
+    $now = strtotime("now");
+    $days_left = floor(($start_date - $now)/(60*60*24));
+    if ($days_left > 0) {
+        echo "<div class=\"ads center\"><p>";
+        echo "<b>19 Ottobre</b> ci sarà la prima lezione di un novo corso per principianti";
+        echo "<br/><b>Ci sono ancora ", $days_left, " giorni prima dell'inizio!</b>";
+        echo "</p></div>";
+    }
+?>
+<!--     <p>
         Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! 
         Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russe!<br/>Vi aspettiamo con impazienza!
     </p>
-</div>
+ -->
 
 <p style="color:red" class="center">
     <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
