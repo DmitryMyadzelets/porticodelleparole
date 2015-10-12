@@ -56,6 +56,9 @@ div.stretchy-wrapper > div {
     right: 0;
 }
 
+#logo-wrapper {
+    padding-bottom: 59.69%;
+}
 
 .center {
     text-align: center;

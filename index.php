@@ -37,6 +37,7 @@
     ">
 
     <link rel="stylesheet" type="text/css" href="main.css">
+
     <title>
         Corso di Russo a Bologna - Associazione Portico delle Parole
     </title>
@@ -60,7 +61,7 @@
 <div id="main-container" class="shadow">
 
 
-<div class="stretchy-wrapper" style="padding-bottom: 59.69%">
+<div class="stretchy-wrapper" id="logo-wrapper">
     <div>
         <img src="./img/bologna-moscow-rainbow-portico.png"
         alt="Portico delle parole. Associazione. Corso di lingua Russa"
@@ -69,8 +70,8 @@
 </div>
 
 <div class="center">
-<p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e sempre motivante? 
-    Vieni da noi e fai il corso di russo <b>Immerssione in Russia</b>!</p>
+<p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e originale? 
+    Vieni da noi a frequentare il corso di russo <b>Immersione in Russia</b>!</p>
 </div>  
 
 <!-- <p style='color: red'>
@@ -93,7 +94,8 @@
         ?>
     </p>
     <p>
-        Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russa!<br/>Vi aspettiamo con impazienza!
+        Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! 
+        Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russe!<br/>Vi aspettiamo con impazienza!
     </p>
 </div>
 
@@ -125,8 +127,8 @@
 
 
 <p>
-    Ciao! 
-    Vieni da noi all’associazione culturale <b>Portico delle Parole</b> e troverai la piccola isoletta della cultura russa dentro le mura di Bologna. Per saperne di più guarda il video qui sotto.
+    Ciao! Vieni da noi all’associazione culturale <b>Portico delle Parole</b> e troverai la piccola 
+    isola della cultura russa dentro le mura di Bologna. Per saperne di più guarda il video qui sotto.
 </p>
 
 
@@ -140,31 +142,31 @@
 </h2>
 
 <p>
-    Insegniamo il russo parlato e scritto utilizzando un percorso ben strutturato fatto da noi per tutti i livelli con semplicità, 
-    divertimento e grande coinvolgimento. 
+    Insegniamo il russo parlato e scritto utilizzando un percorso ben strutturato, 
+    che organizziamo per tutti i livelli, offrendo semplicità, divertimento e grande coinvolgimento.
 </p>
 <p> 
-    Facciamo un esempio. Sei un principiante? <b>Cosa impari in 13 lezione, 20 ore</b>:
+    Facciamo un esempio. Sei un principiante? <b>Che cosa impari in 13 lezioni, 20 ore</b>:
     <ul>
-        <li>L'alfabeto cirillico</li>
-        <li>Leggere i testi semplici in cirillico</li>
-        <li>Scrivere l’email in russo usando gli addesivi con le lettere in cirillico per la tua testiera</li>
-        <li>Sostenere una conversazione con madrelingua russa di uso quotidiano</li>
+        <li>L’alfabeto cirillico</li>
+        <li>Leggere semplici testi in cirillico</li>
+        <li>Scrivere un’email in russo (usando gli addesivi con le lettere in cirillico per la tua testiera)</li>
+        <li>Sostenere una conversazione su temi di uso quotidiano con un madrelingua russo</li>
         <li>Parlare di te stesso e della tua famiglia</li>
-        <li>Chiedere l’informazione in varie situazioni durante il viaggio in Russia</li>
-        <li>Conoscere le tradizioni delle feste russe</li>
+        <li>Chiedere informazioni in varie situazioni durante un viaggio in Russia</li>
+        <li>Le tradizioni e le feste russe</li>
     </ul>
 </p>
 
 <p>
-    <h3>Cosa è compreso nel corso:</h3>
+    <h3>Che cosa è compreso nel corso:</h3>
     <ul>
-        <li>Il <b>manuale</b> che è fatto dai nostri insegnanti
+        <li>Il <b>manuale</b>, che è fatto dai nostri insegnanti
         <li>L’email settimanale con link per vedere video, ascoltare dialoghi, e materiali per fare i compiti
-        <li>Supporto per qualsiasi domanda riguardando il corso via email, Facebook, WhatsApp
+        <li>Supporto per qualsiasi domanda riguardando al corso via email, Facebook, WhatsApp
         <li><b>Workshop settimanale</b> di 1 ora e 30 minuti di ascolto, fonetica e lettura
         <li>Una lezione di 1 ora e 30 minuti di recupero durante il corso
-        <li><b>L’aperitivo</b> con russi alla fine o alla metà del corso
+        <li><b>L’aperitivo</b> russo alla fine o alla metà del corso
     </ul>
 </p>
 
@@ -177,15 +179,15 @@
 
 
 <h2>
-    Nostri insegnanti
+    I nostri insegnanti
 </h2>
 <p>
-    I nostri insegnanti sono tutti <b>madrelingua russa</b> laureati nell'insegnamento della lingua a stranieri:
+    I nostri insegnanti sono tutti <b>madrelingua russi</b> laureati nell'insegnamento della lingua russa per stranieri:
 </p>
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Olga, Irkutsk (Siberia), Russia, 28 anni
+        Olga, 28 anni, Irkutsk (Siberia), Russia
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
@@ -359,8 +361,8 @@
 <table class="gridtable">
     <tr>
         <th>
-            Corso individuale or in due<br>
-            10 ore or 20 ore
+            Corso individuale o in due<br>
+            10 ore o 20 ore
         </th>
         <th>
             Corso in gruppo<br>
@@ -369,7 +371,8 @@
     </tr>
     <tr>
         <td>
-            Puoi fare la lezione <b>qualsiasi giorno della settimana a qualsiasi ora </b>e si può anche fissare l’appuntamento a volta in volta per le prossime settimane.
+            Si può fare lezione <b>qualsiasi giorno settimana a qualsiasi ora</b> 
+            e si può anche fissare l’appuntamento di volta in volta per le lezioni successive.
             <br/>
             <br/>
             <b>In 10 ore ci sono 7 lezioni:</b><br>
@@ -389,7 +392,7 @@
             La durata della lezione è di 1 ora e 35 min 
             <br/>
             <br/>
-            Puoi sceglere fra <b>due fascie orari</b>:<br>
+            Puoi sceglere fra <b>due fasce orarie</b>:<br>
             1) dalle 18:15 alle 19:50<br>
             2) dalle 20:00 alle 21:35
         </td>
@@ -403,7 +406,7 @@
 </p>    
 
 <h2>
-    Dove si trova la sede della associazione
+    Dove si trova la sede dell’associazione
 </h2>
 
 <p>
@@ -415,7 +418,8 @@
 </a>
 
 <p>
-    Posto che puoi raggiungere molto facilmente da tutte le parti della città, c’è anche il parcheggio publico nella piazetta di Porta Saragozza che si trova a 5-7 min camminando.
+    Posto che puoi raggiungere molto facilmente da tutte le parti della città. 
+    C’è anche il parcheggio pubblico nella piazzetta di Porta Saragozza che si trova a 5-7 min di cammino.
 </p>
 
 
@@ -441,19 +445,20 @@ function autoResize(id){
 </div>  
 
 <p>
-Dopo fissiamo appuntamento quando tu vieni in nostra sede prima dell’inizio del corso per versare la tua quota di partecipazione al corso. 
-Ti communichiamo il giorno e l’ora esatta quando devi venire alla prima lezione.
+Quando vieni presso la nostra sede per effettuare l’iscrizione e versare la quota di partecipazione, 
+ci accordiamo per il giorno e l’ora esatti della prima lezione!
 </p>
 
 
 
 
 <h2>
-    Alla fine
+    Infine
 </h2>   
 
 <p>
-    Ti vogliamo ringraziare per aver dedicato il tuo tempo a conoscere la nostra associazione. Noi siamo sicuri che il nostro corso sarà estremamente utile e interessante per te se vuoi immerggerti nel mondo della lingua e cultura russa!
+    Ti vogliamo ringraziare per averci dedicato il tuo tempo. Siamo sicuri che il nostro corso sarà 
+    per te molto utile e interessante, se vuoi immergerti nel mondo della lingua e cultura russe!
 </p>
 
 
