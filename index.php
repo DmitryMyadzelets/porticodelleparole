@@ -77,7 +77,7 @@
 <?php
     $start_date = strtotime("19-10-2015");
     $now = strtotime("now");
-    $days_left = floor(($start_date - $now)/(60*60*24));
+    $days_left = 1 + floor(($start_date - $now)/(60*60*24));
     $manca = "Ci sono ancora " . $days_left . " giorni all'inizio!";
     if ($days_left == 1) {
         $manca = "C'è ancora 1 giorno all'inizio!";
