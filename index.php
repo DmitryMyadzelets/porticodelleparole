@@ -78,10 +78,14 @@
     $start_date = strtotime("19-10-2015");
     $now = strtotime("now");
     $days_left = floor(($start_date - $now)/(60*60*24));
+    $manca = "Ci sono ancora " . $days_left . " giorni all'inizio!";
+    if ($days_left == 1) {
+        $manca = "C'è ancora 1 giorno all'inizio!";
+    }
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>19 Ottobre</b> ci sarà la prima lezione di un novo corso per principianti";
-        echo "<br/><b>Ci sono ancora ", $days_left, " giorni prima dell'inizio!</b>";
+        echo "<b>Il 19 Ottobre</b> ci sarà la prima lezione del nuovo corso per principianti";
+        echo "<br/><b>", $manca, "</b>";
         echo "</p></div>";
     }
 ?>
