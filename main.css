@@ -57,8 +57,15 @@ div.stretchy-wrapper > div {
 }
 
 #logo-wrapper {
+    /*logo size ratio*/
     padding-bottom: 59.69%;
 }
+
+#video-wrapper {
+    /*75% = 480px/640px of the video*/
+    padding-bottom: 75%;
+}
+
 
 .center {
     text-align: center;

@@ -133,9 +133,14 @@
 
 
 <!-- Video -->
-<iframe id="ytplayer" type="text/html" width="640" height="480"
-  src="http://www.youtube.com/embed/72R4ZLbuNPg?rel=0&controls=0&showinfo=0&origin=http://www.porticodelleparole.it/"
-  frameborder="0"/></iframe>
+<div class="stretchy-wrapper" id="video-wrapper">
+    <div>
+        <iframe id="ytplayer" type="text/html" width="100%" height="100%"
+          src="http://www.youtube.com/embed/72R4ZLbuNPg?rel=0&controls=0&showinfo=0&origin=http://www.porticodelleparole.it/"
+          frameborder="0"/></iframe>
+    </div>
+</div>
+
 
 <h2>
     Corsi di russo
