@@ -75,16 +75,18 @@
 </div>  
 
 <?php
-    $start_date = strtotime("19-10-2015");
+    $start_date = strtotime("26-10-2015");
     $now = strtotime("now");
     $days_left = 1 + floor(($start_date - $now)/(60*60*24));
-    $manca = "Ci sono ancora " . $days_left . " giorni all'inizio!";
+
+    $manca = "Solo " . $days_left . " giorni all'inizio!";
     if ($days_left == 1) {
-        $manca = "C'è ancora 1 giorno all'inizio!";
+        $manca = "Solo 1 giorno all'inizio!";
     }
+
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>Il 19 Ottobre</b> ci sarà la prima lezione del nuovo corso per principianti";
+        echo "<b>Il 26 Ottobre</b> ci sarà la prima lezione del nuovo corso per principianti";
         echo "<br/><b>", $manca, "</b>";
         echo "</p></div>";
     }
