@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="Cache-control" content="private">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole">
     <meta name="keywords" content="corso di russo a bologna,
     corso di italiano a bologna,
@@ -36,6 +36,7 @@
     preparazione esami universitari a Bologna,
     ">
 
+    <link rel="stylesheet" type="text/css" href="w3.css">
     <link rel="stylesheet" type="text/css" href="main.css">
 
     <title>
@@ -204,12 +205,12 @@
             lezione! La loro curiosità nell'apprendere è contagiosa, e così nasce in me la voglia di 
             perfezionarmi sempre per offrire loro lezioni sempre nuove, interessanti, utili e conoscitive.
         </p>
-        <p>
-            Ho terminato i miei studi all'Università Statale di Mosca, dove mi sono specializzata 
-            nell'insegnamento del russo come lingua straniera; dal 2010 ho dato lezioni di russo, 
-            la mia lingua madre, a studenti americani e italiani. Vivo a Bologna da Febbraio del 2011. 
-        </p>
         <span id="olga_readmore" style="display: none">
+            <p>
+                Ho terminato i miei studi all'Università Statale di Mosca, dove mi sono specializzata 
+                nell'insegnamento del russo come lingua straniera; dal 2010 ho dato lezioni di russo, 
+                la mia lingua madre, a studenti americani e italiani. Vivo a Bologna da Febbraio del 2011. 
+            </p>
             <p>
                 Prima del mio trasferimento a Bologna, ho lavorato un anno in America, nel Colorado e a Seattle.
                 Durante i miei anni universitari ho vissuto per sei mesi ad Algarve, in Portogallo, dove ho avuto 
@@ -253,15 +254,15 @@
             Sebbene sia nata in Italia sono madrelingua russa. Strano, penserete, e non posso darvi torto! 
             In realtà sono una bilingue, e quindi sono anche madrelingua italiana, oltre che russa.
         </p>
-        <p>
-            La mia mamma è originaria di Mosca, città dove ho vissuto con lei durante la mia prima infanzia. 
-            Ho iniziato le scuole in Italia, ma questo non mi ha impedito di continuare a parlare, 
-            leggere e scrivere il russo. Il merito va tutto alla mia mamma, la quale sempre si è 
-            impegnata per coltivare in me l'amore per la sua cultura d'origine e di appartenenza. 
-            Questo attraverso frequenti viaggi, permanenze più o meno lunghe in territorio moscovita, 
-            letture, canzoni, film, e certamente l'abitudine di parlare solo russo tra le mura domestiche.
-        </p>
         <span id="martina_readmore" style="display: none">
+            <p>
+                La mia mamma è originaria di Mosca, città dove ho vissuto con lei durante la mia prima infanzia. 
+                Ho iniziato le scuole in Italia, ma questo non mi ha impedito di continuare a parlare, 
+                leggere e scrivere il russo. Il merito va tutto alla mia mamma, la quale sempre si è 
+                impegnata per coltivare in me l'amore per la sua cultura d'origine e di appartenenza. 
+                Questo attraverso frequenti viaggi, permanenze più o meno lunghe in territorio moscovita, 
+                letture, canzoni, film, e certamente l'abitudine di parlare solo russo tra le mura domestiche.
+            </p>
             <p>
                 Quando avevo 14 anni scoprii l'associazione “Aiutiamoli a vivere”, per la quale feci 
                 volontariato molti anni, fino al mio trasferimento a Bologna. Fu un'esperienza molto 
@@ -271,7 +272,8 @@
                 italiani, e mi rendevo conto di quanto questo fosse difficile a volte, viste le 
                 barriere linguistiche e culturali. Un buon mediatore è una figura importante, ed io 
                 mi sentivo certamente investita di tale compito, vista la mia conoscenza di entrambe 
-                le parti in gioco. 
+                le parti in gioco.
+            </p>
             <p>
                 La situazione che vi ho descritto non ha generato in me nessuna crisi di identità, 
                 al contrario! Trovo legittima da un lato, e assurda dall'altro, la frequente domanda: 
@@ -299,6 +301,43 @@
     </div>
 </div>
 
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author">
+        Ksenia, 29 anni, Mosca, Russia
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/ksenia.jpg" alt="Photo of Ksenia"/>
+            </div>
+        </div>
+    </div>
+    <div itemprop="reviewbody">
+        <p>
+            Abito a Bologna dal 2012 e mi sono laureata in Linguistica all'Università di Bologna. 
+            Tra tutti i numerosi hobby che ho - viaggi, musica classica e opera, jazz e balli stile swing, 
+            fitness e tracking etc. - è proprio studiare le lingue straniere che è sempre stato il mio interesse più forte.
+        </p>
+        <span id="ksenia_readmore" style="display: none">
+            <p>
+                Fortunatamente col tempo questa passione si è trasformata in lavoro e ora ho il piacere di insegnare ... 
+                il russo, la mia lingua madre! Al momento sto lavorando presso la Scuola di Lingue e Letterature Straniere 
+                dell'Università di Bologna: tengo un corso di esercitazioni di lingua russa. 
+            </p>
+            <p>
+                Durante le mie lezioni faccio di tutto per coinvolgere al massimo gli studenti, creando un atmosfera amichevole 
+                e divertente, avvicinandosi passo dopo passo allo scopo principale - parlare il russo, ed è proprio questo 
+                risultato dell'insegnamento che mi da più soddisfazione! Venite anche voi all'Associazione a scoprire un 
+                mondo nuovo, della lingua e della cultura russa!
+            </p>
+        </span>            
+        <p>
+            <a id="ksenia_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </div>
+</div>
+
+
 
 
 <h2>
@@ -316,64 +355,65 @@
 <h2>
     Prezzi per i corsi di russo
 </h2>
-<table class="gridtable">
-    <tr>
-        <th>Individuale </th>
-        <th>In due*</th>
-        <th>In gruppo <br>min 5 - max 10 persone</th>
-    </tr>
-    <tr>
-        <td>1 ora (60 min) – 24&#8364;<br>
-            <span style="color:red">
-                <b>
-                    10 ore – <span style="text-decoration: line-through;">217&#8364;</span> 
-                    adesso in promozione 197&#8364;
-            <br>20 ore* – <span style="text-decoration: line-through;">417&#8364;</span> 364&#8364;
-                </b>
-            </span>
-            </td>
-        <td>1 ora (60 min) – 18&#8364;<br>
-            <span style="color:red">
-                <b>
-                    10 ore – <span style="text-decoration: line-through;">177&#8364;</span>
-                    adesso in promozione 147&#8364;
-                </b>
-            </span>
-            <br>20 ore – 277&#8364;
-            </td>
-        <td>
-            <span style="color:red"><b>
-            20 ore – 
-            <span style="text-decoration: line-through;">207&#8364;</span> 
-            adesso in promozione limitata 
-            <span style="font-size:large">177&#8364;</span></b>
-            </span>
-        </td>
-    </tr>
-</table>
+
+<div class="div-table">
+    <div class="div-column col-third">
+        <div class="col-head">
+            <h3>Individuale</h3>
+        </div>
+        <p>
+            20 ore – 364&#8364;
+            <br/>
+            10 ore – 197&#8364;
+            <br/>
+            1 ora (60 min) – 24&#8364;
+        </p>
+    </div>
+    <div class="div-column col-third">
+        <div class="col-head">
+            <h3>In due</h3>
+        </div>
+        <p>
+            20 ore – 277&#8364;
+            <br/>
+            10 ore – 147&#8364;
+            <br/>
+            1 ora (60 min) – 18&#8364;
+        <p/>
+        <p>
+            Si paga il costo a persona
+        </p>
+    </div>
+    <div class="div-column col-third">
+        <div class="col-head">
+            <h3>In gruppo</h3>
+        </div>
+        <p>
+            20 ore – 177&#8364;
+        </p>
+        <p>
+            Il gruppo è formato da 5 a 10 persone</span>
+        </p>
+    </div>
+</div>
+
 <p>
-    * Per le lezioni <b>In due</b> si paga il costo <b>a persona</b>.
-    <br>
     Siccome siamo un’associazione culturale è obbligatorio il rilascio della tessera associativa che costa solo 10&#8364;.
 </p>
+
 
 
 <h2>
     Orari dei corsi di russo
 </h2>
-<table class="gridtable">
-    <tr>
-        <th>
-            Corso individuale o in due<br>
-            10 ore o 20 ore
-        </th>
-        <th>
-            Corso in gruppo<br>
-            20 ore
-        </th>
-    </tr>
-    <tr>
-        <td>
+
+<div class="div-table">
+    <div class="div-column col-half">
+        <div class="col-head">
+            <h3>Corso individuale o in due<br>
+            <span style="font-size: 75%">10 ore o 20 ore</span></h3>
+        </div>
+        <p>
             Si può fare lezione <b>qualsiasi giorno settimana a qualsiasi ora</b> 
             e si può anche fissare l’appuntamento di volta in volta per le lezioni successive.
             <br/>
@@ -386,8 +426,14 @@
             <b>In 20 ore ci sono 14 lezioni:</b><br>
             8 lezioni di 1 ora e 30 min<br>
             6 lezioni di 1 ora e 20 min
-        </td>
-        <td>
+        </p>
+    </div>
+    <div class="div-column col-half">
+        <div class="col-head">
+            <h3>Corso in gruppo<br>
+            <span style="font-size: 75%">20 ore</span></h3>
+        </div>
+        <p>
             Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso.
             <br/>
             <br/>
@@ -398,9 +444,9 @@
             Puoi sceglere fra <b>due fasce orarie</b>:<br>
             1) dalle 18:15 alle 19:50<br>
             2) dalle 20:00 alle 21:35
-        </td>
-    </tr>
-</table>
+        </p>
+    </div>
+</div>
 
 
 <h2 id="corso_italiano">Corso di italiano</h2>

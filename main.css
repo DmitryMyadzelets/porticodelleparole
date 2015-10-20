@@ -1,19 +1,44 @@
 @charset "UTF-8";
 
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
 body {
-    padding: 0 1em;
+    padding: 0;
     margin: 0 auto;
-    max-width: 44em;
     font: normal 100% "Arial", sans-serif;
     color: #444;
     opacity: .9;
-    background-color: #cddeb0;
 }
 
 #main-container {
-    background: white; 
-    padding: 0 2em;
+    padding: 0 1em;
 }
+
+
+@media (min-width: 40em) {
+    body {
+        padding: 0 1em;
+    }
+}
+
+
+@media only screen and (min-width: 46em) {
+    body {
+        max-width: 46em;
+        background-color: #cddeb0;
+    }
+
+    #main-container {
+        background: white; 
+        padding: 0 2em;
+    }
+}
+
+
 
 p, ul, td {
     font-size: 88%;
@@ -71,7 +96,7 @@ div.stretchy-wrapper > div {
     text-align: center;
 }
 
-.shadow{
+.shadow {
     -webkit-box-shadow:.2em .1em .3em #888;
     -moz-box-shadow:.2em .1em .3em #888;
     box-shadow:.2em .1em .3em #888;
@@ -131,6 +156,10 @@ table.gridtable td {
     background-color: #cddeb0;
 }
 
+div [itemprop="review"] {
+    overflow: hidden;
+}
+
 [itemprop="review"] {
     font-size: 90%;
 }
@@ -161,3 +190,40 @@ div.review_photo > div {
     font-style: italic;
 }
 
+.div-table {
+    display: table;
+    width: 100%;
+    border: solid 1px gray;
+    margin-bottom: 1em;
+}
+
+.div-column {
+    width: 100%;
+}
+
+.div-column > .col-head {
+    background-color: #cddeb0;
+}
+
+.col-head > h3 {
+    margin: 0;
+    padding: 0.8em;
+}
+
+.div-column > p {
+    padding: 0 1em;
+}
+
+@media (min-width: 46em) {
+    .col-third {
+        width: 33.33%;
+        display: table-cell;
+    }
+}
+
+@media (min-width: 46em) {
+    .col-half {
+        width: 50%;
+        display: table-cell;
+    }
+}

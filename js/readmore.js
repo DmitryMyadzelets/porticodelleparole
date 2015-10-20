@@ -9,6 +9,11 @@ set_readmore(
     document.getElementById("martina_readmore_btn"),
     'Leggi tutto', 'Meno'
 );
+set_readmore(
+    document.getElementById("ksenia_readmore"),
+    document.getElementById("ksenia_readmore_btn"),
+    'Leggi tutto', 'Meno'
+);
 
 
 function set_readmore(text, btn, more, less) {
