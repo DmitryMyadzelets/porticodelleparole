@@ -76,7 +76,7 @@
 </div>  
 
 <?php
-    $start_date = strtotime("26-10-2015");
+    $start_date = strtotime("10-11-2015");
     $now = strtotime("now");
     $days_left = 1 + floor(($start_date - $now)/(60*60*24));
 
@@ -87,7 +87,7 @@
 
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>Il 26 Ottobre</b> ci sarà la prima lezione del nuovo corso per principianti";
+        echo "<b>Il 11 Novembre</b> ci sarà la prima lezione del nuovo corso per principianti";
         echo "<br/><b>", $manca, "</b>";
         echo "</p></div>";
     }
@@ -102,26 +102,50 @@
     <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
 </p>
 
-<div style="float: left">
-    <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
-        <img src="./img/facebook.png" title="Portico Delle Parole at Facebook" alt="Facebook" style="width:48px; vertical-align: middle;" border="0"/></a>
-</div>
 
-<div align="right" style="font-size: 1.5em; padding: 0.2em;">
-    <img src="./img/phone-icon.png" alt="Phone" 
-    style="height:1em; width:1em; vertical-align: middle;"/>
-    <span style="vertical-align: middle;">&nbsp;
-        327 66 17 027 <!-- Olga -->
-        <!-- 331 921 0150 --> <!-- Martina -->
-    </span>
-        <br/>
-        <span style="font-size: 0.72em;">
-            <a href="mailto:info@porticodelleparole.it">
-                info@porticodelleparole.it
+<div class="div-table contacts-table">
+    <div class="div-column col-half">
+        <p>
+            <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
+                <img src="./img/pin.svg" alt="" class="svg-icon"
+                />via Nosadella 15 b, Bologna
             </a>
-        </span> 
-        <br/>
-        <span style="font-size: 0.65em;">via Nosadella 15 b, Bologna</span>
+        </p>
+        <p>
+            <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
+                <img src="./img/facebook.svg" alt="" class="svg-icon"
+                />Seguici su Facebook
+            </a>
+            <!-- <img src="./img/google.svg" alt="" style="width: 2em; margin-right: 0.5em; vertical-align: middle;"> -->
+        </p>
+    </div>
+    <div class="div-column col-half">
+        <p>
+            <!-- Olga -->
+            <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
+                <img src="./img/phonecall.svg" alt="" class="svg-icon"/>
+                <span style="font-size: 180%">
+                    Tel. 327 661 7027
+                </span>
+            </a>
+
+            <!-- Martina -->
+<!--             <a href="tel:+393319210150" style="text-decoration: none; color: #444;">
+                <img src="./img/phonecall.svg" alt="" class="svg-icon"/>
+                <span style="font-size: 180%">
+                    Tel. 331 921 0150
+                </span>
+            </a>
+ -->
+        </p>
+        <p>
+            <a href="mailto:info@porticodelleparole.it">
+                <!-- style="text-decoration: none; color: #444;" -->
+                <img src="./img/mail.svg" alt="" class="svg-icon"
+                />info@porticodelleparole.it
+            </a>
+        </p>
+    </div>
 </div>
 
 
@@ -165,7 +189,7 @@
 <p>
     <h3>Che cosa è compreso nel corso:</h3>
     <ul>
-        <li>Il <b>manuale</b>, che è fatto dai nostri insegnanti
+        <li>Il <b>manuale</b><!-- , che è fatto dai nostri insegnanti -->
         <li>L’email settimanale con link per vedere video, ascoltare dialoghi, e materiali per fare i compiti
         <li>Supporto per qualsiasi domanda riguardando al corso via email, Facebook, WhatsApp
         <li><b>Workshop settimanale</b> di 1 ora e 30 minuti di ascolto, fonetica e lettura
@@ -356,7 +380,7 @@
     Prezzi per i corsi di russo
 </h2>
 
-<div class="div-table">
+<div class="div-table price-table">
     <div class="div-column col-third">
         <div class="col-head">
             <h3>Individuale</h3>
@@ -407,7 +431,7 @@
     Orari dei corsi di russo
 </h2>
 
-<div class="div-table">
+<div class="div-table hours-table">
     <div class="div-column col-half">
         <div class="col-head">
             <h3>Corso individuale o in due<br>

@@ -192,7 +192,6 @@ div.review_photo > div {
 .div-table {
     display: table;
     width: 100%;
-    border: solid 1px gray;
     margin-bottom: 1em;
 }
 
@@ -225,4 +224,21 @@ div.review_photo > div {
         width: 50%;
         display: table-cell;
     }
+}
+
+.price-table,
+.hours-table {
+    border: solid 1px gray;
+}
+
+.contacts-table {
+    border-top: solid 1px gray;
+    border-bottom: solid 1px gray;
+}
+
+
+.svg-icon {
+    width: 2em;
+    margin-right: 0.5em;
+    vertical-align: middle;
 }
