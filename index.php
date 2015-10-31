@@ -87,7 +87,7 @@
 
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>Il 11 Novembre</b> ci sarà la prima lezione del nuovo corso per principianti";
+        echo "<b>Il 10 Novembre</b> ci sarà la prima lezione del nuovo corso per principianti";
         echo "<br/><b>", $manca, "</b>";
         echo "</p></div>";
     }
@@ -200,7 +200,7 @@
 
 <p>
     E inoltre... lo sapevi che i russi amano bere il tè? 
-    <b>Ogni sabato</b> dalle 11:00 alle 13:30 puoi scoprire le pecularità della cerimonia del tè in Russia che la rendono unica al mondo!
+    <b>Ogni sabato</b> dalle 11:30 alle 13:30 puoi scoprire le pecularità della cerimonia del tè in Russia che la rendono unica al mondo!
 </p>
 
 
