@@ -161,6 +161,8 @@ div [itemprop="review"] {
 
 [itemprop="review"] {
     font-size: 90%;
+    /* to prevent the below block move up if the review is short*/
+    min-height: 12em; 
 }
 
 [itemprop="author"] {
