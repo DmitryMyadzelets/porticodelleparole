@@ -76,7 +76,7 @@
 </div>  
 
 <?php
-    $start_date = strtotime("17-11-2015");
+    $start_date = strtotime("29-02-2016");
     $now = strtotime("now");
     $days_left = 1 + floor(($start_date - $now)/(60*60*24));
 
@@ -87,8 +87,9 @@
 
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>Il 17 Novembre</b> ci sarà la prima lezione del nuovo corso per principianti";
+        echo "<b>Il 29 Febbraio</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
         echo "<br/><b>", $manca, "</b>";
+        echo "<br/>Affrettatevi, i posti sono limitati";
         echo "</p></div>";
     }
 ?>
