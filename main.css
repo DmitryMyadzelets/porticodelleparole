@@ -14,8 +14,9 @@ body {
     opacity: .9;
 }
 
-#main-container {
+.main-container {
     padding: 0 1em;
+    overflow: hidden;
 }
 
 
@@ -32,7 +33,7 @@ body {
         background-color: #cddeb0;
     }
 
-    #main-container {
+    .main-container {
         background: white; 
         padding: 0 2em;
     }
