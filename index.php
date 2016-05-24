@@ -76,7 +76,7 @@
 </div>  
 
 <?php
-    $start_date = strtotime("24-05-2016");
+    $start_date = strtotime("31-05-2016");
     $now = strtotime("now");
     $days_left = 1 + floor(($start_date - $now)/(60*60*24));
 
@@ -87,7 +87,7 @@
 
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>Il 24 maggio</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
+        echo "<b>Il 31 maggio</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
         echo "<br/><b>", $manca, "</b>";
         echo "<br/>Affrettatevi, i posti sono limitati.";
         echo "</p></div>";
@@ -200,10 +200,25 @@
     </ul>
 </p>
 
-<p>
-    E inoltre... lo sapevi che i russi amano bere il tè? 
-    <b>Ogni sabato</b> dalle 11:30 alle 13:30 puoi scoprire le pecularità della cerimonia del tè in Russia che la rendono unica al mondo!
-</p>
+<div>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/samovar.jpg" width='5em' atl='Cup of tea'/>
+            </div>
+        </div>
+    </div>
+    <p>
+        Ma c’è di più! <b>Ogni sabato</b>, dalle 11:30 alle 13:30, la sede della nostra associazione si riempie di 
+        colori e sapori grazie alla tradizionale cerimonia del tè. I russi amano bere il tè, che è parte integrante 
+        della tradizione, della cultura e della vita quotidiana in Russia. 
+        L’incontro &quot;<b>il te’ di sabato</b>&quot; &mdash; &quot;чай по субботам&quot; è un’opportunità unica per te 
+        per incontrare nuovi amici russi ed italiani, scambiare opinioni e riflessioni, e naturalmente praticare il tuo russo. 
+        Ogni settimana viene affrontato un argomento nuovo, <b>in russo e in italiano</b>, per scoprire le tradizioni, 
+        la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
+        La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
+    </p>
+</div>
 
 
 
