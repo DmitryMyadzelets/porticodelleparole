@@ -76,7 +76,7 @@
 </div>  
 
 <?php
-    $start_date = strtotime("31-05-2016");
+    $start_date = strtotime("07-06-2016");
     $now = strtotime("now");
     $days_left = 1 + floor(($start_date - $now)/(60*60*24));
 
@@ -87,7 +87,7 @@
 
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>Il 31 maggio</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
+        echo "<b>Il 7 giugno</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
         echo "<br/><b>", $manca, "</b>";
         echo "<br/>Affrettatevi, i posti sono limitati.";
         echo "</p></div>";
@@ -439,7 +439,7 @@
 </div>
 
 <p>
-    Siccome siamo un’associazione culturale è obbligatorio il rilascio della tessera associativa che costa solo 10&#8364;.
+    Siccome siamo un’associazione culturale è obbligatorio il rilascio della tessera associativa che costa 20&#8364;.
 </p>
 
 
