@@ -127,14 +127,14 @@
     </div>
     
     <div <?php if ($state != State::done) { echo 'style="visibility:hidden; height:0"'; } ?>>
-        <h1>È inviato!</h1>
+        <h1>Inviato!</h1>
 
         <p>
-            Ti ringraziamo per averci dedicato il tuo tempo. Ti contatiamo appeno possibile!
+            Ti ringraziamo per averci dedicato un po’ del tuo tempo. Ti contatteremo appena possibile.
         </p>
 
         <p>
-            Tornare a pagina della <a href="/">assoziazone Portico delle Parole</a>.
+            Tornare alla pagina dell’<a href="/">associazione Portico delle Parole</a>.
         </p>
     </div>
 
@@ -142,10 +142,12 @@
         <h1>Apply for a full-immersion program in Russia</h1>
 
         <p>
-            L'associazione Portico delle Parole le invita a fare un corso di lingua russa in Russia a una bellisima cita <a href="https://www.google.it/search?q=Petrozavodsk&tbm=isch">Petrozavodsk</a>, a la <a href="http://www.enjoyrussian.com">scuola &quot;Enjoy Russian&quot;</a>! Please, come to l'associazione Portico delle Parole or call us if you have any questions.
+            <a href="/">L’associazione Portico delle Parole</a> la invita a fare un corso di lingua russa in Russia 
+            nella bellissima città di <a href="https://www.google.it/search?q=Petrozavodsk&tbm=isch">Petrozavodsk</a>, 
+            presso la <a href="http://www.enjoyrussian.com">scuola &quot;Enjoy Russian&quot;</a>!
         </p>
         <p> 
-            Per cominciare l’iscrizione compila la forma giu.
+            Per cominciare l’iscrizione compila gli spazi sottostanti. 
         </p>
 
         <hr>
@@ -155,23 +157,23 @@
             <h2>About your stay in Russia</h2>
 
             <div>
-                <label for="Level of Russian">Livello di competenza della lingua russa</label><br>
-                <select name="Level of Russian">
-                    <option value="Beginner">Principiante (nessuna conoscenza della lingua russa)</option>
-                    <option value="Elementary (you have learned 100 language hours)">Elementario (100 ore di studio)</option>
-                    <option value="Basic (you have learned 300 language hours)">Base (300 ore di studio)</option>
-                    <option value="First certificate level (you have learned 900 language hours)">Primo livello del certificato linguistico (900 ore di studio)</option>
-                    <option value="Second certificate level (you have learned 1500 language hours)">Secondo livello del certificato linguistico (1500 ore di studio)</option>
-                    <option value="Third certificate level (you have learned 1800 language hours)">Terzo livello del certificato linguistico  (you have learned 1800 language hours)</option>
+                <label for="Текущий уровень русского языка">Livello di competenza</label><br>
+                <select name="Текущий уровень русского языка">
+                    <option value="Начинающий (знание отсутствует)">Principiante (nessuna conoscenza della lingua russa)</option>
+                    <option value="Элементарный (100 часов обучения)">Elementare (100 ore di studio)</option>
+                    <option value="Базовый (300 часов обучения)">Base (300 ore di studio)</option>
+                    <option value="Сертификат первого уровня (900 часов обучения)">Primo livello del certificato linguistico (900 ore di studio)</option>
+                    <option value="Сертификат второго уровня (1500 часов обучения)">Secondo livello del certificato linguistico (1500 ore di studio)</option>
+                    <option value="Сертификат третьего уровня (1800 часов обучения)">Terzo livello del certificato linguistico  (you have learned 1800 language hours)</option>
                 </select>
             </div>
 
             <div>
-                <label for="Program">Programma</label><br>
-                <select name="Program">
-                    <option value="Intensive Russian in a group (3-5 people)">Corso intensivo in gruppo di 3-5 persone</option>
-                    <option value="Individual">Corso individuale</option>
-                    <option value="Skype course">Corso su Skype</option>
+                <label for="Программа">Programma</label><br>
+                <select name="Программа">
+                    <option value="Курс интенсивный в группе (3-5 человек)">Corso intensivo in gruppo di 3-5 persone</option>
+                    <option value="Курс индивидуальный">Corso individuale</option>
+                    <option value="Курс по Скайпу">Corso su Skype</option>
                     <!-- <option value="Volunteer + Russian">Volontariato + Russo</option> -->
                     <!-- <option value="Scholarship">Borsa di studio</option> -->
                     <!-- <option value="Summer / Intensive Russian in a group">Summer / Intensive Russian in a group</option> -->
@@ -180,58 +182,58 @@
             </div>
 
             <div>
-                <label for="Month">Mese</label><br>
-                <select name="Month">
-                    <option value="January">Gennaio</option>
-                    <option value="February">Febbraio</option>
-                    <option value="March">Marzo</option>
-                    <option value="April">Aprile</option>
-                    <option value="May">Maggio</option>
-                    <option value="June">Giugno</option>
-                    <option value="July">Luglio</option>
-                    <option value="August">Agosto</option>
-                    <option value="September">Settembre</option>
-                    <option value="October">Ottobre</option>
-                    <option value="November">Novembre</option>
-                    <option value="December">Dicembre</option>
+                <label for="Месяц">Mese</label><br>
+                <select name="Месяц">
+                    <option value="Январь">Gennaio</option>
+                    <option value="Февраль">Febbraio</option>
+                    <option value="Март">Marzo</option>
+                    <option value="Апрель">Aprile</option>
+                    <option value="Май">Maggio</option>
+                    <option value="Июнь">Giugno</option>
+                    <option value="Июль">Luglio</option>
+                    <option value="Август">Agosto</option>
+                    <option value="Сентябрь">Settembre</option>
+                    <option value="Октябрь">Ottobre</option>
+                    <option value="Ноябрь">Novembre</option>
+                    <option value="Декабрь">Dicembre</option>
                 </select>
             </div>
 
             <div>
-                <label for="Duration">Durata</label><br>
-                <select name="Duration">
-                    <option value="1 week">1 settimana</option>
-                    <option value="2 weeks">2 settimane</option>
-                    <option value="3 weeks">3 settimane</option>
-                    <option value="4 weeks">4 settimane</option>
-                    <option value="2 months">2 mesi</option>
-                    <option value="3 months">3 mesi</option>
+                <label for="Продолжительность">Durata</label><br>
+                <select name="Продолжительность">
+                    <option value="1 неделя">1 settimana</option>
+                    <option value="2 недели">2 settimane</option>
+                    <option value="3 недели">3 settimane</option>
+                    <option value="4 недели">4 settimane</option>
+                    <option value="2 месяца">2 mesi</option>
+                    <option value="3 месяца">3 mesi</option>
                 </select>
             </div>
 
             <div>
-                <label for="ExactDates">Le date esatte, se si conosce</label><br>
-                <input name="ExactDates" type="text">
+                <label for="Точные даты">Le date esatte, se si conosce</label><br>
+                <input name="Точные даты" type="text">
             </div>
 
             <div>
-                <label for="Accommodation">Alloggio</label><br>
-                <select name="Accommodation">
-                    <option value="Homestay with breakfast and evening meal">
+                <label for="Проживание">Alloggio</label><br>
+                <select name="Проживание">
+                    <option value="В семье, с завтраком и ужином">
                         Alloggio presso famiglie ospitanti con colazione e cena
                     </option>
-                    <option value="Homestay with breakfast">
+                    <option value="В семье, с завтраком">
                         Alloggio presso famiglie ospitanti con colazione
                     </option>
-                    <option value="hostel">Ostello</option>
+                    <option value="В хостеле">Ostello</option>
                 </select>
             </div>
 
             <div>
-                <label for="Visa is reqired">È richiesto invito per il visto</label><br>
-                <select name="Visa is reqired">
-                    <option value="Yes">Si</option>
-                    <option value="No">No</option>
+                <label for="Требуется приглашие для визы">È richiesto invito per il visto</label><br>
+                <select name="Требуется приглашие для визы">
+                    <option value="Да">Si</option>
+                    <option value="Нет">No</option>
                 </select>
             </div>
 
@@ -239,32 +241,32 @@
 
             <div class='div-table'>
                 <div class='div-column col-half'>
-                    <label for="Name">Nome</label>
-                    <input name="Name" type="text" required>
+                    <label for="Имя">Nome</label>
+                    <input name="Имя" type="text" required>
                 </div>
 
                 <div class='div-column col-half'>
-                    <label for="Surname">Cognome</label>
-                    <input name="Surname" type="text" required>
+                    <label for="Фамилия">Cognome</label>
+                    <input name="Фамилия" type="text" required>
                 </div>
             </div>
 
             <div>
-                <label for="Birthday">Data di nascita</label>
-                <input name="Birthday" type="text" required>
+                <label for="Дата рождения">Data di nascita</label>
+                <input name="Дата рождения" type="text" required>
             </div>
 
             <div>
-                <label for="Gender">Sesso</label><br>
-                <select name="Gender">
-                    <option value="male">Maschile</option>
-                    <option value="female">Femminile</option>
+                <label for="Пол">Sesso</label><br>
+                <select name="Пол">
+                    <option value="мужской">Maschile</option>
+                    <option value="женский">Femminile</option>
                 </select>
             </div>
 
             <div>
-                <label for="Citizenship">Cittadinanza</label>
-                <input name="Citizenship" type="text" required>
+                <label for="Гражданство">Cittadinanza</label>
+                <input name="Гражданство" type="text" required>
             </div>
 
             <div class='div-table'>
@@ -274,25 +276,25 @@
                 </div>
 
                 <div class='div-column col-half'>
-                    <label for="Phone">Telefono</label>
-                    <input name="Phone" type="text" required>
+                    <label for="Телефон">Telefono</label>
+                    <input name="Телефон" type="text" required>
                 </div>
             </div>
 
             <div style="visibility:hidden; height:0">
-                <input name="Agent in Italy" type="text" value="Associazione Portico delle Parole">
+                <input name="Агент в Италии" type="text" value="Ассоциация Portico delle Parole">
             </div>
 
             <h2>Opzionale</h2>
 
             <div>
-                <label for="Whishes">Aspettative dal corso</label>
-                <input name="Whishes" type="text">
+                <label for="Ожидания от курса">Aspettative dal corso</label>
+                <input name="Ожидания от курса" type="text">
             </div>
 
             <div>
-                <input name="Send me promitions" value="Yes" type="checkbox">
-                <label for="Send me promitions">Voglio ricevere informazione di nuovi corsi</label>
+                <input name="Сообщайте мне о новых курсах" value="Да" type="checkbox">
+                <label for="Сообщайте мне о новых курсах">Voglio ricevere informazioni sui nuovi corsi</label>
             </div>
 
             <button type="submit">Invia</button>
@@ -307,11 +309,12 @@
 
     if ($state == State::done) {
 
-        $to  = 'info@porticodelleparole.it'.',';
-        $to .= 'DmitryMyadzelets@gmail.com';
-        $subject = 'Application from Portico delle Parole';
+        $to  = 'info@porticodelleparole.it';
+        $to .= ','.'DmitryMyadzelets@gmail.com';
+        $to .= ','.'info@enjoyrussian.com';
+        $subject = 'Заявка от ассоциации Portico delle Parole';
 
-        $message = "This is an appliction sent from association 'Portico delle Parole' (www.porticodelleparole.it) \r\n\r\n";
+        $message = "Заявка на прохождение программы изучения русского языка, от ассоциации 'Portico delle Parole' (www.porticodelleparole.it) \r\n\r\n";
         foreach ($values as $key => $value) {
             $message = $message.$key.' : '.$value."\r\n";
         }
@@ -320,7 +323,6 @@
         $headers[] = "MIME-Version: 1.0";
         $headers[] = "Content-type: text/plain; charset=iso-8859-1";
         $headers[] = "From: Portico delle Parole <info@porticodelleparole.it>";
-        // $headers[] = "Reply-To: Recipient Name <info@porticodelleparole.it>";
         $headers[] = "Subject: {$subject}";
         // $headers[] = "X-Mailer: PHP/".phpversion();
 

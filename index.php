@@ -100,9 +100,26 @@
  -->
 <p class='center'>Siamo aperti per i corsi <b>anche ad agosto</b>.</p>
 
-<p style="color:red" class="center">
+<!-- <p style="color:red" class="center">
     <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
 </p>
+ -->
+<div>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/petrozavodsk.jpg" atl='Photo of Petrozavodsk'/>
+            </div>
+        </div>
+    </div>
+    <p>
+        L’associazione Portico delle Parole la invita a fare un corso di lingua russa in Russia, 
+        a una capitale della Repubblica di Carelia, fondata su ordine di Pietro il Grande nel VII secolo.
+    </p>
+    <p>
+        <a href="enjoyrussian">Scoprire di più</a>
+    </p>
+</div>
 
 
 <div class="div-table contacts-table">
@@ -204,7 +221,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/samovar.jpg" width='5em' atl='Cup of tea'/>
+                <img src="./img/samovar.jpg" atl='Cup of tea'/>
             </div>
         </div>
     </div>
@@ -219,7 +236,6 @@
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
 </div>
-
 
 
 
