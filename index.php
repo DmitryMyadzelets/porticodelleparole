@@ -36,7 +36,7 @@
     preparazione esami universitari a Bologna,
     ">
 
-    <link rel="stylesheet" type="text/css" href="w3.css">
+    <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="main.css">
 
     <title>
@@ -76,7 +76,13 @@
 </div>  
 
 <?php
-    $start_date = strtotime("07-06-2016");
+
+    $fname = 'config/config.json';
+
+    $data = @file_get_contents($fname);
+    $config = (array)json_decode($data);
+
+    $start_date = strtotime($config['firstDate']);
     $now = strtotime("now");
     $days_left = 1 + floor(($start_date - $now)/(60*60*24));
 
@@ -87,7 +93,7 @@
 
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>Il 7 giugno</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
+        echo "<b>".$config['firstDateFormatted']."</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
         echo "<br/><b>", $manca, "</b>";
         echo "<br/>Affrettatevi, i posti sono limitati.";
         echo "</p></div>";
@@ -113,8 +119,14 @@
         </div>
     </div>
     <p>
-        L’associazione Portico delle Parole la invita a fare un corso di lingua russa in Russia, 
-        a una capitale della Repubblica di Carelia, fondata su ordine di Pietro il Grande nel VII secolo.
+        Vuoi fare l’esperienza unica in Russia questa estate? Vuoi fare l’immersione in lingua russa in Russia? 
+        Allora ti invitiamo a fare il corso di russo a Petrozavodsk nella belissima scuola di russo per te con 
+        quale siamo convenzionati.
+    </p>
+    <p>
+        Petrozavodsk si trova vicino Finlandia quindi è facile da raggiungerla, sta sul Lago Onega e ci sono tanti laghi intorno, 
+        puoi goderti la natura. Il clima si assomiglia alla clima in Svezia oppure in Finlandia. 
+        Ci sono 5 ore e 30 min di treno per andare a San Pietroburgo.
     </p>
     <p>
         <a href="enjoyrussian">Scoprire di più</a>
@@ -577,15 +589,23 @@ ci accordiamo per il giorno e l’ora esatti della prima lezione!
 
 </div>
 
-<div style="font-size: 0.8em" class="center">
-    <address>
-    Associazione Portico delle Parole<br>
-    via Nosadella 15B, 40123 Bologna, Italia <br>
-    Tel: +39 327 6617027<br>
-    <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>
-    </address>
-    C.F. 91361610370
+<br>
+
+<div class="main-container shadow">
+    <p>
+        Associazione Portico delle Parole <br>
+        via Nosadella 15B, 40123 Bologna, Italia <br>
+        Tel: +39 327 6617027 <br>
+        <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>&nbsp;&nbsp;&nbsp;
+        <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>
+    </p>
+    <p>
+        C.F.: 91361610370 &mdash; IBAN: IT27M0200802480000103405231
+    </p>
+</div>
+
+<div style="font-size: 0.8em; text-align: right;;">
+    <a href="config">config</a>
 </div>
 
 <script async src='./js/monitor.js'></script>
