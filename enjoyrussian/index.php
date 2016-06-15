@@ -139,10 +139,10 @@
     </div>
 
     <div <?php if ($state == State::done) { echo 'style="visibility:hidden; height:0"'; } ?>>
-        <h1>Apply for a full-immersion program in Russia</h1>
+        <h1>Iscriviti per un programma &quot;full-immersion&quot; in Russia</h1>
 
         <p>
-            <a href="/">L’associazione Portico delle Parole</a> la invita a fare un corso di lingua russa in Russia 
+            <a href="/">L’associazione Portico delle Parole</a> ti invita a fare un corso di lingua russa in Russia 
             nella bellissima città di <a href="https://www.google.it/search?q=Petrozavodsk&tbm=isch">Petrozavodsk</a>, 
             presso la <a href="http://www.enjoyrussian.com">scuola &quot;Enjoy Russian&quot;</a>!
         </p>
@@ -154,7 +154,7 @@
 
         <form method="post" action="<?php $_PHP_SELF ?>">
 
-            <h2>About your stay in Russia</h2>
+            <h2>La tua permanenza in Russia</h2>
 
             <div>
                 <label for="Текущий уровень русского языка">Livello di competenza</label><br>
@@ -164,7 +164,7 @@
                     <option value="Базовый (300 часов обучения)">Base (300 ore di studio)</option>
                     <option value="Сертификат первого уровня (900 часов обучения)">Primo livello del certificato linguistico (900 ore di studio)</option>
                     <option value="Сертификат второго уровня (1500 часов обучения)">Secondo livello del certificato linguistico (1500 ore di studio)</option>
-                    <option value="Сертификат третьего уровня (1800 часов обучения)">Terzo livello del certificato linguistico  (you have learned 1800 language hours)</option>
+                    <option value="Сертификат третьего уровня (1800 часов обучения)">Terzo livello del certificato linguistico  (1800 ore di studio)</option>
                 </select>
             </div>
 

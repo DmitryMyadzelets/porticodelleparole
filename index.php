@@ -119,14 +119,15 @@
         </div>
     </div>
     <p>
-        Vuoi fare l’esperienza unica in Russia questa estate? Vuoi fare l’immersione in lingua russa in Russia? 
-        Allora ti invitiamo a fare il corso di russo a Petrozavodsk nella belissima scuola di russo per te con 
-        quale siamo convenzionati.
+        Vuoi fare un’esperienza unica in Russia quest’estate? Vuoi fare un’immersione nella lingua russa in Russia? 
+        Allora ti invitiamo a fare il corso di russo a Petrozavodsk, nella fantastica scuola di russo 
+        con la quale siamo convenzionati.
     </p>
     <p>
-        Petrozavodsk si trova vicino Finlandia quindi è facile da raggiungerla, sta sul Lago Onega e ci sono tanti laghi intorno, 
-        puoi goderti la natura. Il clima si assomiglia alla clima in Svezia oppure in Finlandia. 
-        Ci sono 5 ore e 30 min di treno per andare a San Pietroburgo.
+        Petrozavodsk si trova vicino alla Finlandia, è quindi facile raggiungerla. 
+        La città è situata sul Lago Onega e attorno vi sono tanti altri laghi per cui potrai godere della natura. 
+        Il clima assomiglia al clima della Svezia o della Finlandia. 
+        San Pietroburgo è raggiungibile in treno in 5 ore e mezza.
     </p>
     <p>
         <a href="enjoyrussian">Scoprire di più</a>
@@ -602,10 +603,6 @@ ci accordiamo per il giorno e l’ora esatti della prima lezione!
     <p>
         C.F.: 91361610370 &mdash; IBAN: IT27M0200802480000103405231
     </p>
-</div>
-
-<div style="font-size: 0.8em; text-align: right;;">
-    <a href="config">config</a>
 </div>
 
 <script async src='./js/monitor.js'></script>
