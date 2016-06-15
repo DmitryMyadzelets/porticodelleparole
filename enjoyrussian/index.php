@@ -309,22 +309,24 @@
 
     if ($state == State::done) {
 
-        $to  = 'info@porticodelleparole.it';
-        $to .= ','.'DmitryMyadzelets@gmail.com';
+        $to  = 'DmitryMyadzelets@gmail.com';
+        $to .= ','.'info@porticodelleparole.it';
         $to .= ','.'info@enjoyrussian.com';
         $subject = 'Заявка от ассоциации Portico delle Parole';
 
         $message = "Заявка на прохождение программы изучения русского языка, от ассоциации 'Portico delle Parole' (www.porticodelleparole.it) \r\n\r\n";
         foreach ($values as $key => $value) {
-            $message = $message.$key.' : '.$value."\r\n";
+            $message = $message.$key." : ".$value."\r\n";
         }
 
         $headers   = array();
         $headers[] = "MIME-Version: 1.0";
-        $headers[] = "Content-type: text/plain; charset=iso-8859-1";
+        // $headers[] = "Content-type: text/plain; charset=iso-8859-1";
+        // $headers[] = "Content-Type: text/html; charset=UTF-8";
+        $headers[] = "Content-Type: text/plain; charset=utf-8;";
         $headers[] = "From: Portico delle Parole <info@porticodelleparole.it>";
         $headers[] = "Subject: {$subject}";
-        // $headers[] = "X-Mailer: PHP/".phpversion();
+        $headers[] = "X-Mailer: PHP/".phpversion();
 
         mail($to, $subject, $message, implode("\r\n", $headers));
     }
