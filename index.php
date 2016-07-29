@@ -110,7 +110,7 @@
     <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
 </p>
  -->
-<div>
+<div style="display: none">
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
