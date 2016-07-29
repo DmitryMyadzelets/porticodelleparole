@@ -157,18 +157,18 @@
             <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
                 <img src="./img/phonecall.svg" alt="" class="svg-icon"/>
                 <span style="font-size: 180%">
-                    Tel. 327 661 7027
+                    <?php
+                    $ts = strtotime('2016-08-02');
+                    $te = strtotime('2016-08-26');
+                    $t0 = time();
+                    if ($t0 > $te || $t0 < $ts) {
+                        echo('Tel. 327 661 7027'); // Olga
+                    } else {
+                        echo('Tel. 388 465 0676'); // Luba
+                    }                    
+                    ?>
                 </span>
             </a>
-
-            <!-- Martina -->
-<!--             <a href="tel:+393319210150" style="text-decoration: none; color: #444;">
-                <img src="./img/phonecall.svg" alt="" class="svg-icon"/>
-                <span style="font-size: 180%">
-                    Tel. 331 921 0150
-                </span>
-            </a>
- -->
         </p>
         <p>
             <a href="mailto:info@porticodelleparole.it">
