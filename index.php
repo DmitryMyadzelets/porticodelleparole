@@ -432,11 +432,9 @@
             <h3>Individuale</h3>
         </div>
         <p>
-            20 ore – 364&#8364;
+            20 ore – 364&#8364; (18,2 all'ora)
             <br/>
-            10 ore – 197&#8364;
-            <br/>
-            1 ora (60 min) – 19,7&#8364;
+            10 ore – 197&#8364; (19,7 all'ora)
         </p>
     </div>
     <div class="div-column col-third">
@@ -444,11 +442,9 @@
             <h3>In due</h3>
         </div>
         <p>
-            20 ore – 277&#8364;
+            20 ore – 277&#8364; (13,8 all'ora)
             <br/>
-            10 ore – 147&#8364;
-            <br/>
-            1 ora (60 min) – 18&#8364;
+            10 ore – 147&#8364; (14,7 all'ora)
         <p/>
         <p>
             Si paga il costo a persona
@@ -459,9 +455,7 @@
             <h3>In gruppo</h3>
         </div>
         <p>
-            20 ore – 197&#8364;
-            <br/>
-            1 ora (60 min) – 9,8&#8364;
+            20 ore – 197&#8364; (9,8 all'ora)
         </p>
         <p>
             Il gruppo è formato da 5 a 10 persone</span>
@@ -518,11 +512,12 @@
     </div>
 </div>
 
-
-<h2 id="corso_italiano">Corso di italiano</h2>
-<p>
-    Quest'anno c'è una novità! Offriamo infatti anche corsi di lingua e cultura italiane per stranieri, bambini e adulti. Sono lezioni individuali, il cui contenuto si cerca di adattare alle esigenze personali di ogni studente, affinché risultino interessanti e produttive! Il costo è di soli 19 euro all'ora. Sappiamo che cominciare a vivere in un nuovo paese è difficile, e per questo saremo felici di aiutarvi a fare conoscenza meglio e più in fretta con la lingua e la cultura italiane! Vi invitiamo con gioia ai nostri corsi e vi aspettiamo numerosi!
-</p>    
+<div style="display: none">
+    <h2 id="corso_italiano">Corso di italiano</h2>
+    <p>
+        Quest'anno c'è una novità! Offriamo infatti anche corsi di lingua e cultura italiane per stranieri, bambini e adulti. Sono lezioni individuali, il cui contenuto si cerca di adattare alle esigenze personali di ogni studente, affinché risultino interessanti e produttive! Il costo è di soli 19 euro all'ora. Sappiamo che cominciare a vivere in un nuovo paese è difficile, e per questo saremo felici di aiutarvi a fare conoscenza meglio e più in fretta con la lingua e la cultura italiane! Vi invitiamo con gioia ai nostri corsi e vi aspettiamo numerosi!
+    </p>    
+</div>
 
 <h2>
     Dove si trova la sede dell’associazione
