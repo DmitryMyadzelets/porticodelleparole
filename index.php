@@ -436,7 +436,7 @@
             <br/>
             10 ore – 197&#8364;
             <br/>
-            1 ora (60 min) – 24&#8364;
+            1 ora (60 min) – 19,7&#8364;
         </p>
     </div>
     <div class="div-column col-third">
@@ -459,7 +459,9 @@
             <h3>In gruppo</h3>
         </div>
         <p>
-            20 ore – 177&#8364;
+            20 ore – 197&#8364;
+            <br/>
+            1 ora (60 min) – 9,8&#8364;
         </p>
         <p>
             Il gruppo è formato da 5 a 10 persone</span>
@@ -488,14 +490,12 @@
             e si può anche fissare l’appuntamento di volta in volta per le lezioni successive.
             <br/>
             <br/>
-            <b>In 10 ore ci sono 7 lezioni:</b><br>
-            4 lezioni di 1 ora e 30 min<br>
-            3 lezioni di 1 ora e 20 min 
+            <b>In 10 ore ci sono 8 lezioni</b><br>
+            di 1 ora e 15 min 
             <br/>
             <br/>
-            <b>In 20 ore ci sono 14 lezioni:</b><br>
-            8 lezioni di 1 ora e 30 min<br>
-            6 lezioni di 1 ora e 20 min
+            <b>In 20 ore ci sono 16 lezioni</b><br>
+            di 1 ora e 15 min
         </p>
     </div>
     <div class="div-column col-half">
