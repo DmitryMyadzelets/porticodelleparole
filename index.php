@@ -266,7 +266,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/olga.jpg" alt="Photo of Olga"/>
+                <img src="./img/olga.jpg" alt="Photo di Olga"/>
             </div>
         </div>
     </div>
@@ -310,60 +310,34 @@
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Martina, 25 anni, Russia - Italia
+        Yana, 29 anni, Mosca, Russia
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/martina.jpg" alt="Photo of Martina"/>
+                <img src="./img/yana.jpg" alt="Photo di Yana"/>
             </div>
         </div>
     </div>
     <div itemprop="reviewbody">
-        <p>
-            Sebbene sia nata in Italia sono madrelingua russa. Strano, penserete, e non posso darvi torto! 
-            In realtà sono una bilingue, e quindi sono anche madrelingua italiana, oltre che russa.
-        </p>
+        <p>Ho iniziato ad insegnare lingue straniere per hobby, ma dopo alcuni anni si è trasformato in una 
+            vera e propria professione. Inizialmente aiutavo alcuni amici nella preparazione 
+            di esami di lingua inglese. Nello stesso tempo ho iniziato anche a dedicarmi seriamente allo studio 
+            della cultura e dell’arte. In questo modo mi sono iscritta al corso 
+            "Management in culture and the arts" dell’Università di Bologna.</p>
         <span id="martina_readmore" style="display: none">
-            <p>
-                La mia mamma è originaria di Mosca, città dove ho vissuto con lei durante la mia prima infanzia. 
-                Ho iniziato le scuole in Italia, ma questo non mi ha impedito di continuare a parlare, 
-                leggere e scrivere il russo. Il merito va tutto alla mia mamma, la quale sempre si è 
-                impegnata per coltivare in me l'amore per la sua cultura d'origine e di appartenenza. 
-                Questo attraverso frequenti viaggi, permanenze più o meno lunghe in territorio moscovita, 
-                letture, canzoni, film, e certamente l'abitudine di parlare solo russo tra le mura domestiche.
-            </p>
-            <p>
-                Quando avevo 14 anni scoprii l'associazione “Aiutiamoli a vivere”, per la quale feci 
-                volontariato molti anni, fino al mio trasferimento a Bologna. Fu un'esperienza molto 
-                importante per me, perché con l'associazione ci occupavamo di ospitare i bambini di un 
-                orfanotrofio bielorusso in Italia per alcuni mesi all'anno. All'epoca io stessa ero 
-                ancora piccola, ma già mi impegnavo a cercare di integrare i nostri bambini con quelli 
-                italiani, e mi rendevo conto di quanto questo fosse difficile a volte, viste le 
-                barriere linguistiche e culturali. Un buon mediatore è una figura importante, ed io 
-                mi sentivo certamente investita di tale compito, vista la mia conoscenza di entrambe 
-                le parti in gioco.
-            </p>
-            <p>
-                La situazione che vi ho descritto non ha generato in me nessuna crisi di identità, 
-                al contrario! Trovo legittima da un lato, e assurda dall'altro, la frequente domanda: 
-                Ti senti più russa o italiana? Per evitare lunghi discorsi preferisco rispondere: 
-                metà e metà. Ma non è vero. Non sono una mela, che si puo' tagliare in due parti, 
-                per poi colorarne una di rosso blu e bianco, e l'altra di rosso bianco e verde! 
-                Sono una persona, e quindi le due culture con le quali sono cresciuta si intrecciano 
-                in me, si incastrano l'una nell'altra, si uniscono invece che dividersi. E dalla 
-                loro unione risulta la mia personalità. Questa sono io. 
-            </p>
-            <p>
-                Abito nella mia cara città di Bologna da cinque anni ormai. Mi trasferii qui nel 
-                2010 per frequentare  la facoltà di Lingue e letterature straniere all'università. 
-                Ho migliorato dunque il mio inglese e studiato anche il francese e il tedesco. 
-                Qui a Bologna, oltre a studiare, ho lavorato in più posti, svolgendo svariate 
-                attività: barista, commessa, interprete e finalmente insegnante. Sono contenta 
-                delle esperienze che ho avuto modo di fare, delle belle e delle brutte. 
-                Amo le lingue straniere perché queste ci permettono, secondo me, di scoprire 
-                realtà, anche personali, più vaste e impossibili da descrivere con le parole di una lingua sola. 
-            </p>
+            <p>Proprio in ambiente universitario ho capito l’importanza che ha la lingua per la comprensione 
+                della cultura di questo paese. Dopo tutto, una gran parte della cultura è nascosta nella lingua 
+                e nella sua struttura. Mi è davvero venuta voglia di trasmettere la cultura del mio paese! 
+                Ho concluso i corsi di insegnamento della lingua russa come lingua straniera nella 
+                Università Statale di Mosca e da due anni insegno lingua russa agli stranieri.</p>
+            <p>Non solo cerco di insegnare ai miei studenti la lingua russa, ma cerco anche di trasmettere loro 
+                la cultura del mio paese: una cultura molto interessante caratterizzata da tante diverse sfumature.</p>
+            <p>I miei studenti hanno superato con successo i corsi universitari come programma di scambio a Mosca e a 
+                San Pietroburgo, sono stati in Russia per adozioni, hanno partecipato a numerose conferenze e hanno 
+                appena iniziato a leggere i classici della letteratura. Per me è molto importante un approccio individuale 
+                con ogni studente, conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme il russo con entusiasmo.</p>
+            <p>Spero di vederti tra i miei studenti nella nostra Associazione Portico delle Parole.</p>
         </span>
         <p>
             <a id="martina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
@@ -378,7 +352,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/ksenia.jpg" alt="Photo of Ksenia"/>
+                <img src="./img/ksenia.jpg" alt="Photo di Ksenia"/>
             </div>
         </div>
     </div>
