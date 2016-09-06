@@ -429,7 +429,7 @@
             <h3>In gruppo</h3>
         </div>
         <p>
-            20 ore – 197&#8364; (9,8 all'ora)
+            20 ore – <span style="text-decoration: line-through;">240&#8364;</span> <span style="color:red">adesso in offerta 197&#8364;</span>  (9,8 all'ora)
         </p>
         <p>
             Il gruppo è formato da 5 a 10 persone</span>
