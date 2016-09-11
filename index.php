@@ -104,7 +104,7 @@
         Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russe!<br/>Vi aspettiamo con impazienza!
     </p>
  -->
-<p class='center'>Siamo aperti per i corsi <b>anche ad agosto</b>.</p>
+<!-- <p class='center'>Siamo aperti per i corsi <b>anche ad agosto</b>.</p> -->
 
 <!-- <p style="color:red" class="center">
     <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
@@ -218,8 +218,9 @@
     </ul>
 </p>
 
+<h3>Che cosa è compreso nel corso:</h3>
+
 <p>
-    <h3>Che cosa è compreso nel corso:</h3>
     <ul>
         <li>Il <b>manuale</b><!-- , che è fatto dai nostri insegnanti -->
         <li>L’email settimanale con link per vedere video, ascoltare dialoghi, e materiali per fare i compiti
@@ -250,6 +251,29 @@
     </p>
 </div>
 
+<div>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/laboratorio_di_lessico2.jpg" atl='Laboratorio di lessico'/>
+            </div>
+        </div>
+    </div>
+    <p>Oltre alla lezione canonica ti diamo tanta possibilità di praticare il tuo russo con utilissime 
+        attività extra quali ad esempio i <b>laboratori del lessico, incontri settimanali, gratuiti</b>.</p>
+
+    <p>Con il laboratorio del lessico avrai la possibilità di:
+        <ul>
+            <li>Frequentare le lezioni gratuite una volta alla settimana (per tutti i corsisti).</li>
+            <li>Imparare nuove parole e metterle subito in pratica.</li>
+            <li>Approfondire il lessico in piccoli gruppi del tuo livello con I madrelingua.</li>
+            <li>Fare conversazione con I madrelingua e con le persone del tuo stesso livello.</li>
+            <li>Chiedere per qualsiasi domanda.</li>
+            <li>Confrontarsi con le persone presenti al corso che come te vogliono parlare in russo.</li>
+            <li>Avere a disposizione il materiale didattico necessario per imparare senza costi aggiuntivi.</li>
+        </ul>
+    </p>
+</div>
 
 
 <h2>
