@@ -14,6 +14,11 @@ set_readmore(
     document.getElementById("ksenia_readmore_btn"),
     'Leggi tutto', 'Meno'
 );
+set_readmore(
+    document.getElementById("liubov_readmore"),
+    document.getElementById("liubov_readmore_btn"),
+    'Leggi tutto', 'Meno'
+);
 
 
 function set_readmore(text, btn, more, less) {

@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
     font: normal 100% "Arial", sans-serif;
     color: #444;
-    opacity: .9;
+    /*opacity: .9;*/ /*bad - affects also images*/
 }
 
 .main-container {

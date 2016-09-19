@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole">
+    <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
     <meta name="keywords" content="corso di russo a bologna,
     corso di italiano a bologna,
     corso russo,
@@ -114,7 +114,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/petrozavodsk.jpg" atl='Photo of Petrozavodsk'/>
+                <img src="./img/petrozavodsk.jpg" atl='Foto of Petrozavodsk'/>
             </div>
         </div>
     </div>
@@ -290,7 +290,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/olga.jpg" alt="Photo di Olga"/>
+                <img src="./img/olga.jpg" alt="Foto di Olga"/>
             </div>
         </div>
     </div>
@@ -339,7 +339,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/yana.jpg" alt="Photo di Yana"/>
+                <img src="./img/yana.jpg" alt="Foto di Yana"/>
             </div>
         </div>
     </div>
@@ -376,7 +376,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/ksenia.jpg" alt="Photo di Ksenia"/>
+                <img src="./img/ksenia.jpg" alt="Foto di Ksenia"/>
             </div>
         </div>
     </div>
@@ -406,6 +406,57 @@
 </div>
 
 
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author">
+        Liubov, 29 anni, Volgograd - San Pietroburgo, Russia
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/liubov.dishluk.jpg" alt="Foto di Liubov"/>
+            </div>
+        </div>
+    </div>
+    <div itemprop="reviewbody">
+        <p>
+            Mi sono laureata in giornalismo all’Università statale di San Pietroburgo, 
+            dove ho scritto la tesi finale sulla tv italiana. Sono stata sempre interessata ai rapporti tra 
+            l’Italia e la Russia anche quando poi ho lavorato come giornalista a San Pietroburgo.
+            L’altro mio grande interesse sono sempre state le lingue: sia il russo che le lingue straniere. 
+        </p>
+        <span id="liubov_readmore" style="display: none">
+            <p>
+                A San Pietroburgo ho studiato per un anno anche alla Facoltà di
+                Filologia all’Università statale pedagogica di Herzen, dove ho conosciuto le lingue
+                antiche slave che mi hanno aiutato molto a capire la mia lingua madre. Poi ho
+                avuto anche vissuto l’esperienza da ‘exchange student’ all’Università Roma Tre,
+                al Dipartimento di studi Umanistici. Per ora posso dire che parlo cingue lingue
+                straniere più il russo : ) Per me è sempre un piacere condivere la mia esperienza
+                di studio con gli allunni del corso di russo.
+            </p>
+            <p>
+                Nel 2013 sono venuta a Bologna per dedicarmi alla ricerca nel dottorato
+                all’Università di Bologna. E ancora una volta il tema della mia ricerca riguarda i
+                rapporti tra il cinema sovietico e l’Italia.
+            </p>
+            <p>
+                Collaboro con l’Associazione “Portico delle parole” gia’ da 2 anni facendo le
+                lezioni sulla cultura russa: il cinema, la lingua, la storia, etc. Essere di Volgograd
+                (ex-Stalingrado), vivere molti anni a San Pietroburgo e viaggiare molto in Russia
+                &mdash; queste esperienze mi hanno fatto vedere quanto è diverso il mio paese e mi
+                hanno dato la possibilità di conoscerlo meglio. È ciò che racconto con grande
+                piacere durante le mie lezioni al Portico delle Parole. 
+            </p>
+            <p>
+                Sono lieta di condividere con te le mie conoscenze della lingua e della cultura russa. Vieni ai lezioni al Portico
+                delle Parole e ti si aprirà il mondo russo a Bologna!
+            </p>
+        </span>            
+        <p>
+            <a id="liubov_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </div>
+</div>
 
 
 <h2>
@@ -598,7 +649,7 @@ ci accordiamo per il giorno e l’ora esatti della prima lezione!
     </p>
 </div>
 
-<script async src='./js/monitor.js'></script>
+<!-- <script async src='./js/monitor.js'></script> -->
 <script async src='./js/readmore.js'></script>
 
 </body>
