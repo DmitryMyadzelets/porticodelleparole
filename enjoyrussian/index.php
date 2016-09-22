@@ -15,8 +15,8 @@
     porticodelleparole.it
     ">
 
-    <link rel="stylesheet" type="text/css" href="../normalize.css">
-    <link rel="stylesheet" type="text/css" href="../main.css">
+    <link rel="stylesheet" type="text/css" href="/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
     <style type="text/css">
         form
         input[type=text],

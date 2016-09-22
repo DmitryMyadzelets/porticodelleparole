@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+html {
+    font: normal 100% "Arial", sans-serif;
+}
+
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -9,7 +14,6 @@
 body {
     padding: 0;
     margin: 0 auto;
-    font: normal 100% "Arial", sans-serif;
     color: #444;
     /*opacity: .9;*/ /*bad - affects also images*/
 }
@@ -43,7 +47,6 @@ body {
 
 p, ul, td {
     font-size: 88%;
-    font-family: "Arial",sans-serif;
     line-height: 150%;
 }
 

@@ -37,7 +37,7 @@
     ">
 
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
 
     <title>
         Corso di Russo a Bologna - Associazione Portico delle Parole
