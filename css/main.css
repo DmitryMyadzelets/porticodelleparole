@@ -92,7 +92,8 @@ div.stretchy-wrapper > div {
 
 #video-wrapper {
     /*75% = 480px/640px of the video*/
-    padding-bottom: 75%;
+    /*56.25% = 9/16 of the video*/
+    padding-bottom: 56.25%;
 }
 
 
