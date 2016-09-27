@@ -629,7 +629,7 @@ ci accordiamo per il giorno e l’ora esatti della prima lezione!
     Foto
 </h2>
 <div style='position: relative; padding-bottom: 76%; height: 0; overflow: hidden;'>
-    <iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=75&size=big&setId=72157647133686116&thumbnails=0&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe>
+    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126701579@N07/albums/72157647133686116" title="www.porticodelleparole.it"><img src="https://c8.staticflickr.com/9/8613/15761132183_064d052173_z.jpg" width="640" height="480" alt="www.porticodelleparole.it"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 </div>
