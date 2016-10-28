@@ -4,16 +4,16 @@ set_readmore(
     document.getElementById("olga_readmore_btn"),
     'Leggi tutto', 'Meno'
 );
-set_readmore(
-    document.getElementById("martina_readmore"),
-    document.getElementById("martina_readmore_btn"),
-    'Leggi tutto', 'Meno'
-);
-set_readmore(
-    document.getElementById("ksenia_readmore"),
-    document.getElementById("ksenia_readmore_btn"),
-    'Leggi tutto', 'Meno'
-);
+// set_readmore(
+//     document.getElementById("martina_readmore"),
+//     document.getElementById("martina_readmore_btn"),
+//     'Leggi tutto', 'Meno'
+// );
+// set_readmore(
+//     document.getElementById("ksenia_readmore"),
+//     document.getElementById("ksenia_readmore_btn"),
+//     'Leggi tutto', 'Meno'
+// );
 set_readmore(
     document.getElementById("liubov_readmore"),
     document.getElementById("liubov_readmore_btn"),

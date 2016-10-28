@@ -350,18 +350,13 @@
             Non solo cerco di insegnare ai miei studenti la lingua russa, ma cerco anche di 
             trasmettere loro la cultura del mio paese: una cultura molto interessante 
             caratterizzata da tante diverse sfumature.</p>
-        <span id="martina_readmore" style="display: none">
-            <p>I miei studenti hanno superato con successo i corsi universitari come programma di 
-                scambio a Mosca e a San Pietroburgo, sono stati in Russia per adozioni, hanno 
-                partecipato a numerose conferenze e hanno appena iniziato a leggere i classici della 
-                letteratura. Per me è molto importante un approccio individuale con ogni studente, 
-                conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme 
-                il russo con entusiasmo.</p>
-            <p>Spero di vederti tra i miei studenti nella nostra Associazione Portico delle Parole.</p>
-        </span>
-        <p>
-            <a id="martina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
+        <p>I miei studenti hanno superato con successo i corsi universitari come programma di 
+            scambio a Mosca e a San Pietroburgo, sono stati in Russia per adozioni, hanno 
+            partecipato a numerose conferenze e hanno appena iniziato a leggere i classici della 
+            letteratura. Per me è molto importante un approccio individuale con ogni studente, 
+            conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme 
+            il russo con entusiasmo.</p>
+        <p>Spero di vederti tra i miei studenti nella nostra Associazione Portico delle Parole.</p>
     </div>
 </div>
 
@@ -377,27 +372,14 @@
         </div>
     </div>
     <div itemprop="reviewbody">
-        <p>
-            Abito a Bologna dal 2012 e mi sono laureata in Linguistica all'Università di Bologna. 
-            Tra tutti i numerosi hobby che ho - viaggi, musica classica e opera, jazz e balli stile swing, 
-            fitness e tracking etc. - è proprio studiare le lingue straniere che è sempre stato il mio interesse più forte.
-        </p>
-        <span id="ksenia_readmore" style="display: none">
-            <p>
-                Fortunatamente col tempo questa passione si è trasformata in lavoro e ora ho il piacere di insegnare ... 
-                il russo, la mia lingua madre! Al momento sto lavorando presso la Scuola di Lingue e Letterature Straniere 
-                dell'Università di Bologna: tengo un corso di esercitazioni di lingua russa. 
-            </p>
-            <p>
-                Durante le mie lezioni faccio di tutto per coinvolgere al massimo gli studenti, creando un atmosfera amichevole 
-                e divertente, avvicinandosi passo dopo passo allo scopo principale - parlare il russo, ed è proprio questo 
-                risultato dell'insegnamento che mi da più soddisfazione! Venite anche voi all'Associazione a scoprire un 
-                mondo nuovo, della lingua e della cultura russa!
-            </p>
-        </span>            
-        <p>
-            <a id="ksenia_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
+        <p>Abito a Bologna dal 2012 e mi sono laureata in Linguistica all'Università di Bologna. 
+        Al momento sto lavorando presso la Scuola di Lingue e Letterature Straniere 
+        dell'Università di Bologna: tengo un corso di esercitazioni di lingua russa.</p>
+        <p>Durante le mie lezioni faccio di tutto per coinvolgere al massimo gli studenti, 
+        creando un atmosfera amichevole e divertente, avvicinandosi passo dopo passo allo 
+        scopo principale &mdash; parlare il russo, ed è proprio questo risultato dell'insegnamento 
+        che mi da più soddisfazione! Venite anche voi all'Associazione a scoprire un mondo nuovo, 
+        della lingua e della cultura russa!</p>
     </div>
 </div>
 
