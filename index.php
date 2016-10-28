@@ -343,24 +343,20 @@
             </div>
         </div>
     </div>
+        
     <div itemprop="reviewbody">
-        <p>Ho iniziato ad insegnare lingue straniere per hobby, ma dopo alcuni anni si è trasformato in una 
-            vera e propria professione. Inizialmente aiutavo alcuni amici nella preparazione 
-            di esami di lingua inglese. Nello stesso tempo ho iniziato anche a dedicarmi seriamente allo studio 
-            della cultura e dell’arte. In questo modo mi sono iscritta al corso 
-            "Management in culture and the arts" dell’Università di Bologna.</p>
+        <p>Ho concluso i corsi di insegnamento della lingua russa come lingua straniera nella 
+            Università Statale di Mosca e da due anni insegno lingua russa agli stranieri.
+            Non solo cerco di insegnare ai miei studenti la lingua russa, ma cerco anche di 
+            trasmettere loro la cultura del mio paese: una cultura molto interessante 
+            caratterizzata da tante diverse sfumature.</p>
         <span id="martina_readmore" style="display: none">
-            <p>Proprio in ambiente universitario ho capito l’importanza che ha la lingua per la comprensione 
-                della cultura di questo paese. Dopo tutto, una gran parte della cultura è nascosta nella lingua 
-                e nella sua struttura. Mi è davvero venuta voglia di trasmettere la cultura del mio paese! 
-                Ho concluso i corsi di insegnamento della lingua russa come lingua straniera nella 
-                Università Statale di Mosca e da due anni insegno lingua russa agli stranieri.</p>
-            <p>Non solo cerco di insegnare ai miei studenti la lingua russa, ma cerco anche di trasmettere loro 
-                la cultura del mio paese: una cultura molto interessante caratterizzata da tante diverse sfumature.</p>
-            <p>I miei studenti hanno superato con successo i corsi universitari come programma di scambio a Mosca e a 
-                San Pietroburgo, sono stati in Russia per adozioni, hanno partecipato a numerose conferenze e hanno 
-                appena iniziato a leggere i classici della letteratura. Per me è molto importante un approccio individuale 
-                con ogni studente, conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme il russo con entusiasmo.</p>
+            <p>I miei studenti hanno superato con successo i corsi universitari come programma di 
+                scambio a Mosca e a San Pietroburgo, sono stati in Russia per adozioni, hanno 
+                partecipato a numerose conferenze e hanno appena iniziato a leggere i classici della 
+                letteratura. Per me è molto importante un approccio individuale con ogni studente, 
+                conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme 
+                il russo con entusiasmo.</p>
             <p>Spero di vederti tra i miei studenti nella nostra Associazione Portico delle Parole.</p>
         </span>
         <p>
