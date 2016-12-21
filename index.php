@@ -5,6 +5,8 @@
     <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
+    <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
     <meta name="keywords" content="corso di russo a bologna,
     corso di italiano a bologna,
     corso russo,
@@ -36,11 +38,20 @@
     preparazione esami universitari a Bologna,
     ">
 
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@BolognaRusso" />
+    <meta name="twitter:title" content="Corsi di Russo a Bologna" />
+    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
+    <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
+
+    <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
     <title>
-        Corso di Russo a Bologna - Associazione Portico delle Parole
+        Corsi di Russo a Bologna - Associazione Portico delle Parole
     </title>
 
     <script type="text/javascript">
@@ -65,7 +76,8 @@
 <div class="stretchy-wrapper" id="logo-wrapper">
     <div>
         <img src="./img/bologna-moscow-rainbow-portico.png"
-        alt="Portico delle parole. Associazione. Corso di lingua Russa"
+        alt="Logo Portico delle Parole"
+        title="Portico delle parole. Associazione. Corso di lingua Russa"
         />
     </div>
 </div>
@@ -143,13 +155,15 @@
     <div class="div-column col-half">
         <p>
             <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
-                <img src="./img/pin.svg" alt="" class="svg-icon"
+                <img src="./img/pin.svg" alt="Indirizzio" class="svg-icon"
+                title="Indirizzio del Portico delle Parole"
                 />via Nosadella 15 b, Bologna
             </a>
         </p>
         <p>
             <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
-                <img src="./img/facebook.svg" alt="" class="svg-icon"
+                <img src="./img/facebook.svg" alt="Facebook logo" class="svg-icon"
+                title="Seguici il Portico delle Parole su Facebook"
                 />Seguici su Facebook
             </a>
             <!-- <img src="./img/google.svg" alt="" style="width: 2em; margin-right: 0.5em; vertical-align: middle;"> -->
@@ -159,7 +173,9 @@
         <p>
             <!-- Olga -->
             <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
-                <img src="./img/phonecall.svg" alt="" class="svg-icon"/>
+                <img src="./img/phonecall.svg" alt="Phone" class="svg-icon"
+                title="Chiamaci al Portico delle Parole"
+                />
                 <span style="font-size: 180%">
                     <?php
                     $ts = strtotime('2016-08-02');
@@ -177,7 +193,8 @@
         <p>
             <a href="mailto:info@porticodelleparole.it">
                 <!-- style="text-decoration: none; color: #444;" -->
-                <img src="./img/mail.svg" alt="" class="svg-icon"
+                <img src="./img/mail.svg" alt="email" class="svg-icon"
+                title="email al Portico delle Parole"
                 />info@porticodelleparole.it
             </a>
         </p>
@@ -525,7 +542,7 @@
             di 1 ora e 15 min 
             <br/>
             <br/>
-            <b>20 = 16 lezioni</b><br>
+            <b>20 ore = 16 lezioni</b><br>
             di 1 ora e 15 min
         </p>
     </div>
@@ -539,7 +556,7 @@
             <br/>
             <br/>
             <b>20 ore = 13 lezioni</b><br>
-            La durata di ogni lezion è di 1 ora e 35 min
+            La durata di ogni lezione è di 1 ora e 35 min
             <br/>
             <br/>
             Puoi scegliere fra <b>due fasce orarie</b>:<br>
@@ -565,7 +582,7 @@
 </p>    
 
 <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
-<img src="./img/map.png" alt="Map: via Nosadella, 15B, Bologna">
+<img src="./img/map.png" alt="Map: via Nosadella, 15B, Bologna" title="mapa del Portico delle Parole">
 </a>
 
 <p>
