@@ -71,9 +71,11 @@
 </div>
 
 <div class="center">
-<p>Vuoi imparare <b>il russo parlato</b> e scritto in maniera coinvolgente, divertente e originale? 
-    Vieni da noi a frequentare il corso di russo <b>Immersione in Russia</b>!</p>
-</div>  
+    <p>Vuoi imparare <b>il russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento
+    interattivo e ben strutturato? Vieni a scoprire i nostri corsi <b>“Immersione in Russia”</b>, con insegnanti madrelingua russi!
+    </p>
+</div>
+
 
 <?php
 
@@ -86,19 +88,21 @@
     $now = strtotime("now");
     $days_left = 1 + floor(($start_date - $now)/(60*60*24));
 
-    $manca = "Solo " . $days_left . " giorni all'inizio!";
+    $manca = "Mancano solo " . $days_left . " giorni all'inizio delle lezioni!";
     if ($days_left == 1) {
-        $manca = "Solo 1 giorno all'inizio!";
+        $manca = "Manca solo 1 giorno all'inizio delle lezioni!";
     }
 
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
-        echo "<b>".$config['firstDateFormatted']."</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati";
+        echo "<b>".$config['firstDateFormatted']."</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati.";
         echo "<br/><b>", $manca, "</b>";
-        echo "<br/>Affrettatevi, i posti sono limitati.";
+        echo "<br/>Affrettati! I posti sono limitati.";
+        echo "<br/>Ti aspettiamo!"
         echo "</p></div>";
     }
 ?>
+
 <!--     <p>
         Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! 
         Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russe!<br/>Vi aspettiamo con impazienza!
@@ -180,10 +184,13 @@
     </div>
 </div>
 
-
 <p>
-    Ciao! Vieni da noi all’associazione culturale <b>Portico delle Parole</b> e troverai la piccola 
-    isola della cultura russa dentro le mura di Bologna. Per saperne di più guarda il video qui sotto.
+    Ciao, привет!
+</p>
+<p>
+    Vieni da noi all’associazione culturale <b>Portico delle Parole</b>, 
+    qui troverai una piccola isola della cultura russa all’interno delle mura di Bologna. 
+    Per saperne di più, guarda il video qui sotto.
 </p>
 
 
@@ -202,32 +209,32 @@
 </h2>
 
 <p>
-    Insegniamo il russo parlato e scritto utilizzando un percorso ben strutturato, 
-    che organizziamo per tutti i livelli, offrendo semplicità, divertimento e grande coinvolgimento.
+    Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per <b>tutti i livelli</b>, 
+    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!    
 </p>
-<p> 
-    Facciamo un esempio. Sei un principiante? <b>Che cosa impari in 13 lezioni, 20 ore</b>:
+<p>
+    Nel corso principianti di <b>12 lezioni (20 ore)</b> imparerai:
     <ul>
-        <li>L’alfabeto cirillico</li>
-        <li>Leggere semplici testi in cirillico</li>
-        <li>Scrivere un’email in russo (usando gli addesivi con le lettere in cirillico per la tua testiera)</li>
-        <li>Sostenere una conversazione su temi di uso quotidiano con un madrelingua russo</li>
-        <li>Parlare di te stesso e della tua famiglia</li>
-        <li>Chiedere informazioni in varie situazioni durante un viaggio in Russia</li>
-        <li>Le tradizioni e le feste russe</li>
+        <li>L’alfabeto cirillico;</li>
+        <li>Leggere semplici testi in cirillico;</li>
+        <li>Scrivere un’email in russo (usando gli addesivi con le lettere in cirillico per la tua testiera);</li>
+        <li>Sostenere una conversazione su temi di uso quotidiano con un madrelingua russo;</li>
+        <li>Parlare di te stesso e della tua famiglia;</li>
+        <li>Chiedere informazioni in varie situazioni durante un viaggio in Russia;</li>
+        <li>Le tradizioni e le feste russe.</li>
     </ul>
 </p>
 
-<h3>Che cosa è compreso nel corso:</h3>
+<h3>Nel corso sono compresi:</h3>
 
 <p>
     <ul>
-        <li>Il <b>manuale</b><!-- , che è fatto dai nostri insegnanti -->
-        <li>L’email settimanale con link per vedere video, ascoltare dialoghi, e materiali per fare i compiti
-        <li>Supporto per qualsiasi domanda riguardando al corso via email, Facebook, WhatsApp
-        <li><b>Workshop settimanale</b> di 1 ora e 30 minuti di ascolto, fonetica e lettura
-        <li>Una lezione di 1 ora e 30 minuti di recupero durante il corso
-        <li><b>L’aperitivo</b> russo alla fine o alla metà del corso
+        <li>Il <b>manuale</b>;
+        <li>Email settimanali con info, link e altri materiali utili per imparare il russo;
+        <li>Supporto via email, Facebook, WhatsApp per qualsiasi domanda riguardante i corsi e la lingua russa;
+        <li><b>Il laboratorio del lessico settimanale</b> (1 ora e 30 minuti);
+        <li>Lezioni di recupero per eventuali chiarimenti;
+        <li>Attività culturali gratuite per tutti i corsisti.
     </ul>
 </p>
 
@@ -242,9 +249,11 @@
     <p>
         Ma c’è di più! <b>Ogni sabato</b>, dalle 11:30 alle 13:30, la sede della nostra associazione si riempie di 
         colori e sapori grazie alla tradizionale cerimonia del tè. I russi amano bere il tè, che è parte integrante 
-        della tradizione, della cultura e della vita quotidiana in Russia. 
-        L’incontro &quot;<b>il te’ di sabato</b>&quot; &mdash; &quot;чай по субботам&quot; è un’opportunità unica per te 
-        per incontrare nuovi amici russi ed italiani, scambiare opinioni e riflessioni, e naturalmente praticare il tuo russo. 
+        della tradizione, della cultura e della vita quotidiana in Russia.
+    </p>
+    <p>
+        L’incontro &quot;<b>il te’ del sabato</b>&quot; &mdash; &quot;чай по субботам&quot; è un’opportunità unica per 
+        incontrare nuovi amici russi ed italiani, scambiare opinioni e riflessioni, e naturalmente praticare il tuo russo. 
         Ogni settimana viene affrontato un argomento nuovo, <b>in russo e in italiano</b>, per scoprire le tradizioni, 
         la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
@@ -259,18 +268,19 @@
             </div>
         </div>
     </div>
-    <p>Oltre alla lezione canonica ti diamo tanta possibilità di praticare il tuo russo con utilissime 
-        attività extra quali ad esempio i <b>laboratori del lessico, incontri settimanali, gratuiti</b>.</p>
-
+    <p>
+        Oltre alle lezioni del corso, hai l’opportunità di praticare il tuo russo con attività extra molto utili, 
+        come, ad esempio, i <b>laboratori del lessico e gli incontri settimanali, totalmente gratuiti</b>.
+    </p>
     <p>Con il laboratorio del lessico avrai la possibilità di:
         <ul>
-            <li>Frequentare le lezioni gratuite una volta alla settimana (per tutti i corsisti).</li>
-            <li>Imparare nuove parole e metterle subito in pratica.</li>
-            <li>Approfondire il lessico in piccoli gruppi del tuo livello con I madrelingua.</li>
-            <li>Fare conversazione con I madrelingua e con le persone del tuo stesso livello.</li>
-            <li>Chiedere per qualsiasi domanda.</li>
-            <li>Confrontarsi con le persone presenti al corso che come te vogliono parlare in russo.</li>
-            <li>Avere a disposizione il materiale didattico necessario per imparare senza costi aggiuntivi.</li>
+            <li>Accedere gratuitamente alle lezioni una volta alla settimana, con partecipazione libera per tutti i corsisti;</li>
+            <li>Imparare nuove parole e metterle subito in pratica;</li>
+            <li>Approfondire il lessico in piccoli gruppi del tuo livello;</li>
+            <li>Fare conversazione con I madrelingua e con le persone del tuo stesso livello;</li>
+            <li>Chiarire determinati argomenti e temi;</li>
+            <li>Confrontarsi con le persone presenti al corso, che come te vogliono imparare il russo;</li>
+            <li>Disporre dei materiale didattico necessario per imparare senza costi aggiuntivi.</li>
         </ul>
     </p>
 </div>
@@ -280,7 +290,7 @@
     I nostri insegnanti
 </h2>
 <p>
-    I nostri insegnanti sono tutti <b>madrelingua russi</b> laureati nell'insegnamento della lingua russa per stranieri:
+    I nostri insegnanti sono tutti <b>madrelingua russi</b>, specializzati nell'insegnamento della lingua russa per stranieri:
 </p>
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
@@ -450,7 +460,7 @@
 
 
 <h2>
-    Prezzi per i corsi di russo
+    Prezzi
 </h2>
 
 <div class="div-table price-table">
@@ -474,7 +484,7 @@
             10 ore – 147&#8364; (14,7 all'ora)
         <p/>
         <p>
-            Si paga il costo a persona
+            Prezzo a persona
         </p>
     </div>
     <div class="div-column col-third">
@@ -485,19 +495,19 @@
             20 ore – <span style="text-decoration: line-through;">240&#8364;</span> <span style="color:red">adesso in offerta 197&#8364;</span>  (9,8 all'ora)
         </p>
         <p>
-            Il gruppo è formato da 5 a 10 persone</span>
+            I gruppi sono formati da 5 &mdash; max. 10 persone</span>
         </p>
     </div>
 </div>
 
 <p>
-    Siccome siamo un’associazione culturale è obbligatorio il rilascio della tessera associativa che costa 20&#8364;.
+    È obbligatorio il rilascio di una tessera associativa del costo di 20&#8364;.
 </p>
 
 
 
 <h2>
-    Orari dei corsi di russo
+    Orario delle lezioni
 </h2>
 
 <div class="div-table hours-table">
@@ -507,15 +517,15 @@
             <span style="font-size: 75%">10 ore o 20 ore</span></h3>
         </div>
         <p>
-            Si può fare lezione <b>qualsiasi giorno settimana a qualsiasi ora</b> 
-            e si può anche fissare l’appuntamento di volta in volta per le lezioni successive.
+            È possibile fare lezioni in qualsiasi giorno della settimana, dal lun al sab, all’orario che ti è più comodo. 
+            Si può, inoltre, concordare le lezioni successive, volta per volta.
             <br/>
             <br/>
-            <b>In 10 ore ci sono 8 lezioni</b><br>
+            <b>10 ore = 8 lezioni</b><br>
             di 1 ora e 15 min 
             <br/>
             <br/>
-            <b>In 20 ore ci sono 16 lezioni</b><br>
+            <b>20 = 16 lezioni</b><br>
             di 1 ora e 15 min
         </p>
     </div>
@@ -528,11 +538,11 @@
             Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso.
             <br/>
             <br/>
-            <b>In 20 ore ci sono 13 lezioni</b><br>
-            La durata della lezione è di 1 ora e 35 min 
+            <b>20 ore = 13 lezioni</b><br>
+            La durata di ogni lezion è di 1 ora e 35 min
             <br/>
             <br/>
-            Puoi sceglere fra <b>due fasce orarie</b>:<br>
+            Puoi scegliere fra <b>due fasce orarie</b>:<br>
             1) dalle 18:15 alle 19:50<br>
             2) dalle 20:00 alle 21:35
         </p>
