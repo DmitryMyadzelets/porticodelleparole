@@ -98,7 +98,7 @@
         echo "<b>".$config['firstDateFormatted']."</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati.";
         echo "<br/><b>", $manca, "</b>";
         echo "<br/>Affrettati! I posti sono limitati.";
-        echo "<br/>Ti aspettiamo!"
+        echo "<br/>Ti aspettiamo!";
         echo "</p></div>";
     }
 ?>
@@ -204,9 +204,9 @@
 </div>
 
 
-<h2>
+<h1>
     Corsi di russo
-</h2>
+</h1>
 
 <p>
     Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per <b>tutti i livelli</b>, 
