@@ -83,11 +83,13 @@
 </div>
 
 <div class="center">
-    <p>Vuoi imparare <b>il russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento
-    interattivo e ben strutturato? Vieni a scoprire i nostri corsi <b>“Immersione in Russia”</b>, con insegnanti madrelingua russi!
+    <p>
+        Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento 
+        interattivo e ben strutturato? 
+        Vieni a scoprire i nostri corsi, <b>con madrelingua russi</b> specializzati nell’insegnamento del russo 
+        per stranieri e della cultura russa!
     </p>
 </div>
-
 
 <?php
 
@@ -269,12 +271,27 @@
         della tradizione, della cultura e della vita quotidiana in Russia.
     </p>
     <p>
-        L’incontro &quot;<b>il te’ del sabato</b>&quot; &mdash; &quot;чай по субботам&quot; è un’opportunità unica per 
+        L’incontro <b><q>il tè del sabato</q></b> &mdash; <q>чай по субботам</q> è un’opportunità unica per 
         incontrare nuovi amici russi ed italiani, scambiare opinioni e riflessioni, e naturalmente praticare il tuo russo. 
         Ogni settimana viene affrontato un argomento nuovo, <b>in russo e in italiano</b>, per scoprire le tradizioni, 
         la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
+    <div style="display: none">
+        <p>
+            Solo l’anno scorso abbiamo trattato tanti argomenti molto interessanti. Ecco l’elenco:
+        </p>
+        <ul>
+            <li>a</li>
+        </ul>
+        <p>
+            E ce ne sono molti altri ancora! Insieme a questi argomenti, sono stati organizzati diversi eventi, 
+            aperti a tutti i corsisti, completamente gratuiti. Guarda qui sotto:
+        </p>
+        <ul>
+            <li>b</li>
+        </ul>
+    </div>
 </div>
 
 <div>
@@ -413,7 +430,7 @@
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Liubov, 29 anni, Volgograd - San Pietroburgo, Russia
+        Liubov, 29 anni, Volgograd - San Pietroburgo, Russia (lezioni di cultura russa)
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
@@ -424,37 +441,22 @@
     </div>
     <div itemprop="reviewbody">
         <p>
-            Mi sono laureata in giornalismo all’Università statale di San Pietroburgo, 
-            dove ho scritto la tesi finale sulla tv italiana. Sono stata sempre interessata ai rapporti tra 
-            l’Italia e la Russia anche quando poi ho lavorato come giornalista a San Pietroburgo.
-            L’altro mio grande interesse sono sempre state le lingue: sia il russo che le lingue straniere. 
+            Nel 2013 sono venuta a Bologna per dedicarmi alla ricerca nel dottorato presso l’Università di Bologna. 
+            Il tema della mia ricerca riguarda i rapporti tra il cinema sovietico e l’Italia. 
         </p>
         <span id="liubov_readmore" style="display: none">
             <p>
-                A San Pietroburgo ho studiato per un anno anche alla Facoltà di
-                Filologia all’Università statale pedagogica di Herzen, dove ho conosciuto le lingue
-                antiche slave che mi hanno aiutato molto a capire la mia lingua madre. Poi ho
-                avuto anche vissuto l’esperienza da ‘exchange student’ all’Università Roma Tre,
-                al Dipartimento di studi Umanistici. Per ora posso dire che parlo cingue lingue
-                straniere più il russo : ) Per me è sempre un piacere condivere la mia esperienza
-                di studio con gli allunni del corso di russo.
+                Collaboro con l’Associazione “Portico delle parole” dal Novembre 2014, facendo lezioni sulla cultura 
+                russa durante il nostro abitudinario <q>tè’ del sabato</q> &mdash; <q>чай по субботам</q> e i vari 
+                incontri extra: parliamo di cinema, lingua, storia, etc. (vedi Lista degli argomenti del tè del sabato).
+                Essere di Volgograd (ex-Stalingrado), vivere molti anni a San Pietroburgo e viaggiare molto 
+                in Russia&hellip; queste esperienze mi hanno fatto vedere quanto è diverso il mio paese e mi hanno 
+                dato la possibilità di conoscerlo meglio. È ciò di cui racconto con grande piacere durante le 
+                mie lezioni al Portico delle Parole.
             </p>
             <p>
-                Nel 2013 sono venuta a Bologna per dedicarmi alla ricerca nel dottorato
-                all’Università di Bologna. E ancora una volta il tema della mia ricerca riguarda i
-                rapporti tra il cinema sovietico e l’Italia.
-            </p>
-            <p>
-                Collaboro con l’Associazione “Portico delle parole” gia’ da 2 anni facendo le
-                lezioni sulla cultura russa: il cinema, la lingua, la storia, etc. Essere di Volgograd
-                (ex-Stalingrado), vivere molti anni a San Pietroburgo e viaggiare molto in Russia
-                &mdash; queste esperienze mi hanno fatto vedere quanto è diverso il mio paese e mi
-                hanno dato la possibilità di conoscerlo meglio. È ciò che racconto con grande
-                piacere durante le mie lezioni al Portico delle Parole. 
-            </p>
-            <p>
-                Sono lieta di condividere con te le mie conoscenze della lingua e della cultura russa. Vieni ai lezioni al Portico
-                delle Parole e ti si aprirà il mondo russo a Bologna!
+                Sono lieta di condividere con te le mie conoscenze della lingua e della cultura russa. Vieni alle lezioni 
+                al Portico delle Parole e il mondo russo bolognese ti si aprirà davanti agli occhi!
             </p>
         </span>            
         <p>
@@ -520,7 +522,11 @@
 <p>
     È obbligatorio il rilascio di una tessera associativa del costo di 20&#8364;.
 </p>
-
+<p>
+    Metodi di pagamento: contanti, bonifico, assegno bancario. Dati per effettuare il bonifico:<br>
+    Intestatario: Portico delle Parole<br>
+    IBAN: IT27M0200802480000103405231
+</p>
 
 
 <h2>
@@ -534,16 +540,16 @@
             <span style="font-size: 75%">10 ore o 20 ore</span></h3>
         </div>
         <p>
-            È possibile fare lezioni in qualsiasi giorno della settimana, dal lun al sab, all’orario che ti è più comodo. 
+            È possibile fare lezioni in qualsiasi giorno della settimana, dal lunedì al sabato, all'orario che ti è più comodo. 
             Si può, inoltre, concordare le lezioni successive, volta per volta.
             <br/>
             <br/>
             <b>10 ore = 8 lezioni</b><br>
-            di 1 ora e 15 min 
+            di 1 ora e 15 min (durata consigliata)
             <br/>
             <br/>
             <b>20 ore = 16 lezioni</b><br>
-            di 1 ora e 15 min
+            di 1 ora e 15 min (durata consigliata)
         </p>
     </div>
     <div class="div-column col-half">
@@ -574,23 +580,22 @@
 </div>
 
 <h2>
-    Dove si trova la sede dell’associazione
+    Dove trovarci
 </h2>
 
 <p>
-    Ci troviamo nel vero e proprio cuore di Bologna, nel centro storico, in via Nosadella, 15 B. 
-</p>    
+    L'associazione si trova in pieno centro storico di Bologna, in via Nosadella, 15 B, a soli 20 minuti dalla Stazione Centrale.
+    È facilmente raggiungibile da ogni parte della città, a piedi o con:
+</p>
+<ul>
+    <li>Autobus (fermata piazza Malpighi);</li>
+    <li>Macchina (parcheggi: parcheggio nella piazzetta di Porta Saragozza a 5 minuti di distanza a piedi; 
+        parcheggio Liceo Righi).</li>
+</ul>
 
 <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
 <img src="./img/map.png" alt="Map: via Nosadella, 15B, Bologna" title="mapa del Portico delle Parole">
 </a>
-
-<p>
-    Posto che puoi raggiungere molto facilmente da tutte le parti della città. 
-    C’è anche il parcheggio pubblico nella piazzetta di Porta Saragozza che si trova a 5-7 min di cammino.
-</p>
-
-
 
 <script type="text/javascript">
 <!--
@@ -605,6 +610,11 @@ function autoResize(id){
 //-->   
 </script>
 
+<h2>Iscriviti online!</h2>
+
+<p>
+     Compila il modulo e ti contatteremo a breve!
+</p>
 
 <div>
     <iframe id="iscrizione" src="./iscrizione.php" 
@@ -613,20 +623,18 @@ function autoResize(id){
 </div>  
 
 <p>
-Quando vieni presso la nostra sede per effettuare l’iscrizione e versare la quota di partecipazione, 
-ci accordiamo per il giorno e l’ora esatti della prima lezione!
+    Al momento dell'iscrizione in associazione e del versamento della quota di partecipazione, 
+    verranno stabilite data e orario di inizio della prima lezione.
 </p>
 
 
-
-
 <h2>
-    Infine
+    In conclusione
 </h2>   
 
 <p>
-    Ti vogliamo ringraziare per averci dedicato il tuo tempo. Siamo sicuri che il nostro corso sarà 
-    per te molto utile e interessante, se vuoi immergerti nel mondo della lingua e cultura russe!
+    Ti ringraziamo per averci dedicato il tuo tempo. Contattaci per conoscerci e saperne di più dei 
+    corsi e delle nostre attività. Una volta conosciuti la lingua e la cultura russa, non potrai più farne a meno!
 </p>
 
 
@@ -650,7 +658,7 @@ ci accordiamo per il giorno e l’ora esatti della prima lezione!
         <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>
     </p>
     <p>
-        C.F.: 91361610370 &mdash; IBAN: IT27M0200802480000103405231
+        C.F.: 91361610370
     </p>
 </div>
 

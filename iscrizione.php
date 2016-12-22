@@ -100,7 +100,7 @@
 		<input type="text" name="age" size="7em" value="<?php echo $_POST['age']?>">
 	</p>
 
-	<p>Giorni e ora preferiti per frequentare lezioni (scegliere più varianti possibili)<br/>
+	<p>Giorni della settimana e orari di disponibilità per le lezioni (indicare più varianti)<br/>
 		<input type="text" name="schedule" style="width:100%" value="<?php echo $_POST['schedule']?>">
 	</p>
 
@@ -109,7 +109,7 @@
 		<input type="text" name="email" style="width:100%" value="<?php echo $_POST['email']?>">
 	</p>
 
-	<p>Numero di telefono (opzionale)<br/>
+	<p>Numero di telefono<br/>
 		<input type="text" name="phone" size="15em" value="<?php echo $_POST['phone']?>">
 	</p>
 
