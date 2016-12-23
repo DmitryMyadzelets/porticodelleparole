@@ -561,13 +561,13 @@
             Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso.
             <br/>
             <br/>
-            <b>20 ore = 13 lezioni</b><br>
-            La durata di ogni lezione è di 1 ora e 35 min
+            <b>20 ore = 12 lezioni</b><br>
+            La durata di ogni lezione è di 1 ora e 40 min
             <br/>
             <br/>
             Puoi scegliere fra <b>due fasce orarie</b>:<br>
-            1) dalle 18:15 alle 19:50<br>
-            2) dalle 20:00 alle 21:35
+            1) dalle 18:15 alle 19:55<br>
+            2) dalle 20:05 alle 21:45
         </p>
     </div>
 </div>
