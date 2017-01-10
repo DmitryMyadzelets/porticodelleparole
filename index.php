@@ -525,7 +525,8 @@
 <p>
     Metodi di pagamento: contanti, bonifico, assegno bancario. Dati per effettuare il bonifico:<br>
     Intestatario: Portico delle Parole<br>
-    IBAN: IT27M0200802480000103405231
+    IBAN: IT27M0200802480000103405231<br>
+    BIC: UNCRITM1OM0
 </p>
 
 
