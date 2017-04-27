@@ -227,10 +227,11 @@
     Corsi di russo
 </h1>
 
-<p>
-    Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per <b>tutti i livelli</b>, 
-    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!    
+<p>Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per <b>tutti i livelli
+    (A1, A2, B1, B2, C1)</b>, offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!
+    Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.
 </p>
+
 <p>
     Nel corso principianti di <b>12 lezioni (20 ore)</b> imparerai:
     <ul>
@@ -243,6 +244,16 @@
         <li>Le tradizioni e le feste russe.</li>
     </ul>
 </p>
+
+<p>
+    Per conoscere il programma dei livelli successivi, contattaci direttamente.
+</p>
+
+<p>
+    Se non sei un principiante, vieni in associazione per un <b>incontro personale gratuito</b> e 
+    ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello.
+</p>
+
 
 <h3>Nel corso sono compresi:</h3>
 
