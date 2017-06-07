@@ -331,8 +331,42 @@
 </div>
 
 
+<section>
+    <h2>
+        Corsi di russo speciali
+    </h2>
+    <p>
+        Su richiesta, sono disponibili i seguenti <a href="corsi-speciali/">corsi speciali</a>:
+        <ul>
+            <li>
+                <a href="corsi-speciali/#russo-per-adozione">
+                    Russo per adozione
+                </a>
+            </li>
+            <li>
+                <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
+                    Russo per preparazione esami universitari
+                </a>
+            </li>
+            <li>
+                <a href="corsi-speciali/#russo-per-azienda">
+                    Russo per l’azienda
+                </a>
+            </li>
+            <li>
+                <a href="corsi-speciali/#russo-per-viaggiare">
+                    Russo per viaggiare
+                </a>
+            </li>
+        </ul>
+    </p>
+</section>
+
+
 <h2>
-    I nostri insegnanti
+    <a name="i-nostri-insegnanti">
+        I nostri insegnanti
+    </a>
 </h2>
 <p>
     I nostri insegnanti sono tutti <b>madrelingua russi</b>, specializzati nell'insegnamento della lingua russa per stranieri:
@@ -478,7 +512,9 @@
 
 
 <h2>
-    Dicono di noi
+    <a name="dicono-di-noi">
+        Dicono di noi
+    </a>
 </h2>
 
 
@@ -592,7 +628,9 @@
 </div>
 
 <h2>
-    Dove trovarci
+    <a name="dove-trovarci">
+        Dove trovarci
+    </a>
 </h2>
 
 <p>
