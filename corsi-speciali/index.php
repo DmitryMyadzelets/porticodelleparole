@@ -8,11 +8,11 @@
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
     offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
     <meta name="keywords" content="
-	corsi di russo speciali,
-	corso di russo per adozione,
-	corso di russo per preparazione esami universitari,
-	corso di russo per azienda,
-	corso di russo per viaggiare
+    corsi di russo speciali,
+    corso di russo per adozione,
+    corso di russo per preparazione esami universitari,
+    corso di russo per azienda,
+    corso di russo per viaggiare
     ">
 
     <!-- Twitter card -->
@@ -59,13 +59,64 @@
 </div>
 
 <section>
+    <div class="div-table contacts-table">
+        <div class="div-column col-half">
+            <p>
+                <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
+                    <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
+                    title="Indirizzio del Portico delle Parole"
+                    />via Nosadella 15 b, Bologna
+                </a>
+            </p>
+            <p>
+                <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
+                    <img src="/img/facebook.svg" alt="Facebook logo" class="svg-icon"
+                    title="Seguici il Portico delle Parole su Facebook"
+                    />Seguici su Facebook
+                </a>
+            </p>
+        </div>
+        <div class="div-column col-half">
+            <p>
+                <!-- Olga -->
+                <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
+                    <img src="/img/phonecall.svg" alt="Phone" class="svg-icon"
+                    title="Chiamaci al Portico delle Parole"
+                    />
+                    <span style="font-size: 180%">
+                        <?php
+                        $ts = strtotime('2016-08-02');
+                        $te = strtotime('2016-08-26');
+                        $t0 = time();
+                        if ($t0 > $te || $t0 < $ts) {
+                            echo('Tel. 327 661 7027'); // Olga
+                        } else {
+                            echo('Tel. 388 465 0676'); // Luba
+                        }                    
+                        ?>
+                    </span>
+                </a>
+            </p>
+            <p>
+                <a href="mailto:info@porticodelleparole.it">
+                    <!-- style="text-decoration: none; color: #444;" -->
+                    <img src="/img/mail.svg" alt="email" class="svg-icon"
+                    title="email al Portico delle Parole"
+                    />info@porticodelleparole.it
+                </a>
+            </p>
+        </div>
+    </div>
+</section>
+
+<section>
     <h1>
         Corsi di russo speciali
     </h1>
 
     <h2>
         <a name="russo-per-adozione">
-        	Russo per adozione
+            Russo per adozione
         </a>
     </h2>
     <p>
@@ -87,9 +138,9 @@
     </p>
 
     <h2>
-    	<a name="russo-per-preparazione-esami-universitari">
-    		Russo per preparazione esami universitari
-    	</a>
+        <a name="russo-per-preparazione-esami-universitari">
+            Russo per preparazione esami universitari
+        </a>
     </h2>
     <p>
         Questo corso ti permetterà di superare sia la parte scritta che quella orale degli 
@@ -104,9 +155,9 @@
     </p>
 
     <h2>
-    	<a name="russo-per-azienda">
-    		Russo per l’azienda
-    	</a>       
+        <a name="russo-per-azienda">
+            Russo per l’azienda
+        </a>       
     </h2>
     <p>
         Fin dalle prime lezione avrai modo apprendere e comprendere:
@@ -126,9 +177,9 @@
     </p>
 
     <h2>
-    	<a name="russo-per-viaggiare">
-        	Russo per viaggiare
-    	</a>
+        <a name="russo-per-viaggiare">
+            Russo per viaggiare
+        </a>
     </h2>
     <p>
         Programma per imparare come usare la lingua russa nelle situazioni di viaggio più comuni.
@@ -151,11 +202,11 @@
 <hr>
 
 <section>
-	<p>
-		Guarda <a href="/#i-nostri-insegnanti">i nostri insegnanti</a>, 
-		cosa <a href="/#dicono-di-noi">dicono di noi</a> e
-		<a href="/#dove-trovarci">dove trovarci</a>.
-	</p>
+    <p>
+        Guarda <a href="/#i-nostri-insegnanti">i nostri insegnanti</a>, 
+        cosa <a href="/#dicono-di-noi">dicono di noi</a> e
+        <a href="/#dove-trovarci">dove trovarci</a>.
+    </p>
 </section>
 
 </div>
