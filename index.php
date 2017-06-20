@@ -449,29 +449,6 @@
     </div>
 </div>
 
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author">
-        Ksenia, 29 anni, Mosca, Russia
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="./img/ksenia.jpg" alt="Foto di Ksenia"/>
-            </div>
-        </div>
-    </div>
-    <div itemprop="reviewbody">
-        <p>Abito a Bologna dal 2012 e mi sono laureata in Linguistica all'Università di Bologna. 
-        Al momento sto lavorando presso la Scuola di Lingue e Letterature Straniere 
-        dell'Università di Bologna: tengo un corso di esercitazioni di lingua russa.</p>
-        <p>Durante le mie lezioni faccio di tutto per coinvolgere al massimo gli studenti, 
-        creando un atmosfera amichevole e divertente, avvicinandosi passo dopo passo allo 
-        scopo principale &mdash; parlare il russo, ed è proprio questo risultato dell'insegnamento 
-        che mi da più soddisfazione! Venite anche voi all'Associazione a scoprire un mondo nuovo, 
-        della lingua e della cultura russa!</p>
-    </div>
-</div>
-
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
