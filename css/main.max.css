@@ -249,3 +249,9 @@ div.review_photo > div {
     margin-right: 0.5em;
     vertical-align: middle;
 }
+
+.course-description > img {
+    float: left;
+    width: 10em;
+    margin: 0 2em 1em 0;
+}
