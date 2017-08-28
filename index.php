@@ -288,6 +288,10 @@
         la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
+    <p>
+        Guarda gli argomenti al <a href="te-di-sabato/">tè di sabato e eventi speciali</a> nell anno 2017.
+    </p>
+
     <div style="display: none">
         <p>
             Solo l’anno scorso abbiamo trattato tanti argomenti molto interessanti. Ecco l’elenco:

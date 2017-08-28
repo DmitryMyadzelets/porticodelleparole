@@ -28,7 +28,7 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
     <title>
-        Corsi di Russo Speciali a Bologna - Associazione Portico delle Parole
+        Corsi di Russo Speciali a Bologna &mdash; Associazione Portico delle Parole
     </title>
 
     <script type="text/javascript">

@@ -255,3 +255,9 @@ div.review_photo > div {
     width: 10em;
     margin: 0 2em 1em 0;
 }
+
+.authors {
+    font-style: italic;
+    color: gray;
+    display: block;
+}
