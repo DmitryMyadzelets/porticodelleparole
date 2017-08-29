@@ -86,7 +86,7 @@
     <p>
         Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento 
         interattivo e ben strutturato? 
-        Vieni a scoprire i nostri corsi, <b>con madrelingua russi</b> specializzati nell’insegnamento del russo 
+        Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo 
         per stranieri e della cultura russa!
     </p>
 </div>
@@ -208,8 +208,10 @@
 </p>
 <p>
     Vieni da noi all’associazione culturale <b>Portico delle Parole</b>, 
-    qui troverai una piccola isola della cultura russa all’interno delle mura di Bologna. 
-    Per saperne di più, guarda il video qui sotto.
+    qui troverai una piccola isola della cultura russa all’interno delle mura di Bologna.
+    L’associazione <q>Portico delle Parole</q> è particolarmente apprezzata per il suo <b>ambiente professionale, 
+    stimolante ed accogliente</b>, nel quale i nostri corsisti apprendono in maniera piacevole e dinamica 
+    la lingua e la cultura russa. Per saperne di più, guarda il video qui sotto.
 </p>
 
 
@@ -246,7 +248,7 @@
 </p>
 
 <p>
-    Per conoscere il programma dei livelli successivi, contattaci direttamente.
+    Per conoscere il <b>programma dei livelli successivi</b>, contattaci direttamente.
 </p>
 
 <p>
@@ -289,7 +291,7 @@
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
     <p>
-        Guarda gli argomenti al <a href="te-di-sabato/">tè di sabato e eventi speciali</a> nell anno 2017.
+        Guarda gli argomenti al <a href="te-di-sabato/">tè del sabato e eventi speciali</a> nell anno 2017.
     </p>
 
     <div style="display: none">
@@ -550,8 +552,12 @@
 <p>
     È obbligatorio il rilascio di una tessera associativa del costo di 20&#8364;.
 </p>
+
+<h2>
+    Metodi di pagamento
+</h2>
 <p>
-    Metodi di pagamento: contanti, bonifico, assegno bancario. Dati per effettuare il bonifico:<br>
+    I metodi di pagamento: contanti, bonifico, assegno bancario. Dati per effettuare il bonifico:<br>
     Intestatario: Portico delle Parole<br>
     IBAN: IT27M0200802480000103405231<br>
     BIC: UNCRITM1OM0
@@ -607,6 +613,15 @@
         Quest'anno c'è una novità! Offriamo infatti anche corsi di lingua e cultura italiane per stranieri, bambini e adulti. Sono lezioni individuali, il cui contenuto si cerca di adattare alle esigenze personali di ogni studente, affinché risultino interessanti e produttive! Il costo è di soli 19 euro all'ora. Sappiamo che cominciare a vivere in un nuovo paese è difficile, e per questo saremo felici di aiutarvi a fare conoscenza meglio e più in fretta con la lingua e la cultura italiane! Vi invitiamo con gioia ai nostri corsi e vi aspettiamo numerosi!
     </p>    
 </div>
+
+<h2>
+    Attestato di partecipazione
+</h2>
+<p>
+    Su richiesta, sarà rilascio un attestato di partecipazione, sia per corso collettivo che individuale. 
+    Per il rilascio di tale certificato, è necessario aver frequentato almeno 16 ore su 20 del proprio corso.
+</p>
+
 
 <h2>
     <a name="dove-trovarci">

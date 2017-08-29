@@ -26,7 +26,7 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
     <title>
-        Tè di sabato &mdash; Associazione Portico delle Parole
+        Tè del sabato &mdash; Associazione Portico delle Parole
     </title>
 
     <script type="text/javascript">
@@ -113,7 +113,7 @@
     </h1>
 
     <h2>
-        Gli argomenti al tè di sabato (чай по субботам)
+        Gli argomenti al tè del sabato (чай по субботам)
     </h2>
 
     <h3>
@@ -223,7 +223,7 @@
     </h2>
     <ul>
         <li>
-            Film “Formula liubvi”.
+            Film <q>Formula liubvi</q>.
             <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
         </li>
         <li>
@@ -231,7 +231,7 @@
             <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
         </li>
         <li>
-            Seminario “Strumenti per imparare la lingua russa”.
+            Seminario <q>Strumenti per imparare la lingua russa<q/>.
             <span class='authors'>Olga Miadzeletc di Irkutsk e Comasia Fumarola di Bologna</span>
         </li>
         <li>
