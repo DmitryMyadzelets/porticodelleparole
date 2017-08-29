@@ -291,7 +291,7 @@
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
     <p>
-        Guarda gli argomenti al <a href="te-di-sabato/">tè del sabato e eventi speciali</a> nell anno 2017.
+        Guarda gli argomenti al <a href="te-di-sabato/">tè del sabato e degli eventi speciali</a> nel 2017.
     </p>
 
     <div style="display: none">
