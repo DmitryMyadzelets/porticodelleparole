@@ -266,9 +266,11 @@
         <li>Supporto via email, Facebook, WhatsApp per qualsiasi domanda riguardante i corsi e la lingua russa;
         <li><b>Il laboratorio del lessico settimanale</b> (1 ora e 30 minuti);
         <li>Lezioni di recupero per eventuali chiarimenti;
-        <li>Attività culturali gratuite per tutti i corsisti.
+        <li>Attività culturali gratuite per tutti i corsisti: tè del sabato e gli eventi speciali.
     </ul>
 </p>
+
+<h3>Tè del sabato (чай по субботам)</h3>
 
 <div>
     <div class="review_photo">
@@ -279,37 +281,25 @@
         </div>
     </div>
     <p>
-        Ma c’è di più! <b>Ogni sabato</b>, dalle 11:30 alle 13:30, la sede della nostra associazione si riempie di 
+        <b>Ogni sabato</b>, dalle 11:30 alle 13:30, la sede della nostra associazione si riempie di 
         colori e sapori grazie alla tradizionale cerimonia del tè. I russi amano bere il tè, che è parte integrante 
         della tradizione, della cultura e della vita quotidiana in Russia.
     </p>
     <p>
-        L’incontro <b><q>il tè del sabato</q></b> &mdash; <q>чай по субботам</q> è un’opportunità unica per 
+        L’incontro <q>il tè del sabato</q> è un’opportunità unica per 
         incontrare nuovi amici russi ed italiani, scambiare opinioni e riflessioni, e naturalmente praticare il tuo russo. 
         Ogni settimana viene affrontato un argomento nuovo, <b>in russo e in italiano</b>, per scoprire le tradizioni, 
         la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
     <p>
-        Guarda gli argomenti al <a href="te-di-sabato/">tè del sabato e degli eventi speciali</a> nel 2017.
+        Il <q>tè del sabato</q> è un’attività settimanale che va avanti dal 2014.
+        Potrai vedere l’elenco degli argomenti svolti negli ultimi due anni: 
+        <a href="te-di-sabato/">2017</a>, <a href="te-di-sabato/2016/">2016</a>.
     </p>
-
-    <div style="display: none">
-        <p>
-            Solo l’anno scorso abbiamo trattato tanti argomenti molto interessanti. Ecco l’elenco:
-        </p>
-        <ul>
-            <li>a</li>
-        </ul>
-        <p>
-            E ce ne sono molti altri ancora! Insieme a questi argomenti, sono stati organizzati diversi eventi, 
-            aperti a tutti i corsisti, completamente gratuiti. Guarda qui sotto:
-        </p>
-        <ul>
-            <li>b</li>
-        </ul>
-    </div>
 </div>
+
+<h3>Laboratorio del lessico, conversazione, fonetica e corsivo</h3>
 
 <div>
     <div class="review_photo">
@@ -321,7 +311,7 @@
     </div>
     <p>
         Oltre alle lezioni del corso, hai l’opportunità di praticare il tuo russo con attività extra molto utili, 
-        come, ad esempio, i <b>laboratori del lessico e gli incontri settimanali, totalmente gratuiti</b>.
+        come, ad esempio, <b>i laboratori del lessico e gli incontri settimanali, totalmente gratuiti</b>.
     </p>
     <p>Con il laboratorio del lessico avrai la possibilità di:
         <ul>
@@ -544,7 +534,7 @@
             20 ore – <span style="text-decoration: line-through;">240&#8364;</span> <span style="color:red">adesso in offerta 197&#8364;</span>  (9,8 all'ora)
         </p>
         <p>
-            I gruppi sono formati da 5 &mdash; max. 10 persone</span>
+            I gruppi sono formati da 5 &mdash; max. 11 persone</span>
         </p>
     </div>
 </div>

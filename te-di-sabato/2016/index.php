@@ -109,7 +109,7 @@
 
 <section>
     <h1>
-        Anno 2017 &mdash; gli argomenti degli incontri per tutti i livelli del corso di russo
+        Anno 2016 &mdash; gli argomenti degli incontri per tutti i livelli del corso di russo
     </h1>
 
     <h2>
@@ -117,139 +117,172 @@
     </h2>
 
     <h3>
-        Feste tradizionali russe e dell'ex Unione Sovietica
+        Feste tradizionali russe
     </h3>
-    <img src="/img/te-di-sabato-2017-feste.jpg">
+    <img src="/img/te-di-sabato-2016-feste.jpg">
     <ul>
         <li>
-            <b>Kolyada</b>: la tradizione antica di prevedere il futuro la notte della vigilia di Natale.
-            <span class='authors'>Daria Kanishcheva di Pskov</span>            
+            Festeggiamento del 9 Maggio &mdash; <b>la giornata della vittoria</b> nella seconda guerra mondiale: 
+            storia, canzoni, racconti.
+            <span class='authors'>Olga Miadzeletc di Irkutsk</span>
         </li>
         <li>
-            <b>Maslenitsa</b> &mdash; il carnevale russo: come si festeggiava la Maslenitsa prima e come si
-            festeggia adesso, Maslenitsa in letteratura, folklore, arte, canzoni ecc, tante curiosità su
-            questa festa e tanti bliny (le crepe’).
-            <span class='authors'>Daria Kanishcheva di Pskov e Evgenia Litvin di Mosca</span>
+            23 di febbraio <b><q>festa di tutti gli uomini</q></b> &mdash; giorno dei difensori della Patria 
+            (День Защитника Отечества). Storia della festa, festeggiamento.
         </li>
         <li>
-            <b>Norouz</b> (Наурыз) &mdash; è una ricorrenza tradizionale di Kazakistan che celebra il nuovo
-            anno: storia, tradizioni, cibo tipico, cose particolari della festa.
-            <span class='authors'>Zhanar Zhakiyeva di Kazakistan</span>
-        </li>
-        <li>
-            <b>Giorno della Vittoria</b> della seconda guerra mondiale: la battaglia di Stalingrado,
-            l’Assedio di Leningrado, tanti fatti interessanti sulla guerra che non sono conosciute nel
-            mondo occidentale, canzoni patriottiche.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+            8 marzo &mdash; <b>giorno internazionale della donna</b>. Storia della festa, festeggiamento.
         </li>
     </ul>
 
     <h3>Storia</h3>
-    <img src="/img/te-di-sabato-2017-storia.jpg">
+    <img src="/img/te-di-sabato-2016-storia.jpg">
     <ul>
         <li>
-            100 anni della <b>Rivoluzione russa</b> del 1917: storia, fatti curiosi.
-            <span class='authors'>Ekaterina Ponomareva di Mosca</span>
+            Storia e fatti interessanti sulla <b>la Fortezza di Brest</b> durante la seconda guerra mondiale.
+            <span class='authors'>Danil Gorodetsky di Minsk</span>
         </li>
         <li>
-            La vita dell <b>ultimo zar</b> del Impero russo Nicolaj II.
+            <q>Nella steppa sconfinata...</q> &mdash; <b>i cosacchi dell'impero russo</b> e loro canzoni.
+            <span class='authors'>Evgenia Litvin di Mosca</span>
+        </li>
+        <li>
+            La giornata della <b>bandiera russa</b>. Storia, le legende, racconti curiosi. 
+            Come regalo è stata data una bandiera della Russia.
             <span class='authors'>Olga Miadzeletc di Irkutsk</span>
+        </li>
+        <li>
+            <b>La battaglia di Stalingrado</b>: dati storici e racconti personali. Italiani a Stalingrado.
+            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+        </li>
+        <li>
+            Primi cartoni animati di Starevich, della <b>lotta torturata tra Walt Disney e 
+            Souzmultfilm</b> (Союзмультфильм), cartoni animati degli anni 40 e 60.
+            <span class='authors'>Anna Gorchakovskaya di Perm</span>
         </li>
     </ul>
 
-    <h3>Viaggio in Russia</h3>
-    <img src="/img/te-di-sabato-2017-viaggio.jpg">
+    <h3>Viaggio in Russa e nell’ex Unione Sovietica. Geografia</h3>
+    <img src="/img/te-di-sabato-2016-viaggio.jpg">
     <ul>
         <li>
-            <b>Campagna russa</b>: le curiosità, le tradizioni, la vita quotidiana
-            della campagna russa moderna.
-            <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
+            <b>Viaggio in Altai</b> attraverso laghi, fiumi e cascate della Russia siberiana.
+            <span class='authors'>Danil Gorodetsky di Minsk</span>
         </li>
         <li>
-            <b>Petrozavodsk</b> e la scuola di lingua russa EnjoyRussian, volontariato sul lago Baikal,
-            programmi estivi in Russia.
+            <b>Viaggio in Armenia e Georgia</b>, le perle del Caucaso.
+            <span class='authors'>Danil Gorodetsky di Minsk</span>
+        </li>
+        <li>
+            <b>Yuri Gagarin</b> &dmash; <q>Da quassù la terra è bellissima senza confini, ne frontiere</q>.
+            <span class='authors'>Evgenia Litvin di Mosca</span>
+        </li>
+        <li>
+            <b>Pskov</b>: la storia e le leggende di antica città russa.
+            <span class='authors'>Daria Kanishcheva di Pskov</span>
+        </li>
+        <li>
+            Alla scoperta del <b>Kazakistan</b>: i meravigliosi paesaggi, una storia ricca di eventi 
+            e un popolo accogliente.
+            <span class='authors'>Zhanar Zhakiyeva di Kazakistan</span>
+        </li>
+        <li>
+            <b>San Pietroburgo</b>: la città storica e artistica. I luoghi più importanti per i russi e per i turisti.
+            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+        </li>
+        <li>
+            <b>Volgograd</b>: la storia della città eroica: prima e dopo la famosa battaglia di Stalingrado.
+            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+        </li>
+        <li>
+            <b>Perm</b>: racconti sulla città.
+            <span class='authors'>Anna Gorchakovskaya di Perm</span>
+        </li>
+        <li>
+            Esperienza dello studio di <b>lingua russa all’universita in Russia</b>. 
+            Viaggio in Russia, i consigli pratici.
+            <span class='authors'>Francesca Rimondi</span>
+        </li>
+        <li>
+            Geografia dell <b>territorio russo: clima, natura, economia</b>, città russe. 
+            Come regalo è stata data una mappa della Russia.
+            <span class='authors'>Igor Dets di Irkutsk</span>
+        </li>
+    </ul>
+
+    <h3>Cultura, sport, architettura</h3>
+    <img src="/img/te-di-sabato-2016-cultura.jpg">
+    <ul>
+        <li>
+            La magia dell'animazione dei <b>cartoni animati sovietici</b>: storia e curiosità di trame e personaggi.
+            <span class='authors'>Daria Kanishcheva di Pskov</span>
+        </li>
+        <li>
+            Piccolo corso dei <b>paesaggi russi</b> con la tecnica degli acquerelli.
+            <span class='authors'>Zhanar Zhakiyeva di Kazakistan</span>
+        </li>
+        <li>
+            <b>Sport tradizionali</b> e più popolari in Russia. Atleti famosi russi e sovietici.
+            Le storie curiose del mondo sportivo russo. 
+            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+        </li>
+        <li>
+            <b>L'alfabeto cirillico e lo slavo antico</b>: cosa ci è rimasto e perché serve saperne oggi.
+            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+        </li>
+        <li>
+            <b>Ornamenti tradizionali russi</b>, come le figure e le decorazioni svelano i 
+            loro significati più profondi.
+            <span class='authors'>Yana Kichenko di Mosca</span>
+        </li>
+        <li>
+            <b>Architettura in legno</b>. Storia, stili.
             <span class='authors'>Olga Miadzeletc di Irkutsk</span>
         </li>
         <li>
-            <b>Nizhny Novgorod</b>: geografia, persone famose della città, monumenti, posti interessanti.
-            <span class='authors'>Yury Ermolaev di Nizhny Novgorod</span>
-        </li>
-        <li>
-            <b>Metropolitana di Mosca</b>: storia, curiosità, le fermate più belle.
+            Il centro espositivo <b>VDNK a Mosca</b>, una vera e propria città fatta da vie, piazze fontane, 
+            prati e negozi.
             <span class='authors'>Ekaterina Ponamareva di Mosca</span>
         </li>
-    </ul>
-
-    <h3>Cultura</h3>
-    <img src="/img/te-di-sabato-2017-cultura.jpg">
-    <ul>
         <li>
-            <b>Nomi e cognomi russi</b>: origini e significati.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
-        </li>
-        <li>
-            <b>Vladimir Vysotsky</b> - uno degli uomini più amati nell`Unione Sovietica degli anni `60-`70. 
-            L'attore del cinema e del teatro, il cantautore dalla voce magica ha espresso le idee
-            della intera generazione.
-            <span class='authors'>Evgenia Litvin di Mosca</span>
-        </li>
-        <li>
-            <b>Cultura del tè in Russia</b>: quando il te è arrivato in Russia, cosa si bevevano prima, come
-            si beve il tè, cosa è il Samovar.
-            <span class='authors'>Evgenia Litvin di Mosca</span>
-        </li>
-        <li>
-            <b>Balletto Russo</b> e il Teatro Bolshoi.
-            <span class='authors'>Ekaterina Ponomareva di Mosca</span>
-        </li>
-        <li>
-            <b>Nostalgia dell`Unione Sovietica</b>: la vita quotidiana di quel' epoca, racconti dei parenti,
-            genitori, foto e materiale video, le cose che il mondo occidentale non conosceva.
+            <b>Canzoni tradizionali, giochi da tavola</b> russi per favorire la pratica del russo.
             <span class='authors'>Olga Miadzeletc di Irkutsk</span>
         </li>
-        <li>
-            <b>Scherzi russi</b> e del circo russo/ sovietico: la storia del circo, i clown più famosi.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
-        </li>
-        <li>
-            <b>Pittori russi</b> e le loro opere nei musei di Mosca e San Pietroburgo.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
-        </li>
     </ul>
-
-    <p>
-        E ce ne sono molti altri ancora! Insieme a questi argomenti, sono stati organizzati 
-        diversi eventi, aperti a tutti i corsisti, completamente gratuiti. Guarda qui sotto:
-    </p>
 
     <h2>
         Eventi speciali
     </h2>
     <ul>
         <li>
-            Film <q>Formula liubvi</q>.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+            Pranzo per la <b>Pasqua Ortodossa</b> con le uova decorate e i dolci tradizionali 
+            sia russi che italiani.
         </li>
         <li>
-            Transiberiana, consigli prattici sui viaggi in Russia.
-            <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
+            <b>Giornata della lingua russa</b> il 6 giugno.
         </li>
         <li>
-            Seminario <q>Strumenti per imparare la lingua russa</q>.
-            <span class='authors'>Olga Miadzeletc di Irkutsk e Comasia Fumarola</span>
+            <b>Picnic</b> nei Giardini Margherita e giochi sul prato, luglio 2016.
         </li>
         <li>
-            Pittori russi e le loro opere nei musei di Mosca e San Pietroburgo.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+            <b>Serata dei racconti</b> dei nostri studenti del loro soggiorno-studio di 
+            lingua russa questa estate a Petrozavodsk, Russia.
         </li>
         <li>
-            Lo sport più famoso in Russia: Pattinaggio sul giaccio a Rastignano.
+            <b>Serata del cinema</b>. Il film <q>Питер ФМ</q>.
         </li>
         <li>
-            Numerosi aperitivi di martedì con gli amici russi
+            <b>Visita nel negozio russo</b> <q>MixMarkt</q> per conoscere i prodotti russi e aperitivo 
+            per gustarli tutti!
         </li>
         <li>
-            Picnic nei Giardini Margherita il 12 luglio.
+            <b>Aperitivo</b>, scambio linguistico al Bar l’81 in via Saragozza.
+        </li>
+        <li>
+            <b>Compleanno dell'associazione</b> &mdash; 3 anni. Il 21/10/2016.
+        </li>
+        <li>
+            <b>L'asta di beneficenza per i bambini</b> del territorio della guerra in Ucraina.
         </li>
     </ul>
 
