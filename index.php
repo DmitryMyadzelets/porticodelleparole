@@ -293,7 +293,7 @@
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
     <p>
-        Il <q>tè del sabato</q> è un’attività settimanale che va avanti dal 2014.
+        Il <q>tè del sabato</q> è un’attività che va avanti dal 2014.
         Potrai vedere l’elenco degli argomenti svolti negli ultimi due anni: 
         <a href="te-di-sabato/">2017</a>, <a href="te-di-sabato/2016/">2016</a>.
     </p>
