@@ -174,7 +174,7 @@
             <span class='authors'>Danil Gorodetsky di Minsk</span>
         </li>
         <li>
-            <b>Yuri Gagarin</b> &dmash; <q>Da quassù la terra è bellissima senza confini, ne frontiere</q>.
+            <b>Yuri Gagarin</b> &mdash; <q>Da quassù la terra è bellissima senza confini, ne frontiere</q>.
             <span class='authors'>Evgenia Litvin di Mosca</span>
         </li>
         <li>
