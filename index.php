@@ -49,6 +49,9 @@
     <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <!-- <link rel="stylesheet" type="text/css" href="/css/slick/slick.css"/> -->
+    <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="http://kenwheeler.github.io/slick/slick/slick-theme.css"/>
 
     <title>
         Corsi di Russo a Bologna - Associazione Portico delle Parole
@@ -66,6 +69,39 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.photos').slick({
+                dots: true,
+                adaptiveHeight: true,
+                arrows: false
+                // centerMode: true,
+                // slidesToShow: 3,
+                // slidesToScroll: 1,
+                // focusOnSelect: true
+            });
+        });
+    </script>
+    <style type="text/css">
+        .photos {
+        }
+        .slick-prev:before,
+        .slick-next:before {
+            /*color: #CDDEB0;*/
+            /*font-size: 40px;*/
+        }
+        .slick-arrow {
+            /*width: 40px;*/
+            /*height: 40px;*/
+        }
+        .slick-prev {
+        }
+        .slick-next {
+        }
+    </style>
 
 </head>
 
@@ -230,7 +266,7 @@
 </h1>
 
 <p>Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per <b>tutti i livelli
-    (A1, A2, B1, B2, C1)</b>, offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!
+    (A1, A2, B1, B2, C1)</b>, offrendo semplicità, grande coinvolgimento&hellip; e un pizzico di divertimento!
     Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.
 </p>
 
@@ -678,8 +714,34 @@ function autoResize(id){
     Foto
 </h2>
 <div style='position: relative; padding-bottom: 76%; height: 0; overflow: hidden;'>
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126701579@N07/albums/72157647133686116" title="www.porticodelleparole.it"><img src="https://c8.staticflickr.com/9/8613/15761132183_064d052173_z.jpg" width="640" height="480" alt="www.porticodelleparole.it"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <a data-flickr-embed="true"  href="https://www.flickr.acom/photos/126701579@N07/albums/72157647133686116" title="www.porticodelleparole.it"><img src="https://c8.staticflickr.com/9/8613/15761132183_064d052173_z.jpg" width="640" height="480" alt="www.porticodelleparole.it"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+<h2>
+    Foto
+</h2>
+<div class='photos'>
+    <div>First photo</div>
+    <div itemprop="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author">Francesca, 32 anni, impiegata</h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="./img/francesca.32.jpg" alt="Foto di Francesca"/>
+                </div>
+            </div>
+        </div>
+        <div itemprop="reviewbody">
+            <p>Ho iniziato a studiare Russo nel 2014 dopo aver visto casualmente su Via Nosadella il volantino del Corso: la curiosità mi ha spinto ad uscire dalla mia "zona di comfort" affrontando una lingua nuova e apparentemente ostica.</p>
+            <p>Fin da subito ho trovato un ambiente accogliente, con docenti madrelingua preparati e cordiali e colleghi di corso veramente simpatici. Purtroppo per motivi logistici ho dovuto interrompere lo studio della lingua Russa per un anno, ma da qualche mese ho finalmente ripreso, più entusiasta di prima: Olga è un'insegnante metodica e preparata ed è capace di rendere divertente e stimolante ogni lezione.</p>
+            <p>Ho conosciuto tante persone nuove e oltre alla lezione canonica ho avuto modo di sperimentare utilissime attività extra quali ad esempio i laboratori del lessico. Grazie al Portico delle Parole sono pienamente soddisfatta dei progressi fatti nello studio del Russo!</p>
+        </div>
+    </div>
+    <div>B</div>
+    <div>C</div>
+    <div>Next photo</div>
+</div>
+
 
 </div>
 
@@ -700,6 +762,8 @@ function autoResize(id){
 
 <!-- <script async src='./js/monitor.js'></script> -->
 <script async src='./js/readmore.js'></script>
+<!-- jQuery v1.7+ is required for slick.js -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 
 </body>
 </html>
