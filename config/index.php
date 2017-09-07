@@ -18,29 +18,11 @@
 <body>
 <div class="main-container shadow" style="height: 100vh">
 
-<?
-    session_start();
-
-    $authorized =
-        (0 == strcmp(crypt($_SERVER['PHP_AUTH_USER'], 'PtJZBYLB$ZxdEgRLdTkm81W8aICEfS0'), 'PtFJzXps9Pua.')) &&
-        (0 == strcmp(crypt($_SERVER['PHP_AUTH_PW'], '65UB0bil$ozz9ydv77PxgTodVmbwoe1'), '65J69sDP5Kr0M'));
-
-
-    if (!$authorized) {
-        header('WWW-Authenticate: Basic');
-        header('HTTP/1.0 401 Unauthorized');
-        echo '<h1>Authorization required</h1>';
-        echo '</div></body></html>';
-        exit;
-    } else {
-    }
-?>
-
 <?php
 
     $fname = 'config.json';
 
-    if ($_POST && $authorized) {
+    if ($_POST) {
         // Debug
         // echo '<pre>';
         // echo htmlspecialchars(print_r($_POST, true));

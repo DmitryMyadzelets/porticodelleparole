@@ -39,7 +39,7 @@
 
         // Output
 
-        $path = '/photos/img/?id=' . $id;
+        $path = '/photos/?id=' . $id;
         dump($path);
         echo '<img src=\'' . $path .  '\'>';
 
