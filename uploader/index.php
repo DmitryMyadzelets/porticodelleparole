@@ -40,9 +40,9 @@
         // Where to save the image files
         $image->setLocation('../img/photos');
 
-        if ($image["pictures"]){
+        if ($image["pictures"]) {
             $upload = $image->upload();
-            
+
             if (!$upload){
                 echo $image["error"];
                 exit();
@@ -57,6 +57,8 @@
                 480,
                 true
             );
+        } else {
+            var_dump($image['error']); // error will be shown here
         }
     }
 ?>
@@ -64,9 +66,8 @@
 
 <h1>Фотки</h1>
 
-
 <form method="POST" enctype="multipart/form-data">
-    <input type="hidden" name="MAX_FILE_SIZE" value="1000000"/>
+    <input type="hidden" name="MAX_FILE_SIZE" value="5000000"/>
     <input type="file" name="pictures" accept="image/*"/>
     <input type="submit" value="Загрузить"/>
 </form>

@@ -89,14 +89,14 @@ class Image implements \ArrayAccess
      * @var array error messages strings
      */
     protected $common_upload_errors = array(
-        UPLOAD_ERR_OK => "",
-        UPLOAD_ERR_INI_SIZE => "Image is larger than the specified amount set by the server",
-        UPLOAD_ERR_FORM_SIZE => "Image is larger than the specified amount specified by browser",
-        UPLOAD_ERR_PARTIAL => "Image could not be fully uploaded. Please try again later",
-        UPLOAD_ERR_NO_FILE => "Image is not found",
-        UPLOAD_ERR_NO_TMP_DIR => "Can't write to disk, due to server configuration ( No tmp dir found )",
-        UPLOAD_ERR_CANT_WRITE => "Failed to write file to disk. Please check you file permissions",
-        UPLOAD_ERR_EXTENSION => "A PHP extension has halted this file upload process"
+        0 => '',
+        1 => 'The uploaded file exceeds the upload_max_filesize directive in php.ini',
+        2 => 'The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form',
+        3 => 'The uploaded file was only partially uploaded',
+        4 => 'No file was uploaded',
+        6 => 'Missing a temporary folder',
+        7 => 'Failed to write file to disk.',
+        8 => 'A PHP extension stopped the file upload.'
     );
 
     /**
