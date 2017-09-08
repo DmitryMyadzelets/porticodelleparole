@@ -269,22 +269,12 @@ div.review_photo > div {
     height: 40px;
 }    
 .slideshow {
-    min-height: 420px;
     margin-left: 40px;
     margin-right: 40px;
 }
 .slick-slide {
     /* 520 / (640 / 480) = 420 */
-    min-height: 420px;
-}
-.slick-slide {
-    position: relative;
-}
-.slick-slide > img {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    bottom: 0;
+    /*min-height: 40px;*/
 }
 .slick-arrow:before {
     color: black;
