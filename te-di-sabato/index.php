@@ -22,6 +22,8 @@
     <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
@@ -41,6 +43,24 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+    <script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
+    <script type="text/javascript">
+        var ids = [ "59b2c7d1e2f53", "59b2c8a1ed236", "59b2c8d104015", "59b2c8e5a5f5a", "59b2c90077fa9", "59b2c91599035", "59b2c94951f5d", "59b2c95fa36dc", "59b2c9765e889" ];
+        $(function () {
+            var slides = $('.slideshow');
+            var i = ids.length;
+            while (i > 0) {
+                i = i - 1;
+                slides.append('<div><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div>');
+            }
+            slides.slick({
+                lazyLoad: 'ondemand'
+            });
+        });
+    </script>
+    
+
 
 </head>
 
@@ -252,6 +272,12 @@
             Picnic nei Giardini Margherita il 12 luglio.
         </li>
     </ul>
+
+    <h2>
+        Foto
+    </h2>
+    <div class='slideshow'>
+    </div>
 
 </section>
 

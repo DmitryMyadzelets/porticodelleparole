@@ -52,9 +52,10 @@
         // Output
 
         $path = '/photos/?id=' . $id;
+        $str = 'Logged ' . $bytes . ' bytes to ' . $fn . '';
 
         dump($json);
-        dump($str = 'Logged ' . $bytes . ' bytes to ' . $fn . '');
+        dump($str);
         dump($path);
         echo '<img src=\'' . $path .  '\'>';
 
