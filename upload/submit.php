@@ -5,13 +5,14 @@
     };
 
     require 'ImageUploader.php';
+    $path = '../img/photos';
 
     try {
 
         $id = uniqid();
         $iu = new ImageUploader();
 
-        $iu->setPath('../img/photos');              // The directory where images will be uploaded
+        $iu->setPath($path);                        // The directory where images will be uploaded
         $iu->setMinFileSize(10 * 1024);             // Set minimum file size in bytes
         $iu->setMaxFileSize(5000 * 1024);           // Set maximum file size in bytes
 
@@ -37,9 +38,23 @@
         // Upload from file, and resize
         $iu->upload($_FILES["image"], $id, $resize);
 
+        // Save
+        $o = new stdClass();
+        $o->date = date('c');
+        $o->id = $id;
+        $o->name = $_FILES['image']['name'];
+
+        $fn = $path . '/log.txt';
+        $json = json_encode($o);
+
+        $bytes = file_put_contents($fn, $json . PHP_EOL , FILE_APPEND | LOCK_EX);
+
         // Output
 
         $path = '/photos/?id=' . $id;
+
+        dump($json);
+        dump($str = 'Logged ' . $bytes . ' bytes to ' . $fn . '');
         dump($path);
         echo '<img src=\'' . $path .  '\'>';
 
