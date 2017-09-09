@@ -67,65 +67,7 @@
 <body>
 <div class="main-container shadow">
 
-<div class="stretchy-wrapper" id="logo-wrapper">
-    <div>
-        <img src="/img/bologna-moscow-rainbow-portico.png"
-        alt="Logo Portico delle Parole"
-        title="Portico delle parole. Associazione. Corso di lingua Russa"
-        />
-    </div>
-</div>
-
-<section>
-    <div class="div-table contacts-table">
-        <div class="div-column col-half">
-            <p>
-                <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
-                    <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
-                    title="Indirizzio del Portico delle Parole"
-                    />via Nosadella 15 b, Bologna
-                </a>
-            </p>
-            <p>
-                <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
-                    <img src="/img/facebook.svg" alt="Facebook logo" class="svg-icon"
-                    title="Seguici il Portico delle Parole su Facebook"
-                    />Seguici su Facebook
-                </a>
-            </p>
-        </div>
-        <div class="div-column col-half">
-            <p>
-                <!-- Olga -->
-                <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
-                    <img src="/img/phonecall.svg" alt="Phone" class="svg-icon"
-                    title="Chiamaci al Portico delle Parole"
-                    />
-                    <span style="font-size: 180%">
-                        <?php
-                        $ts = strtotime('2016-08-02');
-                        $te = strtotime('2016-08-26');
-                        $t0 = time();
-                        if ($t0 > $te || $t0 < $ts) {
-                            echo('Tel. 327 661 7027'); // Olga
-                        } else {
-                            echo('Tel. 388 465 0676'); // Luba
-                        }                    
-                        ?>
-                    </span>
-                </a>
-            </p>
-            <p>
-                <a href="mailto:info@porticodelleparole.it">
-                    <!-- style="text-decoration: none; color: #444;" -->
-                    <img src="/img/mail.svg" alt="email" class="svg-icon"
-                    title="email al Portico delle Parole"
-                    />info@porticodelleparole.it
-                </a>
-            </p>
-        </div>
-    </div>
-</section>
+<div class='slideshow'></div>
 
 <section>
     <h1>
@@ -272,12 +214,6 @@
             Picnic nei Giardini Margherita il 12 luglio.
         </li>
     </ul>
-
-    <h2>
-        Foto
-    </h2>
-    <div class='slideshow'>
-    </div>
 
 </section>
 
