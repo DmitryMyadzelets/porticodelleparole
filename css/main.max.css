@@ -271,6 +271,7 @@ div.review_photo > div {
 .slideshow {
     margin-left: 40px;
     margin-right: 40px;
+    margin-top: 1em;
 }
 .slick-slide {
     /* 520 / (640 / 480) = 420 */
@@ -285,4 +286,20 @@ div.review_photo > div {
 }
 .slick-next {
     right: -40px;
+}
+.slick-frame {
+    padding-bottom: 75%;
+    position: relative;
+    margin: 2px;
+}
+.slick-frame img {
+    max-width:100%;
+    max-height:100%;
+    width: auto;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }

@@ -46,13 +46,13 @@
     <script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
     <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
     <script type="text/javascript">
-        var ids = [ "59b2c7d1e2f53", "59b2c8a1ed236", "59b2c8d104015", "59b2c8e5a5f5a", "59b2c90077fa9", "59b2c91599035", "59b2c94951f5d", "59b2c95fa36dc", "59b2c9765e889" ];
+        var ids = ["59b2c7d1e2f53","59b2c8a1ed236","59b2c8d104015","59b2c8e5a5f5a","59b2c90077fa9","59b2c91599035","59b2c94951f5d","59b2c95fa36dc","59b2c9765e889","59b3f1eee2482","59b3f205a6ffc","59b3f2270ebc4","59b3f26c202c9","59b3f2a8ca258","59b3f2c424dad","59b3f2efd7e8d","59b3f323c8f39","59b3f34a6dc5f","59b3f37954502","59b3f3a261854","59b3f3de88786","59b3f427804d8","59b3f46a7214f","59b3f4b0df48a","59b3f4d171773","59b3f4dddcb87","59b3f4ea5aefe"];
         $(function () {
             var slides = $('.slideshow');
             var i = ids.length;
             while (i > 0) {
                 i = i - 1;
-                slides.append('<div><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div>');
+                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
             }
             slides.slick({
                 lazyLoad: 'ondemand'
