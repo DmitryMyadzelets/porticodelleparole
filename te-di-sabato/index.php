@@ -55,7 +55,9 @@
                 slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
             }
             slides.slick({
-                lazyLoad: 'ondemand'
+                lazyLoad: 'ondemand',
+                autoplay: true,
+                autoplaySpeed: 5000
             });
         });
     </script>
@@ -67,6 +69,7 @@
 <body>
 <div class="main-container shadow">
 
+<br>
 <div class='slideshow'></div>
 
 <section>

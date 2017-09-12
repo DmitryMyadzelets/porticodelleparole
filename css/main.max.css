@@ -265,13 +265,16 @@ div.review_photo > div {
 /* Slideshow */
 
 .slick-arrow {
-    width: 40px;
-    height: 40px;
-}    
+    z-index: 1001;
+    width: 80px;
+    height: 100%;
+}
+.slick-arrow:hover {
+}
 .slideshow {
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 1em;
+    /*margin-left: 40px;*/
+    /*margin-right: 40px;*/
+    /*margin-top: 1em;*/
 }
 .slick-slide {
     /* 520 / (640 / 480) = 420 */
@@ -282,11 +285,24 @@ div.review_photo > div {
 }
 .slick-prev
 {
-    left: -40px;
+    left: -8px;
+    text-align: left;
 }
 .slick-next {
-    right: -40px;
+    right: -8px;
+    text-align: right;
 }
+
+@media (min-width: 46em) {
+    .slick-prev {
+        left: -24px;
+    }
+    .slick-next {
+        right: -24px;
+    }
+}
+
+
 .slick-frame {
     padding-bottom: 75%;
     position: relative;

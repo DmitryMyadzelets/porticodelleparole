@@ -317,6 +317,12 @@
         </div>
     </div>
     <p>
+        Il <q>tè del sabato</q> è un’attività che va avanti dal 2014.
+        Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi due anni:
+        <br><a href="te-di-sabato/">anno 2017</a>
+        <br><a href="te-di-sabato/2016/">anno 2016</a>
+    </p>
+    <p>
         <b>Ogni sabato</b>, dalle 11:30 alle 13:30, la sede della nostra associazione si riempie di 
         colori e sapori grazie alla tradizionale cerimonia del tè. I russi amano bere il tè, che è parte integrante 
         della tradizione, della cultura e della vita quotidiana in Russia.
@@ -327,11 +333,6 @@
         Ogni settimana viene affrontato un argomento nuovo, <b>in russo e in italiano</b>, per scoprire le tradizioni, 
         la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
-    </p>
-    <p>
-        Il <q>tè del sabato</q> è un’attività che va avanti dal 2014.
-        Potrai vedere l’elenco degli argomenti svolti negli ultimi due anni: 
-        <a href="te-di-sabato/">2017</a>, <a href="te-di-sabato/2016/">2016</a>.
     </p>
 </div>
 
