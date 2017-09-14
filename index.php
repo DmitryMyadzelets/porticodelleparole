@@ -150,6 +150,13 @@
     }
 ?>
 
+<ul class='menu'>
+    <li><a href="#corsi-di-russo">Corsi</a></li>
+    <li><a href="#prezzi">Prezzi</a></li>
+    <li><a href="#orari">Orari</a></li>
+    <li><a href="#foto">Foto</a></li>
+</ul>
+
 <!--     <p>
         Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! 
         Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russe!<br/>Vi aspettiamo con impazienza!
@@ -534,7 +541,9 @@
 
 
 <h2>
-    Prezzi
+    <a name="prezzi">
+        Prezzi
+    </a>
 </h2>
 
 <div class="div-table price-table">
@@ -590,7 +599,9 @@
 
 
 <h2>
-    Orario delle lezioni
+    <a name='orari'>
+        Orario delle lezioni
+    </a>
 </h2>
 
 <div class="div-table hours-table">
@@ -710,6 +721,7 @@ function autoResize(id){
 
 
 <h2>
+    <a name="foto"></a>
     Foto
 </h2>
 <div class='slideshow'></div>
