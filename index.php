@@ -47,11 +47,10 @@
     <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <!-- <link rel="stylesheet" type="text/css" href="/css/slick/slick.css"/> -->
-    <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="http://kenwheeler.github.io/slick/slick/slick-theme.css"/>
 
     <title>
         Corsi di Russo a Bologna - Associazione Portico delle Parole
@@ -69,39 +68,37 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
-
-    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-
+    <script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
     <script type="text/javascript">
-        $(document).ready(function(){
-            $('.photos').slick({
-                dots: true,
-                adaptiveHeight: true,
-                arrows: false
-                // centerMode: true,
-                // slidesToShow: 3,
-                // slidesToScroll: 1,
-                // focusOnSelect: true
+        function shuffle (array) {
+            var i = 0, j = 0, temp = null;
+
+            for (i = array.length - 1; i > 0; i -= 1) {
+                j = Math.floor(Math.random() * (i + 1));
+                temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+        }
+
+        var ids = ["59ba5658c4c1b","59ba566b6c411","59ba5675c3ec5","59ba56853348b","59ba569543d3d","59ba56a23e92c","59ba56ae84cb7","59ba56bf46162","59ba56cd1cadd","59ba56dccd269","59ba56e9afd41","59ba56f834593","59ba570653afb","59ba591280e0c","59ba5923a232c","59ba5933ee8e9","59ba59406d1c4","59ba5959cf9e3","59ba596b04748"];
+        shuffle(ids);
+
+        $(function () {
+            var slides = $('.slideshow');
+            var i = ids.length;
+            while (i > 0) {
+                i = i - 1;
+                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
+            }
+            slides.slick({
+                lazyLoad: 'ondemand',
+                autoplay: true,
+                autoplaySpeed: 5000
             });
         });
     </script>
-    <style type="text/css">
-        .photos {
-        }
-        .slick-prev:before,
-        .slick-next:before {
-            /*color: #CDDEB0;*/
-            /*font-size: 40px;*/
-        }
-        .slick-arrow {
-            /*width: 40px;*/
-            /*height: 40px;*/
-        }
-        .slick-prev {
-        }
-        .slick-next {
-        }
-    </style>
 
 </head>
 
@@ -260,9 +257,10 @@
     </div>
 </div>
 
-
 <h1>
-    Corsi di russo
+    <a name="corsi-di-russo">
+        Corsi di russo
+    </a>
 </h1>
 
 <p>Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per <b>tutti i livelli
@@ -714,9 +712,12 @@ function autoResize(id){
 <h2>
     Foto
 </h2>
-<div style='position: relative; padding-bottom: 76%; height: 0; overflow: hidden;'>
+<div class='slideshow'></div>
+<!-- <div style='position: relative; padding-bottom: 76%; height: 0; overflow: hidden;'>
     <a data-flickr-embed="true"  href="https://www.flickr.acom/photos/126701579@N07/albums/72157647133686116" title="www.porticodelleparole.it"><img src="https://c8.staticflickr.com/9/8613/15761132183_064d052173_z.jpg" width="640" height="480" alt="www.porticodelleparole.it"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+ -->
+<br>
 
 </div>
 

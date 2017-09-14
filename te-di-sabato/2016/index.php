@@ -22,6 +22,8 @@
     <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
@@ -41,71 +43,33 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+    <script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
+    <script type="text/javascript">
+        var ids = ["59b95944b19d7","59b956f327c91","59b9570236050","59b9571a04761","59b957312b211","59b95755105ef","59b9577053a96","59b9578084ec1","59b95795dd625","59b957a538a2d","59b9589257b54","59b959354680c","59b958b969a86","59b958ccf29b6","59b958edc6c12","59b958fbc0777","59b95921d2ec6","59b956dc05d3a"];
+        $(function () {
+            var slides = $('.slideshow');
+            var i = ids.length;
+            while (i > 0) {
+                i = i - 1;
+                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
+            }
+            slides.slick({
+                lazyLoad: 'ondemand',
+                autoplay: true,
+                autoplaySpeed: 5000
+            });
+        });
+    </script>
+
 
 </head>
 
 <body>
 <div class="main-container shadow">
 
-<div class="stretchy-wrapper" id="logo-wrapper">
-    <div>
-        <img src="/img/bologna-moscow-rainbow-portico.png"
-        alt="Logo Portico delle Parole"
-        title="Portico delle parole. Associazione. Corso di lingua Russa"
-        />
-    </div>
-</div>
-
-<section>
-    <div class="div-table contacts-table">
-        <div class="div-column col-half">
-            <p>
-                <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
-                    <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
-                    title="Indirizzio del Portico delle Parole"
-                    />via Nosadella 15 b, Bologna
-                </a>
-            </p>
-            <p>
-                <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
-                    <img src="/img/facebook.svg" alt="Facebook logo" class="svg-icon"
-                    title="Seguici il Portico delle Parole su Facebook"
-                    />Seguici su Facebook
-                </a>
-            </p>
-        </div>
-        <div class="div-column col-half">
-            <p>
-                <!-- Olga -->
-                <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
-                    <img src="/img/phonecall.svg" alt="Phone" class="svg-icon"
-                    title="Chiamaci al Portico delle Parole"
-                    />
-                    <span style="font-size: 180%">
-                        <?php
-                        $ts = strtotime('2016-08-02');
-                        $te = strtotime('2016-08-26');
-                        $t0 = time();
-                        if ($t0 > $te || $t0 < $ts) {
-                            echo('Tel. 327 661 7027'); // Olga
-                        } else {
-                            echo('Tel. 388 465 0676'); // Luba
-                        }                    
-                        ?>
-                    </span>
-                </a>
-            </p>
-            <p>
-                <a href="mailto:info@porticodelleparole.it">
-                    <!-- style="text-decoration: none; color: #444;" -->
-                    <img src="/img/mail.svg" alt="email" class="svg-icon"
-                    title="email al Portico delle Parole"
-                    />info@porticodelleparole.it
-                </a>
-            </p>
-        </div>
-    </div>
-</section>
+<br>
+<div class='slideshow'></div>
 
 <section>
     <h1>
@@ -292,7 +256,7 @@
 
 <section>
     <p>
-        Guarda <a href="/#i-nostri-insegnanti">i nostri insegnanti</a>, 
+        Guarda <a href="/#corsi-di-russo">i nostri corsi</a>,
         cosa <a href="/#dicono-di-noi">dicono di noi</a> e
         <a href="/#dove-trovarci">dove trovarci</a>.
     </p>
