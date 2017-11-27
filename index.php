@@ -578,7 +578,7 @@
             20 ore – <span style="text-decoration: line-through;">240&#8364;</span> <span style="color:red">adesso in offerta 197&#8364;</span>  (9,8 all'ora)
         </p>
         <p>
-            I gruppi sono formati da 5 &mdash; max. 11 persone</span>
+            I gruppi sono formati da 5 &mdash; max. 10 persone</span>
         </p>
     </div>
 </div>
