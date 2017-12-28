@@ -582,7 +582,7 @@
     $days_left = 1 + floor(($date - $now)/(60*60*24));
 
     if ($days_left > 0) {
-        echo "20 ore – <span style=\"text-decoration: line-through;\">240&#8364;</span>";
+        echo "20 ore – <span style=\"text-decoration: line-through;\">260&#8364;</span>";
         echo " <span style=\"color:red\"> adesso fino al 31 dicembre 197&#8364;</span> (9,8 all'ora)";
     } else {
         echo "20 ore – <span style=\"text-decoration: line-through;\">260&#8364;</span>";
