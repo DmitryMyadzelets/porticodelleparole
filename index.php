@@ -103,6 +103,11 @@
 </head>
 
 <body>
+    <?php
+        function age($bdate) {
+            return date_diff(date_create($bdate), date_create('now'))->y;
+        }
+    ?>
 <div class="main-container shadow">
 
 
@@ -412,7 +417,7 @@
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Olga, 28 anni, Irkutsk (Siberia), Russia
+        Olga, <?php echo age('1987-10-21'); ?> anni, Irkutsk (Siberia), Russia
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
@@ -477,17 +482,92 @@
             Non solo cerco di insegnare ai miei studenti la lingua russa, ma cerco anche di 
             trasmettere loro la cultura del mio paese: una cultura molto interessante 
             caratterizzata da tante diverse sfumature.</p>
-        <p>I miei studenti hanno superato con successo i corsi universitari come programma di 
-            scambio a Mosca e a San Pietroburgo, sono stati in Russia per adozioni, hanno 
-            partecipato a numerose conferenze e hanno appena iniziato a leggere i classici della 
-            letteratura. Per me è molto importante un approccio individuale con ogni studente, 
-            conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme 
-            il russo con entusiasmo.</p>
-        <p>Spero di vederti tra i miei studenti nella nostra Associazione Portico delle Parole.</p>
+        <span id="yana_readmore" style="display: none">
+            <p>I miei studenti hanno superato con successo i corsi universitari come programma di 
+                scambio a Mosca e a San Pietroburgo, sono stati in Russia per adozioni, hanno 
+                partecipato a numerose conferenze e hanno appena iniziato a leggere i classici della 
+                letteratura. Per me è molto importante un approccio individuale con ogni studente, 
+                conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme 
+                il russo con entusiasmo.</p>
+            <p>Spero di vederti tra i miei studenti nella nostra Associazione Portico delle Parole.</p>
+        </span>
+        <p>
+            <a id="yana_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
     </div>
 </div>
 
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author">
+        Anna, 30 anni, Novosibirsk, Russia
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/shkapa.jpg" alt="Foto di Anna"/>
+            </div>
+        </div>
+    </div>
+        
+    <div itemprop="reviewbody">
+        <p>Io e i miei colleghi chiediamo sempre ai nostri studenti perché studiano la lingua russa e qual è il loro obiettivo. Con un approccio centrato sulla persona, gli studenti acquisiscono le nozioni del corso principale e approfondiscono le loro conoscenze su varie aree di interesse.</p>
+        <span id="shkapa_readmore" style="display: none">
+            <p>La mia esperienza pluriennale come insegnante di lingua russa presso il liceo scientifico Italo Calvino e presso l’Università Pedagogica a Mosca, mi ha permesso di constatare che un approccio integrato, che includa diversi metodi, è il più efficace e produttivo. Mi sono laureata in Lettere presso l’Università Statale di Novosibirsk nel 2010, con specializzazione in lingua e letteratura russa, e russo come lingua straniera. Ho terminato il dottorato presso L'sUniversità Statale Russa degli Studi Umanistici (RGGU) di Mosca. Dal 2016, studio economia all’Università di Bologna e da settembre 2017 insegno lingua e cultura russa all’associazione Portico delle Parole. Nell'insegnamento del russo, mi piace combinare in modo dinamico l’approccio di studio tradizionale con quello comunicativo.</p>
+            <p>Per ottenere i migliori risultati, preparo ogni lezione tenendo conto delle caratteristiche del gruppo o dello studente singolo. C’è una cosa che ricordo sempre ai miei corsisti: lo studio di una qualsiasi lingua straniera è un piacere, ma anche un impegno. Tutto dipende dall'interesse, dalla motivazione e dalla buona volontà. Sarò molto lieta di aiutarti e di guidarti per rendere il tuo processo di apprendimento del russo il più interessante possibile.</p>
+            <p>Ci vediamo al Portico delle Parole, il luogo dove potrai imparare tutto sulla lingua e la cultura russa!</p>
+        </span>
+        <p>
+            <a id="shkapa_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </div>
+</div>
 
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author">
+        Anna, 23 anni, Moska, Russia
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/surikova.jpg" alt="Foto di Anna"/>
+            </div>
+        </div>
+    </div>
+        
+    <div itemprop="reviewbody">
+        <p>Nel 2017 ho conseguito la laurea in “Pedagogia linguistica” presso l'Università pedagogica di Mosca e, nello stesso anno, mi sono iscritta al corso di laurea magistrale in “Comunicazione pubblica e d’impresa” presso l'Università di Bologna. Qui ho conosciuto l’associazione Portico delle Parole dove insegno dall'ottobre 2017, grazie alla mia laurea e all'esperienza di insegnamento della lingua russa agli stranieri maturata a Mosca.</p>
+        <span id="surikova_readmore" style="display: none">
+            <p>Lavoro con studenti di tutti i livelli, inclusi quelli dei corsi collettivi e individuali, ma mi trovi anche ai laboratori del lessico. Per me, come insegnante, è importante vedere l'interesse negli occhi degli studenti, perciò in classe svolgo diversi tipi di attività: esercizi di grammatica, giochi di ruolo, ascolto di canzoni, visione di video da YouTube e di video-lezioni, spezzoni di film, discussioni su vari argomenti, scrittura di composizioni, lettere, e-mail; e inoltre, lettura e analisi di articoli da giornali russi. Questo lavoro mi piace molto perché trovo che sia molto gratificante vedere i miei studenti migliorare di volta in volta, lezione dopo lezione. Non vedo l’ora di fare la tua conoscenza e di introdurti in questo meraviglioso ambiente offerto dall'associazione Portico delle Parole.</p>
+        </span>
+        <p>
+            <a id="surikova_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </div>
+</div>
+
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author">
+        Liubov, 29 anni, Irkutsk, Russia
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="./img/ermolaeva.jpg" alt="Foto di Liubov"/>
+            </div>
+        </div>
+    </div>
+        
+    <div itemprop="reviewbody">
+        <p>Da marzo 2016 insegno lingua russa al Portico delle Parole. Mi sono laureata all’università pedagogica di Irkutsk e ho terminato i corsi di insegnamento del russo come lingua straniera all’Università Statale di Mosca. Grazie alla mia laurea, mi occupo della preparazione dei materiali didattici per i corsi collettivi e individuali, incluso il laboratorio del lessico, e della creazione del materiale audiovisivo per tutti i livelli.</p>
+        <span id="ermolaeva_readmore" style="display: none">
+            <p>Generalmente, tengo lezioni individuali o a due, e il corso di russo per il business. In questi anni, molti dei miei studenti sono stati in Russia per lavoro, per l’università, o semplicemente per turismo. Sin dalla prima lezione cerco subito di coinvolgerti nell&#39;apprendimento della lingua russa con il supporto di materiali audiovisivi e mettendo subito in pratica gli argomenti di grammatica. Molti dei miei studenti sono lavoratori, per questo le mie lezioni sono molto flessibili e possiamo concordare insieme di volta in volta la lezione, secondo le tue esigenze.</p>
+            <p>Spero di vederti presto qui con noi in associazione per condividere insieme interessanti aspetti culturali e linguistici del mondo russo.</p>
+        </span>
+        <p>
+            <a id="ermolaeva_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </div>
+</div>
 
 <h2>
     <a name="dicono-di-noi">
