@@ -488,43 +488,6 @@
 </div>
 
 
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author">
-        Liubov, 29 anni, Volgograd - San Pietroburgo, Russia (lezioni di cultura russa)
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="./img/liubov.dishluk.jpg" alt="Foto di Liubov"/>
-            </div>
-        </div>
-    </div>
-    <div itemprop="reviewbody">
-        <p>
-            Nel 2013 sono venuta a Bologna per dedicarmi alla ricerca nel dottorato presso l’Università di Bologna. 
-            Il tema della mia ricerca riguarda i rapporti tra il cinema sovietico e l’Italia. 
-        </p>
-        <span id="liubov_readmore" style="display: none">
-            <p>
-                Collaboro con l’Associazione “Portico delle parole” dal Novembre 2014, facendo lezioni sulla cultura 
-                russa durante il nostro abitudinario <q>tè’ del sabato</q> &mdash; <q>чай по субботам</q> e i vari 
-                incontri extra: parliamo di cinema, lingua, storia, etc. (vedi Lista degli argomenti del tè del sabato).
-                Essere di Volgograd (ex-Stalingrado), vivere molti anni a San Pietroburgo e viaggiare molto 
-                in Russia&hellip; queste esperienze mi hanno fatto vedere quanto è diverso il mio paese e mi hanno 
-                dato la possibilità di conoscerlo meglio. È ciò di cui racconto con grande piacere durante le 
-                mie lezioni al Portico delle Parole.
-            </p>
-            <p>
-                Sono lieta di condividere con te le mie conoscenze della lingua e della cultura russa. Vieni alle lezioni 
-                al Portico delle Parole e il mondo russo bolognese ti si aprirà davanti agli occhi!
-            </p>
-        </span>            
-        <p>
-            <a id="liubov_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
-    </div>
-</div>
-
 
 <h2>
     <a name="dicono-di-noi">
