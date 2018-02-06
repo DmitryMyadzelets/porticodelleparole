@@ -466,12 +466,12 @@
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Yana, 29 anni, Mosca, Russia
+        Iana, <?php echo age('1987-04-15'); ?> anni, Mosca, Russia
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/yana.jpg" alt="Foto di Yana"/>
+                <img src="./img/yana.jpg" alt="Foto di Iana"/>
             </div>
         </div>
     </div>
@@ -499,7 +499,7 @@
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Anna, 30 anni, Novosibirsk, Russia
+        Anna, <?php echo age('1988-02-22'); ?> anni, Novosibirsk, Russia
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
@@ -524,7 +524,7 @@
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Anna, 23 anni, Moska, Russia
+        Anna, <?php echo age('1995-11-18'); ?> anni, Mosca, Russia
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
@@ -547,7 +547,7 @@
 
 <div itemprop="review" itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
-        Liubov, 29 anni, Irkutsk, Russia
+        Liubov, <?php echo age('1988-04-21'); ?> anni, Irkutsk, Russia
     </h3>
     <div class="review_photo">
         <div class="stretchy-wrapper">
