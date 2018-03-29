@@ -427,35 +427,11 @@
         </div>
     </div>
     <div itemprop="reviewbody">
-        <p>Amo insegnare, e sono proprio i miei studenti ad accrescere in me l'entusiasmo lezione dopo 
-            lezione! La loro curiosità nell'apprendere è contagiosa, e così nasce in me la voglia di 
-            perfezionarmi sempre per offrire loro lezioni sempre nuove, interessanti, utili e conoscitive.
-        </p>
+        <p>Amo insegnare, e sono proprio i miei studenti ad accrescere in me l'entusiasmo lezione dopo lezione! La loro curiosità nell'apprendere è contagiosa, e così nasce in me la voglia di perfezionarmi sempre per offrire loro lezioni sempre nuove, interessanti, utili e conoscitive.</p>
         <span id="olga_readmore" style="display: none">
-            <p>
-                Ho terminato i miei studi all'Università Statale di Mosca, dove mi sono specializzata 
-                nell'insegnamento del russo come lingua straniera; dal 2010 ho dato lezioni di russo, 
-                la mia lingua madre, a studenti americani e italiani. Vivo a Bologna da Febbraio del 2011. 
-            </p>
-            <p>
-                Prima del mio trasferimento a Bologna, ho lavorato un anno in America, nel Colorado e a Seattle.
-                Durante i miei anni universitari ho vissuto per sei mesi ad Algarve, in Portogallo, dove ho avuto 
-                modo di praticare il portoghese con il programma Erasmus. 
-            </p>
-            <p>
-                Ovviamente anche la mia vita in Italia è all'insegna delle lingue straniere. Grazie alle 
-                mie esperienze di studio e lavoro ho avuto l'opportunità di conoscere meglio anche la mia 
-                lingua madre, e ho così appreso le tecniche migliori per poterla insegnare e farla imparare 
-                ai miei studenti. 
-            </p>
-            <p>
-                Oltre al mio lavoro mi piace molto anche fare escursioni, passeggiate nella natura, e 
-                visitare nuove città. È con gioia che vorrei condividere con voi le mie conoscenze della 
-                lingua e della cultura russe! 
-            </p>
-            <p>
-                Aspetto con impazienza di incontrarvi e spero di avere presto questo grande piacere!
-            </p>
+            <p>Ho terminato i miei studi all'Università Statale di Mosca, dove mi sono specializzata nell'insegnamento del russo come lingua straniera; dal 2010 ho dato lezioni di russo, la mia lingua madre, a studenti americani e italiani.</p>
+            <p>Grazie alle mie esperienze di studio e lavoro ho avuto l'opportunità di conoscere meglio anche la mia lingua madre, e ho così appreso le tecniche migliori per poterla insegnare e farla imparare ai miei studenti.</p>
+            <p>Aspetto con impazienza di incontrarvi e spero di avere presto questo grande piacere!</p>
         </span>
         <p>
             <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
