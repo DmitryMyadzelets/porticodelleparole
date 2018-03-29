@@ -477,19 +477,12 @@
     </div>
         
     <div itemprop="reviewbody">
-        <p>Ho concluso i corsi di insegnamento della lingua russa come lingua straniera nella 
-            Università Statale di Mosca e da due anni insegno lingua russa agli stranieri.
-            Non solo cerco di insegnare ai miei studenti la lingua russa, ma cerco anche di 
-            trasmettere loro la cultura del mio paese: una cultura molto interessante 
-            caratterizzata da tante diverse sfumature.</p>
+        <p>Insegno al Portico delle Parole da febbraio 2016. Per un apprendimento veloce ed efficace del russo ti servono tre cose: volontà, motivazione e un insegnante che sostenga  questi due aspetti fondamentali. Al Portico delle Parole ti viene garantito un apprendimento produttivo e dinamico grazie alle lezioni ben strutturate e al tempo stesso interattive che coinvolgono tutti gli aspetti linguistici: fonetica, grammatica, lessico, ascolto, lettura e scrittura.</p>
         <span id="yana_readmore" style="display: none">
-            <p>I miei studenti hanno superato con successo i corsi universitari come programma di 
-                scambio a Mosca e a San Pietroburgo, sono stati in Russia per adozioni, hanno 
-                partecipato a numerose conferenze e hanno appena iniziato a leggere i classici della 
-                letteratura. Per me è molto importante un approccio individuale con ogni studente, 
-                conoscere le sue aspettative e i suoi obiettivi in modo da imparare insieme 
-                il russo con entusiasmo.</p>
-            <p>Spero di vederti tra i miei studenti nella nostra Associazione Portico delle Parole.</p>
+            <p>Grazie alla mia esperienza pluriennale e al mio percorso di studi incentrato sull’insegnamento della lingua russa come lingua straniera all'Università Statale di Mosca, preparo i programmi per i corsi collettivi e per quelli individuali, adattandoli alle esigenze degli studenti.</p>
+            <p>I miei corsisti hanno superato con successo sia gli esami all'università in Italia sia i corsi universitari per i programmi di scambio a Mosca e a San Pietroburgo. Molti di loro, inoltre, sono stati in Russia per lavoro, per viaggi, e hanno partecipato a numerose conferenze in Russia.</p>
+            <p>Oltre a questo, lavoro anche con bambini bilingue. Con loro mi occupo di lingua russa seguendo il programma scolastico ministeriale della Federazione Russa. E, naturalmente, impariamo a leggere, scrivere e parlare, giocando. I miei piccoli studenti superano con successo esami in russo sia in Italia che in Russia.</p>
+            <p>Spero di vederti al Portico delle Parole dove troverai un ambiente professionale, stimolante ed accogliente.</p>
         </span>
         <p>
             <a id="yana_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
