@@ -225,13 +225,14 @@
                 />
                 <span style="font-size: 180%">
                     <?php
-                    $ts = strtotime('2016-08-02');
-                    $te = strtotime('2016-08-26');
+                    $ts = strtotime('2018-07-03');
+                    $te = strtotime('2018-08-21');
                     $t0 = time();
                     if ($t0 > $te || $t0 < $ts) {
                         echo('Tel. 327 661 7027'); // Olga
                     } else {
-                        echo('Tel. 388 465 0676'); // Luba
+                        // echo('Tel. 388 465 0676'); // Luba
+                        echo('Tel. 329 754 2687'); // Yana
                     }                    
                     ?>
                 </span>
