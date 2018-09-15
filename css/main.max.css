@@ -282,7 +282,7 @@ ul.menu li {
 ul.menu a {
     display: block;
     color: inherit;
-    padding: 1em 2em;
+    padding: 1em 0;
     text-decoration: none;
 }
 
