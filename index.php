@@ -110,6 +110,14 @@
     ?>
 <div class="main-container shadow">
 
+<ul class='menu'>
+    <li><a href="#corsi-di-russo">Corsi</a></li>
+    <li><a href="#prezzi">Prezzi</a></li>
+    <li><a href="#orari">Orari</a></li>
+    <li><a href="#attivita">Attività</a></li>
+    <li><a href="#i-nostri-insegnanti">Insegnanti</a></li>
+    <li><a href="#foto">Foto</a></li>
+</ul>
 
 <div class="stretchy-wrapper" id="logo-wrapper">
     <div>
@@ -154,13 +162,6 @@
         echo "</p></div>";
     }
 ?>
-
-<ul class='menu'>
-    <li><a href="#corsi-di-russo">Corsi</a></li>
-    <li><a href="#prezzi">Prezzi</a></li>
-    <li><a href="#orari">Orari</a></li>
-    <li><a href="#foto">Foto</a></li>
-</ul>
 
 <!--     <p>
         Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! 
@@ -233,7 +234,7 @@
                     } else {
                         // echo('Tel. 388 465 0676'); // Luba
                         echo('Tel. 329 754 2687'); // Yana
-                    }                    
+                    }
                     ?>
                 </span>
             </a>
@@ -317,6 +318,43 @@
     </ul>
 </p>
 
+<section>
+    <h2>
+        Corsi di russo speciali
+    </h2>
+    <p>
+        Su richiesta, sono disponibili i seguenti <a href="corsi-speciali/">corsi speciali</a>:
+        <ul>
+            <li>
+                <a href="corsi-speciali/#russo-per-adozione">
+                    Russo per adozione
+                </a>
+            </li>
+            <li>
+                <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
+                    Russo per preparazione esami universitari
+                </a>
+            </li>
+            <li>
+                <a href="corsi-speciali/#russo-per-azienda">
+                    Russo per l’azienda
+                </a>
+            </li>
+            <li>
+                <a href="corsi-speciali/#russo-per-viaggiare">
+                    Russo per viaggiare
+                </a>
+            </li>
+        </ul>
+    </p>
+</section>
+
+<h2>
+    <a name="attivita">
+        Attività
+    </a>
+</h2>
+
 <h3>Tè del sabato (чай по субботам)</h3>
 
 <div>
@@ -373,38 +411,6 @@
         </ul>
     </p>
 </div>
-
-
-<section>
-    <h2>
-        Corsi di russo speciali
-    </h2>
-    <p>
-        Su richiesta, sono disponibili i seguenti <a href="corsi-speciali/">corsi speciali</a>:
-        <ul>
-            <li>
-                <a href="corsi-speciali/#russo-per-adozione">
-                    Russo per adozione
-                </a>
-            </li>
-            <li>
-                <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
-                    Russo per preparazione esami universitari
-                </a>
-            </li>
-            <li>
-                <a href="corsi-speciali/#russo-per-azienda">
-                    Russo per l’azienda
-                </a>
-            </li>
-            <li>
-                <a href="corsi-speciali/#russo-per-viaggiare">
-                    Russo per viaggiare
-                </a>
-            </li>
-        </ul>
-    </p>
-</section>
 
 
 <h2>
@@ -654,16 +660,16 @@
             <span style="font-size: 75%">20 ore</span></h3>
         </div>
         <p>
-            Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso.
+            Le lezioni sono <b>1 volta alla settimana</b>. Il giorno sarà concordato con gli altri partecipanti del corso. È previsto un recupero gratuito di due lezioni.
             <br/>
             <br/>
             <b>20 ore = 12 lezioni</b><br>
-            La durata di ogni lezione è di 1 ora e 40 min
+            La durata di ogni lezione è di 1 ora e 40 min            
             <br/>
             <br/>
             Puoi scegliere fra <b>due fasce orarie</b>:<br>
-            1) dalle 18:15 alle 19:55<br>
-            2) dalle 20:05 alle 21:45
+            1) dalle 18:20 alle 20:00<br>
+            2) dalle 20:10 alle 21:50
         </p>
     </div>
 </div>
