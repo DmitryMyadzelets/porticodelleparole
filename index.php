@@ -323,30 +323,43 @@
         Corsi di russo speciali
     </h2>
     <p>
-        Su richiesta, sono disponibili i seguenti <a href="corsi-speciali/">corsi speciali</a>:
-        <ul>
-            <li>
-                <a href="corsi-speciali/#russo-per-adozione">
-                    Russo per adozione
-                </a>
-            </li>
-            <li>
-                <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
-                    Russo per preparazione esami universitari
-                </a>
-            </li>
-            <li>
-                <a href="corsi-speciali/#russo-per-azienda">
-                    Russo per l’azienda
-                </a>
-            </li>
-            <li>
-                <a href="corsi-speciali/#russo-per-viaggiare">
-                    Russo per viaggiare
-                </a>
-            </li>
-        </ul>
+        Su richiesta, sono disponibili i <a href="corsi-speciali/">seguenti corsi</a>:
     </p>
+    <div class="div-table special-courses-table">
+        <div class="div-column col-fourth">
+            <a href="corsi-speciali/#russo-per-azienda">
+                <img src="/img/business.jpg">
+                <p>
+                    Russo per l’azienda
+                </p>
+            </a>
+        </div>
+        <div class="div-column col-fourth">
+            <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
+                <img src="/img/russo-per-esami.jpg">
+                <p>
+                    Russo per preparazione esami universitari
+                </p>
+            </a>
+        </div>
+        <div class="div-column col-fourth">
+            <a href="corsi-speciali/#russo-per-adozione">
+                <img src="/img/adozione.jpg">
+                <p>
+                    Russo per adozione
+                </p>
+            </a>
+        </div>
+        <div class="div-column col-fourth">
+            <a href="corsi-speciali/#russo-per-viaggiare">
+                <img src="/img/turismo.jpg">
+                <p>
+                    Russo per viaggiare
+                </p>
+            </a>
+        </div>
+    </div>
+
 </section>
 
 <h2>

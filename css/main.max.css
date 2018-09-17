@@ -215,15 +215,18 @@ div.review_photo > div {
     padding: 0.8em;
 }
 
-.div-column > p {
+.div-column p {
     padding: 0 1em;
 }
 
-@media (min-width: 46em) {
-    .col-third {
-        width: 33.33%;
-        display: table-cell;
-    }
+.div-column a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.col-fourth {
+    width: 50%;
+    float: left;
 }
 
 @media (min-width: 46em) {
@@ -231,7 +234,17 @@ div.review_photo > div {
         width: 50%;
         display: table-cell;
     }
+    .col-third {
+        width: 33.33%;
+        display: table-cell;
+    }
+    .col-fourth {
+        width: 25%;
+        display: table-cell;
+        float: none;
+    }
 }
+
 
 .price-table,
 .hours-table {
@@ -243,6 +256,15 @@ div.review_photo > div {
     border-bottom: solid 1px gray;
 }
 
+.special-courses-table img {
+    padding: 1em 1em 0 1em;
+}
+
+.special-courses-table .div-column:hover {
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.4);
+}
 
 .svg-icon {
     width: 2em;
@@ -262,7 +284,7 @@ div.review_photo > div {
     display: block;
 }
 
-/* Menu */
+/* Menu 
 
 ul.menu {
     list-style: none;
