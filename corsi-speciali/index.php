@@ -115,28 +115,27 @@
     </h1>
 
     <h2>
-        <a name="russo-per-adozione">
-            Russo per adozione
-        </a>
+        <a name="russo-per-azienda">
+            Russo per l’azienda
+        </a>       
     </h2>
     <div class='course-description'>
-        <img src="/img/adozione.jpg">
+        <img src="/img/business.jpg">
         <p>
-            Programma speciale per genitori che vogliono adottare un bambino russo e che desiderano:
+            Fin dalle prime lezione avrai modo apprendere e comprendere:
             <ul>
-                <li>Imparare le nozioni basi della lingua russa;</li>
-                <li>Capire, conoscere meglio la personalità del bambino;</li>
-                <li>Comunicare con lui dai primi giorni.</li>
+                <li>Le relazioni commerciali con la Federazione Russa e i paesi russofoni;</li>
+                <li>La terminologia aziendale;</li>
+                <li>La corrispondenza commerciale.</li>
             </ul>
         </p>
         <p>
-            Inoltre, il corso permette ai nuovi genitori di imparare come comportarsi durante il loro 
-            viaggio in Russia e come approcciarsi alla cultura russa nelle situazioni di vita 
-            quotidiana (ristoranti, negozi, indicazioni stradali ecc.).
+            Conoscerai, così, le particolarità del business culture russa, le abitudini e la lingua degli interlocutori, 
+            così da poter comunicazione con partner e colleghi russofoni.
         </p>
         <p>
-            Grazie all’esperienza acquisita negli anni, i materiali didattici sono pensati in modo tale 
-            da assimilare in tempi brevi tutte le capacità necessarie per questi obiettivi.
+            Il tutto è costantemente accompagnato da materiali chiari e ben organizzati, 
+            che potrai consultare facilmente anche autonomamente.
         </p>
     </div>
 
@@ -161,27 +160,28 @@
     </div>
 
     <h2>
-        <a name="russo-per-azienda">
-            Russo per l’azienda
-        </a>       
+        <a name="russo-per-adozione">
+            Russo per adozione
+        </a>
     </h2>
     <div class='course-description'>
-        <img src="/img/business.jpg">
+        <img src="/img/adozione.jpg">
         <p>
-            Fin dalle prime lezione avrai modo apprendere e comprendere:
+            Programma speciale per genitori che vogliono adottare un bambino russo e che desiderano:
             <ul>
-                <li>Le relazioni commerciali con la Federazione Russa e i paesi russofoni;</li>
-                <li>La terminologia aziendale;</li>
-                <li>La corrispondenza commerciale.</li>
+                <li>Imparare le nozioni basi della lingua russa;</li>
+                <li>Capire, conoscere meglio la personalità del bambino;</li>
+                <li>Comunicare con lui dai primi giorni.</li>
             </ul>
         </p>
         <p>
-            Conoscerai, così, le particolarità del business culture russa, le abitudini e la lingua degli interlocutori, 
-            così da poter comunicazione con partner e colleghi russofoni.
+            Inoltre, il corso permette ai nuovi genitori di imparare come comportarsi durante il loro 
+            viaggio in Russia e come approcciarsi alla cultura russa nelle situazioni di vita 
+            quotidiana (ristoranti, negozi, indicazioni stradali ecc.).
         </p>
         <p>
-            Il tutto è costantemente accompagnato da materiali chiari e ben organizzati, 
-            che potrai consultare facilmente anche autonomamente.
+            Grazie all’esperienza acquisita negli anni, i materiali didattici sono pensati in modo tale 
+            da assimilare in tempi brevi tutte le capacità necessarie per questi obiettivi.
         </p>
     </div>
 
