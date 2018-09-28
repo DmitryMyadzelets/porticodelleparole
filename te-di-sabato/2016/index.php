@@ -1,75 +1,22 @@
-<!DOCTYPE HTML>
-<html lang="it">
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="Cache-control" content="private">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
-    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
-    <meta name="keywords" content="
-    corsi di russo a Bologna,
-    cultura russa,
-    tè di sabato,
-    attivita culturale
-    ">
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/header.html" ?>
 
-    <!-- Twitter card -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@BolognaRusso" />
-    <meta name="twitter:title" content="Corsi di Russo a Bologna" />
-    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
-    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
-    <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
-
-    <!--  -->
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-
-    <title>
-        Tè del sabato &mdash; Associazione Portico delle Parole
-    </title>
-
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-        _gaq.push(['_setAccount', 'UA-44617461-1']);
-        _gaq.push(['_trackPageview']);
-        (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
-    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
-    <script type="text/javascript">
-        var ids = ["59b95944b19d7","59b956f327c91","59b9570236050","59b9571a04761","59b957312b211","59b95755105ef","59b9577053a96","59b9578084ec1","59b95795dd625","59b957a538a2d","59b9589257b54","59b959354680c","59b958b969a86","59b958ccf29b6","59b958edc6c12","59b958fbc0777","59b95921d2ec6","59b956dc05d3a"];
-        $(function () {
-            var slides = $('.slideshow');
-            var i = ids.length;
-            while (i > 0) {
-                i = i - 1;
-                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
-            }
-            slides.slick({
-                lazyLoad: 'ondemand',
-                autoplay: true,
-                autoplaySpeed: 5000
-            });
+<!-- slideshow -->
+<script type="text/javascript">
+    var ids = ["59b95944b19d7","59b956f327c91","59b9570236050","59b9571a04761","59b957312b211","59b95755105ef","59b9577053a96","59b9578084ec1","59b95795dd625","59b957a538a2d","59b9589257b54","59b959354680c","59b958b969a86","59b958ccf29b6","59b958edc6c12","59b958fbc0777","59b95921d2ec6","59b956dc05d3a"];
+    $(function () {
+        var slides = $('.slideshow');
+        var i = ids.length;
+        while (i > 0) {
+            i = i - 1;
+            slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
+        }
+        slides.slick({
+            lazyLoad: 'ondemand',
+            autoplay: true,
+            autoplaySpeed: 5000
         });
-    </script>
-
-
-</head>
-
-<body>
-<div class="main-container shadow">
-
-<br>
-<div class='slideshow'></div>
+    });
+</script>
 
 <section>
     <h1>
@@ -252,32 +199,4 @@
 
 </section>
 
-<hr>
-
-<section>
-    <p>
-        Guarda <a href="/#corsi-di-russo">i nostri corsi</a>,
-        cosa <a href="/#dicono-di-noi">dicono di noi</a> e
-        <a href="/#dove-trovarci">dove trovarci</a>.
-    </p>
-</section>
-
-</div>
-
-<br>
-
-<div class="main-container shadow">
-    <p>
-        Associazione Portico delle Parole <br>
-        via Nosadella 15B, 40123 Bologna, Italia <br>
-        Tel: +39 327 6617027 <br>
-        <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>&nbsp;&nbsp;&nbsp;
-        <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>
-    </p>
-    <p>
-        C.F.: 91361610370
-    </p>
-</div>
-
-</body>
-</html>
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/footer.html" ?>
