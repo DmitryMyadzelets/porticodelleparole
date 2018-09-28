@@ -381,7 +381,8 @@
     <p>
         Il <q>tè del sabato</q> è un’attività che va avanti dal 2014.
         Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi due anni:
-        <br><a href="te-di-sabato/">anno 2017</a>
+        <br><a href="te-di-sabato/2018/">anno 2018</a>
+        <br><a href="te-di-sabato/2017/">anno 2017</a>
         <br><a href="te-di-sabato/2016/">anno 2016</a>
     </p>
     <p>
