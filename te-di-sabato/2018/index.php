@@ -2,7 +2,7 @@
 
 <!-- slideshow -->
 <script type="text/javascript">
-    var ids = [];
+    var ids = ["5bb264c86df8c","5bb264e17580b","5bb264ef4a3ed","5bb264fa6a877","5bb265034e03f","5bb2650cad400","5bb26516c2bde","5bb2651fe24ee","5bb265286111a","5bb2653451404","5bb26542d3dcc","5bb2654a1cbce","5bb2655233567","5bb2655a7a51b","5bb26562c71c7"];
     $(function () {
         var slides = $('.slideshow');
         var i = ids.length;
