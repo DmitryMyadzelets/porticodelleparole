@@ -585,9 +585,16 @@
             <h3>Individuale</h3>
         </div>
         <p>
-            20 ore – 364&#8364; (18,2 all'ora)
+            20 ore – 364&#8364; (18,20 all'ora)
             <br/>
-            10 ore – 197&#8364; (19,7 all'ora)
+            10 ore – 197&#8364; (19,70 all'ora)
+        </p>
+        <p>
+            Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
+            <br/>
+            20 ore – 464&#8364; (23,20 all'ora)
+            <br/>
+            10 ore – 247&#8364; (24,70 all'ora)
         </p>
     </div>
     <div class="div-column col-third">
@@ -595,10 +602,17 @@
             <h3>In due</h3>
         </div>
         <p>
-            20 ore – 277&#8364; (13,8 all'ora)
+            20 ore – 277&#8364; (13,80 all'ora)
             <br/>
-            10 ore – 147&#8364; (14,7 all'ora)
+            10 ore – 147&#8364; (14,70 all'ora)
         <p/>
+        <p>
+            Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
+            <br/>
+            20 ore – 297&#8364; (14,80 all'ora)
+            <br/>
+            10 ore – 167&#8364; (16,70 all'ora)
+        </p>
         <p>
             Prezzo a persona
         </p>
