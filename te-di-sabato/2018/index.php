@@ -126,7 +126,7 @@ genitori, foto e materiale video, le cose che il mondo occidentale non conosceva
       <li>Decorazione dei prianiki (biscotti tradizionali russi).</li>
       <li>Visita guidata al negozio russo.</li>
       <li>Presentazione sul cibo russo con la degustazione.</li>
-      <li>Aperitivo con la lettura delle poesie in russo dedicato al compleanao del poeta A.S. Pushkin e la giornata della lingua russa.</li>
+      <li>Aperitivo con la lettura delle poesie in russo dedicato al compleanno del poeta A.S. Pushkin e la giornata della lingua russa.</li>
       <li>Picnic per festeggiare la fine dell’anno accademico.</li>
     </ul>
 
