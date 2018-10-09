@@ -93,30 +93,30 @@
 
 	<p>Nome, Cognome <?php if (($state == State::fixing) and !$valid_name) { echo $err_msg; } ?>
 		<br/>
-		<input type="text" name="name" style="width:100%" value="<?php echo $_POST['name']?>">
+		<input type="text" name="name" style="width:100%" value="<?php if (isset($_POST['name'])) { echo $_POST['name']; }?>">
 	</p>
 
 	<p>Età (opzionale)<br/>
-		<input type="text" name="age" size="7em" value="<?php echo $_POST['age']?>">
+		<input type="text" name="age" size="7em" value="<?php if (isset($_POST['age'])) { echo $_POST['age']; } ?>">
 	</p>
 
 	<p>Giorni della settimana e orari di disponibilità per le lezioni (indicare più varianti)<br/>
-		<input type="text" name="schedule" style="width:100%" value="<?php echo $_POST['schedule']?>">
+		<input type="text" name="schedule" style="width:100%" value="<?php if (isset($_POST['schedule'])) { echo $_POST['schedule']; } ?>">
 	</p>
 
 	<p>Indirizzo e-mail <?php if (($state == State::fixing) and !$valid_email) { echo $err_msg; } ?>
 		<br/>
-		<input type="text" name="email" style="width:100%" value="<?php echo $_POST['email']?>">
+		<input type="text" name="email" style="width:100%" value="<?php if (isset($_POST['email'])) { echo $_POST['email']; }?>">
 	</p>
 
 	<p>Numero di telefono<br/>
-		<input type="text" name="phone" size="15em" value="<?php echo $_POST['phone']?>">
+		<input type="text" name="phone" size="15em" value="<?php if (isset($_POST['phone'])) { echo $_POST['phone']; }?>">
 	</p>
 
 
 	<p>
 		Se già studiato il russo, per quanto tempo?<br/>
-		 <input type="text" name="time_learned" style="width:100%" value="<?php echo $_POST['time_learned']?>">
+		 <input type="text" name="time_learned" style="width:100%" value="<?php if (isset($_POST['time_learned'])) { echo $_POST['time_learned']; }?>">
 	</p>
 
 	<input type="submit" value="Invia" style="height:2em; width:5em"> <?php  if ($state == State::done) {echo "Grazie, ", $_POST['name'];} ?>
