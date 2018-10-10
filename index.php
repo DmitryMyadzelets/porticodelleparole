@@ -379,13 +379,6 @@
         </div>
     </div>
     <p>
-        Il <q>tè del sabato</q> è un’attività che va avanti dal 2014.
-        Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi anni:
-        <br><a href="te-di-sabato/2018/">anno 2018</a>
-        <br><a href="te-di-sabato/2017/">anno 2017</a>
-        <br><a href="te-di-sabato/2016/">anno 2016</a>
-    </p>
-    <p>
         <b>Ogni sabato</b>, dalle 11:30 alle 13:30, la sede della nostra associazione si riempie di 
         colori e sapori grazie alla tradizionale cerimonia del tè. I russi amano bere il tè, che è parte integrante 
         della tradizione, della cultura e della vita quotidiana in Russia.
@@ -397,6 +390,37 @@
         la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
         La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
     </p>
+    <p>
+        Il <q>tè del sabato</q> è un’attività che va avanti dal 2014.
+        Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi anni:
+    </p>
+    <div class="div-table te-di-sabato-table">
+        <div class="div-column col-third">
+            <a href="te-di-sabato/2016/">
+                <img src="/img/2016-gagarin.jpg">
+                <p>
+                    2016
+                </p>
+            </a>
+        </div>
+        <div class="div-column col-third">
+            <a href="te-di-sabato/2017/">
+                <img src="/img/2017-balet.jpg">
+                <p>
+                    2017
+                </p>
+            </a>
+        </div>
+        <div class="div-column col-third">
+            <a href="te-di-sabato/2018/">
+                <img src="/img/2018-maslenitsa.jpg">
+                <p>
+                    2018
+                </p>
+            </a>
+        </div>
+    </div>
+
 </div>
 
 <h3>Laboratorio del lessico, conversazione, fonetica e corsivo</h3>

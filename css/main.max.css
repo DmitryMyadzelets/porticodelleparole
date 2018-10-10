@@ -203,7 +203,7 @@ div.review_photo > div {
 }
 
 .div-column {
-    width: 100%;
+    display: table-cell;
 }
 
 .div-column > .col-head {
@@ -224,24 +224,27 @@ div.review_photo > div {
     color: inherit;
 }
 
-.col-fourth {
+
+.col-half {
     width: 50%;
-    float: left;
+}
+.col-third {
+    width: 33.33%;
+}
+.col-fourth {
+    width: 25%;
 }
 
-@media (min-width: 46em) {
-    .col-half {
+@media (max-width: 46em) {
+    .special-courses-table > .div-column {
         width: 50%;
-        display: table-cell;
+        display: block;
+        float: left;
     }
-    .col-third {
-        width: 33.33%;
-        display: table-cell;
-    }
-    .col-fourth {
-        width: 25%;
-        display: table-cell;
-        float: none;
+    .price-table > .div-column,
+    .hours-table > .div-column {
+        width: 100%;
+        display: block;
     }
 }
 
@@ -256,11 +259,13 @@ div.review_photo > div {
     border-bottom: solid 1px gray;
 }
 
+.te-di-sabato-table img,
 .special-courses-table img {
     padding: 1em 1em 0 1em;
 }
 
-.special-courses-table .div-column:hover {
+.te-di-sabato-table > .div-column:hover, 
+.special-courses-table > .div-column:hover {
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.4);
     box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.4);
