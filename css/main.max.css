@@ -241,6 +241,7 @@ div.review_photo > div {
         display: block;
         float: left;
     }
+    .contacts-table > .div-column,
     .price-table > .div-column,
     .hours-table > .div-column {
         width: 100%;
