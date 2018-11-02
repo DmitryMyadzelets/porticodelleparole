@@ -753,9 +753,8 @@
     È facilmente raggiungibile da ogni parte della città, a piedi o con:
 </p>
 <ul>
-    <li>Autobus (fermata piazza Malpighi);</li>
-    <li>Macchina (parcheggi: parcheggio nella piazzetta di Porta Saragozza a 5 minuti di distanza a piedi; 
-        parcheggio Liceo Righi).</li>
+    <li>Autobus (fermate: piazza Malpighi, Ugo Bassi, via delle Lame);</li>
+    <li>Macchina (parcheggio: <a href="https://www.apcoa.it/parcheggi-in/bologna/riva-reno/" target="_blank">Riva Reno</a>).</li>
 </ul>
 
 <a href="https://www.google.com/maps/place/Via+del+Pratello,+9,+40122+Bologna+BO/@44.4955127,11.3336612,551" target="_blank">
