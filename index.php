@@ -379,7 +379,7 @@
         </div>
     </div>
     <p>
-        <b>Ogni sabato</b>, dalle 11:30 alle 13:30, la sede della nostra associazione si riempie di 
+        <b>Ogni sabato</b>, dalle 11:00 alle 13:00, la sede della nostra associazione si riempie di 
         colori e sapori grazie alla tradizionale cerimonia del tè. I russi amano bere il tè, che è parte integrante 
         della tradizione, della cultura e della vita quotidiana in Russia.
     </p>
