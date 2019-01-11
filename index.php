@@ -90,7 +90,7 @@
             var i = ids.length;
             while (i > 0) {
                 i = i - 1;
-                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'http://www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
+                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'/photos/?id=' + ids[i] + '\'/></div></div>');
             }
             slides.slick({
                 lazyLoad: 'ondemand',
@@ -823,7 +823,7 @@ function autoResize(id){
         Via del Pratello 9, 40122 Bologna, Italia <br>
         Tel: +39 327 6617027 <br>
         <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>&nbsp;&nbsp;&nbsp;
-        <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>
+        <a href="https://www.porticodelleparole.it">www.porticodelleparole.it</a>
     </p>
     <p>
         C.F.: 91361610370
