@@ -609,9 +609,9 @@
             <h3>Individuale</h3>
         </div>
         <p>
-            20 ore – 364&#8364; (18,20 all'ora)
+            20 ore – 394&#8364; (19,70 all'ora)
             <br/>
-            10 ore – 197&#8364; (19,70 all'ora)
+            10 ore – 217&#8364; (21,70 all'ora)
         </p>
         <p>
             Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
