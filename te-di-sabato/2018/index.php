@@ -123,7 +123,7 @@ genitori, foto e materiale video, le cose che il mondo occidentale non conosceva
       </li>
       <li>
         <q>Non si può capire la Russia con la mente</q> diceva Fëdor Tjutčev, ma noi ci proviamo:
-        <b>Scoprire la cultura di un popolo attraverso i modi di dire, le frasi idiomatiche e le locuzioni</b>.
+        Scoprire la <b>cultura di un popolo</b> attraverso i modi di dire, le frasi idiomatiche e le locuzioni.
         <span class='authors'>Anna Shkapa di Novosibirsk</span>
       </li>
       <li>
@@ -150,7 +150,7 @@ genitori, foto e materiale video, le cose che il mondo occidentale non conosceva
       <li>Visita guidata al negozio russo.</li>
       <li>Presentazione sul cibo russo con la degustazione.</li>
       <li>Decorazione dei prianiki (biscotti tradizionali russi).</li>
-      <li>Visita guidata al negozio russo.</li>
+      <li>Visita guidata alla mostra Revolutija.</li>
       <li>Presentazione sul cibo russo con la degustazione.</li>
       <li>Aperitivo con la lettura delle poesie in russo dedicato al compleanno del poeta A.S. Pushkin e la giornata della lingua russa.</li>
       <li>Picnic per festeggiare la fine dell’anno accademico.</li>
