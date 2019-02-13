@@ -54,6 +54,11 @@
         <b>Assedio di Leningrado</b>. Diari e la poesia sull’assedio di Leningrado.
         <span class='authors'>Anna Shkapa di Novosibirsk</span>
       </li>
+      <li>
+        <b>Vita e morte dell'ultimo zar dell'Impero russo Nicolaj II.</b>
+        <span class='authors'>Olga Miadzeletc di Irkutsk</span>
+      </li>
+
     </ul>
 
     <h3>Viaggio in Russia</h3>
@@ -74,6 +79,14 @@
       <li>
         <b>Irkutsk e il Lago Baikal</b> &mdash; lago più pulito e profondo al mondo (patrimonio dell’UNESCO).
         <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
+      </li>
+      <li>
+        <b>Novosibirsk</b> è la capitale della Siberia.
+        <span class='authors'>Anna Shkapa di Novosibirsk</span>
+      </li>
+      <li>
+        <b>Iževsk</b> &mdash; tradizioni, storia, lingua, folklore.
+        <span class='authors'>Julia Pridatchenko di Izhevsk</span>
       </li>
     </ul>
 
@@ -108,6 +121,19 @@ genitori, foto e materiale video, le cose che il mondo occidentale non conosceva
         <b>Il sistema scolastico in Russia</b>.
         <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
       </li>
+      <li>
+        <q>Non si può capire la Russia con la mente</q> diceva Fëdor Tjutčev, ma noi ci proviamo:
+        <b>Scoprire la cultura di un popolo attraverso i modi di dire, le frasi idiomatiche e le locuzioni</b>.
+        <span class='authors'>Anna Shkapa di Novosibirsk</span>
+      </li>
+      <li>
+        <b>Tradizioni legate al matrimonio in Russia</b>.
+        <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
+      </li>
+      <li>
+        Particolarità della <b>gestione degli affari in Russia</b> e nei Paesi dell'ex Unione sovietica.
+        <span class='authors'>Natalia Kravchuk di Irkutsk</span>
+      </li>
     </ul>
 
     <p>
@@ -128,6 +154,9 @@ genitori, foto e materiale video, le cose che il mondo occidentale non conosceva
       <li>Presentazione sul cibo russo con la degustazione.</li>
       <li>Aperitivo con la lettura delle poesie in russo dedicato al compleanno del poeta A.S. Pushkin e la giornata della lingua russa.</li>
       <li>Picnic per festeggiare la fine dell’anno accademico.</li>
+      <li>Inaugurazione della nuova sede in via del Pratello.</li>
+      <li>Visione del film <q>Piter FM</q> in lingua originale e sottotitolato in russo.</li>
+      <li>Festeggiamenti tipici del Capodanno russo con Babbo Natale e la sua nipotina Snegurochka.</li>
     </ul>
 
 </section>
