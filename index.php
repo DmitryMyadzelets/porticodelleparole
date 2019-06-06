@@ -646,19 +646,8 @@
             <h3>In gruppo</h3>
         </div>
         <p>
-            20 ore – <span style="text-decoration: line-through;">260&#8364;</span>
-<?php
-
-    $date = strtotime('2018-01-01');
-    $now = strtotime("now");
-    $days_left = 1 + floor(($date - $now)/(60*60*24));
-
-    if ($days_left > 0) {
-        echo " <span style=\"color:red\"> adesso fino al 31 dicembre 197&#8364;</span> (9,8 all'ora)";
-    } else {
-        echo " <span style=\"color:red\"> adesso in offerta 227&#8364;</span> (11,35 all'ora)";
-    }
-?>
+            20 ore – <span style="text-decoration: line-through;">290&#8364;</span>
+            <span style="color:red"> adesso in offerta 257&#8364;</span> (12,85 all'ora);
         </p>
         <p>
             I gruppi sono formati da 4 &mdash; max. 10 persone</span>
