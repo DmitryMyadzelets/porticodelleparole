@@ -472,11 +472,13 @@
         </div>
     </div>
     <div itemprop="reviewbody">
-        <p>Amo insegnare, e sono proprio i miei studenti ad accrescere in me l'entusiasmo lezione dopo lezione! La loro curiosità nell'apprendere è contagiosa, e così nasce in me la voglia di perfezionarmi sempre per offrire loro lezioni sempre nuove, interessanti, utili e conoscitive.</p>
+        <p>Vengo da Irkutsk (Siberia) e sono una delle fondatrici dell'associazione “Portico delle parole”. L'abbiamo fondata nell'ottobre del 2013 con l'obbiettivo di creare un centro di didattica della lingua russa e di costruire un ponte tra la cultura russa e quella italiana.</p>
         <span id="olga_readmore" style="display: none">
-            <p>Ho terminato i miei studi all'Università Statale di Mosca, dove mi sono specializzata nell'insegnamento del russo come lingua straniera; dal 2010 ho dato lezioni di russo, la mia lingua madre, a studenti americani e italiani.</p>
-            <p>Grazie alle mie esperienze di studio e lavoro ho avuto l'opportunità di conoscere meglio anche la mia lingua madre, e ho così appreso le tecniche migliori per poterla insegnare e farla imparare ai miei studenti.</p>
-            <p>Aspetto con impazienza di incontrarvi e spero di avere presto questo grande piacere!</p>
+            <p>Al Portico delle Parole insegno e mi occupo della gestione della scuola e delle attività didattiche. Mi sono specializzata nell'insegnamento del russo come lingua straniera all'Università Statale di Mosca, e dal 2010 do lezioni di russo, la mia lingua madre, a studenti americani e italiani.</p>
+            <p>Grazie alle mie esperienze di studio e lavoro ho avuto l'opportunità di apprendere e mettere in pratica le tecniche migliori per poterla insegnare e farla imparare ai miei studenti.</p>
+            <p>L'interesse dei miei studenti per la lingua e per il mondo russo in generale è contagioso, mi stimola e mi porta sempre a perfezionarmi per dare loro il meglio.</p>
+            <p>Secondo me quando si impara una lingua interesse, materiale didattico ben strutturato e pratica sono fondamentali. Per questo abbiamo deciso di offrire ai nostri corsisti, oltre che ottimo materiale didattico anche tante possibilità di praticare il russo con attività extra molto utili e gratuite, ad esempio il tè del sabato, laboratori linguistici (laboratori del lessico, laboratori di scrittura, laboratori di grammatica), ed eventi culturali.</p>
+            <p>Con la nostra scuola scoprirai la lingua, ma anche la cultura russa, con le sue curiosità e tradizioni. Vieni a far parte del mondo russo di Bologna anche tu, ti aspettiamo!</p>
         </span>
         <p>
             <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
