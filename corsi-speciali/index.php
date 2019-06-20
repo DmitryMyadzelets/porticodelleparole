@@ -62,11 +62,11 @@
     <div class="div-table contacts-table">
         <div class="div-column col-half">
             <p>
-                <a href="http://maps.google.com/maps?q=Via+Nosadella+15B,+Bologna,+Italy&amp;hl=en&amp;sll=44.49522,11.352654&amp;sspn=0.053693,0.111494&amp;hnear=Via+Nosadella,+15B,+Bologna,+Emilia-Romagna,+Italy" target="_blank">
-                    <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
-                    title="Indirizzio del Portico delle Parole"
-                    />via Nosadella 15 b, Bologna
-                </a>
+            <a href="https://www.google.com/maps/place/Via+del+Pratello,+9,+40122+Bologna+BO/@44.4955127,11.3336612,551" target="_blank">
+                <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
+                title="Indirizzio del Portico delle Parole"
+                />via dell Pratello 9, Bologna
+            </a>
             </p>
             <p>
                 <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
@@ -228,7 +228,7 @@
 <div class="main-container shadow">
     <p>
         Associazione Portico delle Parole <br>
-        via Nosadella 15B, 40123 Bologna, Italia <br>
+        Via del Pratello 9, 40122 Bologna, Italia <br>
         Tel: +39 327 6617027 <br>
         <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>&nbsp;&nbsp;&nbsp;
         <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>

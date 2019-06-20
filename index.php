@@ -203,14 +203,14 @@
     <div class="div-column col-half">
         <p>
             <a href="https://www.google.com/maps/place/Via+del+Pratello,+9,+40122+Bologna+BO/@44.4955127,11.3336612,551" target="_blank">
-                <img src="./img/pin.svg" alt="Indirizzio" class="svg-icon"
+                <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
                 title="Indirizzio del Portico delle Parole"
                 />via dell Pratello 9, Bologna
             </a>
         </p>
         <p>
             <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
-                <img src="./img/facebook.svg" alt="Facebook logo" class="svg-icon"
+                <img src="/img/facebook.svg" alt="Facebook logo" class="svg-icon"
                 title="Seguici il Portico delle Parole su Facebook"
                 />Seguici su Facebook
             </a>
