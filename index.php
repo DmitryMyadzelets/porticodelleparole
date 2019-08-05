@@ -152,10 +152,6 @@
         $manca = "Manca solo 1 giorno all'inizio delle lezioni!";
     }
 
-    echo "<div class=\"ads center\"><p>";
-    echo "Contattaci per iscriverti ai corsi estivi di lingua russa. Ti aspettiamo!"
-    echo "</p></div>";
-
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
         echo "<b>".$config['firstDateFormatted']."</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati.";
