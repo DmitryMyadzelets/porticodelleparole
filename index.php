@@ -138,7 +138,6 @@
 </div>
 
 <?php
-
     $fname = 'config/config.json';
 
     $data = @file_get_contents($fname);
@@ -153,6 +152,10 @@
         $manca = "Manca solo 1 giorno all'inizio delle lezioni!";
     }
 
+    echo "<div class=\"ads center\"><p>";
+    echo "Contattaci per iscriverti ai corsi estivi di lingua russa. Ti aspettiamo!"
+    echo "</p></div>";
+
     if ($days_left > 0) {
         echo "<div class=\"ads center\"><p>";
         echo "<b>".$config['firstDateFormatted']."</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati.";
@@ -163,6 +166,10 @@
     }
 ?>
 
+<!--     <div class="center" style="font-size: 1.618em; padding: 1.618em 0; color: red;">
+        <p>Contattaci per iscriverti ai corsi estivi di lingua russa. <br>Ti aspettiamo!</p>
+    </div>
+ -->
 <!--     <p>
         Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! 
         Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russe!<br/>Vi aspettiamo con impazienza!
