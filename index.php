@@ -307,19 +307,20 @@
     ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello.
 </p>
 
+<?php
+// <h3>Nel corso sono compresi:</h3>
 
-<h3>Nel corso sono compresi:</h3>
-
-<p>
-    <ul>
-        <li>Il <b>manuale</b>;
-        <li>Email settimanali con info, link e altri materiali utili per imparare il russo;
-        <li>Supporto via email, Facebook, WhatsApp per qualsiasi domanda riguardante i corsi e la lingua russa;
-        <li><b>Il laboratorio del lessico settimanale</b> (1 ora e 30 minuti);
-        <li>Lezioni di recupero per eventuali chiarimenti;
-        <li>Attività culturali gratuite per tutti i corsisti: tè del sabato e gli eventi speciali.
-    </ul>
-</p>
+// <p>
+//     <ul>
+//         <li>Il <b>manuale</b>;
+//         <li>Email settimanali con info, link e altri materiali utili per imparare il russo;
+//         <li>Supporto via email, Facebook, WhatsApp per qualsiasi domanda riguardante i corsi e la lingua russa;
+//         <li><b>Il laboratorio del lessico settimanale</b> (1 ora e 30 minuti);
+//         <li>Lezioni di recupero per eventuali chiarimenti;
+//         <li>Attività culturali gratuite per tutti i corsisti: tè del sabato e gli eventi speciali.
+//     </ul>
+// </p>
+?>
 
 <section>
     <h2>
