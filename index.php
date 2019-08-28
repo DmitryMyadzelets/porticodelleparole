@@ -673,7 +673,10 @@
     Metodi di pagamento
 </h2>
 <p>
-    I metodi di pagamento: contanti, bonifico, assegno bancario. Dati per effettuare il bonifico:<br>
+    I metodi di pagamento: contanti, bonifico, assegno bancario.
+</p>
+<p>
+    Dati per effettuare il bonifico:<br>
     Intestatario: Portico delle Parole<br>
     IBAN: IT27M0200802480000103405231<br>
     BIC: UNCRITM1OM0
