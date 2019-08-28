@@ -666,7 +666,7 @@
     È obbligatorio il rilascio di una tessera associativa del costo di 20&#8364;.
 </p>
 <p>
-    Nel corso sono compresi: il manuale, attività linguistico-culturali gratuite: tè del sabato, laboratori del lessico e gli eventi speciali.
+    Nel corso sono <b>compresi</b>: il manuale, attività linguistico-culturali: tè del sabato, laboratori del lessico e gli eventi speciali.
 </p>
 
 <h2>
