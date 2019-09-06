@@ -237,8 +237,7 @@
                         if ($t0 > $te || $t0 < $ts) {
                             echo('&nbsp;327&nbsp;661&nbsp;7027'); // Olga
                         } else {
-                            // echo('Tel. 388 465 0676'); // Luba
-                            echo('3297542687'); // Yana
+                            echo('329 754 2687'); // Yana
                         }
                         ?>
                     </span>
