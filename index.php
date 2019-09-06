@@ -208,7 +208,7 @@
             <a href="https://www.google.com/maps/place/Via+del+Pratello,+9,+40122+Bologna+BO/@44.4955127,11.3336612,551" target="_blank">
                 <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
                 title="Indirizzio del Portico delle Parole"
-                />via dell Pratello 9, Bologna
+                />Via dell Pratello 9, Bologna
             </a>
         </p>
         <p>
@@ -227,19 +227,31 @@
                 <img src="./img/phonecall.svg" alt="Phone" class="svg-icon"
                 title="Chiamaci al Portico delle Parole"
                 />
-                <span style="font-size: 180%">
-                    <?php
-                    $ts = strtotime('2018-07-03');
-                    $te = strtotime('2018-08-21');
-                    $t0 = time();
-                    if ($t0 > $te || $t0 < $ts) {
-                        echo('Tel. 327 661 7027'); // Olga
-                    } else {
-                        // echo('Tel. 388 465 0676'); // Luba
-                        echo('Tel. 329 754 2687'); // Yana
-                    }
-                    ?>
+                tel.
+                <span style="font-size: 168%;">
+                    <span style="opacity: 0.5">+39&nbsp;</span>
+                    <span style="">
+                        <?php
+                        $ts = strtotime('2018-07-03');
+                        $te = strtotime('2018-08-21');
+                        $t0 = time();
+                        if ($t0 > $te || $t0 < $ts) {
+                            echo('327&nbsp;661&nbsp;7027'); // Olga
+                        } else {
+                            // echo('Tel. 388 465 0676'); // Luba
+                            echo('3297542687'); // Yana
+                        }
+                        ?>
+                    </span>
                 </span>
+            </a>
+        </p>
+        <p>
+            <a href="https://wa.me/393276617027">
+                <img src="./img/whatsapp.svg" alt="WhatsApp" class="svg-icon"
+                title="Clicca per chattare su WhatsApp"
+                />
+                Chattare su WhatsApp
             </a>
         </p>
         <p>
@@ -247,7 +259,8 @@
                 <!-- style="text-decoration: none; color: #444;" -->
                 <img src="./img/mail.svg" alt="email" class="svg-icon"
                 title="email al Portico delle Parole"
-                />info@porticodelleparole.it
+                />
+                info@porticodelleparole.it
             </a>
         </p>
     </div>
