@@ -1,0 +1,159 @@
+{
+    "a1":{
+        "caption":"Уровень А1",
+        "questions":[
+            {
+                "question":"Что это?",
+                "answers":{
+                    "true":["Это стол."],
+                    "false":["Это мама."]
+                }
+            },
+            {
+                "question":"Где море?",
+                "answers":{
+                    "true":["Вот оно."],
+                    "false":["Вот он.", "Вот она."]
+                }
+            },
+            {
+                "question":"В классе есть столы, <skip></skip>, ручки, карандаши, карты.",
+                "answers":{
+                    "true":["стулья"],
+                    "false":["стулы","стули","стула"]
+                }
+            },
+            {
+                "question":"Чьё это письмо?",
+                "answers":{
+                    "true":["Оно моё."],
+                    "false":["Да, это моё письмо.", "Это моя письмо."]
+                }
+            },
+            {
+                "question":"Студенты читают тексты, делают упражнения и <skip></skip> новые слова.",
+                "answers":{
+                    "true":["учат"],
+                    "false":["учут", "учят", "учют"]
+                }
+            },
+            {
+                "question":"Ирина <skip></skip> в университете.",
+                "answers":{
+                    "true":["учится"],
+                    "false":["изучает", "учит"]
+                }
+            },
+            {
+                "question":"Петрозаводск &mdash; <skip></skip> город. Особенно здесь <skip></skip> осенью.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Петрозаводск &mdash; <skip></skip> город  у Онежского озера. Покажите <skip></skip> город на карте.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Мой друг очень хорошо говорит <skip></skip>. Я хочу поехать в Россию и тоже изучать <skip></skip>.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Раньше моя сестра часто <skip></skip> по телефону с подругой.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Виктор очень <skip></skip> поехать в Англию. Но не <skip></skip>, потому что у него нет денег.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Ольге очень <skip></skip> слушать современную популярную музыку.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"<skip></skip> ты любишь гулять?",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"В праздники люди любят гулять <skip></skip>.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"На праздники мы пригласили друзей из <skip></skip>.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Я люблю есть <skip></skip>.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Я часто <skip></skip> в отпуск.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"В каникулы я поеду отдыхать в деревню <skip></skip>.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"Анна с детства занимается <skip></skip>.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            },
+            {
+                "question":"На Масленицу русские часто едят блины <skip></skip>.",
+                "answers":{
+                    "true":[],
+                    "false":[]
+                }
+            }
+        ]
+    },
+    "a2":{
+        "caption":"Уровень А2"
+    },
+    "b1":{
+        "caption":"Уровень B1"
+    },
+    "b2":{
+        "caption":"Уровень B2"
+    }
+}
+
+https://jsfiddle.net/xbzs7mwL/
+https://jsfiddle.net/j3snwkd2/

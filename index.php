@@ -224,7 +224,7 @@
         <p>
             <!-- Olga -->
             <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
-                <img src="./img/phonecall.svg" alt="Phone" class="svg-icon"
+                <img src="./img/phone-02.svg" alt="Phone" class="svg-icon"
                 title="Chiamaci al Portico delle Parole"
                 />
                 tel.
