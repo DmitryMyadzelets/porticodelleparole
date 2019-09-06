@@ -227,16 +227,15 @@
                 <img src="./img/phone-02.svg" alt="Phone" class="svg-icon"
                 title="Chiamaci al Portico delle Parole"
                 />
-                tel.
+                Tel.
                 <span style="font-size: 168%;">
-                    <span style="opacity: 0.5">+39&nbsp;</span>
                     <span style="">
                         <?php
                         $ts = strtotime('2018-07-03');
                         $te = strtotime('2018-08-21');
                         $t0 = time();
                         if ($t0 > $te || $t0 < $ts) {
-                            echo('327&nbsp;661&nbsp;7027'); // Olga
+                            echo('&nbsp;327&nbsp;661&nbsp;7027'); // Olga
                         } else {
                             // echo('Tel. 388 465 0676'); // Luba
                             echo('3297542687'); // Yana
