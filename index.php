@@ -395,10 +395,25 @@
     </div>
 
     <p>
-        Il tè del sabato <q>чай по субботам</q> è un’attività extra del Portico delle Parole, è <b>gratuita</b> per tutti i tesserati dell'associazione e si svolge <b>due sabati al mese dalle 11 alle 13</b>. Ogni volta i partecipanti possono assistere ad una presentazione <b>in russo con la traduzione in italiano</b>, su un argomento sempre diverso, e bere insieme un tè con pasticcini e biscotti. La presentazione può essere sulle feste, sulla storia e cultura russe, ma anche su economia e geografia e sui viaggi in Russia. I partecipanti possono così conoscersi e scambiarsi idee e punti di vista, confrontarsi sui temi proposti.
+        Il <q>tè del sabato</q> (чай по субботам) è un’attività extra del Portico delle Parole, è <b>gratuita</b> per tutti i tesserati dell'associazione e si svolge <b>due sabati al mese dalle 11 alle 13</b>. Ogni volta i partecipanti possono assistere ad una presentazione <b>in russo con la traduzione in italiano</b>, su un argomento sempre diverso, e bere insieme un tè con pasticcini e biscotti. La presentazione può essere sulle feste, sulla storia e cultura russe, ma anche su economia e geografia e sui viaggi in Russia. I partecipanti possono così conoscersi e scambiarsi idee e punti di vista, confrontarsi sui temi proposti.
     </p>
+
+    <p>Calendario del <q>tè del sabato</q> per il 2019, dalle 11.00 alle 13.00 nei giorni:
+        <ul>
+            <li>28 settembre</li>
+            <li>12 ottobre</li>
+            <li>26 ottobre</li>
+            <li>9 novembre</li>
+            <li>23 novembre</li>
+            <li>30 novembre </li>
+        </ul>
+    </p>
+
+
+    <p>La conferma della partecipazione è sempre obbligatoria per ogni incontro.</p>
+
     <p>
-        Il tè del sabato si svolge già dal 2014, e <b>in 5 anni ce ne sono già stati 130</b>.
+        Il <q>tè del sabato<q> si svolge già dal 2014, e <b>in 5 anni ce ne sono già stati 130</b>.
         Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi anni:
     </p>
     <div class="div-table te-di-sabato-table">
