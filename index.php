@@ -393,20 +393,12 @@
             </div>
         </div>
     </div>
+
     <p>
-        <b>Ogni sabato</b>, dalle 11:00 alle 13:00, la sede della nostra associazione si riempie di 
-        colori e sapori grazie alla tradizionale cerimonia del tè. I russi amano bere il tè, che è parte integrante 
-        della tradizione, della cultura e della vita quotidiana in Russia.
+        Il tè del sabato <q>чай по субботам</q> è un’attività extra del Portico delle Parole, è <b>gratuita</b> per tutti i tesserati dell'associazione e si svolge <b>due sabati al mese dalle 11 alle 13</b>. Ogni volta i partecipanti possono assistere ad una presentazione <b>in russo con la traduzione in italiano</b>, su un argomento sempre diverso, e bere insieme un tè con pasticcini e biscotti. La presentazione può essere sulle feste, sulla storia e cultura russe, ma anche su economia e geografia e sui viaggi in Russia. I partecipanti possono così conoscersi e scambiarsi idee e punti di vista, confrontarsi sui temi proposti.
     </p>
     <p>
-        L’incontro <q>il tè del sabato</q> è un’opportunità unica per 
-        incontrare nuovi amici russi ed italiani, scambiare opinioni e riflessioni, e naturalmente praticare il tuo russo. 
-        Ogni settimana viene affrontato un argomento nuovo, <b>in russo e in italiano</b>, per scoprire le tradizioni, 
-        la storia e le peculiarità che rendono la cultura russa così affascinante ed unica al mondo! 
-        La partecipazione è <b>gratuita</b> per tutti gli alunni della scuola.
-    </p>
-    <p>
-        Il <q>tè del sabato</q> è un’attività che va avanti dal 2014.
+        Il tè del sabato si svolge già dal 2014, e <b>in 5 anni ce ne sono già stati 130</b>.
         Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi anni:
     </p>
     <div class="div-table te-di-sabato-table">
