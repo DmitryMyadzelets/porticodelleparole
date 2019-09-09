@@ -413,7 +413,7 @@
     <p>La conferma della partecipazione è sempre obbligatoria per ogni incontro.</p>
 
     <p>
-        Il <q>tè del sabato<q> si svolge già dal 2014, e <b>in 5 anni ce ne sono già stati 130</b>.
+        Il <q>tè del sabato</q> si svolge già dal 2014, e <b>in 5 anni ce ne sono già stati 130</b>.
         Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi anni:
     </p>
     <div class="div-table te-di-sabato-table">
