@@ -27,6 +27,7 @@
     <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/test.css">
 
     <title>
         Corsi di Russo Speciali a Bologna &mdash; Associazione Portico delle Parole
@@ -63,14 +64,17 @@
 
 <section>
     <h1>
-        Test
+        Тест
     </h1>
+    <div id="test-content"></div>
 </section>
-
-<hr>
 
 </div>
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
 </body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="index.js"></script>
+
 </html>
