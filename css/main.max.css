@@ -45,7 +45,7 @@ body {
 
 
 
-p, ul, td {
+p, ul, ol, td {
     font-size: 88%;
     line-height: 150%;
 }

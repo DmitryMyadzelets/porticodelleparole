@@ -1,0 +1,12 @@
+skip {
+  display: inline-block;
+}
+
+.question {
+  padding: 1.618em 0;
+}
+
+.question select {
+  display: inline;
+  font-size: inherit;
+}
