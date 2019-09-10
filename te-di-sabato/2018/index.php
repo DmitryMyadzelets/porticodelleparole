@@ -161,4 +161,4 @@ genitori, foto e materiale video, le cose che il mondo occidentale non conosceva
 
 </section>
 
-<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/footer.html" ?>
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/footer.php" ?>

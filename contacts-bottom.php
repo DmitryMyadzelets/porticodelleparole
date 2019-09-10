@@ -1,15 +1,3 @@
-<hr>
-
-<section>
-    <p>
-        Guarda <a href="/#corsi-di-russo">i nostri corsi</a>,
-        cosa <a href="/#dicono-di-noi">dicono di noi</a> e
-        <a href="/#dove-trovarci">dove trovarci</a>.
-    </p>
-</section>
-
-</div>
-
 <br>
 
 <div class="main-container shadow">
@@ -18,12 +6,9 @@
         Via del Pratello 9, 40122 Bologna, Italia <br>
         Tel: +39 327 6617027 <br>
         <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>&nbsp;&nbsp;&nbsp;
-        <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>
+        <a href="https://www.porticodelleparole.it">www.porticodelleparole.it</a>
     </p>
     <p>
         C.F.: 91361610370
     </p>
 </div>
-
-</body>
-</html>

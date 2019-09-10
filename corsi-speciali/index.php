@@ -58,56 +58,7 @@
     </div>
 </div>
 
-<section>
-    <div class="div-table contacts-table">
-        <div class="div-column col-half">
-            <p>
-            <a href="https://www.google.com/maps/place/Via+del+Pratello,+9,+40122+Bologna+BO/@44.4955127,11.3336612,551" target="_blank">
-                <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
-                title="Indirizzio del Portico delle Parole"
-                />via dell Pratello 9, Bologna
-            </a>
-            </p>
-            <p>
-                <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
-                    <img src="/img/facebook.svg" alt="Facebook logo" class="svg-icon"
-                    title="Seguici il Portico delle Parole su Facebook"
-                    />Seguici su Facebook
-                </a>
-            </p>
-        </div>
-        <div class="div-column col-half">
-            <p>
-                <!-- Olga -->
-                <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
-                    <img src="/img/phonecall.svg" alt="Phone" class="svg-icon"
-                    title="Chiamaci al Portico delle Parole"
-                    />
-                    <span style="font-size: 180%">
-                        <?php
-                        $ts = strtotime('2016-08-02');
-                        $te = strtotime('2016-08-26');
-                        $t0 = time();
-                        if ($t0 > $te || $t0 < $ts) {
-                            echo('Tel. 327 661 7027'); // Olga
-                        } else {
-                            echo('Tel. 388 465 0676'); // Luba
-                        }                    
-                        ?>
-                    </span>
-                </a>
-            </p>
-            <p>
-                <a href="mailto:info@porticodelleparole.it">
-                    <!-- style="text-decoration: none; color: #444;" -->
-                    <img src="/img/mail.svg" alt="email" class="svg-icon"
-                    title="email al Portico delle Parole"
-                    />info@porticodelleparole.it
-                </a>
-            </p>
-        </div>
-    </div>
-</section>
+<?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <section>
     <h1>
@@ -223,20 +174,7 @@
 
 </div>
 
-<br>
-
-<div class="main-container shadow">
-    <p>
-        Associazione Portico delle Parole <br>
-        Via del Pratello 9, 40122 Bologna, Italia <br>
-        Tel: +39 327 6617027 <br>
-        <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>&nbsp;&nbsp;&nbsp;
-        <a href="http://www.porticodelleparole.it">www.porticodelleparole.it</a>
-    </p>
-    <p>
-        C.F.: 91361610370
-    </p>
-</div>
+<?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
 
 </body>
 </html>

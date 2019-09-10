@@ -199,4 +199,4 @@
 
 </section>
 
-<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/footer.html" ?>
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/footer.php" ?>
