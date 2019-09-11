@@ -62,11 +62,20 @@
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
-<section>
+<section style="padding-bottom: 1.618em;">
     <h1>
         Тест
     </h1>
+    <h2>
+        <ul class='menu' id='level-buttons'>
+            <li>A1</li>
+            <li>A2</li>
+            <li>B1</li>
+            <li>B2</li>
+        </ul>
+    </h2>
     <div id="test-content"></div>
+    <input type="submit" value="Verificare">
 </section>
 
 </div>
