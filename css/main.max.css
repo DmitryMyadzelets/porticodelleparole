@@ -305,19 +305,26 @@ ul.menu li {
     display: table-cell;
     *float: left;
     text-align: center;
+    padding: 1em 0;
 }
 
 ul.menu a {
     display: block;
     color: inherit;
-    padding: 1em 0;
     text-decoration: none;
 }
 
-ul.menu a:hover {
+ul.menu li.selected,
+ul.menu li:hover {
     background-color: #cddeb0;
+    cursor: pointer; /*for menu without <a> tag*/
 }
 
+
+input[type=submit] {
+    height:2em;
+    min-width:5em;
+}
 
 /* Slideshow */
 
