@@ -119,7 +119,7 @@
 		 <input type="text" name="time_learned" style="width:100%" value="<?php if (isset($_POST['time_learned'])) { echo $_POST['time_learned']; }?>">
 	</p>
 
-	<input type="submit" value="Invia" style="height:2em; width:5em"> <?php  if ($state == State::done) {echo "Grazie, ", $_POST['name'];} ?>
+	<input type="submit" value="Invia"> <?php  if ($state == State::done) {echo "Grazie, ", $_POST['name'];} ?>
 
 </div>
 
