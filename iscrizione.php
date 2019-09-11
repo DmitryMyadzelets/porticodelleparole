@@ -124,7 +124,7 @@
 </div>
 
 <div <?php if (!$_POST) { echo 'style="visibility:hidden; height:0"'; } ?>>
-</div
+</div>
 
 
 
