@@ -8,8 +8,7 @@
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
     offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
     <meta name="keywords" content="
-    test di lingua russa,
-    test di russo,
+    test di livello russo online,
     test russo A1,
     test russo A2,
     test russo B1,
@@ -30,7 +29,7 @@
     <link rel="stylesheet" type="text/css" href="/css/test.css">
 
     <title>
-        Corsi di Russo Speciali a Bologna &mdash; Associazione Portico delle Parole
+        Test di livello russo online &mdash; Associazione Portico delle Parole
     </title>
 
     <script type="text/javascript">
@@ -64,18 +63,21 @@
 
 <section style="padding-bottom: 1.618em;">
     <h1>
-        Тест
+        Test di livello russo
     </h1>
+    <p>
+        Ti chiediamo cortesemente di fare questo test massimo in 60 minuti, e di non usare alcun manuale o dizionario mentre lo svolgi. Il test è diviso in 4 unità (A1, A2, B1, B2). Smetti di fare il test appena ti accorgi di aver raggiunto il tuo livello, non prova ad indovinare la risposta corretta.
+    </p>
+    <p>
+        Questo test è stato elaborato insieme con il nostro partner la scuola di lungua russa in Russia <a href="https://enjoyrussian.com/" target="_blank">Enjoy Russian</a>.
+    </p>
     <h2>
-        <ul class='menu' id='level-buttons'>
-            <li>A1</li>
-            <li>A2</li>
-            <li>B1</li>
-            <li>B2</li>
-        </ul>
+        <ul class='menu' id='level-buttons'></ul>
     </h2>
     <div id="test-content"></div>
-    <input type="submit" value="Verificare">
+    <input type="submit" value="Verificare" id="button-calculate">
+    <h2>Risultato</h2>
+    <div id='test-result'></div>
 </section>
 
 </div>
