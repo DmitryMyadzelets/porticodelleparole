@@ -86,8 +86,7 @@ function calculate() {
       const treshold = 15
       if (counter.valid < treshold) {
         text = '<p>Hai risposto per tutte le domande di cui ' + counter.valid + ' sono valide.</p>'
-        text += '<p>Ci voule almeno ' + treshold + ' risposte corrette su ' + counter.total 
-          + ' risposte corrette per passare il livello.</p>'
+        text += '<p>Ci voule almeno ' + treshold + ' risposte corrette su ' + counter.total + ' per passare il livello.</p>'
       } else {
         text = '<p>Ottimo! Hai risposto per tutte le domande di cui ' + counter.valid + ' sono valide.<p>'
         text += '<p>Il livello è superato.</p>'
