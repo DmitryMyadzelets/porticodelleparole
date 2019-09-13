@@ -63,10 +63,9 @@
   }
 
 
-  function onChanged(d, index) {
+  function onChange(d, index) {
     const answer = this.options[this.selectedIndex].value;
     results[d.testIndex].answers[index] = answer;
-    console.log(results);
   }
 
 
@@ -89,15 +88,21 @@
 
     const select = questions.select('skip')
       .append('select')
-      .on('change', onChanged);
+      .on('change', onChange);
 
-    select.selectAll('option')
+    const options = select.selectAll('option')
       .data(d => shuffle(d.answers['true'].concat(d.answers['false'])))
       .enter()
         .append('option')
-        .text(d => d);
+        .html(d => d)
+        .filter(function (d) {
+          return d3.select(this.parentNode).datum().answer == d
+        })
+        .attr('selected', 'selected');
 
-    select.append('option', ':first-child')
+    const notAnswerd = select.filter(d => d.answer == undefined);
+
+    notAnswerd.append('option', ':first-child')
       .attr('selected', 'selected')
       .attr('disabled', '')
       .style('display', 'none')
@@ -168,13 +173,16 @@
         .html(d => d.caption)
         .on('click', update);
 
-    function update (d) {
-      updateQuestions(container, [d]);
-      updateButtons(buttons, d);
+    function update (test, testIndex) {
+      // Restore user's results for this test
+      test.questions.forEach((question, index) => question.answer = results[testIndex].answers[index]);
+
+      updateQuestions(container, [test]);
+      updateButtons(buttons, test);
       calculate();
     }
 
-    update(tests$2[0]);
+    update(tests$2[0], 0);
 
     d3.select('#button-calculate').on('click', calculate);
   });
