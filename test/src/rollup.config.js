@@ -1,5 +1,6 @@
 import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
+import json from 'rollup-plugin-json';
 import pkg from './package.json';
 
 export default [
@@ -13,7 +14,10 @@ export default [
         },
         plugins: [
             resolve(),
-            commonjs()
+            commonjs(),
+            json({
+                compact: true
+            })
         ]
     }
 ];

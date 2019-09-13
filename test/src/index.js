@@ -1,4 +1,13 @@
 const ready = require('./modules/ready.js')
+const tests = require('./tests.json')
+
+// Expose tests' indexes to the questions to facilitate onchange event processing
+tests.forEach((test, testIndex) => test.questions.forEach(question => question.testIndex = testIndex))
+
+const results = tests.map(test => ({
+  caption: test.caption,
+  answers: []
+}))
 
 
 function shuffle(arr) {
@@ -13,7 +22,18 @@ function shuffle(arr) {
 }
 
 
-function updateQuestions(container, arr) {
+function onChanged(d, index) {
+  const answer = this.options[this.selectedIndex].value
+  results[d.testIndex].answers[index] = answer
+  console.log(results)
+}
+
+
+function updateQuestions(container, arr, testIndex) {
+  arr = arr.map(d => {
+    d.testIndex = testIndex
+    return d
+  })
   const tests = container.selectAll('div')
     .data(arr, test => test.caption)
 
@@ -30,7 +50,9 @@ function updateQuestions(container, arr) {
       .classed('question', true)
       .html(d => d.question)
 
-  const select = questions.select('skip').append('select')
+  const select = questions.select('skip')
+    .append('select')
+    .on('change', onChanged)
 
   select.selectAll('option')
     .data(d => shuffle(d.answers['true'].concat(d.answers['false'])))
@@ -46,9 +68,9 @@ function updateQuestions(container, arr) {
 }
 
 
-function updateButtons(buttons, arr) {
-  buttons.each(function (d) {
-    d3.select(this).classed('selected', arr.indexOf(d) > -1)
+function updateButtons(buttons, a) {
+  buttons.each(function (b) {
+    d3.select(this).classed('selected', a == b)
   })
 }
 
@@ -99,26 +121,23 @@ function calculate() {
 
 
 ready(function init () {
-  d3.json('index.json', function (arr) {
+  const container = d3.select('#test-content')
 
-    const container = d3.select('#test-content')
+  const buttons = d3.select('#level-buttons')
+    .selectAll('li')
+    .data(tests)
+    .enter()
+      .append('li')
+      .html(d => d.caption)
+      .on('click', update)
 
-    const buttons = d3.select('#level-buttons')
-      .selectAll('li')
-      .data(arr)
-      .enter()
-        .append('li')
-        .html(d => d.caption)
-        .on('click', d => update([d]))
+  function update (d) {
+    updateQuestions(container, [d])
+    updateButtons(buttons, d)
+    calculate()
+  }
 
-    function update (arr) {
-      updateQuestions(container, arr)
-      updateButtons(buttons, arr)
-      calculate()
-    }
+  update(tests[0], 0)
 
-    update([arr[0]])
-
-    d3.select('#button-calculate').on('click', calculate)
-  })
+  d3.select('#button-calculate').on('click', calculate)
 })
