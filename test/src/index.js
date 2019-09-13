@@ -1,7 +1,7 @@
 const ready = require('./modules/ready.js')
 const tests = require('./tests.json')
 
-// Expose tests' indexes to the questions to facilitate onchange event processing
+// Expose tests' indexes to the questions to facilitate the `onchange` event processing
 tests.forEach((test, testIndex) => test.questions.forEach(question => question.testIndex = testIndex))
 
 const results = tests.map(test => ({
@@ -29,11 +29,7 @@ function onChanged(d, index) {
 }
 
 
-function updateQuestions(container, arr, testIndex) {
-  arr = arr.map(d => {
-    d.testIndex = testIndex
-    return d
-  })
+function updateQuestions(container, arr) {
   const tests = container.selectAll('div')
     .data(arr, test => test.caption)
 

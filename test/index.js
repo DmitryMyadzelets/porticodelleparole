@@ -42,7 +42,7 @@
 
   var tests$2 = getCjsExportFromNamespace(tests$1);
 
-  // Expose tests' indexes to the questions to facilitate onchange event processing
+  // Expose tests' indexes to the questions to facilitate the `onchange` event processing
   tests$2.forEach((test, testIndex) => test.questions.forEach(question => question.testIndex = testIndex));
 
   const results = tests$2.map(test => ({
@@ -70,11 +70,7 @@
   }
 
 
-  function updateQuestions(container, arr, testIndex) {
-    arr = arr.map(d => {
-      d.testIndex = testIndex;
-      return d
-    });
+  function updateQuestions(container, arr) {
     const tests = container.selectAll('div')
       .data(arr, test => test.caption);
 
