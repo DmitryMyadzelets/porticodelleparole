@@ -1,13 +1,27 @@
 const ready = require('./modules/ready.js')
 const tests = require('./tests.json')
+const ls = require('local-storage')
 
 // Expose tests' indexes to the questions to facilitate the `onchange` event processing
 tests.forEach((test, testIndex) => test.questions.forEach(question => question.testIndex = testIndex))
 
-const results = tests.map(test => ({
-  caption: test.caption,
-  answers: []
-}))
+const results = []
+
+function loadResults() {
+  tests.forEach((test, testIndex) => {
+    results[testIndex] = ls(testIndex) || {
+      caption: test.caption,
+      answers: []
+    }
+  })
+}
+
+
+function saveResults() {
+  tests.forEach((test, testIndex) => {
+    ls(testIndex, results[testIndex]);
+  })
+}
 
 
 function shuffle(arr) {
@@ -139,8 +153,14 @@ ready(function init () {
     updateQuestions(container, [test])
     updateButtons(buttons, test)
     calculate()
+    try {
+      saveResults()
+    } catch (err) {
+      console.error(err)
+    }
   }
 
+  loadResults()
   update(tests[0], 0)
 
   d3.select('#button-calculate').on('click', calculate)
