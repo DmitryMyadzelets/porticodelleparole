@@ -14,9 +14,11 @@
     "rollup": "^1.21.2",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-json": "^4.0.0",
-    "rollup-plugin-node-resolve": "^5.2.0"
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^5.1.2"
   },
   "dependencies": {
+    "d3-selection": "^1.4.0",
     "local-storage": "^2.0.0"
   }
 }

@@ -1,5 +1,6 @@
 const ready = require('./modules/ready.js')
 const tests = require('./tests.json')
+const d3 = require('d3-selection')
 const ls = require('local-storage')
 
 // Expose tests' indexes to the questions to facilitate the `onchange` event processing
