@@ -1,3 +1,4 @@
+import babel from 'rollup-plugin-babel';
 import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
 import json from 'rollup-plugin-json';
@@ -18,6 +19,9 @@ export default [
             commonjs(),
             json({
                 compact: true
+            }),
+            babel({
+                exclude: 'node_modules/**'
             }),
             terser()
         ],
