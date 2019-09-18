@@ -158,7 +158,7 @@
 		$headers[] = "Subject: {$subject}";
 		$headers[] = "X-Mailer: PHP/".phpversion();
 
-		echo mail($to, $subject, $message, implode("\r\n", $headers));
+		mail($to, $subject, $message, implode("\r\n", $headers));
 	}
 ?>
 
