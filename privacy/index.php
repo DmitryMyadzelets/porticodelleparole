@@ -72,6 +72,9 @@
 
 <body>
 <div class="main-container shadow">
+
+    <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
+
     <h1>Privacy Policy</h1>
 
     <p>

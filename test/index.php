@@ -50,15 +50,7 @@
 <body>
 <div class="main-container shadow">
 
-<div class="stretchy-wrapper" id="logo-wrapper">
-    <div>
-        <img src="/img/bologna-moscow-rainbow-portico.png"
-        alt="Logo Portico delle Parole"
-        title="Portico delle parole. Associazione. Corso di lingua Russa"
-        />
-    </div>
-</div>
-
+<?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <section style="padding-bottom: 1.618em;">
