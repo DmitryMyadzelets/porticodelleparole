@@ -122,7 +122,13 @@
 		</label>
 	</p>
 
-	<input type="submit" value="Invia"> <?php if ($state == State::done) {echo "Grazie, ", $_POST['name'];} ?>
+	<?php 
+		if ($state == State::done) {
+			echo "Grazie, ", $_POST['name'];
+		} else {
+			echo '<input type="submit" value="Invia">';
+		}
+	?>
 
 </div>
 
