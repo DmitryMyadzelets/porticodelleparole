@@ -96,10 +96,6 @@
 		<input type="text" name="name" style="width:100%" value="<?php if (isset($_POST['name'])) { echo $_POST['name']; }?>">
 	</p>
 
-	<p>Età (opzionale)<br/>
-		<input type="text" name="age" size="7em" value="<?php if (isset($_POST['age'])) { echo $_POST['age']; } ?>">
-	</p>
-
 	<p>Giorni della settimana e orari di disponibilità per le lezioni (indicare più varianti)<br/>
 		<input type="text" name="schedule" style="width:100%" value="<?php if (isset($_POST['schedule'])) { echo $_POST['schedule']; } ?>">
 	</p>
