@@ -744,17 +744,6 @@ function autoResize(id){
     verranno stabilite data e orario di inizio della prima lezione.
 </p>
 
-
-<h2>
-    In conclusione
-</h2>   
-
-<p>
-    Ti ringraziamo per averci dedicato il tuo tempo. Contattaci per conoscerci e saperne di più dei 
-    corsi e delle nostre attività. Una volta conosciuti la lingua e la cultura russa, non potrai più farne a meno!
-</p>
-
-
 <h2>
     <a name="foto"></a>
     Foto
