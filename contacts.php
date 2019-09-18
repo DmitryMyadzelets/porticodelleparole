@@ -43,9 +43,9 @@
         <p>
             <a href="https://wa.me/393276617027">
                 <img src="/img/whatsapp.svg" alt="WhatsApp" class="svg-icon"
-                title="Clicca per chattare su WhatsApp"
+                title="Contattaci su WhatsApp"
                 />
-                Chattare su WhatsApp
+                Contattaci su WhatsApp
             </a>
         </p>
         <p>
