@@ -117,7 +117,7 @@
 
 	<p>
 		<label>
-			<input type="checkbox" name="gdpr_autorizzato" required <?php if (isset($_POST['gdpr_autorizzato'])) { echo 'checked'; }?>>
+			<input type="checkbox" name="gdpr_autorized" value="yes" required <?php if (isset($_POST['gdpr_autorizzato'])) { echo 'checked'; }?>>
 			Autorizzo il trattamento dei dati personali in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 GDPR 679/16.<br>
 		</label>
 	</p>
