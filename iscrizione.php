@@ -119,7 +119,14 @@
 		 <input type="text" name="time_learned" style="width:100%" value="<?php if (isset($_POST['time_learned'])) { echo $_POST['time_learned']; }?>">
 	</p>
 
-	<input type="submit" value="Invia"> <?php  if ($state == State::done) {echo "Grazie, ", $_POST['name'];} ?>
+	<p>
+		<label>
+			<input type="checkbox" name="gdpr_autorizzato" required <?php if (isset($_POST['gdpr_autorizzato'])) { echo 'checked'; }?>>
+			Autorizzo il trattamento dei dati personali in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 GDPR 679/16.<br>
+		</label>
+	</p>
+
+	<input type="submit" value="Invia"> <?php if ($state == State::done) {echo "Grazie, ", $_POST['name'];} ?>
 
 </div>
 
