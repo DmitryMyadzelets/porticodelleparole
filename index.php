@@ -731,7 +731,7 @@
     <li>Macchina (parcheggio: <a href="https://www.apcoa.it/parcheggi-in/bologna/riva-reno/" target="_blank">Riva Reno</a>).</li>
 </ul>
 
-<a href="https://www.google.com/maps/place/Via+del+Pratello,+9,+40122+Bologna+BO/@44.4955127,11.3336612,551" target="_blank">
+<a href="https://www.google.com/maps?cid=16854914928900207445" target="_blank">
 <img src="./img/map.png" alt="Map: via dell Pratello, 9, Bologna" title="mapa del Portico delle Parole">
 </a>
 

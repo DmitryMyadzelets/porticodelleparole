@@ -1,7 +1,7 @@
 <div class="div-table contacts-table">
     <div class="div-column col-half">
         <p>
-            <a href="https://www.google.com/maps/place/Via+del+Pratello,+9,+40122+Bologna+BO/@44.4955127,11.3336612,551" target="_blank">
+            <a href="https://www.google.com/maps?cid=16854914928900207445" target="_blank">
                 <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
                 title="Indirizzio del Portico delle Parole"
                 />Via dell Pratello 9, Bologna
