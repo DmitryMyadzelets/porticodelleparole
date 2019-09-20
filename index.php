@@ -310,6 +310,10 @@
 
 </section>
 
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+
 <h2>
     <a name="attivita">
         Attività
@@ -404,7 +408,6 @@
         <li>Confrontarsi con le persone presenti al corso, che come te vogliono imparare il russo;</li>
         <li>Disporre dei materiale didattico necessario per imparare senza costi aggiuntivi.</li>
     </ul>
-    <br>
 </div>
 
 </div> <!-- main-container shadow -->
@@ -543,6 +546,10 @@
     </div>
 </div>
 
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+
 <h2>
     <a name="dicono-di-noi">
         Dicono di noi
@@ -556,6 +563,9 @@
   frameborder="0"/>
 </iframe>
 
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
 
 <h2>
     <a name="prezzi">
@@ -638,6 +648,9 @@
     BIC: UNCRITM1OM0
 </p>
 
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
 
 <h2>
     <a name='orari'>
@@ -699,6 +712,9 @@
     Per il rilascio di tale certificato, è necessario aver frequentato almeno 16 ore su 20 del proprio corso.
 </p>
 
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
 
 <h2>
     <a name="dove-trovarci">
@@ -732,6 +748,11 @@ function autoResize(id){
 //-->   
 </script>
 
+
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+
 <h2>Iscriviti online!</h2>
 
 <p>
@@ -748,6 +769,10 @@ function autoResize(id){
     Al momento dell'iscrizione in associazione e del versamento della quota di partecipazione, 
     verranno stabilite data e orario di inizio della prima lezione.
 </p>
+
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
 
 <h2>
     <a name="foto"></a>
