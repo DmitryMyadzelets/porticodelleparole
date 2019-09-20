@@ -100,13 +100,13 @@
     <h2>Finalità del trattamento</h2>
     <p>
         I dati sono trattati esclusivamente per le finalità per le quali sono raccolti, come di seguito descritte:
-        <ul>
-            <li>La corrispondenza e rintracciabilità dei soci alle l'attivita della associazione.</li>
-            <li>Il pagamento della quota associativa e di eventuali liberalità.</li>
-            <li>L’invio del periodico dell’associazione e di eventuale altro materiale informativo.</li>
-            <li>L’invio di informative via sms e altri sistemi di messaggistica (p.es. <q>WhatsApp</q>).</li>
-        </ul>
     </p>
+    <ul>
+        <li>La corrispondenza e rintracciabilità dei soci alle l'attivita della associazione.</li>
+        <li>Il pagamento della quota associativa e di eventuali liberalità.</li>
+        <li>L’invio del periodico dell’associazione e di eventuale altro materiale informativo.</li>
+        <li>L’invio di informative via sms e altri sistemi di messaggistica (p.es. <q>WhatsApp</q>).</li>
+    </ul>
         
 
     <h2>Modalita del trattamento</h2>
@@ -135,14 +135,14 @@
     </p>
     <p>
         Inoltre l’interessato ha diritto di ottenere da Titolare del trattamento:
-        <ul>
-            <li>l’aggiornamento, la rettificazione ovvero l’integrazione dei propri dati;</li>
-            <li>la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge;</li>
-            <li>l'accesso ai propri dati e cioè la conferma che sia o meno in corso un trattamento didati personali che lo riguardano;</li>
-            <li>la limitazione del trattamento;</li>
-            <li>la portabilità del dato, cioè il diritto di ricevere in formato strutturato i dati personali che lo riguardano.</li>
-        </ul>        
     </p>
+    <ul>
+        <li>l’aggiornamento, la rettificazione ovvero l’integrazione dei propri dati;</li>
+        <li>la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge;</li>
+        <li>l'accesso ai propri dati e cioè la conferma che sia o meno in corso un trattamento didati personali che lo riguardano;</li>
+        <li>la limitazione del trattamento;</li>
+        <li>la portabilità del dato, cioè il diritto di ricevere in formato strutturato i dati personali che lo riguardano.</li>
+    </ul>        
 </div>
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>

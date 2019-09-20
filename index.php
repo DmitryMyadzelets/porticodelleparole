@@ -231,16 +231,16 @@
 
 <p>
     Nel corso principianti di <b>12 lezioni (20 ore)</b> imparerai:
-    <ul>
-        <li>L’alfabeto cirillico;</li>
-        <li>Leggere semplici testi in cirillico;</li>
-        <li>Scrivere un’email in russo (usando gli addesivi con le lettere in cirillico per la tua testiera);</li>
-        <li>Sostenere una conversazione su temi di uso quotidiano con un madrelingua russo;</li>
-        <li>Parlare di te stesso e della tua famiglia;</li>
-        <li>Chiedere informazioni in varie situazioni durante un viaggio in Russia;</li>
-        <li>Le tradizioni e le feste russe.</li>
-    </ul>
 </p>
+<ul>
+    <li>L’alfabeto cirillico;</li>
+    <li>Leggere semplici testi in cirillico;</li>
+    <li>Scrivere un’email in russo (usando gli addesivi con le lettere in cirillico per la tua testiera);</li>
+    <li>Sostenere una conversazione su temi di uso quotidiano con un madrelingua russo;</li>
+    <li>Parlare di te stesso e della tua famiglia;</li>
+    <li>Chiedere informazioni in varie situazioni durante un viaggio in Russia;</li>
+    <li>Le tradizioni e le feste russe.</li>
+</ul>
 
 <p>
     Per conoscere il <b>programma dei livelli successivi</b>, contattaci direttamente.
@@ -332,15 +332,15 @@
     </p>
 
     <p>Calendario del <q>tè del sabato</q> per il 2019, dalle 11.00 alle 13.00 nei giorni:
-        <ul>
-            <li>28 settembre</li>
-            <li>12 ottobre</li>
-            <li>26 ottobre</li>
-            <li>9 novembre</li>
-            <li>23 novembre</li>
-            <li>30 novembre </li>
-        </ul>
     </p>
+    <ul>
+        <li>28 settembre</li>
+        <li>12 ottobre</li>
+        <li>26 ottobre</li>
+        <li>9 novembre</li>
+        <li>23 novembre</li>
+        <li>30 novembre </li>
+    </ul>
 
 
     <p>La conferma della partecipazione è sempre obbligatoria per ogni incontro.</p>
@@ -392,19 +392,24 @@
         Oltre alle lezioni del corso, hai l’opportunità di praticare il tuo russo con attività extra molto utili, 
         come, ad esempio, <b>i laboratori del lessico e gli incontri settimanali, totalmente gratuiti</b>.
     </p>
-    <p>Con il laboratorio del lessico avrai la possibilità di:
-        <ul>
-            <li>Accedere gratuitamente alle lezioni una volta alla settimana, con partecipazione libera per tutti i corsisti;</li>
-            <li>Imparare nuove parole e metterle subito in pratica;</li>
-            <li>Approfondire il lessico in piccoli gruppi del tuo livello;</li>
-            <li>Fare conversazione con I madrelingua e con le persone del tuo stesso livello;</li>
-            <li>Chiarire determinati argomenti e temi;</li>
-            <li>Confrontarsi con le persone presenti al corso, che come te vogliono imparare il russo;</li>
-            <li>Disporre dei materiale didattico necessario per imparare senza costi aggiuntivi.</li>
-        </ul>
+    <p>
+        Con il laboratorio del lessico avrai la possibilità di:
     </p>
+    <ul>
+        <li>Accedere gratuitamente alle lezioni una volta alla settimana, con partecipazione libera per tutti i corsisti;</li>
+        <li>Imparare nuove parole e metterle subito in pratica;</li>
+        <li>Approfondire il lessico in piccoli gruppi del tuo livello;</li>
+        <li>Fare conversazione con I madrelingua e con le persone del tuo stesso livello;</li>
+        <li>Chiarire determinati argomenti e temi;</li>
+        <li>Confrontarsi con le persone presenti al corso, che come te vogliono imparare il russo;</li>
+        <li>Disporre dei materiale didattico necessario per imparare senza costi aggiuntivi.</li>
+    </ul>
+    <br>
 </div>
 
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
 
 <h2>
     <a name="i-nostri-insegnanti">
