@@ -11,4 +11,8 @@
     <p>
         C.F.: 91361610370
     </p>
+    <hr>
+    <p>
+        <a href="/cookie/">Informativa sui Cookie</a>
+    </p>
 </div>
