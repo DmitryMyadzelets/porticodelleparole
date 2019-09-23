@@ -108,6 +108,9 @@ div.stretchy-wrapper > div {
     box-shadow:.2em .1em .3em #888;
 }
 
+hr {
+  border-width: 1px 0 0 0;
+}
 
 #association {
     font-size: 1.2em;
