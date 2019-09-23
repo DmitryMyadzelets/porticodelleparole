@@ -1,4 +1,4 @@
-<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/header.html" ?>
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/te-di-sabato/header.php" ?>
 
 <!-- slideshow -->
 <script type="text/javascript">
