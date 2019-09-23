@@ -32,7 +32,7 @@
         Test online livello di russo &mdash; Associazione Portico delle Parole
     </title>
 
-    <?php include $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
+    <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
 
 </head>
 

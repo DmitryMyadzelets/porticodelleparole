@@ -56,7 +56,7 @@
         Corsi di Russo a Bologna - Associazione Portico delle Parole
     </title>
 
-    <?php include $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
+    <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
 
     <script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
     <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
