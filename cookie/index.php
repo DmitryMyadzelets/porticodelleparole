@@ -70,33 +70,35 @@
 
     <h2>Cosa sono Cookie?</h2>
     <p>
-        I Cookie sono piccoli file di testo che vengono archiviati dal browser sul vostro computer o dispositivo mobile. Essi permettono ai siti web di archiviare alcune informazioni. Poi pensare ai Cookie come ad un modo di fornire <q>memoria</q> ad un sito web, permettendogli di riconoscere un utente e comportarsi appropriatamente.
+        I Cookie sono piccoli file di testo che vengono archiviati dal browser sul vostro computer o dispositivo mobile. Essi permettono ai siti web di archiviare alcune informazioni. Puoi pensare ai Cookie come ad un modo di fornire <q>memoria</q> ad un sito web, permettendogli di riconoscere un utente e comportarsi appropriatamente.
     </p>
     
     <h2>Come utilizza Cookie <q>Portico delle Parole<q></h2>
     <p>
-        Noi non usiamo Cookie da prima parte.
+        Noi non usiamo Cookie di prime parti.
     </p>
 
     <h2>Cookie di terzi parte</h2>
     <p>
-        Noi usiamo <q>Google Analitics</q> con prestazioni di base che imposta i Cookie analitici anonimizzati. A Cookie di terze parti noi non abbiamo accesso. Le informazioni generate dal servizio <q>Google Analitics</q> ci permettano esaminare l'utilizzo del sito web.
+        Noi usiamo <q>Google Analitics</q> con prestazioni di base che imposta i Cookie analitici anonimizzati. Ai Cookie di terze parti noi non abbiamo accesso. Le informazioni generate dal servizio <q>Google Analitics</q> ci permettono di esaminare l'utilizzo del sito web.
     </p>
 
     <h2>Come disattivare Cookie</h2>
     <p>
-        È possibile impedire l'impostazione dei Cookie modificando le impostazioni del browser (consultare la Guida del tuo browser per istruzioni su come farlo). Tieni presente che la disabilitazione dei cookie puo influire sulla funzionalità di questo sito e di molti altri siti web visitati. Pertanto si consiglia di non disabilitare i Cookie.
+        È possibile impedire l'abilitazione dei Cookie modificando le impostazioni del browser (consulta la Guida del tuo browser per le istruzioni su come farlo). Tieni presente che la disabilitazione dei Cookie può influire sulla funzionalità di questo sito e di molti altri siti web visitati. Pertanto si consiglia di non disabilitare i Cookie.
     </p>
 
     <h2>Saper ne di più</h2>
     <p>
-        Puoi trovare maggiori informazioni sui Cookie ed il loro utilizzo su internet su seguenti collegamenti:
+        Puoi trovare maggiori informazioni sui Cookie ed il loro utilizzo su internet sul seguenti sito:
     </p>    
     <ul>
         <li><a href="https://it.wikipedia.org/wiki/Cookie">Introduzione a Cookie su Wikipedia</a></li>
         <li><a href="https://policies.google.com/technologies/cookies?hl=it">Come Google utilizza Cookie</a></li>
-        <li>Contattaci scrivendo all'indirizzo email <a href="mailto:info@porticodelleparole.it?subject=Cookie Policy">info@porticodelleparole.it</a></li>
     </ul>
+    <p>
+        Oppure contattarci scrivendo all'indirizzo email <a href="mailto:info@porticodelleparole.it?subject=Cookie Policy">info@porticodelleparole.it</a>
+    </p>
 </div>
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
