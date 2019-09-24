@@ -42,8 +42,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@BolognaRusso" />
     <meta name="twitter:title" content="Corsi di Russo a Bologna" />
-    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
-    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
+    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
     <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
@@ -65,23 +64,23 @@
     <h1>Privacy Policy</h1>
 
     <p>
-        La presente informativa viene resa in ossequio all'art. 13 del Regolamento 2016/679 (GDPR), ai sensi dell'art. 13 del d.lgs. n. 196/2003 (Codice in materia di protezione dei dati personali) agli utenti che accedono al sito web <a href="www.porticodelleparole.it">www.porticodelleparole.it</a> ed è relativa a tutti i dati personali trattati secondo le modalità di seguito indicate.        
+        La presente informativa viene resa in ossequio all'art. 13 del Regolamento 2016/679 (GDPR), ai sensi dell'art. 13 del d.lgs. n. 196/2003 (Codice in materia di protezione dei dati personali) agli utenti che accedono al sito web <a href="https://www.porticodelleparole.it">www.porticodelleparole.it</a> ed è relativa a tutti i dati personali trattati secondo le modalità di seguito indicate.
     </p>
 
     <h2>Il titolare del trattamento</h2>
+
     <p>
-        Il Titolare del trattamento dei dati personali raccolti è il presidente della associazione <q>Portico delle Parole</q> Dmitry Myadzelets. Il Titolare pou essere contatato inviando apposita richiesta all’indirizzo email <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>.
+        Il Titolare del trattamento dei dati personali raccolti è l'associazione <q>Portico delle Parole</q>. L'indirizzario della sede legale:
+        <br>Via del Pratello, 9, 40122 Bologna
+        <br>Codice Fiscale: 91361610370
+    </p>
+    <p>
+        Il Titolare può essere contattato inviando apposita richiesta all'indirizzo email <a href="mailto:info@porticodelleparole.it?subject=Privacy Policy">info@porticodelleparole.it</a>.
     </p>
 
-    <h2>Dati racolti</h2>
+    <h2>Dati raccolti</h2>
     <p>
-        I dati personali trattati sono raccolti in quanto forniti direttamente dall’interessato o forniti automaticamente.        
-    </p>
-    <p>
-        I dati forniti sono tutti i dati personali che siano forniti al Titolare del Trattamento con qualsiasi modalità, direttamente dall'interessato. In particolare sono raccolti e trattati i seguenti dati personali: nome, cognome, email, numero di telefono, livello di lingua russa.
-    </p>
-    <p>
-        I dati raccolti automaticamente sono i dati di navigazione. Il fornitore del servizio è <q>Google Analytics</q>, che ci permette di capire come i visitatori interagiscono con il sito, per permettere di ottimizzarlo e migliorarne le prestazioni. Tali dati, pur non essendo raccolti al fine di essere associati all’identità dell’utente, potrebbero indirettamente, mediante elaborazione e associazioni con dati raccolti dal Titolare, consentire la sua identificazione.
+        I dati personali trattati sono raccolti in quanto forniti direttamente dall'interessato. In particolare sono raccolti e trattati i seguenti dati personali: nome, cognome, email, numero di telefono, livello di lingua russa.
     </p>
 
     <h2>Finalità del trattamento</h2>
@@ -89,44 +88,43 @@
         I dati sono trattati esclusivamente per le finalità per le quali sono raccolti, come di seguito descritte:
     </p>
     <ul>
-        <li>La corrispondenza e rintracciabilità dei soci alle l'attivita della associazione.</li>
+        <li>La corrispondenza e rintracciabilità dei soci alle l'attività della associazione.</li>
         <li>Il pagamento della quota associativa e di eventuali liberalità.</li>
-        <li>L’invio del periodico dell’associazione e di eventuale altro materiale informativo.</li>
-        <li>L’invio di informative via sms e altri sistemi di messaggistica (p.es. <q>WhatsApp</q>).</li>
+        <li>L'invio del periodico dell'associazione e di eventuale altro materiale informativo.</li>
+        <li>L'invio di informative via SMS e altri sistemi di messaggistica (i.e. <q>WhatsApp</q>).</li>
     </ul>
-        
 
-    <h2>Modalita del trattamento</h2>
+    <h2>Modalità del trattamento</h2>
     <p>
         I dati personali sono trattati con strumenti automatizzati per il tempo strettamente necessario a conseguire gli scopi per cui sono stati raccolti, prevedendo in ogni caso la verifica annuale dei dati conservati al fine di cancellare quelli ritenuti obsoleti, salvo che la legge non preveda obblighi di archiviazione.    
     </p>
     <p>
-        Il trattamento dei dati avviene di norma presso la sede della associazione, da personale o collaboratori esterni debitamente designati quali responsabili del trattamento. L’elenco completo dei responsabili del trattamento e degli Incaricati al trattamento dei dati personali può essere richiesto inviando apposita richiesta all’indirizzo email <a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>.
+        Il trattamento dei dati avviene di norma presso la sede della associazione, da personale. L'elenco completo dei responsabili del trattamento dei dati personali può essere richiesto inviando apposita richiesta all'indirizzo email <a href="mailto:info@porticodelleparole.it?subject=Richiesta sul trattamento dei dati personali">info@porticodelleparole.it</a>.
     </p>
     <p>
-        I dati non saranno comunicati a terzi, né saranno diffusi.        
+        I dati personali non saranno comunicati a terzi, né saranno diffusi.
     </p>
 
     <h2>Diritti dell'interessato</h2>
     <p>
-        Ai sensi dell’art. 7 del Codice della Privacy e dell'art. 13 GDPR ciascun utente ha diritto di ottenere la conferma dell’esistenza o meno dei suoi dati personali, anche se non ancora registrati, e la loro comunicazione in forma intellegibile.        
+        Ai sensi dell'art. 7 del Codice della Privacy e dell'art. 13 GDPR ciascun utente ha diritto di ottenere la conferma dell'esistenza o meno dei suoi dati personali, e la loro comunicazione in forma intellegibile.
     </p>
     <p>
-        In particolare, l’interessato ha diritto di ottenere da Titolare del trattamento l’indicazione:
-        <ul>
-            <li>dell’origine dei dati personali;</li>
-            <li>della finalità e delle modalità di trattamento;</li>
-            <li>gli estremi identificativi del titolare, dei responsabili e del rappresentante designato;</li>
-            <li>dei soggetti e delle categorie di soggetti ai quali i dati possono esserecomunicati o che possono venirne a conoscenza in qualità di rappresentante designato nel territorio dello Stato, di responsabili o incaricati.</li>
-        </ul>
-    </p>
-    <p>
-        Inoltre l’interessato ha diritto di ottenere da Titolare del trattamento:
+        In particolare, l'interessato ha diritto di ottenere da Titolare del trattamento l'indicazione:
     </p>
     <ul>
-        <li>l’aggiornamento, la rettificazione ovvero l’integrazione dei propri dati;</li>
+        <li>dell'origine dei dati personali;</li>
+        <li>della finalità e delle modalità di trattamento;</li>
+        <li>gli estremi identificativi del titolare, dei responsabili e del rappresentante designato;</li>
+        <li>dei soggetti e delle categorie di soggetti ai quali i dati possono essere comunicati o che possono venirne a conoscenza in qualità di rappresentante designato nel territorio dello Stato, di responsabili o incaricati.</li>
+    </ul>
+    <p>
+        Inoltre l'interessato ha diritto di ottenere da Titolare del trattamento:
+    </p>
+    <ul>
+        <li>l'aggiornamento, la rettificazione ovvero l'integrazione dei propri dati;</li>
         <li>la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge;</li>
-        <li>l'accesso ai propri dati e cioè la conferma che sia o meno in corso un trattamento didati personali che lo riguardano;</li>
+        <li>l'accesso ai propri dati e cioè la conferma che sia o meno in corso un trattamento di dati personali che lo riguardano;</li>
         <li>la limitazione del trattamento;</li>
         <li>la portabilità del dato, cioè il diritto di ricevere in formato strutturato i dati personali che lo riguardano.</li>
     </ul>        
