@@ -14,5 +14,7 @@
     <hr>
     <p>
         <a href="/cookie/">Informativa sui Cookie</a>
+        &nbsp;|&nbsp;
+        <a href="/privacy/">Privacy Policy</a>        
     </p>
 </div>
