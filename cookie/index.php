@@ -78,7 +78,7 @@
         Noi non usiamo Cookie di prime parti.
     </p>
 
-    <h2>Cookie di terzi parte</h2>
+    <h2>Cookie di terze parti</h2>
     <p>
         Noi usiamo <q>Google Analitics</q> con prestazioni di base che imposta i Cookie analitici anonimizzati. Ai Cookie di terze parti noi non abbiamo accesso. Le informazioni generate dal servizio <q>Google Analitics</q> ci permettono di esaminare l'utilizzo del sito web.
     </p>
@@ -102,6 +102,6 @@
 </div>
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
+
 </body>
 </html>
-
