@@ -24,3 +24,9 @@
 	ExpiresByType text/css A2419200
 	ExpiresActive Off
 </IfModule>
+
+# Deny access to .htaccess
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
