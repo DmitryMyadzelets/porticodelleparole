@@ -553,11 +553,15 @@
 </iframe>
 
 <!-- Google reviews -->
-<h2>Recensione su Google </h2>
+<h2>Recensioni su Google </h2>
 <iframe class="reviews" type="text/html" width="100%" height="400"
   src="/reviews/"
   frameborder="0"/>
 </iframe>
+<p>
+    <a href="https://search.google.com/local/reviews?placeid=ChIJDx8EapPUf0cRVXOGoNOv6Ok" target="_blank">Vedere altre recensioni su Google</a>
+</p>
+
 
 
 </div> <!-- main-container shadow -->
