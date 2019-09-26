@@ -546,12 +546,19 @@
     </a>
 </h2>
 
-
 <!-- Reviews -->
-<iframe id="reviews" type="text/html" width="100%" height="400"
+<iframe id="reviews" class='reviews' type="text/html" width="100%" height="400"
   src="./reviews.html"
   frameborder="0"/>
 </iframe>
+
+<!-- Google reviews -->
+<h2>Recensione su Google </h2>
+<iframe class="reviews" type="text/html" width="100%" height="400"
+  src="/reviews/"
+  frameborder="0"/>
+</iframe>
+
 
 </div> <!-- main-container shadow -->
 <br>
