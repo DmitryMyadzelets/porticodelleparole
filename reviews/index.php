@@ -27,7 +27,6 @@
 // Returns Google reviews json object
 function request($config) {
   $url = 'https://maps.googleapis.com/maps/api/place/details/json';
-  // $url = 'http://localhost:8000/google-api-places-example.json';
 
   $url .= '?';
   $url .= http_build_query([
@@ -73,6 +72,11 @@ function getReviews() {
   // Which day we got reviews from Google?
   $day = json_decode(file_get_contents($fnTimer), true)['day'];
 
+  function saved($fname) {
+    $json = file_get_contents($fname);
+    return json_decode($json, true);
+  }
+
   if ($today !== $day) {
     // Get reviews from Google again
     $reviews = request($config)['reviews'];
@@ -83,13 +87,11 @@ function getReviews() {
       file_put_contents($fnTimer, json_encode(array('day'=>$today)));
       return $reviews;
     } else {
-      return NULL;
+      return saved($fnReviews);
     }
   } else {
     // Get saved reviews
-    $json = file_get_contents($fnReviews);
-    $reviews = json_decode($json, true);
-    return $reviews;
+    return saved($fnReviews);
   }
 }
 
