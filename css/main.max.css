@@ -200,6 +200,21 @@ div.review_photo > div {
     font-style: italic;
 }
 
+/* Tweak style for Google reviews */
+[itemprop="review"].google {
+    /* to prevent the below block move up if the review is short*/
+    min-height: auto;
+}
+
+.google > div.review_photo {
+    width: 3em;
+    padding: 0;
+}
+
+.google > [itemprop="reviewbody"] {
+    margin-left: 4em;
+}
+
 iframe.reviews {
     -webkit-box-shadow: 0px 4px 4px -4px rgba(0, 0, 0, 0.4) inset;
     -moz-box-shadow: 0px 4px 4px -4px rgba(0, 0, 0, 0.4) inset;
