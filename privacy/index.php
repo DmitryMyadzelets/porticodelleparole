@@ -38,14 +38,6 @@
     preparazione esami universitari a Bologna,
     ">
 
-    <!-- Twitter card -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@BolognaRusso" />
-    <meta name="twitter:title" content="Corsi di Russo a Bologna" />
-    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
-    <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
-
-    <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
@@ -64,13 +56,13 @@
     <h1>Privacy Policy</h1>
 
     <p>
-        La presente informativa viene resa in ossequio all'art. 13 del Regolamento 2016/679 (GDPR), ai sensi dell'art. 13 del d.lgs. n. 196/2003 (Codice in materia di protezione dei dati personali) agli utenti che accedono al sito web <a href="https://www.porticodelleparole.it">www.porticodelleparole.it</a> ed è relativa a tutti i dati personali trattati secondo le modalità di seguito indicate.
+        La presente informativa viene resa in conformità all'art. 13 del Regolamento 2016/679 (GDPR), ai sensi dell'art. 13 del d.lgs. n. 196/2003 (Codice in materia di protezione dei dati personali) agli utenti che accedono al sito web <a href="https://www.porticodelleparole.it">www.porticodelleparole.it</a> ed è relativa a tutti i dati personali trattati secondo le modalità di seguito indicate.
     </p>
 
     <h2>Il titolare del trattamento</h2>
 
     <p>
-        Il Titolare del trattamento dei dati personali raccolti è l'associazione <q>Portico delle Parole</q>. L'indirizzario della sede legale:
+        Il Titolare del trattamento dei dati personali raccolti è l'associazione Portico delle Parole. L'indirizzario della sede legale:
         <br>Via del Pratello, 9, 40122 Bologna
         <br>Codice Fiscale: 91361610370
     </p>
@@ -88,10 +80,10 @@
         I dati sono trattati esclusivamente per le finalità per le quali sono raccolti, come di seguito descritte:
     </p>
     <ul>
-        <li>La corrispondenza e rintracciabilità dei soci alle l'attività della associazione.</li>
-        <li>Il pagamento della quota associativa e di eventuali liberalità.</li>
+        <li>La corrispondenza e rintracciabilità dei soci alle attività dell'associazione.</li>
+        <li>Il pagamento della quota associativa e di eventuali donazioni.</li>
         <li>L'invio del periodico dell'associazione e di eventuale altro materiale informativo.</li>
-        <li>L'invio di informative via SMS e altri sistemi di messaggistica (i.e. <q>WhatsApp</q>).</li>
+        <li>L'invio di informative via SMS e altri sistemi di messaggistica (ad es. WhatsApp).</li>
     </ul>
 
     <h2>Modalità del trattamento</h2>
@@ -110,7 +102,7 @@
         Ai sensi dell'art. 7 del Codice della Privacy e dell'art. 13 GDPR ciascun utente ha diritto di ottenere la conferma dell'esistenza o meno dei suoi dati personali, e la loro comunicazione in forma intellegibile.
     </p>
     <p>
-        In particolare, l'interessato ha diritto di ottenere da Titolare del trattamento l'indicazione:
+        In particolare, l'interessato ha diritto di ottenere dal Titolare del trattamento l'indicazione:
     </p>
     <ul>
         <li>dell'origine dei dati personali;</li>
@@ -119,7 +111,7 @@
         <li>dei soggetti e delle categorie di soggetti ai quali i dati possono essere comunicati o che possono venirne a conoscenza in qualità di rappresentante designato nel territorio dello Stato, di responsabili o incaricati.</li>
     </ul>
     <p>
-        Inoltre l'interessato ha diritto di ottenere da Titolare del trattamento:
+        Inoltre l'interessato ha diritto di ottenere dal Titolare del trattamento:
     </p>
     <ul>
         <li>l'aggiornamento, la rettificazione ovvero l'integrazione dei propri dati;</li>
@@ -133,4 +125,3 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
 </body>
 </html>
-
