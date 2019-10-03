@@ -590,6 +590,9 @@
             <br/>
             10 ore – 247&#8364; (24,70 all'ora)
         </p>
+        <p>
+            In sede oppure su Skype
+        </p>
     </div>
     <div class="div-column col-third">
         <div class="col-head">
