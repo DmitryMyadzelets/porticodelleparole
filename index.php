@@ -121,6 +121,8 @@
     </p>
 </div>
 
+<?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?> 
+
 <?php
     $fname = 'config/config.json';
 
@@ -328,12 +330,18 @@
     <p>Calendario del <q>tè del sabato</q> per il 2019, dalle 11.00 alle 13.00 nei giorni:
     </p>
     <ul>
-        <li>28 settembre</li>
-        <li>12 ottobre</li>
-        <li>26 ottobre</li>
-        <li>9 novembre</li>
-        <li>23 novembre</li>
-        <li>30 novembre </li>
+        <?php
+            // prints string 'day month'
+            function dnm($date) {
+                echo strftime("%-d %B", strtotime($date));
+            }
+        ?>
+        <li><?php dnm('2019-09-28'); ?></li>
+        <li><?php dnm('2019-10-12'); ?></li>
+        <li><?php dnm('2019-10-26'); ?></li>
+        <li><?php dnm('2019-11-09'); ?></li>
+        <li><?php dnm('2019-11-23'); ?></li>
+        <li><?php dnm('2019-11-30'); ?></li>
     </ul>
 
 
