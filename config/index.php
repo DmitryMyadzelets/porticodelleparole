@@ -19,20 +19,26 @@
 <div class="main-container shadow" style="height: 100vh">
 
 <?php
+// Debugging in Browser
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
+?>
+
+<?php
 
     $fname = 'config.json';
 
-    if ($_POST) {
+    if (!empty($_POST)) {
         // Debug
         // echo '<pre>';
         // echo htmlspecialchars(print_r($_POST, true));
         // echo '</pre>';
         file_put_contents($fname, json_encode($_POST));
         header('Location: /');
-        exit();
     }
 
-    $data = @file_get_contents($fname);
+    $data = file_get_contents($fname);
     $config = (array)json_decode($data);
 
     // Debug
@@ -52,15 +58,7 @@
 
         <hr>
         <button type="submit">Сохранить</button>
-        <? 
-            if ($_POST) {
-                echo '<a href="/">Сделано!...</a>';
-            }
-        ?>
-
     </form>
-
-
 </div>
 
     <script src='/js/pikaday.min.js'></script>
