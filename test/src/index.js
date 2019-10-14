@@ -125,17 +125,17 @@ function calculate() {
     let text = ''
 
     if (counter.answered < counter.total) {
-      text = '<p>Per ottenere il risultato devi rispondere a tutte le domande del livello.</p>'
-      text += '<p>Adesso hai risposto per ' + counter.answered + ' domande su ' + counter.total + '.</p>'
+      text += '<p>Per ottenere il risultato devi rispondere a tutte le domande del livello.</p>'
+      text += '<p>Adesso hai risposto a ' + counter.answered + ' domande su ' + counter.total + '.</p>'
     } else {
-      const treshold = 15
+      const treshold = 15 //75%
+       text += '<p>Hai risposto corretamente a ' + counter.valid + ' domande su ' + counter.total + ' <p>'
       if (counter.valid < treshold) {
-        text = '<p>Hai risposto per tutte le domande di cui ' + counter.valid + ' sono valide.</p>'
-        text += '<p>Ci voule almeno ' + treshold + ' risposte corrette su ' + counter.total + ' per passare il livello.</p>'
+        text += '<p>Devi rispondere corretamente ad almeno ' + treshold + ' domande su ' + counter.total + ' per passare il livello.</p>'
       } else {
-        text = '<p>Ottimo! Hai risposto per tutte le domande di cui ' + counter.valid + ' sono valide.<p>'
-        text += '<p>Il livello è superato.</p>'
+        text += '<p>Ottimo! Il livello è superato.</p>'
       }
+      text += '<p>Contattaci per fissare l’incontro personale gratuito e concludere la verifica del tuo livello con un colloquio orale.</p>'
     }
 
     return text
