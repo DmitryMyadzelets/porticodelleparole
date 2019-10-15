@@ -169,7 +169,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/petrozavodsk.jpg" atl='Foto of Petrozavodsk'/>
+                <img src="./img/petrozavodsk.jpg" alt='Foto of Petrozavodsk'/>
             </div>
         </div>
     </div>
