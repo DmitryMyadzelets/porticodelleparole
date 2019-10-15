@@ -2,7 +2,6 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
@@ -208,7 +207,7 @@
     <div>
         <iframe id="ytplayer" type="text/html" width="100%" height="100%"
           src="https://www.youtube.com/embed/RFPyCgWDbwA?rel=0&controls=0&showinfo=0&origin=https://www.porticodelleparole.it/"
-          frameborder="0"/></iframe>
+          frameborder="0"></iframe>
     </div>
 </div>
 
@@ -267,15 +266,15 @@
     <div class="div-table special-courses-table">
         <div class="div-column col-fourth">
             <a href="corsi-speciali/#russo-per-azienda">
-                <img src="/img/business.jpg">
+                <img src="/img/business.jpg" alt="Russo per l'azienda">
                 <p>
-                    Russo per l’azienda
+                    Russo per l'azienda
                 </p>
             </a>
         </div>
         <div class="div-column col-fourth">
             <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
-                <img src="/img/russo-per-esami.jpg">
+                <img src="/img/russo-per-esami.jpg" alt="Russo per esami universitari">
                 <p>
                     Russo per preparazione esami universitari
                 </p>
@@ -283,7 +282,7 @@
         </div>
         <div class="div-column col-fourth">
             <a href="corsi-speciali/#russo-per-adozione">
-                <img src="/img/adozione.jpg">
+                <img src="/img/adozione.jpg" alt="Russo per adozione">
                 <p>
                     Russo per adozione
                 </p>
@@ -291,7 +290,7 @@
         </div>
         <div class="div-column col-fourth">
             <a href="corsi-speciali/#russo-per-viaggiare">
-                <img src="/img/turismo.jpg">
+                <img src="/img/turismo.jpg" alt="Russo per viaggiare">
                 <p>
                     Russo per viaggiare
                 </p>
@@ -320,8 +319,7 @@
                 <h3>
                     Laboratori linguistici
                 </h3>
-                
-                <img src="/img/2016-gagarin.jpg">
+                <img src="/img/2016-gagarin.jpg" alt="Laboratori linguistici">
             </a>
         </div>
         <div class="div-column col-third">
@@ -329,7 +327,7 @@
                 <h3>
                     Tè del sabato
                 </h3>
-                <img src="/photos/?id=5da5c62e59990">
+                <img src="/photos/?id=5da5c62e59990" alt="Tè del sabato">
             </a>
         </div>
         <div class="div-column col-third">
@@ -337,7 +335,7 @@
                 <h3>
                     Eventi speciali
                 </h3>
-                <img src="/img/2018-maslenitsa.jpg">
+                <img src="/img/2018-maslenitsa.jpg" alt="Eventi speciali">
             </a>
         </div>
     </div>
