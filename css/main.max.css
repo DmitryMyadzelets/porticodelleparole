@@ -285,7 +285,10 @@ iframe.reviews {
     border-bottom: solid 1px gray;
 }
 
-.te-di-sabato-table img,
+.te-di-sabato-table .div-column {
+    padding: 0 1em 1em 1em;
+}
+
 .special-courses-table img {
     padding: 1em 1em 0 1em;
 }
