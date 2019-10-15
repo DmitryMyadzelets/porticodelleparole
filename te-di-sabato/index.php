@@ -1,1 +1,103 @@
-<?php include "2018/index.php" ?>
+<!DOCTYPE HTML>
+<html lang="it">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-control" content="private">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
+    <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
+    <meta name="keywords" content="
+    corsi di russo speciali,
+    corso di russo per adozione,
+    corso di russo per preparazione esami universitari,
+    corso di russo per azienda,
+    corso di russo per viaggiare
+    ">
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@BolognaRusso" />
+    <meta name="twitter:title" content="Corsi di Russo a Bologna" />
+    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
+    <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
+
+    <!--  -->
+    <link rel="stylesheet" type="text/css" href="/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+
+    <title>
+        Corsi di Russo Speciali a Bologna &mdash; Associazione Portico delle Parole
+    </title>
+
+    <?php include $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
+
+</head>
+
+<body>
+<div class="main-container shadow">
+
+<?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
+
+<section>
+    <h1>
+        Tè del sabato
+    </h1>
+    <p>
+        Accogliere gli ospiti con tè e biscotti è una delle tradizioni russe più diffuse: per questo abbiamo creato il Tè del sabato (чай по субботам), un'attività <b>gratuita</b> per tutti i tesserati dell'associazione che si svolge <b>due sabati al mese dalle 11 alle 13</b>. Durante gli incontri, potrai assistere a presentazioni <b>in russo con la traduzione in italiano</b> su argomenti sempre diversi riguardanti la storia, la geografia, l'economia, i viaggi in Russia, la cultura e le tradizioni, degustando insieme a noi il classico tè russo in un'atmosfera piacevole e informale. Durante questi incontri avrai la possibilità di conoscere altri studenti e scambiare con loro idee e punti di vista, confrontandoti sui temi proposti.
+    </p>
+    <p>
+        Il Tè del sabato si svolgerà nei seguenti giorni:
+    </p>
+    <ul>
+        <?php
+            // prints string 'day month'
+            function dnm($date) {
+                echo strftime("%-d %B", strtotime($date));
+            }
+        ?>
+        <li><?php dnm('2019-09-28'); ?></li>
+        <li><?php dnm('2019-10-12'); ?></li>
+        <li><?php dnm('2019-10-26'); ?></li>
+        <li><?php dnm('2019-11-09'); ?></li>
+        <li><?php dnm('2019-11-23'); ?></li>
+        <li><?php dnm('2019-11-30'); ?></li>
+    </ul>
+    <p>
+        La conferma della partecipazione è <b>sempre obbligatoria</b> per ogni incontro.
+    </p>
+    <p>
+        Il tè del sabato si svolge già dal 2014, e in <?php echo date("Y")-2014 ?> anni sono già stati organizzati 130 incontri. Guarda l'elenco degli argomenti svolti negli ultimi anni qui sotto.
+    </p>
+</section>
+
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+
+    <h2>Anno 2018</h2>
+    <?php include "2018.php" ?>
+
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+
+    <h2>Anno 2017</h2>
+    <?php include "2017.php" ?>
+
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+
+    <h2>Anno 2016</h2>
+    <?php include "2016.php" ?>
+
+</div>
+
+<?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
+
+</body>
+</html>
