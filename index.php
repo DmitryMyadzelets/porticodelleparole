@@ -221,7 +221,7 @@
     Insegniamo il russo parlato e scritto, proponendo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendo semplicità, professionalità, grande coinvolgimento e un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo. 
 </p>
 <p>
-    Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>.
+    Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="//it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>.
 </p>
 <p>
     Nel corso principianti di <b>12 lezioni (20 ore)</b> imparerai:
