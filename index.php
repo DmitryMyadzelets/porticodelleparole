@@ -217,32 +217,29 @@
         Corsi di russo
     </a>
 </h1>
-
-<p>Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per <b>tutti i livelli
-    (A1, A2, B1, B2, C1)</b>, offrendo semplicità, grande coinvolgimento&hellip; e un pizzico di divertimento!
-    Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.
+<p>
+    Insegniamo il russo parlato e scritto, proponendo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendo semplicità, professionalità, grande coinvolgimento e un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo. 
 </p>
-
+<p>
+    Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>.
+</p>
 <p>
     Nel corso principianti di <b>12 lezioni (20 ore)</b> imparerai:
 </p>
 <ul>
     <li>L’alfabeto cirillico;</li>
-    <li>Leggere semplici testi in cirillico;</li>
-    <li>Scrivere un’email in russo (usando gli addesivi con le lettere in cirillico per la tua testiera);</li>
-    <li>Sostenere una conversazione su temi di uso quotidiano con un madrelingua russo;</li>
-    <li>Parlare di te stesso e della tua famiglia;</li>
-    <li>Chiedere informazioni in varie situazioni durante un viaggio in Russia;</li>
-    <li>Le tradizioni e le feste russe.</li>
+    <li>A leggere semplici testi in cirillico;</li>
+    <li>A presentarti e a parlare di te stesso (età, famiglia, hobby, interessi);</li>
+    <li>A parlare della tua professione;</li>
+    <li>A sostenere una conversazione su temi quotidiani con un madrelingua russo;</li>
+    <li>A chiedere informazioni in varie situazioni durante un viaggio in Russia.</li>
 </ul>
-
 <p>
     Per conoscere il <b>programma dei livelli successivi</b>, contattaci direttamente.
 </p>
-
 <p>
     Se non sei un principiante, vieni in associazione per un <b>incontro personale gratuito</b> e 
-    ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello.
+    ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello. Ci sono 10 classi di livelli differenti, quindi troverai sicuramente la classe più adatta a te!
 </p>
 
 <?php
