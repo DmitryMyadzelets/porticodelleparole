@@ -25,8 +25,13 @@
 	ExpiresActive Off
 </IfModule>
 
-# Deny access to .htaccess
-<Files .htaccess>
+# Deny access to files with some extensions
+<FilesMatch "\.(json|log|sh)$">
 Order allow,deny
 Deny from all
-</Files>
+</FilesMatch>
+
+# Redirect from HTTP to HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
