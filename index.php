@@ -123,7 +123,7 @@
     </p>
 </div>
 
-<?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?> 
+<?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
 
 <?php
     $fname = 'config/config.json';
@@ -311,101 +311,36 @@
     </a>
 </h2>
 
-<h3>Tè del sabato (чай по субботам)</h3>
-
-<div>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="./img/samovar.jpg" atl='Cup of tea'/>
-            </div>
-        </div>
-    </div>
-
-    <p>
-        Il <q>tè del sabato</q> (чай по субботам) è un’attività extra del Portico delle Parole, è <b>gratuita</b> per tutti i tesserati dell'associazione e si svolge <b>due sabati al mese dalle 11 alle 13</b>. Ogni volta i partecipanti possono assistere ad una presentazione <b>in russo con la traduzione in italiano</b>, su un argomento sempre diverso, e bere insieme un tè con pasticcini e biscotti. La presentazione può essere sulle feste, sulla storia e cultura russe, ma anche su economia e geografia e sui viaggi in Russia. I partecipanti possono così conoscersi e scambiarsi idee e punti di vista, confrontarsi sui temi proposti.
-    </p>
-
-    <p>Calendario del <q>tè del sabato</q> per il 2019, dalle 11.00 alle 13.00 nei giorni:
-    </p>
-    <ul>
-        <?php
-            // prints string 'day month'
-            function dnm($date) {
-                echo strftime("%-d %B", strtotime($date));
-            }
-        ?>
-        <li><?php dnm('2019-09-28'); ?></li>
-        <li><?php dnm('2019-10-12'); ?></li>
-        <li><?php dnm('2019-10-26'); ?></li>
-        <li><?php dnm('2019-11-09'); ?></li>
-        <li><?php dnm('2019-11-23'); ?></li>
-        <li><?php dnm('2019-11-30'); ?></li>
-    </ul>
-
-
-    <p>La conferma della partecipazione è sempre obbligatoria per ogni incontro.</p>
-
-    <p>
-        Il <q>tè del sabato</q> si svolge già dal 2014, e <b>in 5 anni ce ne sono già stati 130</b>.
-        Potrai vedere le foto e l’elenco degli argomenti svolti negli ultimi anni:
-    </p>
+<p>
+    L'associazione Portico delle Parole offre svariati tipi di attività extra, alle quali puoi accedere gratuitamente in quanto corsista. Gli incontri extra ti permetteranno di interagire con studenti, insegnanti e soci, promuovendo così una pratica stimolante della lingua anche oltre l'orario di lezione.
+</p>
     <div class="div-table te-di-sabato-table">
         <div class="div-column col-third">
-            <a href="te-di-sabato/2016/">
+            <a href="/laboratori/">
+                <h3>
+                    Laboratori linguistici
+                </h3>
+                
                 <img src="/img/2016-gagarin.jpg">
-                <p>
-                    2016
-                </p>
             </a>
         </div>
         <div class="div-column col-third">
-            <a href="te-di-sabato/2017/">
-                <img src="/img/2017-balet.jpg">
-                <p>
-                    2017
-                </p>
+            <a href="/te-di-sabato/">
+                <h3>
+                    Tè del sabato
+                </h3>
+                <img src="/photos/?id=5da5c62e59990">
             </a>
         </div>
         <div class="div-column col-third">
-            <a href="te-di-sabato/2018/">
+            <a href="/eventi-speciali/">
+                <h3>
+                    Eventi speciali
+                </h3>
                 <img src="/img/2018-maslenitsa.jpg">
-                <p>
-                    2018
-                </p>
             </a>
         </div>
     </div>
-
-</div>
-
-<h3>Laboratorio del lessico, conversazione, fonetica e corsivo</h3>
-
-<div>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="./img/laboratorio_di_lessico2.jpg" atl='Laboratorio di lessico'/>
-            </div>
-        </div>
-    </div>
-    <p>
-        Oltre alle lezioni del corso, hai l’opportunità di praticare il tuo russo con attività extra molto utili, 
-        come, ad esempio, <b>i laboratori del lessico e gli incontri settimanali, totalmente gratuiti</b>.
-    </p>
-    <p>
-        Con il laboratorio del lessico avrai la possibilità di:
-    </p>
-    <ul>
-        <li>Accedere gratuitamente alle lezioni una volta alla settimana, con partecipazione libera per tutti i corsisti;</li>
-        <li>Imparare nuove parole e metterle subito in pratica;</li>
-        <li>Approfondire il lessico in piccoli gruppi del tuo livello;</li>
-        <li>Fare conversazione con I madrelingua e con le persone del tuo stesso livello;</li>
-        <li>Chiarire determinati argomenti e temi;</li>
-        <li>Confrontarsi con le persone presenti al corso, che come te vogliono imparare il russo;</li>
-        <li>Disporre dei materiale didattico necessario per imparare senza costi aggiuntivi.</li>
-    </ul>
-</div>
 
 </div> <!-- main-container shadow -->
 <br>
