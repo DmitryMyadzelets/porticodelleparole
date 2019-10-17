@@ -24,6 +24,8 @@
     <meta name="twitter:image" content="http://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
@@ -37,9 +39,11 @@
 
 <body>
 <div class="main-container shadow">
+<div class='slideshow'></div>
+
 
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
-<?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
+<!-- <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?> -->
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <section>
@@ -156,6 +160,25 @@
 </div> <!-- main-container shadow -->
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
+
+<!-- jQuery v1.7+ is required for slick.js -->
+<script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+<script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<!-- slideshow -->
+<script>
+    var ids = ["5da823814dd60","5da8239d8992c","5da823a9ab8bf","5da823b46bcf0","5da823be7b9c4","5da823cad0013","5da823d569873","5da823df9a9f0","5da823eb44a11","5da823f6ad017","5da824008c2e4","5da8240a834e2","5da824169f2ed","5da82420d6e78","5da8242b18e1e","5da8243509669","5da8243f79586","5da8244913b52","5da8245302569","5da8245c486b0","5da8247009475","5da8247a61443","5da824843c7db","5da8248e39934","5da824997fe15","5da824a36f771","5da824acc03b2","5da824b63b758","5da824bf3f4cd","5da824c977363"];
+    $(function () {
+        var slides = $('.slideshow');
+        var i = ids.length;
+        while (i > 0) {
+            i = i - 1;
+            slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'//www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
+        }
+        slides.slick({
+            lazyLoad: 'ondemand', autoplay: true, autoplaySpeed: 5000
+        });
+    });
+</script>
 
 </body>
 </html>
