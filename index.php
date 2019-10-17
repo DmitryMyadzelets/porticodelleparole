@@ -97,18 +97,17 @@
                 document.getElementById(id).height= (newheight + 35) + "px";  /*35 is a magic number :) */
             }
         }
-</script>
-
+    </script>
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c22b178705952dd4b7ee934fd/ea4280305fb272220e1eebb7e.js");</script>
 
-</head>
-
-<body>
     <?php
         function age($bdate) {
             return date_diff(date_create($bdate), date_create('now'))->y;
         }
     ?>
+</head>
+
+<body>
 <div class="main-container shadow">
 
 <ul class='menu'>
@@ -362,7 +361,7 @@
     I nostri insegnanti sono tutti <b>madrelingua russi</b>, specializzati nell'insegnamento della lingua russa per stranieri:
 </p>
 
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+<div itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
         Olga, <?php echo age('1987-10-21'); ?> anni, Irkutsk (Siberia), Russia
     </h3>
@@ -413,7 +412,7 @@
     </div>
 </div>
 
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+<div itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
         Anna, <?php echo age('1988-02-22'); ?> anni, Novosibirsk, Russia
     </h3>
@@ -438,7 +437,7 @@
     </div>
 </div>
 
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+<div itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
         Anna, <?php echo age('1995-11-18'); ?> anni, Mosca, Russia
     </h3>
@@ -461,7 +460,7 @@
     </div>
 </div>
 
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+<div itemscope itemtype="http://schema.org/Review">
     <h3 itemprop="author">
         Liubov, <?php echo age('1988-04-21'); ?> anni, Irkutsk, Russia
     </h3>
