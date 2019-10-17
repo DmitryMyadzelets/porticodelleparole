@@ -205,9 +205,8 @@
 <!-- Video -->
 <div class="stretchy-wrapper" id="video-wrapper">
     <div>
-        <iframe id="ytplayer" type="text/html" width="100%" height="100%"
-          src="https://www.youtube.com/embed/RFPyCgWDbwA?rel=0&controls=0&showinfo=0&origin=https://www.porticodelleparole.it/"
-          frameborder="0"></iframe>
+        <iframe id="ytplayer" style="width: 100%; height: 100%; border: none;"
+          src="https://www.youtube.com/embed/RFPyCgWDbwA?rel=0&controls=0&showinfo=0&origin=https://www.porticodelleparole.it/"></iframe>
     </div>
 </div>
 
@@ -366,11 +365,11 @@
     </div>
     <div itemprop="reviewbody">
         <p>Sono una dei fondatori dell’associazione “Portico delle Parole”. L’associazione è nata nell’ottobre del 2013 con l’obbiettivo di creare un centro di didattica della lingua russa e di costruire un ponte tra la cultura russa e quella italiana.</p>
-        <span id="olga_readmore" style="display: none">
+        <div id="olga_readmore" style="display: none;">
             <p>Il mio lavoro presso l’associazione include l’insegnamento della lingua russa e la gestione della scuola e delle varie attività didattiche che proponiamo. Mi sono specializzata nell’insegnamento del russo come lingua straniera presso l’Università statale di Mosca e dal 2010 impartisco lezioni di russo, la mia lingua madre, a studenti americani e italiani. Grazie alla mia formazione didattica e professionale ho avuto l’opportunità di approfondire e mettere in pratica le tecniche più adeguate all’insegnamento della lingua russa.</p>
             <p>L’interesse  che manifestano i miei studenti verso la lingua e il mondo russo in generale è contagioso e stimolante, mi induce sempre a perfezionarmi per dare loro il meglio. Io ritengo che per imparare una lingua straniera siano fondamentali materiale didattico ben strutturato, pratica e interesse, per questo motivo abbiamo deciso di mettere a disposizione dei nostri corsisti non sono dell’ottimo materiale didattico, ma anche tante attività extra molto utili e gratuite, ad esempio il tè del sabato, laboratori linguistici (laboratori del lessico, laboratori di scrittura, laboratori di grammatica), ed eventi culturali, per dare loro la possibilità di praticare il loro russo.</p>
             <p>Con la nostra scuola avrai modo di scoprire la lingua russa, ma anche la cultura russa con le sue curiosità e tradizioni. Vieni a far parte del mondo russo di Bologna anche tu, ti aspetto!</p>
-        </span>
+        </div>
         <p>
             <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
@@ -392,12 +391,12 @@
         
     <div itemprop="reviewbody">
         <p>Insegno al Portico delle Parole da febbraio 2016. Per un apprendimento veloce ed efficace del russo ti servono tre cose: volontà, motivazione e un insegnante che sostenga  questi due aspetti fondamentali. Al Portico delle Parole ti viene garantito un apprendimento produttivo e dinamico grazie alle lezioni ben strutturate e al tempo stesso interattive che coinvolgono tutti gli aspetti linguistici: fonetica, grammatica, lessico, ascolto, lettura e scrittura.</p>
-        <span id="yana_readmore" style="display: none">
+        <div id="yana_readmore" style="display: none">
             <p>Grazie alla mia esperienza pluriennale e al mio percorso di studi incentrato sull’insegnamento della lingua russa come lingua straniera all'Università Statale di Mosca, preparo i programmi per i corsi collettivi e per quelli individuali, adattandoli alle esigenze degli studenti.</p>
             <p>I miei corsisti hanno superato con successo sia gli esami all'università in Italia sia i corsi universitari per i programmi di scambio a Mosca e a San Pietroburgo. Molti di loro, inoltre, sono stati in Russia per lavoro, per viaggi, e hanno partecipato a numerose conferenze in Russia.</p>
             <p>Oltre a questo, lavoro anche con bambini bilingue. Con loro mi occupo di lingua russa seguendo il programma scolastico ministeriale della Federazione Russa. E, naturalmente, impariamo a leggere, scrivere e parlare, giocando. I miei piccoli studenti superano con successo esami in russo sia in Italia che in Russia.</p>
             <p>Spero di vederti al Portico delle Parole dove troverai un ambiente professionale, stimolante ed accogliente.</p>
-        </span>
+        </div>
         <p>
             <a id="yana_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
@@ -418,11 +417,11 @@
         
     <div itemprop="reviewbody">
         <p>Io e i miei colleghi chiediamo sempre ai nostri studenti perché studiano la lingua russa e qual è il loro obiettivo. Con un approccio centrato sulla persona, gli studenti acquisiscono le nozioni del corso principale e approfondiscono le loro conoscenze su varie aree di interesse.</p>
-        <span id="shkapa_readmore" style="display: none">
+        <div id="shkapa_readmore" style="display: none">
             <p>La mia esperienza pluriennale come insegnante di lingua russa presso il liceo scientifico Italo Calvino e presso l’Università Pedagogica a Mosca, mi ha permesso di constatare che un approccio integrato, che includa diversi metodi, è il più efficace e produttivo. Mi sono laureata in Lettere presso l’Università Statale di Novosibirsk nel 2010, con specializzazione in lingua e letteratura russa, e russo come lingua straniera. Ho terminato il dottorato presso L'sUniversità Statale Russa degli Studi Umanistici (RGGU) di Mosca. Dal 2016, studio economia all’Università di Bologna e da settembre 2017 insegno lingua e cultura russa all’associazione Portico delle Parole. Nell'insegnamento del russo, mi piace combinare in modo dinamico l’approccio di studio tradizionale con quello comunicativo.</p>
             <p>Per ottenere i migliori risultati, preparo ogni lezione tenendo conto delle caratteristiche del gruppo o dello studente singolo. C’è una cosa che ricordo sempre ai miei corsisti: lo studio di una qualsiasi lingua straniera è un piacere, ma anche un impegno. Tutto dipende dall'interesse, dalla motivazione e dalla buona volontà. Sarò molto lieta di aiutarti e di guidarti per rendere il tuo processo di apprendimento del russo il più interessante possibile.</p>
             <p>Ci vediamo al Portico delle Parole, il luogo dove potrai imparare tutto sulla lingua e la cultura russa!</p>
-        </span>
+        </div>
         <p>
             <a id="shkapa_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
@@ -443,9 +442,9 @@
         
     <div itemprop="reviewbody">
         <p>Nel 2017 ho conseguito la laurea in “Pedagogia linguistica” presso l'Università pedagogica di Mosca e, nello stesso anno, mi sono iscritta al corso di laurea magistrale in “Comunicazione pubblica e d’impresa” presso l'Università di Bologna. Qui ho conosciuto l’associazione Portico delle Parole dove insegno dall'ottobre 2017, grazie alla mia laurea e all'esperienza di insegnamento della lingua russa agli stranieri maturata a Mosca.</p>
-        <span id="surikova_readmore" style="display: none">
+        <div id="surikova_readmore" style="display: none">
             <p>Lavoro con studenti di tutti i livelli, inclusi quelli dei corsi collettivi e individuali, ma mi trovi anche ai laboratori del lessico. Per me, come insegnante, è importante vedere l'interesse negli occhi degli studenti, perciò in classe svolgo diversi tipi di attività: esercizi di grammatica, giochi di ruolo, ascolto di canzoni, visione di video da YouTube e di video-lezioni, spezzoni di film, discussioni su vari argomenti, scrittura di composizioni, lettere, e-mail; e inoltre, lettura e analisi di articoli da giornali russi. Questo lavoro mi piace molto perché trovo che sia molto gratificante vedere i miei studenti migliorare di volta in volta, lezione dopo lezione. Non vedo l’ora di fare la tua conoscenza e di introdurti in questo meraviglioso ambiente offerto dall'associazione Portico delle Parole.</p>
-        </span>
+        </div>
         <p>
             <a id="surikova_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
@@ -466,10 +465,10 @@
         
     <div itemprop="reviewbody">
         <p>Da marzo 2016 insegno lingua russa al Portico delle Parole. Mi sono laureata all’università pedagogica di Irkutsk e ho terminato i corsi di insegnamento del russo come lingua straniera all’Università Statale di Mosca. Grazie alla mia laurea, mi occupo della preparazione dei materiali didattici per i corsi collettivi e individuali, incluso il laboratorio del lessico, e della creazione del materiale audiovisivo per tutti i livelli.</p>
-        <span id="ermolaeva_readmore" style="display: none">
+        <div id="ermolaeva_readmore" style="display: none">
             <p>Generalmente, tengo lezioni individuali o a due, e il corso di russo per il business. In questi anni, molti dei miei studenti sono stati in Russia per lavoro, per l’università, o semplicemente per turismo. Sin dalla prima lezione cerco subito di coinvolgerti nell&#39;apprendimento della lingua russa con il supporto di materiali audiovisivi e mettendo subito in pratica gli argomenti di grammatica. Molti dei miei studenti sono lavoratori, per questo le mie lezioni sono molto flessibili e possiamo concordare insieme di volta in volta la lezione, secondo le tue esigenze.</p>
             <p>Spero di vederti presto qui con noi in associazione per condividere insieme interessanti aspetti culturali e linguistici del mondo russo.</p>
-        </span>
+        </div>
         <p>
             <a id="ermolaeva_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
         </p>
@@ -487,15 +486,13 @@
 </h2>
 
 <!-- Reviews -->
-<iframe id="reviews" class='reviews' type="text/html" width="100%" height="400"
-  src="./reviews.html"
-  frameborder="0"/>
+<iframe id="reviews" class='reviews' style="width: 100%; height: 400; border: none;"
+  src="./reviews.html">
 </iframe>
 <!-- Google reviews -->
 <h2>Recensioni su Google </h2>
-<iframe class="reviews" type="text/html" width="100%" height="400"
-  src="/reviews/"
-  frameborder="0"/>
+<iframe class="reviews" type="text/html" style="width: 100%; height: 400; border: none;"
+  src="/reviews/">
 </iframe>
 <p>
     <a href="https://search.google.com/local/reviews?placeid=ChIJDx8EapPUf0cRVXOGoNOv6Ok" target="_blank">Vedere tutte le recensioni su Google</a>
@@ -542,7 +539,7 @@
             20 ore – 277&#8364; (13,80 all'ora)
             <br/>
             10 ore – 147&#8364; (14,70 all'ora)
-        <p/>
+        </p>
         <p>
             Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
             <br/>
@@ -566,7 +563,7 @@
             I gruppi sono formati da 4 &mdash; max. 10 persone.
         </p>
         <p>
-            Per i corsi collettivi offriamo uno sconto del 10&#37 per chi ha meno di 26 anni.
+            Per i corsi collettivi offriamo uno sconto del 10&#37; per chi ha meno di 26 anni.
         </p>
     </div>
 </div>
