@@ -2,7 +2,6 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
@@ -35,7 +34,6 @@
     <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
 
 </head>
-
 <body>
 <div class="main-container shadow">
 
@@ -55,21 +53,22 @@
     <p>
         Questo test è stato elaborato insieme con il nostro partner, la scuola di lingua russa in Russia <a href="https://enjoyrussian.com/" target="_blank">Enjoy Russian</a>.
     </p>
-    <h2>
-        <ul class='menu' id='level-buttons'></ul>
-    </h2>
+    
+    <ul class='menu' id='level-buttons' style="font-size: larger;"></ul>
+    
     <div id="test-content"></div>
     <input type="submit" value="Verificare" id="button-calculate">
+    
     <h2>Risultato</h2>
     <div id='test-result'></div>
+
 </section>
 
 </div>
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
-</body>
-
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="index.js"></script>
 
+</body>
 </html>
