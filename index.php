@@ -2,11 +2,11 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
-    <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    <meta id="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta id="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
+    <meta id="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
     offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
-    <meta name="keywords" content="corso di russo a bologna,
+    <meta id="keywords" content="corso di russo a bologna,
     corso di italiano a bologna,
     corso russo,
     corso italiano,
@@ -38,12 +38,12 @@
     ">
 
     <!-- Twitter card -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@BolognaRusso" />
-    <meta name="twitter:title" content="Corsi di Russo a Bologna" />
-    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    <meta id="twitter:card" content="summary" />
+    <meta id="twitter:site" content="@BolognaRusso" />
+    <meta id="twitter:title" content="Corsi di Russo a Bologna" />
+    <meta id="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
     offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
-    <meta name="twitter:image" content="//www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
+    <meta id="twitter:image" content="//www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
@@ -88,8 +88,18 @@
             });
         });
     </script>
+    <script>
+        function autoResize(id){
+            var newheight;
+            var newwidth;
+            if(document.getElementById){
+                newheight=document.getElementById(id).contentWindow.document.body.scrollHeight;
+                document.getElementById(id).height= (newheight + 35) + "px";  /*35 is a magic number :) */
+            }
+        }
+</script>
 
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c22b178705952dd4b7ee934fd/ea4280305fb272220e1eebb7e.js");</script>
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c22b178705952dd4b7ee934fd/ea4280305fb272220e1eebb7e.js");</script>
 
 </head>
 
@@ -211,7 +221,7 @@
 </div>
 
 <h1>
-    <a name="corsi-di-russo">
+    <a id="corsi-di-russo">
         Corsi di russo
     </a>
 </h1>
@@ -304,7 +314,7 @@
 <div class="main-container shadow">
 
 <h2>
-    <a name="attivita">
+    <a id="attivita">
         Attività
     </a>
 </h2>
@@ -344,7 +354,7 @@
 <div class="main-container shadow">
 
 <h2>
-    <a name="i-nostri-insegnanti">
+    <a id="i-nostri-insegnanti">
         I nostri insegnanti
     </a>
 </h2>
@@ -480,7 +490,7 @@
 <div class="main-container shadow">
 
 <h2>
-    <a name="dicono-di-noi">
+    <a id="dicono-di-noi">
         Dicono di noi
     </a>
 </h2>
@@ -505,7 +515,7 @@
 <div class="main-container shadow">
 
 <h2>
-    <a name="prezzi">
+    <a id="prezzi">
         Prezzi
     </a>
 </h2>
@@ -593,7 +603,7 @@
 <div class="main-container shadow">
 
 <h2>
-    <a name='orari'>
+    <a id='orari'>
         Orario delle lezioni
     </a>
 </h2>
@@ -657,7 +667,7 @@
 <div class="main-container shadow">
 
 <h2>
-    <a name="dove-trovarci">
+    <a id="dove-trovarci">
         Dove trovarci
     </a>
 </h2>
@@ -674,19 +684,6 @@
 <a href="https://www.google.com/maps?cid=16854914928900207445" target="_blank">
 <img src="./img/map.png" alt="Map: via dell Pratello, 9, Bologna" title="mapa del Portico delle Parole">
 </a>
-
-<script type="text/javascript">
-<!--
-function autoResize(id){
-    var newheight;
-    var newwidth;
-    if(document.getElementById){
-        newheight=document.getElementById(id).contentWindow.document.body.scrollHeight;
-        document.getElementById(id).height= (newheight + 35) + "px";  /*35 is a magic number :) */
-    }
-}
-//-->   
-</script>
 
 
 </div> <!-- main-container shadow -->
@@ -715,7 +712,7 @@ function autoResize(id){
 <div class="main-container shadow">
 
 <h2>
-    <a name="foto"></a>
+    <a id="foto"></a>
     Foto
 </h2>
 <div class='slideshow'></div>
