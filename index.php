@@ -2,11 +2,11 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta id="viewport" content="width=device-width, initial-scale=1">
-    <!-- <meta id="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
-    <meta id="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
+    <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
     offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
-    <meta id="keywords" content="corso di russo a bologna,
+    <meta name="keywords" content="corso di russo a bologna,
     corso di italiano a bologna,
     corso russo,
     corso italiano,
@@ -38,12 +38,12 @@
     ">
 
     <!-- Twitter card -->
-    <meta id="twitter:card" content="summary" />
-    <meta id="twitter:site" content="@BolognaRusso" />
-    <meta id="twitter:title" content="Corsi di Russo a Bologna" />
-    <meta id="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@BolognaRusso" />
+    <meta name="twitter:title" content="Corsi di Russo a Bologna" />
+    <meta name="twitter:description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
     offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!" />
-    <meta id="twitter:image" content="//www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
+    <meta name="twitter:image" content="//www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
