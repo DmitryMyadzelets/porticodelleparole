@@ -362,7 +362,7 @@
 </p>
 
 <div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author">
+    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
         Olga, <?php echo age('1987-10-21'); ?> anni, Irkutsk (Siberia), Russia
     </h3>
     <div class="review_photo">
@@ -386,8 +386,8 @@
 </div>
 
 
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author">
+<div itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
         Iana, <?php echo age('1987-04-15'); ?> anni, Mosca, Russia
     </h3>
     <div class="review_photo">
@@ -413,7 +413,7 @@
 </div>
 
 <div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author">
+    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
         Anna, <?php echo age('1988-02-22'); ?> anni, Novosibirsk, Russia
     </h3>
     <div class="review_photo">
@@ -438,7 +438,7 @@
 </div>
 
 <div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author">
+    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
         Anna, <?php echo age('1995-11-18'); ?> anni, Mosca, Russia
     </h3>
     <div class="review_photo">
@@ -461,7 +461,7 @@
 </div>
 
 <div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author">
+    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
         Liubov, <?php echo age('1988-04-21'); ?> anni, Irkutsk, Russia
     </h3>
     <div class="review_photo">
