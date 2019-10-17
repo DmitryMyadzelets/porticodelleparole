@@ -57,9 +57,9 @@
 
     <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
 
-    <script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
-    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
-    <script type="text/javascript">
+    <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
+    <script>
         function shuffle (array) {
             var i = 0, j = 0, temp = null;
 
@@ -363,7 +363,7 @@
             </div>
         </div>
     </div>
-    <div itemprop="reviewbody">
+    <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
         <p>Sono una dei fondatori dell’associazione “Portico delle Parole”. L’associazione è nata nell’ottobre del 2013 con l’obbiettivo di creare un centro di didattica della lingua russa e di costruire un ponte tra la cultura russa e quella italiana.</p>
         <div id="olga_readmore" style="display: none;">
             <p>Il mio lavoro presso l’associazione include l’insegnamento della lingua russa e la gestione della scuola e delle varie attività didattiche che proponiamo. Mi sono specializzata nell’insegnamento del russo come lingua straniera presso l’Università statale di Mosca e dal 2010 impartisco lezioni di russo, la mia lingua madre, a studenti americani e italiani. Grazie alla mia formazione didattica e professionale ho avuto l’opportunità di approfondire e mettere in pratica le tecniche più adeguate all’insegnamento della lingua russa.</p>
@@ -389,7 +389,7 @@
         </div>
     </div>
         
-    <div itemprop="reviewbody">
+    <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
         <p>Insegno al Portico delle Parole da febbraio 2016. Per un apprendimento veloce ed efficace del russo ti servono tre cose: volontà, motivazione e un insegnante che sostenga  questi due aspetti fondamentali. Al Portico delle Parole ti viene garantito un apprendimento produttivo e dinamico grazie alle lezioni ben strutturate e al tempo stesso interattive che coinvolgono tutti gli aspetti linguistici: fonetica, grammatica, lessico, ascolto, lettura e scrittura.</p>
         <div id="yana_readmore" style="display: none">
             <p>Grazie alla mia esperienza pluriennale e al mio percorso di studi incentrato sull’insegnamento della lingua russa come lingua straniera all'Università Statale di Mosca, preparo i programmi per i corsi collettivi e per quelli individuali, adattandoli alle esigenze degli studenti.</p>
@@ -415,7 +415,7 @@
         </div>
     </div>
         
-    <div itemprop="reviewbody">
+    <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
         <p>Io e i miei colleghi chiediamo sempre ai nostri studenti perché studiano la lingua russa e qual è il loro obiettivo. Con un approccio centrato sulla persona, gli studenti acquisiscono le nozioni del corso principale e approfondiscono le loro conoscenze su varie aree di interesse.</p>
         <div id="shkapa_readmore" style="display: none">
             <p>La mia esperienza pluriennale come insegnante di lingua russa presso il liceo scientifico Italo Calvino e presso l’Università Pedagogica a Mosca, mi ha permesso di constatare che un approccio integrato, che includa diversi metodi, è il più efficace e produttivo. Mi sono laureata in Lettere presso l’Università Statale di Novosibirsk nel 2010, con specializzazione in lingua e letteratura russa, e russo come lingua straniera. Ho terminato il dottorato presso L'sUniversità Statale Russa degli Studi Umanistici (RGGU) di Mosca. Dal 2016, studio economia all’Università di Bologna e da settembre 2017 insegno lingua e cultura russa all’associazione Portico delle Parole. Nell'insegnamento del russo, mi piace combinare in modo dinamico l’approccio di studio tradizionale con quello comunicativo.</p>
@@ -486,12 +486,12 @@
 </h2>
 
 <!-- Reviews -->
-<iframe id="reviews" class='reviews' style="width: 100%; height: 400; border: none;"
+<iframe id="reviews" class='reviews' style="width: 100%; height: 400px; border: none;"
   src="./reviews.html">
 </iframe>
 <!-- Google reviews -->
 <h2>Recensioni su Google </h2>
-<iframe class="reviews" type="text/html" style="width: 100%; height: 400; border: none;"
+<iframe class="reviews" style="width: 100%; height: 400px; border: none;"
   src="/reviews/">
 </iframe>
 <p>
@@ -702,7 +702,7 @@ function autoResize(id){
 <div>
     <iframe id="iscrizione" src="./iscrizione.php" 
         onLoad="autoResize('iscrizione');"
-        scrolling="no"></iframe>
+        style="overflow: hidden;"></iframe>
 </div>  
 
 <p>
@@ -732,7 +732,7 @@ function autoResize(id){
 <!-- <script async src='./js/monitor.js'></script> -->
 <script async src='./js/readmore.js'></script>
 <!-- jQuery v1.7+ is required for slick.js -->
-<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 
 </body>
 </html>
