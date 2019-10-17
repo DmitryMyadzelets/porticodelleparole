@@ -2,7 +2,6 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
@@ -43,123 +42,118 @@
 
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
 
-<section>
-    <h1>
-        Eventi Speciali
-    </h1>
-    <p>
-        Oltre alle attività ed ai corsi, con noi avrai la fortuna di conoscere e celebrare le feste russe con gli amici del corso e con i russi che vivono a Bologna. Ogni anno festeggiamo insieme la Pasqua Ortodossa, il Capodanno, il giorno della Vittoria, la giornata della lingua russa ecc. Gli eventi speciali non riguardano solo ricorrenze e feste russe, ma comprendono anche visite di luoghi e mostre legati alla Russia, come ad esempio la mostra Revolutia e la mostra di Marc Chagall.
-    </p>
-    <p>
-        Anche l’aperitivo è un buon modo per conoscersi meglio, per questo organizziamo aperitivi in centro con corsisti, insegnanti e amici russi! Inoltre proponiamo interessanti eventi, tra i quali ci sono: la visita al supermercato russo con degustazione di prodotti e pietanze tradizionali; la decorazione di matrioske; picnic durante le feste tradizionali.
-    </p>
-    <p>
-        Guarda l’elenco degli eventi svolti negli ultimi anni qui sotto.
-    </p>
+<h1>
+    Eventi Speciali
+</h1>
+<p>
+    Oltre alle attività ed ai corsi, con noi avrai la fortuna di conoscere e celebrare le feste russe con gli amici del corso e con i russi che vivono a Bologna. Ogni anno festeggiamo insieme la Pasqua Ortodossa, il Capodanno, il giorno della Vittoria, la giornata della lingua russa ecc. Gli eventi speciali non riguardano solo ricorrenze e feste russe, ma comprendono anche visite di luoghi e mostre legati alla Russia, come ad esempio la mostra Revolutia e la mostra di Marc Chagall.
+</p>
+<p>
+    Anche l’aperitivo è un buon modo per conoscersi meglio, per questo organizziamo aperitivi in centro con corsisti, insegnanti e amici russi! Inoltre proponiamo interessanti eventi, tra i quali ci sono: la visita al supermercato russo con degustazione di prodotti e pietanze tradizionali; la decorazione di matrioske; picnic durante le feste tradizionali.
+</p>
+<p>
+    Guarda l’elenco degli eventi svolti negli ultimi anni qui sotto.
+</p>
 
-    <h2>
-        Anno 2018
-    </h2>
-    <ul>
-      <li>Pattinaggio sul ghiaccio a Rastignano.</li>
-      <li>Picnic per la Pasqua Ortodossa.</li>
-      <li>Visita guidata al negozio russo.</li>
-      <li>Presentazione sul cibo russo con la degustazione.</li>
-      <li>Decorazione dei prianiki (biscotti tradizionali russi).</li>
-      <li>Visita guidata alla mostra Revolutija.</li>
-      <li>Presentazione sul cibo russo con la degustazione.</li>
-      <li>Aperitivo con la lettura delle poesie in russo dedicato al compleanno del poeta A.S. Pushkin e la giornata della lingua russa.</li>
-      <li>Picnic per festeggiare la fine dell’anno accademico.</li>
-      <li>Inaugurazione della nuova sede in via del Pratello.</li>
-      <li>Visione del film <q>Piter FM</q> in lingua originale e sottotitolato in russo.</li>
-      <li>Festeggiamenti tipici del Capodanno russo con Babbo Natale e la sua nipotina Snegurochka.</li>
-    </ul>
+<h2>
+    Anno 2018
+</h2>
+<ul>
+  <li>Pattinaggio sul ghiaccio a Rastignano.</li>
+  <li>Picnic per la Pasqua Ortodossa.</li>
+  <li>Visita guidata al negozio russo.</li>
+  <li>Presentazione sul cibo russo con la degustazione.</li>
+  <li>Decorazione dei prianiki (biscotti tradizionali russi).</li>
+  <li>Visita guidata alla mostra Revolutija.</li>
+  <li>Presentazione sul cibo russo con la degustazione.</li>
+  <li>Aperitivo con la lettura delle poesie in russo dedicato al compleanno del poeta A.S. Pushkin e la giornata della lingua russa.</li>
+  <li>Picnic per festeggiare la fine dell’anno accademico.</li>
+  <li>Inaugurazione della nuova sede in via del Pratello.</li>
+  <li>Visione del film <q>Piter FM</q> in lingua originale e sottotitolato in russo.</li>
+  <li>Festeggiamenti tipici del Capodanno russo con Babbo Natale e la sua nipotina Snegurochka.</li>
+</ul>
 
-    <h2>
-        Anno 2017
-    </h2>
-    <ul>
-        <li>
-            Film <q>Formula liubvi</q>.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
-        </li>
-        <li>
-            Transiberiana, consigli prattici sui viaggi in Russia.
-            <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
-        </li>
-        <li>
-            Seminario <q>Strumenti per imparare la lingua russa</q>.
-            <span class='authors'>Olga Miadzeletc di Irkutsk e Comasia Fumarola</span>
-        </li>
-        <li>
-            Pittori russi e le loro opere nei musei di Mosca e San Pietroburgo.
-            <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
-        </li>
-        <li>
-            Lo sport più famoso in Russia: Pattinaggio sul giaccio a Rastignano.
-        </li>
-        <li>
-            Numerosi aperitivi di martedì con gli amici russi
-        </li>
-        <li>
-            Picnic nei Giardini Margherita il 12 luglio.
-        </li>
-    </ul>
+<h2>
+    Anno 2017
+</h2>
+<ul>
+    <li>
+        Film <q>Formula liubvi</q>.
+        <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+    </li>
+    <li>
+        Transiberiana, consigli prattici sui viaggi in Russia.
+        <span class='authors'>Liubov Ermolaeva di Irkutsk</span>
+    </li>
+    <li>
+        Seminario <q>Strumenti per imparare la lingua russa</q>.
+        <span class='authors'>Olga Miadzeletc di Irkutsk e Comasia Fumarola</span>
+    </li>
+    <li>
+        Pittori russi e le loro opere nei musei di Mosca e San Pietroburgo.
+        <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
+    </li>
+    <li>
+        Lo sport più famoso in Russia: Pattinaggio sul giaccio a Rastignano.
+    </li>
+    <li>
+        Numerosi aperitivi di martedì con gli amici russi
+    </li>
+    <li>
+        Picnic nei Giardini Margherita il 12 luglio.
+    </li>
+</ul>
 
-    <h2>
-        Anno 2016
-    </h2>
-    <ul>
-        <li>
-            Pranzo per la <b>Pasqua Ortodossa</b> con le uova decorate e i dolci tradizionali 
-            sia russi che italiani.
-        </li>
-        <li>
-            <b>Giornata della lingua russa</b> il 6 giugno.
-        </li>
-        <li>
-            <b>Picnic</b> nei Giardini Margherita e giochi sul prato, luglio 2016.
-        </li>
-        <li>
-            <b>Serata dei racconti</b> dei nostri studenti del loro soggiorno-studio di 
-            lingua russa questa estate a Petrozavodsk, Russia.
-        </li>
-        <li>
-            <b>Serata del cinema</b>. Il film <q>Питер ФМ</q>.
-        </li>
-        <li>
-            <b>Visita nel negozio russo</b> <q>MixMarkt</q> per conoscere i prodotti russi e aperitivo 
-            per gustarli tutti!
-        </li>
-        <li>
-            <b>Aperitivo</b>, scambio linguistico al Bar l’81 in via Saragozza.
-        </li>
-        <li>
-            <b>Compleanno dell'associazione</b> &mdash; 3 anni. Il 21/10/2016.
-        </li>
-        <li>
-            <b>L'asta di beneficenza per i bambini</b> del territorio della guerra in Ucraina.
-        </li>
-    </ul>
-
-</section>
+<h2>
+    Anno 2016
+</h2>
+<ul>
+    <li>
+        Pranzo per la <b>Pasqua Ortodossa</b> con le uova decorate e i dolci tradizionali 
+        sia russi che italiani.
+    </li>
+    <li>
+        <b>Giornata della lingua russa</b> il 6 giugno.
+    </li>
+    <li>
+        <b>Picnic</b> nei Giardini Margherita e giochi sul prato, luglio 2016.
+    </li>
+    <li>
+        <b>Serata dei racconti</b> dei nostri studenti del loro soggiorno-studio di 
+        lingua russa questa estate a Petrozavodsk, Russia.
+    </li>
+    <li>
+        <b>Serata del cinema</b>. Il film <q>Питер ФМ</q>.
+    </li>
+    <li>
+        <b>Visita nel negozio russo</b> <q>MixMarkt</q> per conoscere i prodotti russi e aperitivo 
+        per gustarli tutti!
+    </li>
+    <li>
+        <b>Aperitivo</b>, scambio linguistico al Bar l’81 in via Saragozza.
+    </li>
+    <li>
+        <b>Compleanno dell'associazione</b> &mdash; 3 anni. Il 21/10/2016.
+    </li>
+    <li>
+        <b>L'asta di beneficenza per i bambini</b> del territorio della guerra in Ucraina.
+    </li>
+</ul>
 
 <hr>
 
-<section>
-    <p>
-        Guarda <a href="/#i-nostri-insegnanti">i nostri insegnanti</a>, 
-        cosa <a href="/#dicono-di-noi">dicono di noi</a> e
-        <a href="/#dove-trovarci">dove trovarci</a>.
-    </p>
-</section>
+<p>
+    Guarda <a href="/#i-nostri-insegnanti">i nostri insegnanti</a>, 
+    cosa <a href="/#dicono-di-noi">dicono di noi</a> e
+    <a href="/#dove-trovarci">dove trovarci</a>.
+</p>
 
 </div> <!-- main-container shadow -->
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
 
 <!-- jQuery v1.7+ is required for slick.js -->
-<script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
 <script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <!-- slideshow -->
 <script>
