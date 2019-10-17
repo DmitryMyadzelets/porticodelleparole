@@ -42,9 +42,6 @@
 <div class="main-container shadow">
 <div class='slideshow'></div>
 
-<!-- <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?> -->
-<?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
-
 <section>
     <h1>
         Laboratori linguistici

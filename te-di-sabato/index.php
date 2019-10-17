@@ -43,8 +43,6 @@
 <div class='slideshow'></div>
 
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
-<!-- <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?> -->
-<?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <section>
     <h1>
