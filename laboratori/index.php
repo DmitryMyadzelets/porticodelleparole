@@ -2,7 +2,6 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
@@ -42,43 +41,39 @@
 <div class="main-container shadow">
 <div class='slideshow'></div>
 
-<section>
-    <h1>
-        Laboratori linguistici
-    </h1>
-    <p>
-        Oltre alle lezioni del corso, avrai l'opportunità di migliorare il tuo russo con laboratori linguistici, un mezzo stimolante ed utile per ampliare le tue conoscenze.
-    </p>
-    <p>
-        I laboratori che proponiamo ti permetteranno di approfondire meglio vari aspetti della lingua, indicati per arricchire il tuo bagaglio lessicale, fornendo un approccio allo studio della lingua pratico e diretto. La pratica della lingua è stimolata con intelligenza e senso della realtà. Tra i vari laboratori da noi offerti/proposti, c'è il:
-    </p>
-    <ul>
-        <li><b>Laboratorio del lessico</b> (ad esempio, laboratorio dei proverbi e modi di dire, aggettivi, dello slang, il lessico relativo ai viaggi, all'aeroporto, lessico dell'alcool, ecc.);</li>
-        <li><b>Laboratorio di corsivo</b> (lezioni per imparare a leggere e scrivere il cirillico corsivo);</li>
-        <li><b>Laboratorio di grammatica</b> (approfondimenti su particolarità grammaticali, eccezioni, uso dei casi, verbi di moto, ecc);</li>
-        <li><b>Laboratorio di lettura</b> (esercitazioni di lettura ad alta voce di racconti o articoli legati al mondo russo, scelti accuratamente a seconda del livello di competenza degli studenti).</li>
-    </ul>
-    <p>
-        I laboratori sono completamente <b>gratuiti per i nostri corsisti</b> e si tengono due o tre volte al mese, sempre in orario serale e nei giorni feriali. Potrai partecipare ai laboratori anche se non sei un corsista acquistando la <q>Laboratori Linguistici Card</q>, al costo di 45 euro (15 per incontro), che ti consentirà di partecipare a 3 laboratori nel corso dell'anno accademico.
-    </p>
-</section>
+<h1>
+    Laboratori linguistici
+</h1>
+<p>
+    Oltre alle lezioni del corso, avrai l'opportunità di migliorare il tuo russo con laboratori linguistici, un mezzo stimolante ed utile per ampliare le tue conoscenze.
+</p>
+<p>
+    I laboratori che proponiamo ti permetteranno di approfondire meglio vari aspetti della lingua, indicati per arricchire il tuo bagaglio lessicale, fornendo un approccio allo studio della lingua pratico e diretto. La pratica della lingua è stimolata con intelligenza e senso della realtà. Tra i vari laboratori da noi offerti/proposti, c'è il:
+</p>
+<ul>
+    <li><b>Laboratorio del lessico</b> (ad esempio, laboratorio dei proverbi e modi di dire, aggettivi, dello slang, il lessico relativo ai viaggi, all'aeroporto, lessico dell'alcool, ecc.);</li>
+    <li><b>Laboratorio di corsivo</b> (lezioni per imparare a leggere e scrivere il cirillico corsivo);</li>
+    <li><b>Laboratorio di grammatica</b> (approfondimenti su particolarità grammaticali, eccezioni, uso dei casi, verbi di moto, ecc);</li>
+    <li><b>Laboratorio di lettura</b> (esercitazioni di lettura ad alta voce di racconti o articoli legati al mondo russo, scelti accuratamente a seconda del livello di competenza degli studenti).</li>
+</ul>
+<p>
+    I laboratori sono completamente <b>gratuiti per i nostri corsisti</b> e si tengono due o tre volte al mese, sempre in orario serale e nei giorni feriali. Potrai partecipare ai laboratori anche se non sei un corsista acquistando la <q>Laboratori Linguistici Card</q>, al costo di 45 euro (15 per incontro), che ti consentirà di partecipare a 3 laboratori nel corso dell'anno accademico.
+</p>
 
 <hr>
 
-<section>
-    <p>
-        Guarda <a href="/#i-nostri-insegnanti">i nostri insegnanti</a>, 
-        cosa <a href="/#dicono-di-noi">dicono di noi</a> e
-        <a href="/#dove-trovarci">dove trovarci</a>.
-    </p>
-</section>
+<p>
+    Guarda <a href="/#i-nostri-insegnanti">i nostri insegnanti</a>, 
+    cosa <a href="/#dicono-di-noi">dicono di noi</a> e
+    <a href="/#dove-trovarci">dove trovarci</a>.
+</p>
 
 </div>
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
 
 <!-- jQuery v1.7+ is required for slick.js -->
-<script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
 <script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <!-- slideshow -->
 <script>
