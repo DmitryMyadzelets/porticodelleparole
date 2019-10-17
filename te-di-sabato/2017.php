@@ -1,7 +1,7 @@
 <h3>
     Feste tradizionali russe e dell'ex Unione Sovietica
 </h3>
-<img src="/img/te-di-sabato-2017-feste.jpg">
+<img src="/img/te-di-sabato-2017-feste.jpg" alt="feste">
 <ul>
     <li>
         <b>Kolyada</b>: la tradizione antica di prevedere il futuro la notte della vigilia di Natale.
@@ -30,7 +30,7 @@
 </ul>
 
 <h3>Storia</h3>
-<img src="/img/te-di-sabato-2017-storia.jpg">
+<img src="/img/te-di-sabato-2017-storia.jpg" alt="storia">
 <ul>
     <li>
         100 anni della <b>Rivoluzione russa</b> del 1917: storia, fatti curiosi.
@@ -43,7 +43,7 @@
 </ul>
 
 <h3>Viaggio in Russia</h3>
-<img src="/img/te-di-sabato-2017-viaggio.jpg">
+<img src="/img/te-di-sabato-2017-viaggio.jpg" alt="viaggio">
 <ul>
     <li>
         <b>Campagna russa</b>: le curiosità, le tradizioni, la vita quotidiana
@@ -82,7 +82,7 @@
 </ul>
 
 <h3>Cultura</h3>
-<img src="/img/te-di-sabato-2017-cultura.jpg">
+<img src="/img/te-di-sabato-2017-cultura.jpg" alt="cultura">
 <ul>
     <li>
         <b>Nomi e cognomi russi</b>: origini e significati.

@@ -2,7 +2,6 @@
 <html lang="it">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="Cache-control" content="private">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
@@ -36,7 +35,6 @@
     <?php include $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
 
 </head>
-
 <body>
 
 <div class="main-container shadow">
@@ -102,7 +100,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
 
 <!-- jQuery v1.7+ is required for slick.js -->
-<script type="text/javascript" src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
 <script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <!-- slideshow -->
 <script>
@@ -123,5 +121,4 @@
 </script>
 
 </body>
-
 </html>

@@ -1,7 +1,7 @@
 <h3>
     Feste tradizionali russe
 </h3>
-<img src="/img/te-di-sabato-2016-feste.jpg">
+<img src="/img/te-di-sabato-2016-feste.jpg" alt="feste">
 <ul>
     <li>
         Festeggiamento del 9 Maggio &mdash; <b>la giornata della vittoria</b> nella seconda guerra mondiale: 
@@ -18,7 +18,7 @@
 </ul>
 
 <h3>Storia</h3>
-<img src="/img/te-di-sabato-2016-storia.jpg">
+<img src="/img/te-di-sabato-2016-storia.jpg" alt="storia">
 <ul>
     <li>
         Storia e fatti interessanti sulla <b>la Fortezza di Brest</b> durante la seconda guerra mondiale.
@@ -45,7 +45,7 @@
 </ul>
 
 <h3>Viaggio in Russa e nell’ex Unione Sovietica. Geografia</h3>
-<img src="/img/te-di-sabato-2016-viaggio.jpg">
+<img src="/img/te-di-sabato-2016-viaggio.jpg" alt="viaggio">
 <ul>
     <li>
         <b>Viaggio in Altai</b> attraverso laghi, fiumi e cascate della Russia siberiana.
@@ -93,7 +93,7 @@
 </ul>
 
 <h3>Cultura, sport, architettura</h3>
-<img src="/img/te-di-sabato-2016-cultura.jpg">
+<img src="/img/te-di-sabato-2016-cultura.jpg" alt="cultura">
 <ul>
     <li>
         La magia dell'animazione dei <b>cartoni animati sovietici</b>: storia e curiosità di trame e personaggi.
