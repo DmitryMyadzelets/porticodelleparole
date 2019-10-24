@@ -57,37 +57,6 @@
 
     <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
 
-    <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js'></script>
-    <script>
-        function shuffle (array) {
-            var i = 0, j = 0, temp = null;
-
-            for (i = array.length - 1; i > 0; i -= 1) {
-                j = Math.floor(Math.random() * (i + 1));
-                temp = array[i];
-                array[i] = array[j];
-                array[j] = temp;
-            }
-        }
-
-        var ids = ["59ba5658c4c1b","59ba566b6c411","59ba5675c3ec5","59ba56853348b","59ba569543d3d","59ba56a23e92c","59ba56ae84cb7","59ba56bf46162","59ba56cd1cadd","59ba56dccd269","59ba56e9afd41","59ba56f834593","59ba570653afb","59ba591280e0c","59ba5923a232c","59ba5933ee8e9","59ba59406d1c4","59ba5959cf9e3","59ba596b04748"];
-        shuffle(ids);
-
-        $(function () {
-            var slides = $('.slideshow');
-            var i = ids.length;
-            while (i > 0) {
-                i = i - 1;
-                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'/photos/?id=' + ids[i] + '\'/></div></div>');
-            }
-            slides.slick({
-                lazyLoad: 'ondemand',
-                autoplay: true,
-                autoplaySpeed: 5000
-            });
-        });
-    </script>
     <script>
         function autoResize(id){
             var newheight;
@@ -727,7 +696,36 @@
 <!-- <script async src='./js/monitor.js'></script> -->
 <script async src='./js/readmore.js'></script>
 <!-- jQuery v1.7+ is required for slick.js -->
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
 <script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script>
+        function shuffle (array) {
+            var i = 0, j = 0, temp = null;
 
+            for (i = array.length - 1; i > 0; i -= 1) {
+                j = Math.floor(Math.random() * (i + 1));
+                temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+        }
+
+        var ids = ["59b3f2c424dad","59b958b969a86","59ba566b6c411","59ba56a23e92c","5bb265034e03f","5da823be7b9c4","5da8240a834e2","5da8245302569","5da824bf3f4cd","5da841ce0cffe","5da841e7d4faf","5da841f1e4c30","5da841fc50b09","5da8422b5aeee","5da8423539719","5da8425db965b","5da842a2d0b10","5daf00ce3d30d","5daf00db457e1","5daf013b4386e"];
+        shuffle(ids);
+
+        $(function () {
+            var slides = $('.slideshow');
+            var i = ids.length;
+            while (i > 0) {
+                i = i - 1;
+                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'//www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
+            }
+            slides.slick({
+                lazyLoad: 'ondemand',
+                autoplay: true,
+                autoplaySpeed: 5000
+            });
+        });
+    </script>
 </body>
 </html>
