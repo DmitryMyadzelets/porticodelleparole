@@ -222,13 +222,18 @@ iframe.reviews {
 }
 
 .div-table {
-    display: table;
-    width: 100%;
     margin-bottom: 1em;
 }
 
+.div-table:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
 .div-column {
-    display: table-cell;
+    /*display: table-cell;*/
+    float: left;
 }
 
 .div-column > .col-head {
