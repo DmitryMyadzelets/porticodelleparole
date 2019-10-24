@@ -326,7 +326,7 @@
                 <h3>
                     Laboratori linguistici
                 </h3>
-                <img src="/img/2016-gagarin.jpg" alt="Laboratori linguistici">
+                <img src="//porticodelleparole.it/photos/?id=5db17d4bdcd20" alt="Laboratori linguistici">
             </a>
         </div>
         <div class="div-column col-third">
@@ -334,7 +334,7 @@
                 <h3>
                     Tè del sabato
                 </h3>
-                <img src="/photos/?id=5da5c62e59990" alt="Tè del sabato">
+                <img src="//porticodelleparole.it/photos/?id=5da5c62e59990" alt="Tè del sabato">
             </a>
         </div>
         <div class="div-column col-third">
