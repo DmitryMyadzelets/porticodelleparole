@@ -20,7 +20,7 @@
 
 </head>
 
-<body style="padding: 0">
+<body style="padding: 0" class="reviews">
 
 <?php
 

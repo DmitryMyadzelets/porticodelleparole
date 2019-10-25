@@ -16,9 +16,15 @@ body {
     margin: 0 auto;
     color: #444;
     /*opacity: .9;*/ /*bad - affects also images*/
+    background-color: #cddeb0;
+}
+
+body.reviews {
+    background-color: white;
 }
 
 .main-container {
+    background: white; 
     padding: 0 1em;
     overflow: hidden;
 }
@@ -34,11 +40,9 @@ body {
 @media only screen and (min-width: 46em) {
     body {
         max-width: 46em;
-        background-color: #cddeb0;
     }
 
     .main-container {
-        background: white; 
         padding: 0 2em;
         padding-bottom: 0.618em;
     }
