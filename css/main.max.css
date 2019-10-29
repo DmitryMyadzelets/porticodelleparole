@@ -168,25 +168,13 @@ table.gridtable td {
     background-color: #cddeb0;
 }
 
-div [itemprop="review"] {
-    overflow: hidden;
-}
-
-[itemprop="review"] {
+.reviews {
     font-size: 90%;
-    /* to prevent the below block move up if the review is short*/
-    min-height: 12em; 
 }
 
-[itemprop="author"] {
+.review {
+    clear: left;
 }
-
-/*img.review_photo {
-    width: 10em;
-    height: auto;
-    float: left;
-    /*vertical-align: text-top;*/
-/*}*/
 
 div.review_photo {
     width: 10em;
@@ -197,17 +185,11 @@ div.review_photo {
 
 div.review_photo > div {
     /*see stretchy-wrapper class*/
-    padding-bottom: 100%; 
+    padding-bottom: 100%;
 }
 
 [itemprop="reviewbody"] {
     font-style: italic;
-}
-
-/* Tweak style for Google reviews */
-[itemprop="review"].google {
-    /* to prevent the below block move up if the review is short*/
-    min-height: auto;
 }
 
 .google > div.review_photo {

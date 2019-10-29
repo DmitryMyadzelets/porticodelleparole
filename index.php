@@ -329,150 +329,151 @@
     I nostri insegnanti sono tutti <b>madrelingua russi</b>, specializzati nell'insegnamento della lingua russa per stranieri:
 </p>
 
-<div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-        Olga, <?php echo age('1987-10-21'); ?> anni, Irkutsk (Siberia), Russia
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="/img/olga.jpg" alt="Foto di Olga"/>
+<div class="reviews">
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Olga, <?php echo age('1987-10-21'); ?> anni, Irkutsk (Siberia), Russia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="/img/olga.jpg" alt="Foto di Olga"/>
+                </div>
             </div>
         </div>
-    </div>
-    <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
-        <p>Sono una dei fondatori dell’associazione “Portico delle Parole”. L’associazione è nata nell’ottobre del 2013 con l’obbiettivo di creare un centro di didattica della lingua russa e di costruire un ponte tra la cultura russa e quella italiana.</p>
-        <div id="olga_readmore" style="display: none;">
-            <p>Il mio lavoro presso l’associazione include l’insegnamento della lingua russa e la gestione della scuola e delle varie attività didattiche che proponiamo. Mi sono specializzata nell’insegnamento del russo come lingua straniera presso l’Università statale di Mosca e dal 2010 impartisco lezioni di russo, la mia lingua madre, a studenti americani e italiani. Grazie alla mia formazione didattica e professionale ho avuto l’opportunità di approfondire e mettere in pratica le tecniche più adeguate all’insegnamento della lingua russa.</p>
-            <p>L’interesse  che manifestano i miei studenti verso la lingua e il mondo russo in generale è contagioso e stimolante, mi induce sempre a perfezionarmi per dare loro il meglio. Io ritengo che per imparare una lingua straniera siano fondamentali materiale didattico ben strutturato, pratica e interesse, per questo motivo abbiamo deciso di mettere a disposizione dei nostri corsisti non sono dell’ottimo materiale didattico, ma anche tante attività extra molto utili e gratuite, ad esempio il tè del sabato, laboratori linguistici (laboratori del lessico, laboratori di scrittura, laboratori di grammatica), ed eventi culturali, per dare loro la possibilità di praticare il loro russo.</p>
-            <p>Con la nostra scuola avrai modo di scoprire la lingua russa, ma anche la cultura russa con le sue curiosità e tradizioni. Vieni a far parte del mondo russo di Bologna anche tu, ti aspetto!</p>
+        <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
+            <p>Sono una dei fondatori dell’associazione “Portico delle Parole”. L’associazione è nata nell’ottobre del 2013 con l’obbiettivo di creare un centro di didattica della lingua russa e di costruire un ponte tra la cultura russa e quella italiana.</p>
+            <div id="olga_readmore" style="display: none;">
+                <p>Il mio lavoro presso l’associazione include l’insegnamento della lingua russa e la gestione della scuola e delle varie attività didattiche che proponiamo. Mi sono specializzata nell’insegnamento del russo come lingua straniera presso l’Università statale di Mosca e dal 2010 impartisco lezioni di russo, la mia lingua madre, a studenti americani e italiani. Grazie alla mia formazione didattica e professionale ho avuto l’opportunità di approfondire e mettere in pratica le tecniche più adeguate all’insegnamento della lingua russa.</p>
+                <p>L’interesse  che manifestano i miei studenti verso la lingua e il mondo russo in generale è contagioso e stimolante, mi induce sempre a perfezionarmi per dare loro il meglio. Io ritengo che per imparare una lingua straniera siano fondamentali materiale didattico ben strutturato, pratica e interesse, per questo motivo abbiamo deciso di mettere a disposizione dei nostri corsisti non sono dell’ottimo materiale didattico, ma anche tante attività extra molto utili e gratuite, ad esempio il tè del sabato, laboratori linguistici (laboratori del lessico, laboratori di scrittura, laboratori di grammatica), ed eventi culturali, per dare loro la possibilità di praticare il loro russo.</p>
+                <p>Con la nostra scuola avrai modo di scoprire la lingua russa, ma anche la cultura russa con le sue curiosità e tradizioni. Vieni a far parte del mondo russo di Bologna anche tu, ti aspetto!</p>
+            </div>
+            <p>
+                <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+            </p>
         </div>
-        <p>
-            <a id="olga_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
     </div>
-</div>
 
-
-<div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-        Iana, <?php echo age('1987-04-15'); ?> anni, Mosca, Russia
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="/img/yana.jpg" alt="Foto di Iana"/>
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Iana, <?php echo age('1987-04-15'); ?> anni, Mosca, Russia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="/img/yana.jpg" alt="Foto di Iana"/>
+                </div>
             </div>
         </div>
-    </div>
-        
-    <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
-        <p>Insegno al Portico delle Parole da febbraio 2016. Per un apprendimento veloce ed efficace del russo ti servono tre cose: volontà, motivazione e un insegnante che sostenga  questi due aspetti fondamentali. Al Portico delle Parole ti viene garantito un apprendimento produttivo e dinamico grazie alle lezioni ben strutturate e al tempo stesso interattive che coinvolgono tutti gli aspetti linguistici: fonetica, grammatica, lessico, ascolto, lettura e scrittura.</p>
-        <div id="yana_readmore" style="display: none">
-            <p>Grazie alla mia esperienza pluriennale e al mio percorso di studi incentrato sull’insegnamento della lingua russa come lingua straniera all'Università Statale di Mosca, preparo i programmi per i corsi collettivi e per quelli individuali, adattandoli alle esigenze degli studenti.</p>
-            <p>I miei corsisti hanno superato con successo sia gli esami all'università in Italia sia i corsi universitari per i programmi di scambio a Mosca e a San Pietroburgo. Molti di loro, inoltre, sono stati in Russia per lavoro, per viaggi, e hanno partecipato a numerose conferenze in Russia.</p>
-            <p>Oltre a questo, lavoro anche con bambini bilingue. Con loro mi occupo di lingua russa seguendo il programma scolastico ministeriale della Federazione Russa. E, naturalmente, impariamo a leggere, scrivere e parlare, giocando. I miei piccoli studenti superano con successo esami in russo sia in Italia che in Russia.</p>
-            <p>Spero di vederti al Portico delle Parole dove troverai un ambiente professionale, stimolante ed accogliente.</p>
+            
+        <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
+            <p>Insegno al Portico delle Parole da febbraio 2016. Per un apprendimento veloce ed efficace del russo ti servono tre cose: volontà, motivazione e un insegnante che sostenga  questi due aspetti fondamentali. Al Portico delle Parole ti viene garantito un apprendimento produttivo e dinamico grazie alle lezioni ben strutturate e al tempo stesso interattive che coinvolgono tutti gli aspetti linguistici: fonetica, grammatica, lessico, ascolto, lettura e scrittura.</p>
+            <div id="yana_readmore" style="display: none">
+                <p>Grazie alla mia esperienza pluriennale e al mio percorso di studi incentrato sull’insegnamento della lingua russa come lingua straniera all'Università Statale di Mosca, preparo i programmi per i corsi collettivi e per quelli individuali, adattandoli alle esigenze degli studenti.</p>
+                <p>I miei corsisti hanno superato con successo sia gli esami all'università in Italia sia i corsi universitari per i programmi di scambio a Mosca e a San Pietroburgo. Molti di loro, inoltre, sono stati in Russia per lavoro, per viaggi, e hanno partecipato a numerose conferenze in Russia.</p>
+                <p>Oltre a questo, lavoro anche con bambini bilingue. Con loro mi occupo di lingua russa seguendo il programma scolastico ministeriale della Federazione Russa. E, naturalmente, impariamo a leggere, scrivere e parlare, giocando. I miei piccoli studenti superano con successo esami in russo sia in Italia che in Russia.</p>
+                <p>Spero di vederti al Portico delle Parole dove troverai un ambiente professionale, stimolante ed accogliente.</p>
+            </div>
+            <p>
+                <a id="yana_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+            </p>
         </div>
-        <p>
-            <a id="yana_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
     </div>
-</div>
 
-<div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-        Anna, <?php echo age('1988-02-22'); ?> anni, Novosibirsk, Russia
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="/img/shkapa.jpg" alt="Foto di Anna"/>
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Anna, <?php echo age('1988-02-22'); ?> anni, Novosibirsk, Russia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="/img/shkapa.jpg" alt="Foto di Anna"/>
+                </div>
             </div>
         </div>
-    </div>
-        
-    <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
-        <p>Io e i miei colleghi chiediamo sempre ai nostri studenti perché studiano la lingua russa e qual è il loro obiettivo. Con un approccio centrato sulla persona, gli studenti acquisiscono le nozioni del corso principale e approfondiscono le loro conoscenze su varie aree di interesse.</p>
-        <div id="shkapa_readmore" style="display: none">
-            <p>La mia esperienza pluriennale come insegnante di lingua russa presso il liceo scientifico Italo Calvino e presso l’Università Pedagogica a Mosca, mi ha permesso di constatare che un approccio integrato, che includa diversi metodi, è il più efficace e produttivo. Mi sono laureata in Lettere presso l’Università Statale di Novosibirsk nel 2010, con specializzazione in lingua e letteratura russa, e russo come lingua straniera. Ho terminato il dottorato presso L'sUniversità Statale Russa degli Studi Umanistici (RGGU) di Mosca. Dal 2016, studio economia all’Università di Bologna e da settembre 2017 insegno lingua e cultura russa all’associazione Portico delle Parole. Nell'insegnamento del russo, mi piace combinare in modo dinamico l’approccio di studio tradizionale con quello comunicativo.</p>
-            <p>Per ottenere i migliori risultati, preparo ogni lezione tenendo conto delle caratteristiche del gruppo o dello studente singolo. C’è una cosa che ricordo sempre ai miei corsisti: lo studio di una qualsiasi lingua straniera è un piacere, ma anche un impegno. Tutto dipende dall'interesse, dalla motivazione e dalla buona volontà. Sarò molto lieta di aiutarti e di guidarti per rendere il tuo processo di apprendimento del russo il più interessante possibile.</p>
-            <p>Ci vediamo al Portico delle Parole, il luogo dove potrai imparare tutto sulla lingua e la cultura russa!</p>
+            
+        <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
+            <p>Io e i miei colleghi chiediamo sempre ai nostri studenti perché studiano la lingua russa e qual è il loro obiettivo. Con un approccio centrato sulla persona, gli studenti acquisiscono le nozioni del corso principale e approfondiscono le loro conoscenze su varie aree di interesse.</p>
+            <div id="shkapa_readmore" style="display: none">
+                <p>La mia esperienza pluriennale come insegnante di lingua russa presso il liceo scientifico Italo Calvino e presso l’Università Pedagogica a Mosca, mi ha permesso di constatare che un approccio integrato, che includa diversi metodi, è il più efficace e produttivo. Mi sono laureata in Lettere presso l’Università Statale di Novosibirsk nel 2010, con specializzazione in lingua e letteratura russa, e russo come lingua straniera. Ho terminato il dottorato presso L'sUniversità Statale Russa degli Studi Umanistici (RGGU) di Mosca. Dal 2016, studio economia all’Università di Bologna e da settembre 2017 insegno lingua e cultura russa all’associazione Portico delle Parole. Nell'insegnamento del russo, mi piace combinare in modo dinamico l’approccio di studio tradizionale con quello comunicativo.</p>
+                <p>Per ottenere i migliori risultati, preparo ogni lezione tenendo conto delle caratteristiche del gruppo o dello studente singolo. C’è una cosa che ricordo sempre ai miei corsisti: lo studio di una qualsiasi lingua straniera è un piacere, ma anche un impegno. Tutto dipende dall'interesse, dalla motivazione e dalla buona volontà. Sarò molto lieta di aiutarti e di guidarti per rendere il tuo processo di apprendimento del russo il più interessante possibile.</p>
+                <p>Ci vediamo al Portico delle Parole, il luogo dove potrai imparare tutto sulla lingua e la cultura russa!</p>
+            </div>
+            <p>
+                <a id="shkapa_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+            </p>
         </div>
-        <p>
-            <a id="shkapa_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
     </div>
-</div>
 
-<div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-        Anna, <?php echo age('1995-11-18'); ?> anni, Mosca, Russia
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="/img/surikova.jpg" alt="Foto di Anna"/>
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Anna, <?php echo age('1995-11-18'); ?> anni, Mosca, Russia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="/img/surikova.jpg" alt="Foto di Anna"/>
+                </div>
             </div>
         </div>
-    </div>
-        
-    <div itemprop="reviewbody">
-        <p>Nel 2017 ho conseguito la laurea in “Pedagogia linguistica” presso l'Università pedagogica di Mosca e, nello stesso anno, mi sono iscritta al corso di laurea magistrale in “Comunicazione pubblica e d’impresa” presso l'Università di Bologna. Qui ho conosciuto l’associazione Portico delle Parole dove insegno dall'ottobre 2017, grazie alla mia laurea e all'esperienza di insegnamento della lingua russa agli stranieri maturata a Mosca.</p>
-        <div id="surikova_readmore" style="display: none">
-            <p>Lavoro con studenti di tutti i livelli, inclusi quelli dei corsi collettivi e individuali, ma mi trovi anche ai laboratori del lessico. Per me, come insegnante, è importante vedere l'interesse negli occhi degli studenti, perciò in classe svolgo diversi tipi di attività: esercizi di grammatica, giochi di ruolo, ascolto di canzoni, visione di video da YouTube e di video-lezioni, spezzoni di film, discussioni su vari argomenti, scrittura di composizioni, lettere, e-mail; e inoltre, lettura e analisi di articoli da giornali russi. Questo lavoro mi piace molto perché trovo che sia molto gratificante vedere i miei studenti migliorare di volta in volta, lezione dopo lezione. Non vedo l’ora di fare la tua conoscenza e di introdurti in questo meraviglioso ambiente offerto dall'associazione Portico delle Parole.</p>
+            
+        <div itemprop="reviewbody">
+            <p>Nel 2017 ho conseguito la laurea in “Pedagogia linguistica” presso l'Università pedagogica di Mosca e, nello stesso anno, mi sono iscritta al corso di laurea magistrale in “Comunicazione pubblica e d’impresa” presso l'Università di Bologna. Qui ho conosciuto l’associazione Portico delle Parole dove insegno dall'ottobre 2017, grazie alla mia laurea e all'esperienza di insegnamento della lingua russa agli stranieri maturata a Mosca.</p>
+            <div id="surikova_readmore" style="display: none">
+                <p>Lavoro con studenti di tutti i livelli, inclusi quelli dei corsi collettivi e individuali, ma mi trovi anche ai laboratori del lessico. Per me, come insegnante, è importante vedere l'interesse negli occhi degli studenti, perciò in classe svolgo diversi tipi di attività: esercizi di grammatica, giochi di ruolo, ascolto di canzoni, visione di video da YouTube e di video-lezioni, spezzoni di film, discussioni su vari argomenti, scrittura di composizioni, lettere, e-mail; e inoltre, lettura e analisi di articoli da giornali russi. Questo lavoro mi piace molto perché trovo che sia molto gratificante vedere i miei studenti migliorare di volta in volta, lezione dopo lezione. Non vedo l’ora di fare la tua conoscenza e di introdurti in questo meraviglioso ambiente offerto dall'associazione Portico delle Parole.</p>
+            </div>
+            <p>
+                <a id="surikova_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+            </p>
         </div>
-        <p>
-            <a id="surikova_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
     </div>
-</div>
 
-<div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-        Liubov, <?php echo age('1988-04-21'); ?> anni, Irkutsk, Russia
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="/img/ermolaeva.jpg" alt="Foto di Liubov"/>
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Liubov, <?php echo age('1988-04-21'); ?> anni, Irkutsk, Russia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="/img/ermolaeva.jpg" alt="Foto di Liubov"/>
+                </div>
             </div>
         </div>
-    </div>
-        
-    <div itemprop="reviewbody">
-        <p>Da marzo 2016 insegno lingua russa al Portico delle Parole. Mi sono laureata all’università pedagogica di Irkutsk e ho terminato i corsi di insegnamento del russo come lingua straniera all’Università Statale di Mosca. Grazie alla mia laurea, mi occupo della preparazione dei materiali didattici per i corsi collettivi e individuali, incluso il laboratorio del lessico, e della creazione del materiale audiovisivo per tutti i livelli.</p>
-        <div id="ermolaeva_readmore" style="display: none">
-            <p>Generalmente, tengo lezioni individuali o a due, e il corso di russo per il business. In questi anni, molti dei miei studenti sono stati in Russia per lavoro, per l’università, o semplicemente per turismo. Sin dalla prima lezione cerco subito di coinvolgerti nell&#39;apprendimento della lingua russa con il supporto di materiali audiovisivi e mettendo subito in pratica gli argomenti di grammatica. Molti dei miei studenti sono lavoratori, per questo le mie lezioni sono molto flessibili e possiamo concordare insieme di volta in volta la lezione, secondo le tue esigenze.</p>
-            <p>Spero di vederti presto qui con noi in associazione per condividere insieme interessanti aspetti culturali e linguistici del mondo russo.</p>
+            
+        <div itemprop="reviewbody">
+            <p>Da marzo 2016 insegno lingua russa al Portico delle Parole. Mi sono laureata all’università pedagogica di Irkutsk e ho terminato i corsi di insegnamento del russo come lingua straniera all’Università Statale di Mosca. Grazie alla mia laurea, mi occupo della preparazione dei materiali didattici per i corsi collettivi e individuali, incluso il laboratorio del lessico, e della creazione del materiale audiovisivo per tutti i livelli.</p>
+            <div id="ermolaeva_readmore" style="display: none">
+                <p>Generalmente, tengo lezioni individuali o a due, e il corso di russo per il business. In questi anni, molti dei miei studenti sono stati in Russia per lavoro, per l’università, o semplicemente per turismo. Sin dalla prima lezione cerco subito di coinvolgerti nell&#39;apprendimento della lingua russa con il supporto di materiali audiovisivi e mettendo subito in pratica gli argomenti di grammatica. Molti dei miei studenti sono lavoratori, per questo le mie lezioni sono molto flessibili e possiamo concordare insieme di volta in volta la lezione, secondo le tue esigenze.</p>
+                <p>Spero di vederti presto qui con noi in associazione per condividere insieme interessanti aspetti culturali e linguistici del mondo russo.</p>
+            </div>
+            <p>
+                <a id="ermolaeva_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+            </p>
         </div>
-        <p>
-            <a id="ermolaeva_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
     </div>
-</div>
 
-<div itemscope itemtype="http://schema.org/Review">
-    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-        Anna, <?php echo age('1996-05-08'); ?> anni, Voronezh, Rissia
-    </h3>
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="//www.porticodelleparole.it/photos/?id=5db81fc47c2c0" alt="Foto di Anna"/>
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Anna, <?php echo age('1996-05-08'); ?> anni, Voronezh, Rissia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="//www.porticodelleparole.it/photos/?id=5db81fc47c2c0" alt="Foto di Anna"/>
+                </div>
             </div>
         </div>
-    </div>
-        
-    <div itemprop="reviewbody">
-        <p>Nel 2017 mi sono laureata in <q>Linguistica</q> presso l'Università Statale di Voronezh, dove ho ottenuto anche il certificato in <q>Didattica del russo come lingua straniera</q>. All'Università di Bologna ho deciso di continuare gli studi in glottodidattica, iscrivendomi al corso di laurea magistrale in <q>Lingua e Cultura Italiane per Stranieri</q>. Da ottobre 2019 insegno russo presso il Portico Delle Parole.</p>
-        <div id="stepina_readmore" style="display: none">
-            <p>Le lingue sono sempre state la mia passione, sia studiarle e perfezionarle, che insegnarle. In Italia ho realizzato questa passione e ho maturato esperienza insegnando la lingua russa a studenti, viaggiatori e professionisti italiani di vari livelli. Mi piace condividere le mie conoscenze e vedere il risultato e l'utilità del mio lavoro nei successi dei miei studenti. Oltre a insegnare la lingua, cerco sempre di coltivare e trasmettere l'interesse per la cultura del mio paese: il mio lavoro da insegnante è molto stimolante, creativo e divertente; mi spinge a imparare cose nuove per poi trasmetterle agli studenti.</p>
-            <p>Ti aspettiamo qui, al Portico delle Parole, dove, grazie alle nostre lezioni e numerose attività ed eventi culturali, ti immergerai nella cultura e lingua russa!</p>
+            
+        <div itemprop="reviewbody">
+            <p>Nel 2017 mi sono laureata in <q>Linguistica</q> presso l'Università Statale di Voronezh, dove ho ottenuto anche il certificato in <q>Didattica del russo come lingua straniera</q>. All'Università di Bologna ho deciso di continuare gli studi in glottodidattica, iscrivendomi al corso di laurea magistrale in <q>Lingua e Cultura Italiane per Stranieri</q>. Da ottobre 2019 insegno russo presso il Portico Delle Parole.</p>
+            <div id="stepina_readmore" style="display: none">
+                <p>Le lingue sono sempre state la mia passione, sia studiarle e perfezionarle, che insegnarle. In Italia ho realizzato questa passione e ho maturato esperienza insegnando la lingua russa a studenti, viaggiatori e professionisti italiani di vari livelli. Mi piace condividere le mie conoscenze e vedere il risultato e l'utilità del mio lavoro nei successi dei miei studenti. Oltre a insegnare la lingua, cerco sempre di coltivare e trasmettere l'interesse per la cultura del mio paese: il mio lavoro da insegnante è molto stimolante, creativo e divertente; mi spinge a imparare cose nuove per poi trasmetterle agli studenti.</p>
+                <p>Ti aspettiamo qui, al Portico delle Parole, dove, grazie alle nostre lezioni e numerose attività ed eventi culturali, ti immergerai nella cultura e lingua russa!</p>
+            </div>
+            <p>
+                <a id="stepina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+            </p>
         </div>
-        <p>
-            <a id="stepina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-        </p>
     </div>
 </div>
 
