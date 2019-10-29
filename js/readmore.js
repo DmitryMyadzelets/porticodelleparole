@@ -4,21 +4,6 @@ set_readmore(
     document.getElementById('olga_readmore_btn'),
     'Leggi tutto', 'Meno'
 )
-// set_readmore(
-//     document.getElementById("martina_readmore"),
-//     document.getElementById("martina_readmore_btn"),
-//     'Leggi tutto', 'Meno'
-// );
-// set_readmore(
-//     document.getElementById("ksenia_readmore"),
-//     document.getElementById("ksenia_readmore_btn"),
-//     'Leggi tutto', 'Meno'
-// );
-// set_readmore(
-//     document.getElementById("liubov_readmore"),
-//     document.getElementById("liubov_readmore_btn"),
-//     'Leggi tutto', 'Meno'
-// );
 set_readmore(
     document.getElementById('yana_readmore'),
     document.getElementById('yana_readmore_btn'),
@@ -37,6 +22,11 @@ set_readmore(
 set_readmore(
     document.getElementById('ermolaeva_readmore'),
     document.getElementById('ermolaeva_readmore_btn'),
+    'Leggi tutto', 'Meno'
+)
+set_readmore(
+    document.getElementById('stepina_readmore'),
+    document.getElementById('stepina_readmore_btn'),
     'Leggi tutto', 'Meno'
 )
 function set_readmore (text, btn, more, less) {

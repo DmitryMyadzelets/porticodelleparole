@@ -146,7 +146,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/petrozavodsk.jpg" alt='Foto of Petrozavodsk'/>
+                <img src="/img/petrozavodsk.jpg" alt='Foto of Petrozavodsk'/>
             </div>
         </div>
     </div>
@@ -336,7 +336,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/olga.jpg" alt="Foto di Olga"/>
+                <img src="/img/olga.jpg" alt="Foto di Olga"/>
             </div>
         </div>
     </div>
@@ -361,7 +361,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/yana.jpg" alt="Foto di Iana"/>
+                <img src="/img/yana.jpg" alt="Foto di Iana"/>
             </div>
         </div>
     </div>
@@ -387,7 +387,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/shkapa.jpg" alt="Foto di Anna"/>
+                <img src="/img/shkapa.jpg" alt="Foto di Anna"/>
             </div>
         </div>
     </div>
@@ -412,7 +412,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/surikova.jpg" alt="Foto di Anna"/>
+                <img src="/img/surikova.jpg" alt="Foto di Anna"/>
             </div>
         </div>
     </div>
@@ -435,7 +435,7 @@
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
-                <img src="./img/ermolaeva.jpg" alt="Foto di Liubov"/>
+                <img src="/img/ermolaeva.jpg" alt="Foto di Liubov"/>
             </div>
         </div>
     </div>
@@ -451,6 +451,31 @@
         </p>
     </div>
 </div>
+
+<div itemscope itemtype="http://schema.org/Review">
+    <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+        Anna, <?php echo age('1996-05-08'); ?> anni, Voronezh, Rissia
+    </h3>
+    <div class="review_photo">
+        <div class="stretchy-wrapper">
+            <div>
+                <img src="//www.porticodelleparole.it/photos/?id=5db81fc47c2c0" alt="Foto di Anna"/>
+            </div>
+        </div>
+    </div>
+        
+    <div itemprop="reviewbody">
+        <p>Nel 2017 mi sono laureata in <q>Linguistica</q> presso l'Università Statale di Voronezh, dove ho ottenuto anche il certificato in <q>Didattica del russo come lingua straniera</q>. All'Università di Bologna ho deciso di continuare gli studi in glottodidattica, iscrivendomi al corso di laurea magistrale in <q>Lingua e Cultura Italiane per Stranieri</q>. Da ottobre 2019 insegno russo presso il Portico Delle Parole.</p>
+        <div id="stepina_readmore" style="display: none">
+            <p>Le lingue sono sempre state la mia passione, sia studiarle e perfezionarle, che insegnarle. In Italia ho realizzato questa passione e ho maturato esperienza insegnando la lingua russa a studenti, viaggiatori e professionisti italiani di vari livelli. Mi piace condividere le mie conoscenze e vedere il risultato e l'utilità del mio lavoro nei successi dei miei studenti. Oltre a insegnare la lingua, cerco sempre di coltivare e trasmettere l'interesse per la cultura del mio paese: il mio lavoro da insegnante è molto stimolante, creativo e divertente; mi spinge a imparare cose nuove per poi trasmetterle agli studenti.</p>
+            <p>Ti aspettiamo qui, al Portico delle Parole, dove, grazie alle nostre lezioni e numerose attività ed eventi culturali, ti immergerai nella cultura e lingua russa!</p>
+        </div>
+        <p>
+            <a id="stepina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+        </p>
+    </div>
+</div>
+
 
 </div> <!-- main-container shadow -->
 <br>
@@ -649,7 +674,7 @@
 </ul>
 
 <a href="https://www.google.com/maps?cid=16854914928900207445" target="_blank">
-<img src="./img/map.png" alt="Map: via dell Pratello, 9, Bologna" title="mapa del Portico delle Parole">
+<img src="/img/map.png" alt="Map: via dell Pratello, 9, Bologna" title="mapa del Portico delle Parole">
 </a>
 
 
