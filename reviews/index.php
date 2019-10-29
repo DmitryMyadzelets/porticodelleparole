@@ -46,8 +46,8 @@ function request($config) {
 
 
 function renderReview($review) {
-  echo '<div class=\'google\' itemprop="review" itemscope itemtype="http://schema.org/Review">';
-    echo sprintf('<h3 itemprop=\'author\'>%s</h3>', $review['author_name']);
+  echo '<div class=\'google review\' itemscope itemtype="http://schema.org/Review">';
+    echo sprintf('<h3 itemprop=\'author\' itemscope itemtype=\'http://schema.org/Person\'>%s</h3>', $review['author_name']);
     echo '<div class="review_photo">';
       echo '<div class="stretchy-wrapper">';
         echo '<div>';
