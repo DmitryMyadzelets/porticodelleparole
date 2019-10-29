@@ -188,11 +188,7 @@
     </div>
 </div>
 
-<h1>
-    <a id="corsi-di-russo">
-        Corsi di russo
-    </a>
-</h1>
+<h1 id="corsi-di-russo">Corsi di russo</h1>
 <p>
     Insegniamo il russo parlato e scritto, proponendo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendo semplicità, professionalità, grande coinvolgimento e un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo. 
 </p>
@@ -234,9 +230,7 @@
 ?>
 
 <section>
-    <h2>
-        Corsi di russo speciali
-    </h2>
+    <h2>Corsi di russo speciali</h2>
     <p>
         Su richiesta, sono disponibili i <a href="corsi-speciali/">seguenti corsi</a>:
     </p>
@@ -281,11 +275,7 @@
 <br>
 <div class="main-container shadow">
 
-<h2>
-    <a id="attivita">
-        Attività
-    </a>
-</h2>
+<h2 id="attivita">Attività</h2>
 <p>
     Quando si impara una lingua, la pratica e la costanza sono fondamentali, per questo l'associazione Portico delle Parole ti da la possibilità di praticare il russo con svariati tipi di attività extra utili e coinvolgenti, alle quali puoi accedere gratuitamente in quanto corsista. Gli incontri extra ti permetteranno di interagire con studenti, insegnanti e soci, promuovendo così una pratica stimolante della lingua anche oltre l'orario di lezione in un ambiente favorevole al perfezionamento delle capacità linguistiche.
 </p>
@@ -320,11 +310,7 @@
 <br>
 <div class="main-container shadow">
 
-<h2>
-    <a id="i-nostri-insegnanti">
-        I nostri insegnanti
-    </a>
-</h2>
+<h2 id="i-nostri-insegnanti">I nostri insegnanti</h2>
 <p>
     I nostri insegnanti sono tutti <b>madrelingua russi</b>, specializzati nell'insegnamento della lingua russa per stranieri:
 </p>
@@ -482,11 +468,7 @@
 <br>
 <div class="main-container shadow">
 
-<h2>
-    <a id="dicono-di-noi">
-        Dicono di noi
-    </a>
-</h2>
+<h2 id="dicono-di-noi">Dicono di noi</h2>
 
 <!-- Reviews -->
 <iframe id="reviews" class='reviews' style="width: 100%; height: 400px; border: none;"
@@ -507,11 +489,7 @@
 <br>
 <div class="main-container shadow">
 
-<h2>
-    <a id="prezzi">
-        Prezzi
-    </a>
-</h2>
+<h2 id="prezzi">Prezzi</h2>
 
 <div class="div-table price-table">
     <div class="div-column col-third">
@@ -595,11 +573,7 @@
 <br>
 <div class="main-container shadow">
 
-<h2>
-    <a id='orari'>
-        Orario delle lezioni
-    </a>
-</h2>
+<h2 id='orari'>Orario delle lezioni</h2>
 
 <div class="div-table hours-table">
     <div class="div-column col-half">
@@ -659,11 +633,7 @@
 <br>
 <div class="main-container shadow">
 
-<h2>
-    <a id="dove-trovarci">
-        Dove trovarci
-    </a>
-</h2>
+<h2 id="dove-trovarci">Dove trovarci</h2>
 
 <p>
     L'associazione si trova in pieno centro storico di Bologna, in via dell Pratello, 9, a soli 15 minuti dalla Stazione Centrale.
@@ -684,7 +654,6 @@
 <div class="main-container shadow">
 
 <h2>Iscriviti online!</h2>
-
 <p>
      Compila il modulo e ti contatteremo a breve!
 </p>
@@ -704,8 +673,7 @@
 <br>
 <div class="main-container shadow">
 
-<h2>
-    <a id="foto"></a>
+<h2 id="foto">
     Foto
 </h2>
 <div class='slideshow'></div>
@@ -715,7 +683,45 @@
  -->
 <br>
 
-</div>
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+<h2 id="nostri-partner">I nostri partner in Russia</h2>
+    <div class="div-table partners-table">
+        <a href="//enjoyrussian.com">
+            <div class="div-column col-fourth">
+                <img src="//enjoyrussian.com/wp-content/uploads/2017/05/logo_bez_fona.png" alt="Logo">
+                <p>
+                    Enjoy Russian Language School
+                </p>
+            </div>
+        </a>
+        <a href="//lidenz.ru">
+            <div class="div-column col-fourth">
+                <img src="//lidenz.ru/wp-content/uploads/2016/12/newlogo.jpg" alt="Logo">
+                <p>
+                    Liden &amp; Denz Intercultural Institute of Languages
+                </p>
+            </div>
+        </a>
+        <a href="//ruslanguage.ru">
+            <div class="div-column col-fourth">
+                <img src="//ruslanguage.ru/wp-content/uploads/2019/03/ruslanguage_logo_color1.svg" alt="Logo">
+                <p>
+                    Ruslanguage Russian Language School
+                </p>
+        </div>
+        </a>
+        <a href="//educalanguageschool.com">
+            <div class="div-column col-fourth">
+                <img src="//educalanguageschool.com/wp-content/uploads/2017/06/logo_school.svg" alt="Logo">
+                <p>
+                    Educa Russian Language School
+                </p>
+            </div>
+        </a>
+    </div>
+</div><!-- main-container shadow -->
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
 
