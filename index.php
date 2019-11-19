@@ -142,7 +142,8 @@
     <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
 </p>
  -->
-<div style="display: none">
+
+<!-- <div style="display: none">
     <div class="review_photo">
         <div class="stretchy-wrapper">
             <div>
@@ -165,7 +166,8 @@
         <a href="enjoyrussian">Scoprire di più</a>
     </p>
 </div>
-
+ -->
+ 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <p>
