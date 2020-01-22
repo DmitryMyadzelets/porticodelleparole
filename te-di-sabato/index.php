@@ -59,12 +59,11 @@
                 echo strftime("%-d %B", strtotime($date));
             }
         ?>
-        <li><?php dnm('2019-09-28'); ?></li>
-        <li><?php dnm('2019-10-12'); ?></li>
-        <li><?php dnm('2019-10-26'); ?></li>
-        <li><?php dnm('2019-11-09'); ?></li>
-        <li><?php dnm('2019-11-23'); ?></li>
-        <li><?php dnm('2019-11-30'); ?></li>
+        <li><?php dnm('2020-01-18'); ?></li>
+        <li><?php dnm('2020-02-01'); ?></li>
+        <li><?php dnm('2020-02-15'); ?></li>
+        <li><?php dnm('2020-02-29'); ?></li>
+        <li><?php dnm('2020-03-07'); ?></li>
     </ul>
     <p>
         La conferma della partecipazione è <b>sempre obbligatoria</b> per ogni incontro.
@@ -73,6 +72,13 @@
         Il tè del sabato si svolge già dal 2014, e in <?php echo date("Y")-2014 ?> anni sono già stati organizzati 130 incontri. Guarda l'elenco degli argomenti svolti negli ultimi anni qui sotto.
     </p>
 </section>
+
+</div> <!-- main-container shadow -->
+<br>
+<div class="main-container shadow">
+
+    <h2>Anno 2019</h2>
+    <p>In lavorazione...</p>
 
 </div> <!-- main-container shadow -->
 <br>
