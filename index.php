@@ -506,9 +506,9 @@
         <p>
             Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
             <br/>
-            20 ore – 464&#8364; (23,20 all'ora)
+            20 ore – 534&#8364; (26,70 all'ora)
             <br/>
-            10 ore – 247&#8364; (24,70 all'ora)
+            10 ore – 287&#8364; (28,70 all'ora)
         </p>
         <p>
             In sede oppure su Skype
