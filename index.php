@@ -370,31 +370,6 @@
 
     <div class="review" itemscope itemtype="http://schema.org/Review">
         <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Anna, <?php echo age('1988-02-22'); ?> anni, Novosibirsk, Russia
-        </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/shkapa.jpg" alt="Foto di Anna"/>
-                </div>
-            </div>
-        </div>
-            
-        <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
-            <p>Io e i miei colleghi chiediamo sempre ai nostri studenti perché studiano la lingua russa e qual è il loro obiettivo. Con un approccio centrato sulla persona, gli studenti acquisiscono le nozioni del corso principale e approfondiscono le loro conoscenze su varie aree di interesse.</p>
-            <div id="shkapa_readmore" style="display: none">
-                <p>La mia esperienza pluriennale come insegnante di lingua russa presso il liceo scientifico Italo Calvino e presso l’Università Pedagogica a Mosca, mi ha permesso di constatare che un approccio integrato, che includa diversi metodi, è il più efficace e produttivo. Mi sono laureata in Lettere presso l’Università Statale di Novosibirsk nel 2010, con specializzazione in lingua e letteratura russa, e russo come lingua straniera. Ho terminato il dottorato presso l'Università Statale Russa degli Studi Umanistici (RGGU) di Mosca. Dal 2016, studio economia all’Università di Bologna e da settembre 2017 insegno lingua e cultura russa all’associazione Portico delle Parole. Nell'insegnamento del russo, mi piace combinare in modo dinamico l’approccio di studio tradizionale con quello comunicativo.</p>
-                <p>Per ottenere i migliori risultati, preparo ogni lezione tenendo conto delle caratteristiche del gruppo o dello studente singolo. C’è una cosa che ricordo sempre ai miei corsisti: lo studio di una qualsiasi lingua straniera è un piacere, ma anche un impegno. Tutto dipende dall'interesse, dalla motivazione e dalla buona volontà. Sarò molto lieta di aiutarti e di guidarti per rendere il tuo processo di apprendimento del russo il più interessante possibile.</p>
-                <p>Ci vediamo al Portico delle Parole, il luogo dove potrai imparare tutto sulla lingua e la cultura russa!</p>
-            </div>
-            <p>
-                <a id="shkapa_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-            </p>
-        </div>
-    </div>
-
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
             Anna, <?php echo age('1995-11-18'); ?> anni, Mosca, Russia
         </h3>
         <div class="review_photo">
