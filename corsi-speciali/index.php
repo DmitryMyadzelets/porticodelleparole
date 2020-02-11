@@ -132,6 +132,49 @@
     </p>
 </div>
 
+<h2 id="russo-per-trki">
+    Preparazione all'esame di certificazione internazionale ТРКИ-TORFL
+</h2>
+<div class='course-description'>
+    <img src="//www.porticodelleparole.it/photos/?id=5e4271ddd6c4b" alt="ТРКИ-TORFL">
+    <p>
+        Ti prepariamo a superare delle prove di tutti i livelli dell'esame ufficiale TORFL (ТРКИ - тест по русскому языку как иностранному):
+    </p>
+    <ul>
+        <li><a href="http://www.torfl.it/TEU_Livello_elementare_-_A1">TEU Livello elementare – A1</a>;</li>
+        <li><a href="http://www.torfl.it/TBU_Livello_base_-_A2">TBU Livello base – A2</a>;</li>
+        <li><a href="http://www.torfl.it/TRKI1_-_B1">TRKI1 – B1</a>;</li>
+        <li><a href="http://www.torfl.it/TRKI2_-_B2">TRKI2 – B2</a>;</li>
+        <li><a href="http://www.torfl.it/TRKI3_-_C1">TRKI3 – C1</a>;</li>
+        <li><a href="http://www.torfl.it/TRKI4_-_C2">TRKI4 – C2</a>.</li>
+    </ul>
+    <p>
+        Avere una certificazione linguistica riconosciuta a livello internazionale può darti molti vantaggi, rendendoti più competitivo sul mercato del lavoro.
+    </p>
+</div>
+
+<h2 id="russo-conversazione">
+    Corso di conversazione
+</h2>
+<div class='course-description'>
+    <img src="//www.porticodelleparole.it/photos/?id=5e4275f214888" alt="Conversazione">
+    <p>
+        Il Portico delle Parole offre un corso dedicato esclusivamente alla conversazione in lingua russa!
+    </p>
+    <p>
+        Questo corso, con frequenza flessibile, ti permetterà di ripassare gli argomenti che hai già imparato, praticando concretamente la lingua e permettendoti di acquisire maggior scioltezza nel parlato.        
+    </p>
+    <p>
+        Durante il corso imparerai ad affrontare diverse situazioni comunicative nell’ambito del lavoro e della vita quotidiana, in viaggio o all’università, tramite simulazioni di situazioni tipiche e discussioni su temi attuali.
+    </p>
+    <p>
+        Durante le attività didattiche, da svolgere in gruppo o in coppia, sarai sempre seguito da insegnanti madrelingua che ti permetteranno di avere subito un riscontro sui tuoi progressi e ti aiuteranno a trovare il metodo di studio più adatto a te. 
+    </p>
+    <p>
+        Per iscriversi è necessario aver frequentato almeno 40 ore di un corso standard.
+    </p>
+</div>
+
 <hr>
 
 <p>
