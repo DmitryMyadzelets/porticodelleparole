@@ -237,7 +237,7 @@
         Su richiesta, sono disponibili i <a href="corsi-speciali/">seguenti corsi</a>:
     </p>
     <div class="div-table special-courses-table">
-        <div class="div-column col-fourth">
+        <div class="div-column col-third">
             <a href="corsi-speciali/#russo-per-azienda">
                 <img src="/img/business.jpg" alt="Russo per l'azienda">
                 <p>
@@ -245,7 +245,7 @@
                 </p>
             </a>
         </div>
-        <div class="div-column col-fourth">
+        <div class="div-column col-third">
             <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
                 <img src="/img/russo-per-esami.jpg" alt="Russo per esami universitari">
                 <p>
@@ -253,7 +253,7 @@
                 </p>
             </a>
         </div>
-        <div class="div-column col-fourth">
+        <div class="div-column col-third">
             <a href="corsi-speciali/#russo-per-adozione">
                 <img src="/img/adozione.jpg" alt="Russo per adozione">
                 <p>
@@ -261,11 +261,29 @@
                 </p>
             </a>
         </div>
-        <div class="div-column col-fourth">
+    </div>
+    <div class="div-table special-courses-table">
+        <div class="div-column col-third">
             <a href="corsi-speciali/#russo-per-viaggiare">
                 <img src="/img/turismo.jpg" alt="Russo per viaggiare">
                 <p>
                     Russo per viaggiare
+                </p>
+            </a>
+        </div>
+        <div class="div-column col-third">
+            <a href="corsi-speciali/#russo-per-trki">
+                <img src="//www.porticodelleparole.it/photos/?id=5e4271ddd6c4b" alt="Russo per l'esame">
+                <p>
+                    Preparazione all'esame di certificazione internazionale ТРКИ-TORFL
+                </p>
+            </a>
+        </div>
+        <div class="div-column col-third">
+            <a href="corsi-speciali/#russo-conversazione">
+                <img src="//www.porticodelleparole.it/photos/?id=5e4275f214888" alt="Conversazione">
+                <p>
+                    Corso di conversazione
                 </p>
             </a>
         </div>
