@@ -59,11 +59,14 @@
                 echo strftime("%-d %B", strtotime($date));
             }
         ?>
-        <li><?php dnm('2020-01-18'); ?></li>
-        <li><?php dnm('2020-02-01'); ?></li>
         <li><?php dnm('2020-02-15'); ?></li>
         <li><?php dnm('2020-02-29'); ?></li>
         <li><?php dnm('2020-03-07'); ?></li>
+        <li><?php dnm('2020-03-21'); ?></li>
+        <li><?php dnm('2020-04-04'); ?></li>
+        <li><?php dnm('2020-04-19'); ?> &mdash; Domenica, picnic per la Pasqua Ortodossa</li>
+        <li><?php dnm('2020-05-09'); ?></li>
+        <li><?php dnm('2020-05-23'); ?></li>
     </ul>
     <p>
         La conferma della partecipazione è <b>sempre obbligatoria</b> per ogni incontro.
