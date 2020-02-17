@@ -81,7 +81,7 @@
 <div class="main-container shadow">
 
     <h2>Anno 2019</h2>
-    <p>In lavorazione...</p>
+    <?php include "2019.php" ?>
 
 </div> <!-- main-container shadow -->
 <br>
