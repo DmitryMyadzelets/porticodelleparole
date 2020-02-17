@@ -49,11 +49,25 @@
     Oltre alle attività ed ai corsi, con noi avrai la fortuna di conoscere e celebrare le feste russe con gli amici del corso e con i russi che vivono a Bologna. Ogni anno festeggiamo insieme la Pasqua Ortodossa, il Capodanno, il giorno della Vittoria, la giornata della lingua russa ecc. Gli eventi speciali non riguardano solo ricorrenze e feste russe, ma comprendono anche visite di luoghi e mostre legati alla Russia, come ad esempio la mostra Revolutia e la mostra di Marc Chagall.
 </p>
 <p>
-    Anche l’aperitivo è un buon modo per conoscersi meglio, per questo organizziamo aperitivi in centro con corsisti, insegnanti e amici russi! Inoltre proponiamo interessanti eventi, tra i quali ci sono: la visita al supermercato russo con degustazione di prodotti e pietanze tradizionali; la decorazione di matrioske; picnic durante le feste tradizionali.
+    Anche l'aperitivo è un buon modo per conoscersi meglio, per questo organizziamo aperitivi in centro con corsisti, insegnanti e amici russi! Inoltre proponiamo interessanti eventi, tra i quali ci sono: la visita al supermercato russo con degustazione di prodotti e pietanze tradizionali; la decorazione di matrioske; picnic durante le feste tradizionali.
 </p>
 <p>
-    Guarda l’elenco degli eventi svolti negli ultimi anni qui sotto.
+    Guarda l'elenco degli eventi svolti negli ultimi anni qui sotto.
 </p>
+
+<h2>
+    Anno 2019
+</h2>
+<ul>
+    <li>Serata dedicata a San Valentino.</li>
+    <li>Picnic per la Pasqua Ortodossa.</li>
+    <li>Visita guidata al negozio russo.</li>
+    <li>Presentazione sul cibo russo con degustazione.</li>
+    <li>Degustazione dei prianiki e delle bevande analcoliche russe.</li>
+    <li>Il 9 maggio, la festa della Vittoria nella Seconda guerra mondiale.</li>
+    <li>Festa della lingua russa, presentazione sulla vita del poeta A.S. Pushkin.</li>
+    <li>Picnic per festeggiare la fine dell'anno accademico.</li>
+</ul>
 
 <h2>
     Anno 2018
