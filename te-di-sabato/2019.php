@@ -4,7 +4,7 @@
 <!-- <img src="/img/te-di-sabato-2017-feste.jpg"> -->
 <ul>
     <li>
-      <b>Il Carnevale russo</b> &mdash; Maslenitsa: storia, tradizioni, folklore, cibi tipici. Olga Miadzeletc di Irkutsk.
+      <b>Il Carnevale russo</b> &mdash; Maslenitsa: storia, tradizioni, folklore, cibi tipici.
       <span class='authors'>Olga Miadzeletc di Irkutsk</span>
     </li>
     <li>
