@@ -252,11 +252,6 @@ iframe.reviews {
 }
 
 @media (max-width: 46em) {
-    .special-courses-table > .div-column {
-        width: 50%;
-        display: block;
-        float: left;
-    }
     .contacts-table > .div-column,
     .price-table > .div-column,
     .hours-table > .div-column {
@@ -276,12 +271,21 @@ iframe.reviews {
     border-bottom: solid 1px gray;
 }
 
+.special-courses-table .div-column,
 .te-di-sabato-table .div-column {
-    padding: 0 1em 1em 1em;
+    padding: 1em 1em 1em 1em;
 }
 
-.partners-table img,
-.special-courses-table img {
+.te-di-sabato-table p {
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.te-di-sabato-table h3 {
+    margin-top: 0;
+}
+
+.partners-table img {
     padding: 1em 1em 0 1em;
 }
 
