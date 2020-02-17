@@ -29,7 +29,7 @@
     <span class='authors'>Liubov Dyshlyuk di Volgograd</span>
   </li>
   <li>
-    <b>La catastrofe di Chernobyl</b> (Чернобыль) &mdash; la causa, le prime azioni,l’evacuazione, le conseguenze e la situazione attuale nella zona contaminata.
+    <b>La catastrofe di Chernobyl</b> (Чернобыль) &mdash; la causa, le prime azioni, l'evacuazione, le conseguenze e la situazione attuale nella zona contaminata.
     <span class='authors'>Anastasia Afonina di Kremenchuk</span>
   </li>
   <li>
