@@ -236,7 +236,7 @@
     <p>
         Su richiesta, sono disponibili i <a href="corsi-speciali/">seguenti corsi</a>:
     </p>
-    <div class="div-table special-courses-table">
+    <div class="div-table te-di-sabato-table">
         <div class="div-column col-third">
             <a href="corsi-speciali/#russo-per-azienda">
                 <img src="/img/business.jpg" alt="Russo per l'azienda">
@@ -262,7 +262,7 @@
             </a>
         </div>
     </div>
-    <div class="div-table special-courses-table">
+    <div class="div-table te-di-sabato-table">
         <div class="div-column col-third">
             <a href="corsi-speciali/#russo-per-viaggiare">
                 <img src="/img/turismo.jpg" alt="Russo per viaggiare">
