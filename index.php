@@ -91,12 +91,16 @@
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 
+<div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
+    <h1><b>#iorestoacasa</b> ad imparare!</h1>
+    <p>Investi nel futuro il tuo prezioso tempo passato a casa.
+        <br>Impara la lingua russa <b>online</b> individualmente o in piccoli gruppi.</p>
+    <p>Contattaci per chiedere più informazioni e una <b>prova gratuita</b>.</p>
+</div>
+
 <div class="center">
     <p>
-        Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento 
-        interattivo e ben strutturato? 
-        Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo 
-        per stranieri e della cultura russa!
+        Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!
     </p>
 </div>
 
@@ -723,8 +727,10 @@
 <!-- <script async src='./js/monitor.js'></script> -->
 <script async src='./js/readmore.js'></script>
 <!-- jQuery v1.7+ is required for slick.js -->
-<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
-<script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<!-- <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script> -->
+<script src='./js/jquery-3.2.1.min.js'></script>
+<!-- <script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script> -->
+<script src="./js/slick.min.js"></script>
     <script>
         function shuffle (array) {
             var i = 0, j = 0, temp = null;
