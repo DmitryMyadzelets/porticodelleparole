@@ -7,6 +7,12 @@
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, 
     offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
     <meta name="keywords" content="corso di russo a bologna,
+    lezioni di russo online,
+    corso di russo online,
+    corso di russo bologna,
+    come studiare russo,
+    come studiare bene russo,
+    come studiare la lingua russa,
     corso di italiano a bologna,
     corso russo,
     corso italiano,
