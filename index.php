@@ -102,9 +102,8 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 
 <div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
-    <h1><b>#iorestoacasa</b> ad imparare!</h1>
-    <p>Investi nel futuro il tuo prezioso tempo passato a casa.
-        <br>Impara la lingua russa <b>online</b> individualmente o in piccoli gruppi.</p>
+    <p>Investi nel futuro il tuo tempo prezioso ed impara la lingua russa <b>in sede oppure online</b>
+individualmente o in piccoli gruppi.</p>
     <p>Contattaci per chiedere più informazioni e una <b>prova gratuita</b>.</p>
 </div>
 
