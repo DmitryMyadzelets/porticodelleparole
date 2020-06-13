@@ -556,7 +556,7 @@ individualmente o in piccoli gruppi.</p>
         </div>
         <p>
             20 ore – <span style="text-decoration: line-through;">290&#8364;</span>
-            <span style="color:red"> adesso in offerta 257&#8364;</span> (12,85 all'ora);
+            <span style="color:red"> adesso in offerta 257&#8364; (12,85 all'ora)</span>
         </p>
         <p>
             I gruppi sono formati da 3 &mdash; max. 10 persone.
