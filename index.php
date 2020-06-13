@@ -83,6 +83,9 @@
         function age($bdate) {
             return date_diff(date_create($bdate), date_create('now'))->y;
         }
+        function before($date) {
+            return date_create('now') < date_create($date);
+        }
     ?>
 </head>
 
@@ -504,10 +507,18 @@ individualmente o in piccoli gruppi.</p>
             <h3>Individuale</h3>
         </div>
         <p>
-            20 ore – 394&#8364; (19,70 all'ora)
-            <br/>
-            10 ore – 217&#8364; (21,70 all'ora)
-        </p>
+<?php 
+    if (before('2020-06-22')) {
+      echo '20 ore – <span style="text-decoration: line-through;"> 434&#8364; (21,70 all\'ora)</span><span style="color:red"> adesso in offerta 394&#8364; (19,70 all\'ora)</span>';
+      echo '<br/>';
+      echo '10 ore – <span style="text-decoration: line-through;">237&#8364; (23,70 all\'ora)</span><span style="color:red"> adesso in offerta 217&#8364; (21,70 all\'ora)</span>';
+    } else {
+      echo '20 ore – 434&#8364; (21,70 all\'ora)';
+      echo '<br/>';
+      echo '10 ore – 237&#8364; (23,70 all\'ora)';
+    }
+?>
+       </p>
         <p>
             Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
             <br/>
