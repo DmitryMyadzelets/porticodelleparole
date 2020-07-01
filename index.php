@@ -105,8 +105,8 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 
 <div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
-    <p>Investi nel futuro il tuo tempo prezioso ed impara la lingua russa <b>in sede oppure online</b>
-individualmente o in piccoli gruppi.</p>
+  <p>Pensa al futuro e investi al meglio il tuo tempo prezioso! Impara con noi il russo seguendo i nostri corsi online o venendoci a trovare qui a Bologna.</p>
+<p>Affrettati! A luglio inizia il nostro corso estivo. Ti aspettiamo!</p>
 </div>
 
 <div class="center">
