@@ -6,6 +6,7 @@ const ls = require('local-storage')
 tests.forEach((test, testIndex) => test.questions.forEach(question => question.testIndex = testIndex))
 
 const results = []
+let showWrong = false
 
 function loadResults() {
   tests.forEach((test, testIndex) => {
@@ -47,6 +48,7 @@ function onChange(d, index) {
   results[d.testIndex].answers[index] = answer
 
   saveResult(d.testIndex)
+  showWrongAnswer(this, d, answer)
 }
 
 
@@ -97,8 +99,8 @@ function updateButtons(buttons, a) {
   })
 }
 
-
-function calculate() {
+// Calculate results of the current test, and show it
+function countResult() {
   const questions = d3.selectAll('.question')
 
   const counter = {
@@ -118,9 +120,31 @@ function calculate() {
     counter.valid += valid | 0
     counter.answered += answered | 0
     counter.total += 1
-
   })
 
+  return counter
+}
+
+function showWrongAnswer(el, d, answer) {
+  const wrong = showWrong && d.answers['false'].includes(answer)
+  d3.select(el).classed('wrong', wrong)
+}
+
+function showWrongAnswers(allowed) {
+  // Set global variable for onChange callback
+  showWrong = allowed
+  if (!allowed) return
+
+  const questions = d3.selectAll('.question')
+
+  questions.each(function (d, index) {
+    const el = d3.select(this).select('select').node()
+    const answer = el.options[el.selectedIndex].value
+    showWrongAnswer(el, d, answer)
+  })
+}
+
+function showResult(counter) {
   d3.select('#test-result').html(function () {
     let text = ''
 
@@ -152,20 +176,30 @@ ready(function init () {
     .enter()
       .append('li')
       .html(d => d.caption)
-      .on('click', update)
+      .on('click', showTest)
 
-  function update (test, testIndex) {
+  function showTest(test, testIndex) {
     // Restore user's results for this test
     test.questions.forEach((question, index) => question.answer = results[testIndex].answers[index])
 
+    showWrongAnswers(false)
+
     updateQuestions(container, [test])
     updateButtons(buttons, test)
-    calculate()
-    saveResults()
+    showResult(countResult())
   }
 
   loadResults()
-  update(tests[0], 0)
+  showTest(tests[0], 0)
 
-  d3.select('#button-calculate').on('click', calculate)
+  d3.select('#button-calculate').on('click', ignore => {
+    const counter = countResult()
+    const allAnswered = counter.answered == counter.total
+
+    showResult(counter)
+
+    if (allAnswered) {
+      showWrongAnswers(true)
+    }
+  })
 })

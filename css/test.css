@@ -10,3 +10,7 @@ skip {
   display: inline;
   font-size: inherit;
 }
+
+.question .wrong {
+  color: red;
+}
