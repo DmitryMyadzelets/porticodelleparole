@@ -106,7 +106,7 @@
 
 <div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
   <p>Pensa al futuro e investi al meglio il tuo tempo prezioso! Impara con noi il russo seguendo i nostri corsi online o venendoci a trovare qui a Bologna.</p>
-<p>Affrettati! A luglio inizia il nostro corso estivo. Ti aspettiamo!</p>
+  <p>Sono già aperte le iscrizioni per il nuovo anno accademico.</p>
 </div>
 
 <div class="center">
@@ -401,28 +401,30 @@
         </div>
     </div>
 
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Anna, <?php echo age('1995-11-18'); ?> anni, Mosca, Russia
-        </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/surikova.jpg" alt="Foto di Anna"/>
-                </div>
-            </div>
-        </div>
-            
-        <div itemprop="reviewbody">
-            <p>Nel 2017 ho conseguito la laurea in “Pedagogia linguistica” presso l'Università pedagogica di Mosca e, nello stesso anno, mi sono iscritta al corso di laurea magistrale in “Comunicazione pubblica e d’impresa” presso l'Università di Bologna. Qui ho conosciuto l’associazione Portico delle Parole dove insegno dall'ottobre 2017, grazie alla mia laurea e all'esperienza di insegnamento della lingua russa agli stranieri maturata a Mosca.</p>
-            <div id="surikova_readmore" style="display: none">
-                <p>Lavoro con studenti di tutti i livelli, inclusi quelli dei corsi collettivi e individuali, ma mi trovi anche ai laboratori del lessico. Per me, come insegnante, è importante vedere l'interesse negli occhi degli studenti, perciò in classe svolgo diversi tipi di attività: esercizi di grammatica, giochi di ruolo, ascolto di canzoni, visione di video da YouTube e di video-lezioni, spezzoni di film, discussioni su vari argomenti, scrittura di composizioni, lettere, e-mail; e inoltre, lettura e analisi di articoli da giornali russi. Questo lavoro mi piace molto perché trovo che sia molto gratificante vedere i miei studenti migliorare di volta in volta, lezione dopo lezione. Non vedo l’ora di fare la tua conoscenza e di introdurti in questo meraviglioso ambiente offerto dall'associazione Portico delle Parole.</p>
-            </div>
-            <p>
-                <a id="surikova_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-            </p>
-        </div>
-    </div>
+<?php
+//    <div class="review" itemscope itemtype="http://schema.org/Review">
+//        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+//            Anna, <?php echo age('1995-11-18');  anni, Mosca, Russia
+//        </h3>
+//        <div class="review_photo">
+//            <div class="stretchy-wrapper">
+//                <div>
+//                    <img src="/img/surikova.jpg" alt="Foto di Anna"/>
+//                </div>
+//            </div>
+//        </div>
+//            
+//        <div itemprop="reviewbody">
+//            <p>Nel 2017 ho conseguito la laurea in “Pedagogia linguistica” presso l'Università pedagogica di Mosca e, nello stesso anno, mi sono iscritta al corso di laurea magistrale in “Comunicazione pubblica e d’impresa” presso l'Università di Bologna. Qui ho conosciuto l’associazione Portico delle Parole dove insegno dall'ottobre 2017, grazie alla mia laurea e all'esperienza di insegnamento della lingua russa agli stranieri maturata a Mosca.</p>
+//            <div id="surikova_readmore" style="display: none">
+//                <p>Lavoro con studenti di tutti i livelli, inclusi quelli dei corsi collettivi e individuali, ma mi trovi anche ai laboratori del lessico. Per me, come insegnante, è importante vedere l'interesse negli occhi degli studenti, perciò in classe svolgo diversi tipi di attività: esercizi di grammatica, giochi di ruolo, ascolto di canzoni, visione di video da YouTube e di video-lezioni, spezzoni di film, discussioni su vari argomenti, scrittura di composizioni, lettere, e-mail; e inoltre, lettura e analisi di articoli da giornali russi. Questo lavoro mi piace molto perché trovo che sia molto gratificante vedere i miei studenti migliorare di volta in volta, lezione dopo lezione. Non vedo l’ora di fare la tua conoscenza e di introdurti in questo meraviglioso ambiente offerto dall'associazione Portico delle Parole.</p>
+//            </div>
+//            <p>
+//                <a id="surikova_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
+//            </p>
+//        </div>
+//    </div>
+?>
 
     <div class="review" itemscope itemtype="http://schema.org/Review">
         <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
