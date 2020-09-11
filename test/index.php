@@ -42,17 +42,10 @@
 
 <section style="padding-bottom: 1.618em;">
     <h1>
-        Verifica il tuo livello di russo
+        Test di russo &mdash; scopri subito il tuo livello
     </h1>
-    <p>
-        Ti chiediamo di completare questo test in massimo 60 minuti e di non usare alcun manuale o dizionario mentre lo svolgi. Il test è diviso in 4 livelli (A1, A2, B1, B2). Smetti di fare il test appena ti accorgi di aver raggiunto il tuo livello, non provare ad indovinare la risposta corretta.
-    </p>
-    <p>
-        Il risultato ti verrà subito mostrato alla fine del test.
-    </p>
-    <p>
-        Questo test è stato elaborato insieme con il nostro partner, la scuola di lingua russa in Russia <a href="https://enjoyrussian.com/" target="_blank">Enjoy Russian</a>.
-    </p>
+    <p>Mettiti alla prova e valuta il tuo attuale livello di conoscenza della lingua russa! Completa il nostro test diviso in 4 livelli (A1, A2, B1, B2) senza utilizzare alcun manuale o dizionario. Il risultato ti verrà mostrato alla fine della prova.</p>
+    <p>Il test è stato elaborato con la collaborazione della scuola di lingua russa <a href="https://enjoyrussian.com/" target="_blank">Enjoy Russian</a>, nostro partner in Russia.</p>
     
     <ul class='menu' id='level-buttons' style="font-size: larger;"></ul>
     
