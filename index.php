@@ -505,7 +505,42 @@
 
 <div class="div-table price-table">
     <div class="div-column col-third">
+           <div class="col-head">
+               <h3>In gruppo</h3>
+           </div>
+           <p>
+               20 ore – <span style="text-decoration: line-through;">290&#8364;</span>
+               <span style="color:red"> adesso in offerta 257&#8364; (12,85 all'ora)</span>
+           </p>
+           <p>
+               I gruppi sono formati da 3 &mdash; max. 10 persone.
+           </p>
+           <p>
+               Per i corsi collettivi offriamo uno sconto del 10&#37; per chi ha meno di 26 anni.
+           </p>
+    </div>
+    <div class="div-column col-third">
         <div class="col-head">
+            <h3>In due</h3>
+        </div>
+        <p>
+            20 ore – 277&#8364; (13,80 all'ora)
+            <br/>
+            10 ore – 147&#8364; (14,70 all'ora)
+        </p>
+        <p>
+            Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
+            <br/>
+            20 ore – 297&#8364; (14,80 all'ora)
+            <br/>
+            10 ore – 167&#8364; (16,70 all'ora)
+        </p>
+        <p>
+            Prezzo a persona
+        </p>
+    </div>
+    <div class="div-column col-third">
+       <div class="col-head">
             <h3>Individuale</h3>
         </div>
         <p>
@@ -532,41 +567,6 @@
         </p>
         <p>
             In sede oppure su Skype
-        </p>
-    </div>
-    <div class="div-column col-third">
-        <div class="col-head">
-            <h3>In due</h3>
-        </div>
-        <p>
-            20 ore – 277&#8364; (13,80 all'ora)
-            <br/>
-            10 ore – 147&#8364; (14,70 all'ora)
-        </p>
-        <p>
-            Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
-            <br/>
-            20 ore – 297&#8364; (14,80 all'ora)
-            <br/>
-            10 ore – 167&#8364; (16,70 all'ora)
-        </p>
-        <p>
-            Prezzo a persona
-        </p>
-    </div>
-    <div class="div-column col-third">
-        <div class="col-head">
-            <h3>In gruppo</h3>
-        </div>
-        <p>
-            20 ore – <span style="text-decoration: line-through;">290&#8364;</span>
-            <span style="color:red"> adesso in offerta 257&#8364; (12,85 all'ora)</span>
-        </p>
-        <p>
-            I gruppi sono formati da 3 &mdash; max. 10 persone.
-        </p>
-        <p>
-            Per i corsi collettivi offriamo uno sconto del 10&#37; per chi ha meno di 26 anni.
         </p>
     </div>
 </div>
