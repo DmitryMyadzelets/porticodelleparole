@@ -105,7 +105,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 
 <div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
-  <p>Pensa al futuro e investi al meglio il tuo tempo prezioso! Impara con noi il russo seguendo i nostri corsi online o venendoci a trovare qui a Bologna.</p>
+  <p>Pensa al futuro e investi al meglio il tuo tempo prezioso! Impara con noi il russo seguendo i nostri corsi in sede a Bologna oppure online.</p>
   <p>Sono già aperte le iscrizioni per il nuovo anno accademico.</p>
 </div>
 
