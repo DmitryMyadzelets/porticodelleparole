@@ -158,8 +158,12 @@
 		$headers[] = "Subject: {$subject}";
 		$headers[] = "X-Mailer: PHP/".phpversion();
 
-		mail($to, $subject, $message, implode("\r\n", $headers));
-	}
+		$success = mail($to, $subject, $message, implode("\r\n", $headers));
+    if (!$success) {
+      $errorMessage = 'I dati sono salvati, ma il sito web non è riuscito a mandare il tuo messagio a noi. Ti chiediamo gentilmente di contatarci tramite telefono or mandarci un email.';
+      echo '<p class="error">'.$errorMessage.'</p>';
+    }
+  }
 ?>
 
 </body>
