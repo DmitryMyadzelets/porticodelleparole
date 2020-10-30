@@ -160,7 +160,7 @@
 
 		$success = mail($to, $subject, $message, implode("\r\n", $headers));
     if (!$success) {
-      $errorMessage = 'I dati sono salvati, ma il sito web non è riuscito a mandare il tuo messagio a noi. Ti chiediamo gentilmente di contatarci tramite telefono or mandarci un email.';
+      $errorMessage = 'I dati sono stati salvati, ma non abbiamo ricevuto il tuo messaggio per problemi con il sito web. Ti chiediamo gentilmente di contattarci per telefono o di scriverci una mail.';
       echo '<p class="error">'.$errorMessage.'</p>';
     }
   }
