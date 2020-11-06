@@ -15,6 +15,14 @@
             </a>
             <!-- <img src="./img/google.svg" alt="" style="width: 2em; margin-right: 0.5em; vertical-align: middle;"> -->
         </p>
+        <p>
+             <a href="https://www.instagram.com/porticodelleparole/" TARGET="_blank">
+                <img src="/img/instagram.svg" alt="Instagram logo" class="svg-icon"
+                title="Seguici il Portico delle Parole su Instagram"
+                />Seguici su Instagram
+            </a>
+        </p>
+
     </div>
     <div class="div-column col-half">
         <p>
