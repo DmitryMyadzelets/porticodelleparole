@@ -671,8 +671,7 @@
 
 
 </div> <!-- main-container shadow -->
-<br>
-<div class="main-container shadow">
+<div class="main-container shadow" hidden>
 
 <h2>Iscriviti online!</h2>
 <p>
