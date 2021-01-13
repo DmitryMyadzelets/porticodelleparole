@@ -505,7 +505,7 @@
 
     <div class="review" itemscope itemtype="http://schema.org/Review">
         <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Anna, <?php echo age('1996-05-08'); ?> anni, Voronezh, Rissia
+            Anna, <?php echo age('1996-05-08'); ?> anni, Voronezh, Russia
         </h3>
         <div class="review_photo">
             <div class="stretchy-wrapper">
