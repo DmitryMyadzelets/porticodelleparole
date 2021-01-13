@@ -62,7 +62,7 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
     <title>
-        Corsi di Russo a Bologna - Associazione Portico delle Parole
+        Corsi di Russo a Bologna &mdash; Associazione Portico delle Parole
     </title>
 
     <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
