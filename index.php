@@ -247,6 +247,60 @@
 
 <section>
     <h2>Corsi di russo speciali</h2>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Russo per l'azienda",
+    "description": "Relazioni commerciali con la Federazione Russa e i paesi russofoni, terminologia aziendale e corrispondenza commerciale.",
+    "provider": "Portico delle Parole"
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Russo per preparazione esami universitari",
+    "description": "Il corso ti permetterà di superare sia la parte scritta che quella orale degli esami universitari di lingua russa.",
+    "provider": "Portico delle Parole"
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Russo per adozione",
+    "description": "Programma speciale per genitori che vogliono adottare un bambino russo.",
+    "provider": "Portico delle Parole"
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Russo per viaggiare",
+    "description": "Programma per imparare come usare la lingua russa nelle situazioni di viaggio più comuni.",
+    "provider": "Portico delle Parole"
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Preparazione all'esame di ТРКИ-TORFL",
+    "description": "Ti prepariamo a superare delle prove di tutti i livelli dell'esame ufficiale di certificazione internazionale TORFL.",
+    "provider": "Portico delle Parole"
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Corso di conversazione",
+    "description": "Un corso dedicato esclusivamente alla conversazione in lingua russa.",
+    "provider": "Portico delle Parole"
+  }
+</script>
     <p>
         Su richiesta, sono disponibili i <a href="corsi-speciali/">seguenti corsi</a>:
     </p>
