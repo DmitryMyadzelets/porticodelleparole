@@ -1,0 +1,23 @@
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "@id":"https://porticodelleparole.it/#organization",
+  "name":"Portico delle Parole",
+  "description":"Associazione di lingua e cultura russa, situata nel pieno centro di Bologna. Qui si offrono corsi di russo di tutti i livelli, insieme a tanti altri laboratori dedicati alla pratica della lingua e a eventi incentrati sulla cultura russa.",
+  "url":"https://www.porticodelleparole.it",
+  "logo":"https://www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png",
+  "email":"info@porticodelleparole.it",
+  "foundingDate":"2013-10-21",
+  "address":{
+    "@type":"PostalAddress",
+    "addressCountry":"IT",
+    "addressRegion":"BO",
+    "addressLocality":"Bologna",
+    "postalCode":"40122",
+    "streetAddress":"Via del Pratello 9"
+  },
+  "sameAs":[
+    "https://www.facebook.com/porticodelleparole/",
+    "https://www.instagram.com/porticodelleparole/"
+  ]
+}
