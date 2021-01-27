@@ -524,9 +524,12 @@
                I gruppi sono formati da 3 &mdash; max. 6 persone.
            </p>
            <p>
+               Durante il corso sono previste 3 lezioni di recupero.
+           </p>
+           <p>
                Per i corsi collettivi offriamo uno sconto del 10&#37; per chi ha meno di 26 anni.
            </p>
-    </div>
+     </div>
     <div class="div-column col-third">
         <div class="col-head">
             <h3>In due</h3>
