@@ -1,35 +1,5 @@
-
-set_readmore(
-    document.getElementById('olga_readmore'),
-    document.getElementById('olga_readmore_btn'),
-    'Leggi tutto', 'Meno'
-)
-set_readmore(
-    document.getElementById('yana_readmore'),
-    document.getElementById('yana_readmore_btn'),
-    'Leggi tutto', 'Meno'
-)
-set_readmore(
-    document.getElementById('shkapa_readmore'),
-    document.getElementById('shkapa_readmore_btn'),
-    'Leggi tutto', 'Meno'
-)
-set_readmore(
-    document.getElementById('surikova_readmore'),
-    document.getElementById('surikova_readmore_btn'),
-    'Leggi tutto', 'Meno'
-)
-set_readmore(
-    document.getElementById('ermolaeva_readmore'),
-    document.getElementById('ermolaeva_readmore_btn'),
-    'Leggi tutto', 'Meno'
-)
-set_readmore(
-    document.getElementById('stepina_readmore'),
-    document.getElementById('stepina_readmore_btn'),
-    'Leggi tutto', 'Meno'
-)
-function set_readmore (text, btn, more, less) {
+function setReadmore (text, btn, more, less) {
+  if (!text || !btn) { return } 
   more = more || 'Read more'
   less = less || 'Hide'
   btn.innerHTML = more
@@ -43,3 +13,16 @@ function set_readmore (text, btn, more, less) {
     }
   }
 }
+
+[
+  'olga',
+  'yana',
+  'ermolaeva',
+  'stepina'
+].forEach(function (name) {
+  const text = document.getElementById(name + '_readmore')
+  const btn = document.getElementById(name + '_readmore_btn')
+  setReadmore(text, btn, 'Leggi tutto', 'Meno')
+})
+
+
