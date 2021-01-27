@@ -521,7 +521,7 @@
                <span style="color:red"> adesso in offerta 257&#8364; (12,85 all'ora)</span>
            </p>
            <p>
-               I gruppi sono formati da 3 &mdash; max. 10 persone.
+               I gruppi sono formati da 3 &mdash; max. 6 persone.
            </p>
            <p>
                Per i corsi collettivi offriamo uno sconto del 10&#37; per chi ha meno di 26 anni.
