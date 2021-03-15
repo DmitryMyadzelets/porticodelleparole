@@ -214,30 +214,14 @@
 </div>
 
 <h1 id="corsi-di-russo">Corsi di russo</h1>
-<p>
-    Insegniamo il russo parlato e scritto, proponendo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendo semplicità, professionalità, grande coinvolgimento e un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo. 
+<p>Ti insegniamo il russo parlato e scritto sia in sede a Bologna sia online su Zoom, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti, un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
+<p>Le nostre lezioni sono interattive e affrontano tutti i vari aspetti linguistici: spiegazione chiara delle regole grammaticali, attività di ascolto e di conversazione, lettura e comprensione di testi scritti, ampliamento del lessico. Il nostro approccio è dinamico e stimolante: ti diamo le basi grammaticali che puoi mettere subito in pratica in situazioni comunicative concrete.</p>
+<p>Nel corso per principianti di <b>12 lezioni (20 ore)</b> imparerai:
+l’alfabeto cirillico,a leggere semplici testi in cirillico, a presentarti e a parlare di te stesso (età, famiglia, hobby, interessi, professione), a sostenere una conversazione su temi quotidiani con un madrelingua russo, a chiedere informazioni in situazioni comunicative utili durante un viaggio in Russia.</p>
+<p>Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="http://it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>.
 </p>
-<p>
-    Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="http://it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>.
-</p>
-<p>
-    Nel corso principianti di <b>12 lezioni (20 ore)</b> imparerai:
-</p>
-<ul>
-    <li>L’alfabeto cirillico;</li>
-    <li>A leggere semplici testi in cirillico;</li>
-    <li>A presentarti e a parlare di te stesso (età, famiglia, hobby, interessi);</li>
-    <li>A parlare della tua professione;</li>
-    <li>A sostenere una conversazione su temi quotidiani con un madrelingua russo;</li>
-    <li>A chiedere informazioni in varie situazioni durante un viaggio in Russia.</li>
-</ul>
-<p>
-    Per conoscere il <b>programma dei livelli successivi</b>, contattaci direttamente.
-</p>
-<p>
-    Se non sei un principiante, vieni in associazione per un <b>incontro personale gratuito</b> e 
-    ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello. Ci sono 10 classi di livelli differenti, quindi troverai sicuramente la classe più adatta a te!
-</p>
+<p>Per conoscere il <b>programma dei livelli successivi</b>, contattaci direttamente.</p>
+<p>Se non sei un principiante, contattaci per fissare un incontro personale in sede oppure online su zoom  e ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello. Ci sono 15 classi di livelli differenti, quindi troverai sicuramente la classe più adatta a te!</p> 
 
 <?php
 // <h3>Nel corso sono compresi:</h3>
@@ -319,8 +303,7 @@
 <div class="main-container shadow">
 
 <h2 id="attivita">Attività</h2>
-<p>
-    Quando si impara una lingua, la pratica e la costanza sono fondamentali, per questo l'associazione Portico delle Parole ti da la possibilità di praticare il russo con svariati tipi di attività extra utili e coinvolgenti, alle quali puoi accedere gratuitamente in quanto corsista. Gli incontri extra ti permetteranno di interagire con studenti, insegnanti e soci, promuovendo così una pratica stimolante della lingua anche oltre l'orario di lezione in un ambiente favorevole al perfezionamento delle capacità linguistiche.
+<p>Quando si impara una lingua, la pratica e la costanza sono fondamentali, per questo l'associazione Portico delle Parole ti da la possibilità di praticare il russo con svariati tipi di attività extra utili e coinvolgenti, alle quali puoi accedere gratuitamente in quanto corsista. Gli incontri extra ti permetteranno di interagire con studenti, insegnanti e soci, promuovendo così una pratica stimolante della lingua anche oltre l'orario di lezione in un ambiente favorevole al perfezionamento delle capacità linguistiche.
 </p>
     <div class="div-table te-di-sabato-table">
         <div class="div-column col-third">
