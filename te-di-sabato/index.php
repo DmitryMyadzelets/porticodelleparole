@@ -43,37 +43,42 @@
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
 
 <section>
-    <h1>
-        Tè del sabato
-    </h1>
-    <p>
-        Accogliere gli ospiti con tè e biscotti è una delle tradizioni russe più diffuse: per questo abbiamo creato il Tè del sabato (чай по субботам), un'attività <b>gratuita</b> per tutti i tesserati dell'associazione che si svolge <b>due sabati al mese dalle 11 alle 13</b>. Durante gli incontri, potrai assistere a presentazioni <b>in russo con la traduzione in italiano</b> su argomenti sempre diversi riguardanti la storia, la geografia, l'economia, i viaggi in Russia, la cultura e le tradizioni, degustando insieme a noi il classico tè russo in un'atmosfera piacevole e informale. Durante questi incontri avrai la possibilità di conoscere altri studenti e scambiare con loro idee e punti di vista, confrontandoti sui temi proposti.
-    </p>
-    <p>
-        Il Tè del sabato si svolgerà nei seguenti giorni:
-    </p>
-    <ul>
-        <?php
-            // prints string 'day month'
-            function dnm($date) {
-                echo strftime("%-d %B", strtotime($date));
-            }
-        ?>
-        <li><?php dnm('2020-02-15'); ?></li>
-        <li><?php dnm('2020-02-29'); ?></li>
-        <li><?php dnm('2020-03-07'); ?></li>
-        <li><?php dnm('2020-03-21'); ?></li>
-        <li><?php dnm('2020-04-04'); ?></li>
-        <li><?php dnm('2020-04-19'); ?> &mdash; Domenica, picnic per la Pasqua Ortodossa</li>
-        <li><?php dnm('2020-05-09'); ?></li>
-        <li><?php dnm('2020-05-23'); ?></li>
-    </ul>
-    <p>
-        La conferma della partecipazione è <b>sempre obbligatoria</b> per ogni incontro.
-    </p>
-    <p>
-        Il tè del sabato si svolge già dal 2014, e in <?php echo date("Y")-2014 ?> anni sono già stati organizzati 130 incontri. Guarda l'elenco degli argomenti svolti negli ultimi anni qui sotto.
-    </p>
+  <h1>
+      Tè del sabato
+  </h1>
+  <p>Quando si impara una lingua la pratica e la costanza sono fondamentali, per questo motivo ti diamo la
+possibilità di ampliare il lessico e apprendere vari aspetti della cultura russa, letteratura,storia, tradizioni,
+viaggi, geografia, economia con il <b>Tè del sabato (Чай по субботам)</b>.</p>
+  <p>Le presentazioni sono in lingua russa tenute da madrelingua, con la traduzione in italiano.</p>
+<p>Ti aspettiamo ogni sabato dalle 11 alle 13, online su Zoom. La prima partecipazione è gratis per tutti,
+dalla seconda ti chiediamo di fare la tessera dell'associazione di 20 euro.</p>
+  <p hidden>Accogliere gli ospiti con tè e biscotti è una delle tradizioni russe più diffuse: per questo abbiamo creato il Tè del sabato (чай по субботам), un'attività <b>gratuita</b> per tutti i tesserati dell'associazione che si svolge <b>due sabati al mese dalle 11 alle 13</b>. Durante gli incontri, potrai assistere a presentazioni <b>in russo con la traduzione in italiano</b> su argomenti sempre diversi riguardanti la storia, la geografia, l'economia, i viaggi in Russia, la cultura e le tradizioni, degustando insieme a noi il classico tè russo in un'atmosfera piacevole e informale. Durante questi incontri avrai la possibilità di conoscere altri studenti e scambiare con loro idee e punti di vista, confrontandoti sui temi proposti.</p>
+  <section hidden>
+      <p>
+          Il Tè del sabato si svolgerà nei seguenti giorni:
+      </p>
+      <ul>
+          <?php
+              // prints string 'day month'
+              function dnm($date) {
+                  echo strftime("%-d %B", strtotime($date));
+              }
+          ?>
+          <li><?php dnm('2020-02-15'); ?></li>
+          <li><?php dnm('2020-02-29'); ?></li>
+          <li><?php dnm('2020-03-07'); ?></li>
+          <li><?php dnm('2020-03-21'); ?></li>
+          <li><?php dnm('2020-04-04'); ?></li>
+          <li><?php dnm('2020-04-19'); ?> &mdash; Domenica, picnic per la Pasqua Ortodossa</li>
+          <li><?php dnm('2020-05-09'); ?></li>
+          <li><?php dnm('2020-05-23'); ?></li>
+      </ul>
+      <p>
+          La conferma della partecipazione è <b>sempre obbligatoria</b> per ogni incontro.
+      </p>
+  </section>
+    <p>Il tè del sabato si svolge già dal 2014. Durante i numerosi incontri organizzati in questi <?php echo date("Y")-2014 ?> anni abbiamo trattato moltissimi argomenti, puoi guardarli qui sotto.</p>
+    <p>Prepara una tazza di tè caldo e collegati su Zoom!</p>
 </section>
 
 </div> <!-- main-container shadow -->
