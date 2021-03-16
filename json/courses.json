@@ -3,6 +3,14 @@
   "@graph":[
     {
       "@type":"Course",
+      "name":"Russo",
+      "description":"Il corso da 20 ore in 12 lezioni di russo parlato e scritto, sia in sede a Bologna sia online su Zoom. Per tutti i livelli (A1, A2, B1, B2, C1).",
+      "provider":{
+        "@id":"https://porticodelleparole.it/#organization"
+      }
+    },
+    {
+      "@type":"Course",
       "name":"Russo per l'azienda",
       "description":"Relazioni commerciali con la Federazione Russa e i paesi russofoni, terminologia aziendale e corrispondenza commerciale.",
       "provider":{
