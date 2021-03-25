@@ -215,9 +215,22 @@
 
 <h1 id="corsi-di-russo">Corsi di russo</h1>
 <p>Ti insegniamo il russo parlato e scritto sia in sede a Bologna sia online su Zoom, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti, un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
-<p>Le nostre lezioni sono interattive e affrontano tutti i vari aspetti linguistici: spiegazione chiara delle regole grammaticali, attività di ascolto e di conversazione, lettura e comprensione di testi scritti, ampliamento del lessico. Il nostro approccio è dinamico e stimolante: ti diamo le basi grammaticali che puoi mettere subito in pratica in situazioni comunicative concrete.</p>
-<p>Nel corso per principianti di <b>12 lezioni (20 ore)</b> imparerai:
-l’alfabeto cirillico,a leggere semplici testi in cirillico, a presentarti e a parlare di te stesso (età, famiglia, hobby, interessi, professione), a sostenere una conversazione su temi quotidiani con un madrelingua russo, a chiedere informazioni in situazioni comunicative utili durante un viaggio in Russia.</p>
+<p>Le nostre lezioni sono interattive e affrontano tutti i vari aspetti linguistici:</p>
+<ul>
+<li>Spiegazione chiara delle regole grammaticali</li>
+<li>Attività di ascolto e di conversazione</li>
+<li>Lettura e comprensione di testi scritti</li>
+<li>Ampliamento del lessico</li>
+</ul>
+<p>Il nostro approccio è dinamico e stimolante: ti diamo le basi grammaticali che puoi mettere subito in pratica in situazioni comunicative concrete.</p>
+<p>Nel corso per principianti di <b>12 lezioni (20 ore)</b> imparerai:</p>
+<ul>
+<li>L’alfabeto cirillico</li>
+<li>A leggere semplici testi in cirillico</li>
+<li>A presentarti e a parlare di te stesso (età, famiglia, hobby, interessi, professione)</li>
+<li>A sostenere una conversazione su temi quotidiani con un madrelingua russo</li>
+<li>A chiedere informazioni in situazioni comunicative utili durante un viaggio in Russia</li>
+</ul>
 <p>Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="http://it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>.
 </p>
 <p>Per conoscere il <b>programma dei livelli successivi</b>, contattaci direttamente.</p>
