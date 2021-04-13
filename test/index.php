@@ -41,7 +41,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <section style="padding-bottom: 1.618em;">
-    <h1>
+    <h1 id="test-di-russo">
         Test di russo &mdash; scopri subito il tuo livello
     </h1>
     <p>Mettiti alla prova e valuta il tuo attuale livello di conoscenza della lingua russa! Completa il nostro test diviso in 4 livelli (A1, A2, B1, B2) senza utilizzare alcun manuale o dizionario. Il risultato ti verrà mostrato alla fine della prova.</p>

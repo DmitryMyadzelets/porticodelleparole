@@ -5,6 +5,6 @@
     <li><a href="/#attivita">Attività</a></li>
     <li><a href="/#i-nostri-insegnanti">Insegnanti</a></li>
     <li><a href="/#foto">Foto</a></li>
-    <li><a href="/trki/">TRKI</a></li>
-    <li><a href="/test/">Test</a></li>
+    <li><a href="/trki/#certificazione">TRKI</a></li>
+    <li><a href="/test/#test-di-russo">Test</a></li>
 </ul>

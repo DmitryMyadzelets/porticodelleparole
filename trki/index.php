@@ -37,7 +37,7 @@ russo online
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
-<h1>Certificazione di Lingua Russa TRKI</h1>
+<h1 id="certificazione">Certificazione di Lingua Russa TRKI</h1>
 
 <h2>Perchè sostenere l'esame di certificazione?</h2>
 <ul>
