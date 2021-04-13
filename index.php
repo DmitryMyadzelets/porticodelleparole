@@ -292,14 +292,6 @@
             </a>
         </div>
         <div class="div-column col-third">
-            <a href="corsi-speciali/#russo-per-trki">
-                <img src="//www.porticodelleparole.it/photos/?id=5e4271ddd6c4b" alt="Russo per l'esame">
-                <p>
-                    Preparazione all'esame di certificazione internazionale ТРКИ-TORFL
-                </p>
-            </a>
-        </div>
-        <div class="div-column col-third">
             <a href="corsi-speciali/#russo-conversazione">
                 <img src="//www.porticodelleparole.it/photos/?id=5e4275f214888" alt="Conversazione">
                 <p>
