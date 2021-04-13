@@ -100,17 +100,7 @@
 <body>
 <div class="main-container shadow">
 
-<ul class='menu'>
-    <li><a href="/#corsi-di-russo">Corsi</a></li>
-    <li><a href="/#prezzi">Prezzi</a></li>
-    <li><a href="/#orari">Orari</a></li>
-    <li><a href="/#attivita">Attività</a></li>
-    <li><a href="/#i-nostri-insegnanti">Insegnanti</a></li>
-    <li><a href="/#foto">Foto</a></li>
-    <li><a href="/trki/">TRKI</a></li>
-    <li><a href="/test/">Test</a></li>
-</ul>
-
+<?php include $_SERVER['DOCUMENT_ROOT']."/menu.php" ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 
 <div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
