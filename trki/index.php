@@ -9,7 +9,8 @@ TRKI,
 TORFL,
 Certificazione di lingua russa TRKI TORFL,
 Corsi di preparazione all'esame TRKI TORFL,
-Esami e certificazione TRKI TORFL
+Esami e certificazione TRKI TORFL,
+russo online
     ">
 
     <!-- Twitter card -->
@@ -111,7 +112,8 @@ Esami e certificazione TRKI TORFL
 <h2>Preparazione all'esame TRKI</h2>
 <p>Ti prepariamo a superare le varie prove di tutti i livelli dell'esame ufficiale TRKI.</p>
 <p>Ti forniamo i materiali adatti e ben organizzati che, insieme alle simulazioni fatte durante il corso e alla competenza dei nostri insegnanti, risulteranno necessari alla preparazione degli esami.</p>
-<p>Sono disponibili sia <a href="/#corsi-di-russo">corsi collettivi in piccoli gruppi che individuali</a>, <b>in sede</b> a Bologna oppure <b>online</b>. <a href="/#prezzi">Guarda le tariffe</a> dei nostri corsi.</p>
+<p>Sono disponibili sia <a href="/#corsi-di-russo">corsi collettivi in piccoli gruppi che individuali</a>.</p> 
+<p><a href="/#prezzi">Guarda le tariffe</a> dei nostri corsi di russo online su Zoom oppure in sede a Bologna.</p>
 
 </div>
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
