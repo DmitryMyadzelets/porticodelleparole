@@ -114,13 +114,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 
 <div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
-  <p>Pensa al futuro e investi al meglio il tuo tempo prezioso! Impara con noi il russo seguendo i nostri corsi in sede a Bologna oppure online.</p>
+<p>Pensa al futuro e investi al meglio il tuo tempo prezioso! Impara con noi seguendo i nostri corsi di russo online su Zoom oppure in sede a Bologna.</p>
 </div>
 
 <div class="center">
-    <p>
-        Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!
-    </p>
+    <p>Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!</p>
 </div>
 
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
@@ -213,8 +211,8 @@
     </div>
 </div>
 
-<h1 id="corsi-di-russo">Corsi di russo</h1>
-<p>Ti insegniamo il russo parlato e scritto sia in sede a Bologna sia online su Zoom, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti, un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
+<h1 id="corsi-di-russo">Corsi di russo online oppure in sede</h1>
+<p>Ti insegniamo il russo online su Zoom oppure in sede a Bologna, sia parlato che scritto, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti, un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
 <p>Le nostre lezioni sono interattive e affrontano tutti i vari aspetti linguistici:</p>
 <ul>
 <li>Spiegazione chiara delle regole grammaticali</li>
