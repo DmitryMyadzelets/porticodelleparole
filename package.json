@@ -1,0 +1,22 @@
+{
+  "name": "porticodelleparole.it",
+  "version": "1.0.0",
+  "description": "No public interest is assumed",
+  "scripts": {
+    "css": "node minify-css css/main.max.css > css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryMyadzelets/porticodelleparole.git"
+  },
+  "author": "Dmitry Myadzelets",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/DmitryMyadzelets/porticodelleparole/issues"
+  },
+  "homepage": "https://github.com/DmitryMyadzelets/porticodelleparole#readme",
+  "devDependencies": {
+    "csso": "^4.2.0"
+  }
+}
