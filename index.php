@@ -103,13 +103,8 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/menu.php" ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 
-<div style="background-color: rgba(205, 222, 176, .5); padding: 1.618em; font-size: larger;">
-<p>Pensa al futuro e investi al meglio il tuo tempo prezioso! Impara con noi seguendo i nostri corsi di russo online su Zoom oppure in sede a Bologna.</p>
-</div>
 
-<div class="center">
-    <p>Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!</p>
-</div>
+<p>Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!</p>
 
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
 
@@ -238,6 +233,9 @@
 //     </ul>
 // </p>
 ?>
+<h2>Certificazioni TRKI</h2>
+<p><b>Siamo un centro ufficiale di certificazione</b> TRKI/TORFL, e abbiamo stipulato un accordo con l'Università Statale di San Pietroburgo.</p>
+<p>Puoi svolgere l'esame di certificazione nella nostra sede a Bologna. <a href="/trki/#certificazione">Scopri più info</a> sull'esame e quando saranno le prossime sessioni.</p>
 
 <section>
     <h2>Corsi di russo speciali</h2>
@@ -246,7 +244,7 @@
     </p>
     <div class="div-table te-di-sabato-table">
         <div class="div-column col-third">
-            <a href="corsi-speciali/#russo-conversazione">
+            <a href="/corsi-speciali/#russo-conversazione">
                 <img src="//www.porticodelleparole.it/photos/?id=5e4275f214888" alt="Conversazione">
                 <p>
                     Corso di conversazione
@@ -254,7 +252,7 @@
             </a>
         </div>
         <div class="div-column col-third">
-            <a href="corsi-speciali/#russo-per-azienda">
+            <a href="/corsi-speciali/#russo-per-azienda">
                 <img src="/img/business.jpg" alt="Russo per l'azienda">
                 <p>
                     Russo per l'azienda
@@ -262,7 +260,7 @@
             </a>
         </div>
         <div class="div-column col-third">
-            <a href="corsi-speciali/#russo-per-preparazione-esami-universitari">
+            <a href="/corsi-speciali/#russo-per-preparazione-esami-universitari">
                 <img src="/img/russo-per-esami.jpg" alt="Russo per esami universitari">
                 <p>
                     Russo per preparazione esami universitari
@@ -272,7 +270,7 @@
    </div>
     <div class="div-table te-di-sabato-table">
         <div class="div-column col-third">
-            <a href="corsi-speciali/#russo-per-viaggiare">
+            <a href="/corsi-speciali/#russo-per-viaggiare">
                 <img src="/img/turismo.jpg" alt="Russo per viaggiare">
                 <p>
                     Russo per viaggiare
@@ -280,11 +278,17 @@
             </a>
         </div>
         <div class="div-column col-third">
-            <a href="corsi-speciali/#russo-per-adozione">
+            <a href="/corsi-speciali/#russo-per-adozione">
                 <img src="/img/adozione.jpg" alt="Russo per adozione">
                 <p>
                     Russo per adozione
                 </p>
+            </a>
+        </div>
+        <div class="div-column col-third">
+            <a href="/trki/#preparazione">
+                <img src="/img/trki.jpg" alt="Russo per adozione">
+                <p>Preparazione per l'esame ufficiale TRKI</p>
             </a>
         </div>
     </div>

@@ -110,7 +110,7 @@ russo online
 </ol>
 <p>Per avere più informazioni sullo svolgimento degli esami puoi <a href="https://testingcenter.spbu.ru/vebinary.html" target="_blank">guardare i video</a> registrati dall'Università Statale di San Pietroburgo dalla durata di 1 ora per ogni livello. In lingua inglese per i livelli A1, B1, B2 ed in lingua russa per i livelli B2, C1, C2.</p>
 <p>Puoi <a href="https://testingcenter.spbu.ru/ekzameny/russia/trki.html" target="_blank">scaricare</a> le versioni demo del test per tutti i livelli.<p>
-<h2>Preparazione all'esame TRKI</h2>
+<h2 id="preparazione">Preparazione all'esame TRKI</h2>
 <p>Ti prepariamo a superare le varie prove di tutti i livelli dell'esame ufficiale TRKI.</p>
 <p>Ti forniamo i materiali adatti e ben organizzati che, insieme alle simulazioni fatte durante il corso e alla competenza dei nostri insegnanti, risulteranno necessari alla preparazione degli esami.</p>
 <p>Sono disponibili sia <a href="/#corsi-di-russo">corsi collettivi in piccoli gruppi che individuali</a>.</p> 
