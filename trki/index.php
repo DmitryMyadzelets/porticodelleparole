@@ -83,7 +83,7 @@ russo online
         <p>137&#8364;</p>
     </div>
 </div>
-<p>Le certificazioni di livello A1 e A2 hanno validità di 5 anni, mentre le certificazioni di livello B1, B2, C1, C2 non hanno scadenza.</p>
+<p>La certificazione di livello A1 ha validità di 5 anni, mentre le certificazioni di livelli A2, B1, B2, C1, C2 non hanno scadenza.</p>
 <h2>Quando si tengono gli esami?</h2>
 <p>Le sessioni d'esame dell'anno 2021 si terranno:<p>
 <ul>
