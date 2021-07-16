@@ -538,25 +538,25 @@
         </div>
         <p>
             20 ore –
-            <span style="text-decoration: line-through;">494&#8364;</span>
+            <span style="text-decoration: line-through;">517&#8364;</span>
             <span style="color:red">
-              adesso in offerta 434&#8364; (21,70 all'ora)
+              adesso in offerta 474&#8364; (23,70 all'ora)
             </span>
 
             <br/>
 
             10 ore – 
-            <span style="text-decoration: line-through;">297&#8364;</span>
+            <span style="text-decoration: line-through;">317&#8364;</span>
             <span style="color:red">
-              adesso in offerta 237&#8364; (23,70 all'ora)
+              adesso in offerta 257&#8364; (25,70 all'ora)
             </span>
         </p>
         <p>
             Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
             <br/>
-            20 ore – 534&#8364; (26,70 all'ora)
+            20 ore – 534&#8364; (27,70 all'ora)
             <br/>
-            10 ore – 287&#8364; (28,70 all'ora)
+            10 ore – 287&#8364; (29,70 all'ora)
         </p>
         <p>
             In sede oppure su Skype
