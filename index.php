@@ -517,16 +517,16 @@
             <h3>In due</h3>
         </div>
         <p>
-            20 ore – 277&#8364; (13,80 all'ora)
+            20 ore – 314&#8364; (15,70 all'ora)
             <br/>
-            10 ore – 147&#8364; (14,70 all'ora)
+            10 ore – 167&#8364; (16,70 all'ora)
         </p>
         <p>
             Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
             <br/>
-            20 ore – 297&#8364; (14,80 all'ora)
+            20 ore – 334&#8364; (16,70 all'ora)
             <br/>
-            10 ore – 167&#8364; (16,70 all'ora)
+            10 ore – 187&#8364; (18,70 all'ora)
         </p>
         <p>
             Prezzo a persona
