@@ -36,9 +36,11 @@
 
 </head>
 <body>
+<div class="main-container shadow menu">
+  <?php include $_SERVER['DOCUMENT_ROOT']."/menu.php" ?>
+</div>
 
 <div class="main-container shadow">
-<?php include $_SERVER['DOCUMENT_ROOT']."/menu.php" ?>
 <div class='slideshow'></div>
 
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
