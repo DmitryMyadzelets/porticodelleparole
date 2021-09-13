@@ -64,7 +64,6 @@ h1, h2, h3 {
 }
 
 img, object {
-    max-width: 100%;
     width: 100%;
     /*height: auto; this forces browsers recalculate the layout*/
 }
