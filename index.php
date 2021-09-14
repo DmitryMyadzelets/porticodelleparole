@@ -767,9 +767,13 @@
         function onload () {
             var slides = $('.slideshow');
             var i = ids.length;
+            var el
             while (i > 0) {
                 i = i - 1;
-                slides.append('<div><div class=\'slick-frame\'><img data-lazy=\'//www.porticodelleparole.it/photos/?id=' + ids[i] + '\'/></div></div>');
+                el = "<div><div loading='lazy' class='slick-frame'><img data-lazy='//www.porticodelleparole.it/photos/?id=" + ids[i] + "'/></div></div>"
+                console.log(el)
+          
+                slides.append(el);
             }
             slides.slick({
                 lazyLoad: 'ondemand',
