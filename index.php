@@ -56,10 +56,10 @@
     <meta name="twitter:image" content="//www.porticodelleparole.it/img/bologna-moscow-rainbow-portico.png" />
 
     <!--  -->
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link defer rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
+    <link defer rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
 
     <title>
         Corsi di Russo a Bologna &mdash; Associazione Portico delle Parole
@@ -85,9 +85,8 @@
             }
         }
     </script>
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c22b178705952dd4b7ee934fd/ea4280305fb272220e1eebb7e.js");</script>
 
-    <?php
+   <?php
         function age($bdate) {
             return date_diff(date_create($bdate), date_create('now'))->y;
         }
@@ -747,9 +746,9 @@
 <script async src='./js/readmore.js'></script>
 <!-- jQuery v1.7+ is required for slick.js -->
 <!-- <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script> -->
-<script src='./js/jquery-3.2.1.min.js'></script>
+<script defer src='./js/jquery-3.2.1.min.js'></script>
 <!-- <script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script> -->
-<script src="./js/slick.min.js"></script>
+<script defer src="./js/slick.min.js"></script>
     <script>
         function shuffle (array) {
             var i = 0, j = 0, temp = null;
@@ -765,7 +764,7 @@
         var ids = ["59b3f2c424dad","59b958b969a86","59ba566b6c411","59ba56a23e92c","5bb265034e03f","5da823be7b9c4","5da8240a834e2","5da8245302569","5da824bf3f4cd","5da841ce0cffe","5da841e7d4faf","5da841f1e4c30","5da841fc50b09","5da8422b5aeee","5da8423539719","5da8425db965b","5da842a2d0b10","5daf00ce3d30d","5daf00db457e1","5daf013b4386e"];
         shuffle(ids);
 
-        $(function () {
+        function onload () {
             var slides = $('.slideshow');
             var i = ids.length;
             while (i > 0) {
@@ -777,7 +776,8 @@
                 autoplay: true,
                 autoplaySpeed: 5000
             });
-        });
+        };
+        window.addEventListener('load', onload);
     </script>
 </body>
 </html>
