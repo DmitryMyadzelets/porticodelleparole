@@ -91,8 +91,9 @@ div.stretchy-wrapper > div {
 }
 
 #logo-wrapper {
-    /*logo size ratio*/
-    padding-bottom: 59.69%;
+  /*logo size ratio*/
+  padding-bottom: 59.69%; /* logo with the curved ugly font */
+  /* padding-bottom: 45.56%; logo without the name */
 }
 
 #video-wrapper {
@@ -110,6 +111,9 @@ div.stretchy-wrapper > div {
     -webkit-box-shadow:.2em .1em .3em #888;
     -moz-box-shadow:.2em .1em .3em #888;
     box-shadow:.2em .1em .3em #888;
+}
+.shadow-right{
+    box-shadow:0.2em -0.3em .3em #888;
 }
 
 hr {
@@ -260,6 +264,31 @@ iframe.reviews {
     }
 }
 
+header {
+  position: sticky;
+  /* Must be equal to the headers' content */
+  top: -14rem;
+  background-color: white;
+  z-index: 1;
+}
+
+header > div:first-child {
+  height: 10rem;
+}
+
+header img {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+
+header > h1 {
+  height: 2rem;
+  margin-top: 0.6rem;
+  margin-bottom: 1.4rem;
+  font-size: 2rem;
+  text-align: center;
+}
 
 .price-table,
 .hours-table {
@@ -316,12 +345,10 @@ iframe.reviews {
 }
 
 /* Menu  */
-.main-container.menu {
+.sticky {
   position: sticky;
   top: 0;
   z-index: 2;
-
-  padding-bottom: 0;
 }
 
 ul.menu {

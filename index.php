@@ -98,15 +98,9 @@
 
 <body>
 
-<div class="main-container shadow menu">
-  <?php include $_SERVER['DOCUMENT_ROOT']."/menu.php" ?>
-</div>
+<?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?>
 
 <div class="main-container shadow">
-
-<?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
-
-
 <p>Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!</p>
 
 <?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>

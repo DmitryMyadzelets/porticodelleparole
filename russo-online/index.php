@@ -33,12 +33,9 @@ lezioni di russo online
 </head>
 
 <body>
-<div class="main-container shadow menu">
-  <?php include $_SERVER['DOCUMENT_ROOT']."/menu.php" ?>
-</div>
+<?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?>
 
 <div class="main-container shadow">
-<?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <h1 id="russo-online">Russo online</h1>

@@ -61,19 +61,12 @@
 ?>
 
 <body>
-<div class="main-container shadow menu">
-  <?php include $_SERVER['DOCUMENT_ROOT']."/menu.php" ?>
-</div>
+<?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?>
 
 <div class="main-container shadow">
-
-    <?php include $_SERVER['DOCUMENT_ROOT']."/logo.php" ?>
-
     <h1>Cookie Policy</h1>
-
     <h2>Cosa sono Cookie?</h2>
-    <p>
-        I Cookie sono piccoli file di testo che vengono archiviati dal browser sul vostro computer o dispositivo mobile. Essi permettono ai siti web di archiviare alcune informazioni. Puoi pensare ai Cookie come ad un modo di fornire <q>memoria</q> ad un sito web, permettendogli di riconoscere un utente e comportarsi appropriatamente.
+    <p>I Cookie sono piccoli file di testo che vengono archiviati dal browser sul vostro computer o dispositivo mobile. Essi permettono ai siti web di archiviare alcune informazioni. Puoi pensare ai Cookie come ad un modo di fornire <q>memoria</q> ad un sito web, permettendogli di riconoscere un utente e comportarsi appropriatamente.
     </p>
     
     <h2>Come utilizza Cookie <q>Portico delle Parole</q></h2>
