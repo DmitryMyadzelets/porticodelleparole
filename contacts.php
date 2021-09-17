@@ -27,7 +27,7 @@
     <div class="div-column col-half">
         <p>
             <!-- Olga -->
-            <a href="tel:+393276617027" style="text-decoration: none; color: #444;">
+            <a href="tel:+393276617027" style="text-decoration: none; color: inherit;">
                 <img src="/img/phone-02.svg" alt="Phone" class="svg-icon"
                 title="Chiamaci al Portico delle Parole"
                 />
