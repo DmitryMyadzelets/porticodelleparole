@@ -377,9 +377,56 @@ ul.menu li {
   width: 12.5%; /* 100 / 8 menu items */
 }
 
+.contacts {
+  /* Make an accent with border */
+  padding-left: 0.618em;
+  border-left: solid 1em rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 40em) {
+  /* Show in one raw with some space */
+  .contacts {
+    display: flex;
+    padding: 1em 0;
+  }
+}
+
+p.contact {
+  margin: 0;
+  display: flex;
+  margin-right: 1em;
+}
+
+.contact > a {
+  color: inherit;
+  text-decoration: none;
+  padding: .68em;
+  /* flex related */
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+}
+
+.contact.phone  svg {
+  margin-right: 0.618em;
+}
+.social-networks > a {
+  padding-right: 0.618em;
+}
+
 /* It's related to the menu so is placed here */
 html {
     scroll-padding-top: 4rem; /* Offset for ancors, equal to the menu height */
+}
+
+mark {
+  /* display: inline-block; */
+  /* line-height: 0em; */
+  /* padding-bottom: .6em; */
+  border-radius: 1em 0;
+  padding: 0 .1em;
+  /* background-color: #ffe359; */
+  background-color: rgba(204, 255, 0, 1); /* green */
 }
 
 @media (max-width: 46em) {

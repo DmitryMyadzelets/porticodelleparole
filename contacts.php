@@ -1,69 +1,43 @@
-<div class="div-table contacts-table">
-    <div class="div-column col-half">
-        <p>
-            <a href="https://www.google.com/maps?cid=16854914928900207445" target="_blank">
-                <img src="/img/pin.svg" alt="Indirizzio" class="svg-icon"
-                title="Indirizzio del Portico delle Parole"
-                />Via dell Pratello 9, Bologna
-            </a>
-        </p>
-        <p>
-            <a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
-                <img src="/img/facebook.svg" alt="Facebook logo" class="svg-icon"
-                title="Seguici il Portico delle Parole su Facebook"
-                />Seguici su Facebook
-            </a>
-            <!-- <img src="./img/google.svg" alt="" style="width: 2em; margin-right: 0.5em; vertical-align: middle;"> -->
-        </p>
-        <p>
-             <a href="https://www.instagram.com/porticodelleparole/" TARGET="_blank">
-                <img src="/img/instagram.svg" alt="Instagram logo" class="svg-icon"
-                title="Seguici il Portico delle Parole su Instagram"
-                />Seguici su Instagram
-            </a>
-        </p>
+<?php
+  $phone = include $_SERVER['DOCUMENT_ROOT']."/get-contact-phone.php";
+  include_once $_SERVER['DOCUMENT_ROOT']."/get-phone-localized.php";
+?>
 
-    </div>
-    <div class="div-column col-half">
-        <p>
-            <!-- Olga -->
-            <a href="tel:+393276617027" style="text-decoration: none; color: inherit;">
-                <img src="/img/phone-02.svg" alt="Phone" class="svg-icon"
-                title="Chiamaci al Portico delle Parole"
-                />
-                Tel.
-                <span style="font-size: 168%;">
-                    <span style="">
-                        <?php
-                        $ts = strtotime('2018-07-03');
-                        $te = strtotime('2018-08-21');
-                        $t0 = time();
-                        if ($t0 > $te || $t0 < $ts) {
-                            echo('&nbsp;327&nbsp;661&nbsp;7027'); // Olga
-                        } else {
-                            echo('329 754 2687'); // Yana
-                        }
-                        ?>
-                    </span>
-                </span>
-            </a>
-        </p>
-        <p>
-            <a href="https://wa.me/393276617027">
-                <img src="/img/whatsapp.svg" alt="WhatsApp" class="svg-icon"
-                title="Contattaci su WhatsApp"
-                />
-                Contattaci su WhatsApp
-            </a>
-        </p>
-        <p>
-            <a href="mailto:info@porticodelleparole.it">
-                <!-- style="text-decoration: none; color: #444;" -->
-                <img src="/img/mail.svg" alt="email" class="svg-icon"
-                title="email al Portico delle Parole"
-                />
-                info@porticodelleparole.it
-            </a>
-        </p>
-    </div>
-</div>
+<section class="contacts">
+
+<p class="contact phone">
+<a href="tel:<?php echo $phone;?>">
+<svg id="phone" width="2em" height="2em" xmlns="http://www.w3.org/2000/svg" viewBox="10 10 76 76" fill="currentColor">
+	<path d="M32.3,44.5c4.2,8.3,11,15,19.2,19.2l6.4-6.4c0.8-0.8,2-1,3-0.7c3.3,1.1,6.8,1.7,10.4,1.7
+		c1.6,0,2.9,1.3,2.9,2.9v10.2c0,1.6-1.3,2.9-2.9,2.9c-27.4,0-49.6-22.2-49.6-49.6c0-1.6,1.3-2.9,2.9-2.9h10.2c1.6,0,2.9,1.3,2.9,2.9
+		c0,3.6,0.6,7.1,1.7,10.4c0.3,1,0.1,2.2-0.7,3L32.3,44.5z"/>
+</svg>
+<?php echo getPhoneLocalized($phone);?>
+</a>
+</p>
+
+<p class="contact">
+<a href="mailto:info@porticodelleparole.it">info@porticodelleparole.it</a>
+</p>
+
+<p class="contact social-networks">
+<a href="https://wa.me/393276617027">
+<svg id="watsapp" width="2em" height="2em" viewBox="0 0 448 448" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+<path d="m380.9,65.1c-41.9,-42 -97.7,-65.1 -157,-65.1c-122.4,0 -222,99.6 -222,222c0,39.1 10.2,77.3 29.6,111l-31.5,115l117.7,-30.9c32.4,17.7 68.9,27 106.1,27l0.1,0c122.3,0 224.1,-99.6 224.1,-222c0,-59.3 -25.2,-115 -67.1,-157zm-157,341.6c-33.2,0 -65.7,-8.9 -94,-25.7l-6.7,-4l-69.8,18.3l18.6,-68.1l-4.4,-7c-18.5,-29.4 -28.2,-63.3 -28.2,-98.2c0,-101.7 82.8,-184.5 184.6,-184.5c49.3,0 95.6,19.2 130.4,54.1c34.8,34.9 56.2,81.2 56.1,130.5c0,101.8 -84.9,184.6 -186.6,184.6zm101.2,-138.2c-5.5,-2.8 -32.8,-16.2 -37.9,-18c-5.1,-1.9 -8.8,-2.8 -12.5,2.8c-3.7,5.6 -14.3,18 -17.6,21.8c-3.2,3.7 -6.5,4.2 -12,1.4c-32.6,-16.3 -54,-29.1 -75.5,-66c-5.7,-9.8 5.7,-9.1 16.3,-30.3c1.8,-3.7 0.9,-6.9 -0.5,-9.7c-1.4,-2.8 -12.5,-30.1 -17.1,-41.2c-4.5,-10.8 -9.1,-9.3 -12.5,-9.5c-3.2,-0.2 -6.9,-0.2 -10.6,-0.2c-3.7,0 -9.7,1.4 -14.8,6.9c-5.1,5.6 -19.4,19 -19.4,46.3c0,27.3 19.9,53.7 22.6,57.4c2.8,3.7 39.1,59.7 94.8,83.8c35.2,15.2 49,16.5 66.6,13.9c10.7,-1.6 32.8,-13.4 37.4,-26.4c4.6,-13 4.6,-24.1 3.2,-26.4c-1.3,-2.5 -5,-3.9 -10.5,-6.6z"/>
+</svg>
+</a>
+
+<a href="https://www.instagram.com/porticodelleparole/" TARGET="_blank">
+<svg id="instagram" fill="currentColor" height="2em" width="2em" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<path d="m128 23.064c34.178 0 38.226 0.13007 51.723 0.74589 12.48 0.56958 19.257 2.6548 23.768 4.4072 5.9742 2.322 10.239 5.0962 14.718 9.5751s7.2531 8.7433 9.5746 14.718c1.7529 4.5109 3.8382 11.288 4.4077 23.768 0.61581 13.498 0.74589 17.546 0.74589 51.723 0 34.178-0.13007 38.226-0.74589 51.723-0.56958 12.48-2.6548 19.257-4.4077 23.768-2.3215 5.9742-5.0957 10.239-9.5746 14.718s-8.7433 7.2531-14.718 9.5746c-4.5109 1.7529-11.288 3.8382-23.768 4.4077-13.495 0.61581-17.543 0.74589-51.723 0.74589-34.18 0-38.228-0.13007-51.723-0.74589-12.48-0.56958-19.257-2.6548-23.768-4.4077-5.9747-2.3215-10.239-5.0957-14.718-9.5746s-7.2531-8.7433-9.5746-14.718c-1.7529-4.5109-3.8382-11.288-4.4077-23.768-0.61581-13.498-0.74589-17.546-0.74589-51.723 0-34.178 0.13007-38.226 0.74589-51.723 0.56958-12.48 2.6548-19.257 4.4077-23.768 2.3215-5.9742 5.0957-10.239 9.5746-14.718s8.7433-7.2531 14.718-9.5751c4.5104-1.7524 11.288-3.8377 23.767-4.4072 13.498-0.61581 17.546-0.74589 51.723-0.74589m0-23.064c-34.763 0-39.121 0.14735-52.774 0.77027-13.625 0.62191-22.929 2.7854-31.071 5.9498-8.4171 3.2711-15.555 7.6479-22.671 14.764s-11.493 14.254-14.764 22.671c-3.1644 8.1423-5.3279 17.447-5.9498 31.071-0.62293 13.652-0.76977 18.011-0.76977 52.774 0 34.763 0.14684 39.122 0.76977 52.774 0.62191 13.625 2.7854 22.929 5.9498 31.071 3.2711 8.4166 7.6479 15.555 14.764 22.671s14.254 11.493 22.671 14.764c8.1423 3.1644 17.447 5.3279 31.071 5.9498 13.653 0.62293 18.011 0.76977 52.774 0.76977 34.763 0 39.122-0.14684 52.774-0.76977 13.625-0.62191 22.929-2.7854 31.071-5.9498 8.4171-3.2711 15.555-7.6479 22.671-14.764s11.493-14.254 14.764-22.671c3.1644-8.1423 5.3279-17.447 5.9498-31.071 0.62293-13.652 0.77028-18.011 0.77028-52.774 0-34.763-0.14735-39.122-0.77028-52.774-0.62191-13.625-2.7854-22.929-5.9498-31.071-3.2711-8.4171-7.6479-15.555-14.764-22.671s-14.254-11.493-22.671-14.764c-8.1423-3.1644-17.447-5.3279-31.071-5.9498-13.652-0.62293-18.011-0.77027-52.774-0.77027zm0 62.27c-36.301 0-65.73 29.428-65.73 65.73s29.428 65.73 65.73 65.73 65.73-29.428 65.73-65.73-29.428-65.73-65.73-65.73zm0 108.4c-23.564 0-42.667-19.103-42.667-42.667s19.103-42.667 42.667-42.667 42.667 19.103 42.667 42.667-19.103 42.667-42.667 42.667zm83.687-110.99c0 8.4832-6.8766 15.36-15.36 15.36s-15.36-6.8771-15.36-15.36 6.8771-15.36 15.36-15.36 15.36 6.8766 15.36 15.36z"/>
+</svg>
+</a>
+
+<a href="https://www.facebook.com/porticodelleparole" TARGET="_blank">
+<svg id="facebook" fill="currentColor" height="2em" width="2em" viewBox="0 0 448 448" xmlns="http://www.w3.org/2000/svg">
+  <circle stroke-width="35" stroke="currentColor" fill="none" cx="224.00001" cy="224.00001" id="svg_2" r="202.29575"/>
+  <path d="m195.24887,338.19848l45.94809,0l0,-115.13893l32.10992,0l3.49313,-38.55878l-35.60305,0l0,-22.03359c0,-9.13588 1.88092,-12.62901 10.61374,-12.62901l24.98931,0l0,-40.03664l-31.97557,0c-34.12519,0 -49.57557,15.04733 -49.57557,43.93283l0,30.76641l-24.04886,0l0,38.96183l24.04886,0l0,114.73588z" class="cls-1" id="svg_1"/>
+</svg>
+</a>
+</p>
+</section>

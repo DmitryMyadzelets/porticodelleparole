@@ -110,34 +110,11 @@ if (is_file($fname)) {
 <?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?>
 
 <div class="main-container shadow">
+
+<section hidden>
+<hr>
 <p>Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!</p>
-
-<?php setlocale(LC_ALL, 'it_IT.UTF-8'); ?>
-
-<?php
-    $fname = 'config/config.json';
-
-    $data = @file_get_contents($fname);
-    $config = (array)json_decode($data);
-
-    $start_date = strtotime($config['firstDate']);
-    $now = strtotime("now");
-    $days_left = 1 + floor(($start_date - $now)/(60*60*24));
-
-    $manca = "Mancano solo " . $days_left . " giorni all'inizio delle lezioni!";
-    if ($days_left == 1) {
-        $manca = "Manca solo 1 giorno all'inizio delle lezioni!";
-    }
-
-    if ($days_left > 0) {
-        echo "<div class=\"ads center\"><p>";
-        echo "<b>".$config['firstDateFormatted']."</b> ci sarà la prima lezione del nuovo corso per principianti, intermedi e avanzati.";
-        echo "<br/><b>", $manca, "</b>";
-        echo "<br/>Affrettati! I posti sono limitati.";
-        echo "<br/>Ti aspettiamo!";
-        echo "</p></div>";
-    }
-?>
+</section>
 
 <!--     <div class="center" style="font-size: 1.618em; padding: 1.618em 0; color: red;">
         <p>Contattaci per iscriverti ai corsi estivi di lingua russa. <br>Ti aspettiamo!</p>
@@ -179,13 +156,11 @@ if (is_file($fname)) {
     </p>
 </div>
  -->
- 
-<?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
-<p>
+<p hidden>
     Ciao, привет!
 </p>
-<p>
+<p hidden>
     Vieni da noi all’associazione culturale <b>Portico delle Parole</b>, 
     qui troverai una piccola isola della cultura russa all’interno delle mura di Bologna.
     L’associazione <q>Portico delle Parole</q> è particolarmente apprezzata per il suo <b>ambiente professionale, 
@@ -195,14 +170,21 @@ if (is_file($fname)) {
 
 
 <!-- Video -->
+<p>
 <div class="stretchy-wrapper" id="video-wrapper">
     <div>
         <iframe id="ytplayer" style="width: 100%; height: 100%; border: none;"
           src="https://www.youtube.com/embed/RFPyCgWDbwA?rel=0&controls=0&showinfo=0&origin=https://www.porticodelleparole.it/"></iframe>
     </div>
 </div>
+</p>
 
 <h1 id="corsi-di-russo">Corsi di russo online oppure in sede</h1>
+
+<?php include $_SERVER['DOCUMENT_ROOT']."/news.php" ?>
+
+<?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
+
 <p>Ti insegniamo il russo online su Zoom oppure in sede a Bologna, sia parlato che scritto, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti, un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
 <p>Le nostre lezioni sono interattive e affrontano tutti i vari aspetti linguistici:</p>
 <ul>
