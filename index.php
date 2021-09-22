@@ -653,25 +653,7 @@ if (is_file($fname)) {
 
 
 </div> <!-- main-container shadow -->
-<div class="main-container shadow" hidden>
 
-<h2>Iscriviti online!</h2>
-<p>
-     Compila il modulo e ti contatteremo a breve!
-</p>
-
-<div>
-    <iframe id="iscrizione" src="./iscrizione.php" 
-        onLoad="autoResize('iscrizione');"
-        style="overflow: hidden;"></iframe>
-</div>  
-
-<p>
-    Al momento dell'iscrizione in associazione e del versamento della quota di partecipazione, 
-    verranno stabilite data e orario di inizio della prima lezione.
-</p>
-
-</div> <!-- main-container shadow -->
 <br>
 <div class="main-container shadow">
 
