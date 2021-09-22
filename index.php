@@ -617,7 +617,7 @@ if (is_file($fname)) {
     </div>
 </div>
 
-<div style="display: none">
+<div hidden>
     <h2 id="corso_italiano">Corso di italiano</h2>
     <p>
         Quest'anno c'è una novità! Offriamo infatti anche corsi di lingua e cultura italiane per stranieri, bambini e adulti. Sono lezioni individuali, il cui contenuto si cerca di adattare alle esigenze personali di ogni studente, affinché risultino interessanti e produttive! Il costo è di soli 19 euro all'ora. Sappiamo che cominciare a vivere in un nuovo paese è difficile, e per questo saremo felici di aiutarvi a fare conoscenza meglio e più in fretta con la lingua e la cultura italiane! Vi invitiamo con gioia ai nostri corsi e vi aspettiamo numerosi!
