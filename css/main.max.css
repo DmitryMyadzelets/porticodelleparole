@@ -381,6 +381,7 @@ ul.menu li {
   /* Make an accent with border */
   padding-left: 0.618em;
   border-left: solid 1em rgba(0, 0, 0, 0.1);
+  margin-top: 1em;
 }
 
 @media (min-width: 40em) {
