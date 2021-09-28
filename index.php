@@ -111,11 +111,6 @@ if (is_file($fname)) {
 
 <div class="main-container shadow">
 
-<section hidden>
-<hr>
-<p>Vuoi imparare il <b>russo parlato e scritto</b> in maniera coinvolgente e dinamica, con un metodo d’insegnamento interattivo e ben strutturato? Vieni a scoprire i nostri corsi, <b>con madrelingua russi specializzati nell’insegnamento</b> del russo per stranieri e della cultura russa!</p>
-</section>
-
 <!--     <div class="center" style="font-size: 1.618em; padding: 1.618em 0; color: red;">
         <p>Contattaci per iscriverti ai corsi estivi di lingua russa. <br>Ti aspettiamo!</p>
     </div>
@@ -156,18 +151,6 @@ if (is_file($fname)) {
     </p>
 </div>
  -->
-
-<p hidden>
-    Ciao, привет!
-</p>
-<p hidden>
-    Vieni da noi all’associazione culturale <b>Portico delle Parole</b>, 
-    qui troverai una piccola isola della cultura russa all’interno delle mura di Bologna.
-    L’associazione <q>Portico delle Parole</q> è particolarmente apprezzata per il suo <b>ambiente professionale, 
-    stimolante ed accogliente</b>, nel quale i nostri corsisti apprendono in maniera piacevole e dinamica 
-    la lingua e la cultura russa. Per saperne di più, guarda il video qui sotto.
-</p>
-
 
 <!-- Video -->
 <p>
@@ -619,13 +602,6 @@ if (is_file($fname)) {
     </div>
 </div>
 
-<div hidden>
-    <h2 id="corso_italiano">Corso di italiano</h2>
-    <p>
-        Quest'anno c'è una novità! Offriamo infatti anche corsi di lingua e cultura italiane per stranieri, bambini e adulti. Sono lezioni individuali, il cui contenuto si cerca di adattare alle esigenze personali di ogni studente, affinché risultino interessanti e produttive! Il costo è di soli 19 euro all'ora. Sappiamo che cominciare a vivere in un nuovo paese è difficile, e per questo saremo felici di aiutarvi a fare conoscenza meglio e più in fretta con la lingua e la cultura italiane! Vi invitiamo con gioia ai nostri corsi e vi aspettiamo numerosi!
-    </p>    
-</div>
-
 <h2>
     Attestato di partecipazione
 </h2>
@@ -658,18 +634,12 @@ if (is_file($fname)) {
 
 <br>
 <div class="main-container shadow">
-
 <h2 id="foto">
     Foto
 </h2>
 <div class='slideshow'></div>
-<!-- <div style='position: relative; padding-bottom: 76%; height: 0; overflow: hidden;'>
-    <a data-flickr-embed="true"  href="https://www.flickr.acom/photos/126701579@N07/albums/72157647133686116" title="www.porticodelleparole.it"><img src="https://c8.staticflickr.com/9/8613/15761132183_064d052173_z.jpg" width="640" height="480" alt="www.porticodelleparole.it"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
- -->
-<br>
-
 </div> <!-- main-container shadow -->
+
 <br>
 <div class="main-container shadow">
 <h2 id="nostri-partner">I nostri partner in Russia</h2>
