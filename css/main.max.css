@@ -96,12 +96,17 @@ div.stretchy-wrapper > div {
   /* padding-bottom: 45.56%; logo without the name */
 }
 
-#video-wrapper {
+.video-wrapper {
     /*75% = 480px/640px of the video*/
     /*56.25% = 9/16 of the video*/
     padding-bottom: 56.25%;
 }
 
+.youtube-placeholder {
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
 
 .center {
     text-align: center;
