@@ -24,7 +24,7 @@
 
     <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <?php require $_SERVER['DOCUMENT_ROOT']."/main.css.php" ?>
     <link rel="stylesheet" type="text/css" href="/css/test.css">
 
     <title>

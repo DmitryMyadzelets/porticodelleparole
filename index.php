@@ -57,16 +57,7 @@
 
     <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
-
-<!-- Style versioning  -->
-<?php 
-$fname = $_SERVER['DOCUMENT_ROOT']."/css/version";
-$ver = "";
-if (is_file($fname)) {
-  $ver = file_get_contents($fname);
-}
-?>
-    <link rel="stylesheet" type="text/css" href="/css/main.css?v=<?php echo $ver?>">
+    <?php require $_SERVER['DOCUMENT_ROOT']."/main.css.php" ?>
     <link defer rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
     <link defer rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
 
