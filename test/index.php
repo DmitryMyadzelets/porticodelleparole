@@ -47,7 +47,7 @@
     <p>Mettiti alla prova e valuta il tuo attuale livello di conoscenza della lingua russa! Completa il nostro test diviso in 4 livelli (A1, A2, B1, B2) senza utilizzare alcun manuale o dizionario. Il risultato ti verrà mostrato alla fine della prova.</p>
     <p>Il test è stato elaborato con la collaborazione della scuola di lingua russa <a href="https://enjoyrussian.com/" target="_blank">Enjoy Russian</a>, nostro partner in Russia.</p>
     
-    <ul class='menu' id='level-buttons' style="font-size: larger;"></ul>
+    <ul id='level-buttons'></ul>
     
     <div id="test-content"></div>
     <input type="submit" value="Verificare" id="button-calculate">
