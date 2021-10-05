@@ -38,6 +38,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?>
 
 <div class="main-container shadow">
+<?php include $_SERVER['DOCUMENT_ROOT']."/news.php" ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <section style="padding-bottom: 1.618em;">

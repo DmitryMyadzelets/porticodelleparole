@@ -1,0 +1,151 @@
+  {
+    "caption":"C2",
+    "questions":[
+      {
+        "question":"Он никак не хочет учиться, но, увы, (нам его не заставить) skip.",
+        "answers":{
+          "true":["мы не сможем его заставить"],
+          "false":["мы не должны его заставлять", "мы не хотим его заставлять", "мы его не заставляем"]
+        }
+      },
+      {
+        "question":"Когда я была маленькой, брат всегда skip за меня.",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+
+а) выступал
+б) заступался
+в) приступал
+г) уступал
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      },
+      {
+        "question":"",
+        "answers":{
+          "true":[""],
+          "false":["", ""]
+        }
+      }
+   ]
+  }
+ 
