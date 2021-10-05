@@ -153,11 +153,11 @@ function showResult(counter) {
       text += '<p>Adesso hai risposto a ' + counter.answered + ' domande su ' + counter.total + '.</p>'
     } else {
       const treshold = 15 //75%
-       text += '<p>Hai risposto corretamente a ' + counter.valid + ' domande su ' + counter.total + ' <p>'
+       text += '<p>Hai risposto corretamente a ' + counter.valid + ' domande su ' + counter.total + '.<p>'
       if (counter.valid < treshold) {
         text += '<p>Devi rispondere corretamente ad almeno ' + treshold + ' domande su ' + counter.total + ' per passare il livello.</p>'
       } else {
-        text += '<p>Ottimo! Il livello è superato.</p>'
+        text += '<p>Ottimo! Il livello è <mark>superato</mark>.</p>'
       }
       text += '<p>Contattaci per fissare l’incontro personale gratuito e concludere la verifica del tuo livello con un colloquio orale.</p>'
     }
