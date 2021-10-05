@@ -1,7 +1,7 @@
 <?php
   setlocale(LC_ALL, 'it_IT.UTF-8');
 
-  $fname = 'config/config.json';
+  $fname = $_SERVER['DOCUMENT_ROOT'].'/config/config.json';
 
   $data = @file_get_contents($fname);
   $config = (array)json_decode($data);
