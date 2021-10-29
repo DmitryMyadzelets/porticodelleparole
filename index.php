@@ -271,26 +271,20 @@
     <div class="div-table te-di-sabato-table">
         <div class="div-column col-third">
             <a href="/laboratori/">
-                <h3>
-                    Laboratori linguistici
-                </h3>
                 <img src="//www.porticodelleparole.it/photos/?id=5db17d4bdcd20" alt="Laboratori linguistici">
+                <p>Scopri i numerosi laboratori linguistici</p>
             </a>
         </div>
         <div class="div-column col-third">
             <a href="/te-di-sabato/">
-                <h3>
-                    Tè del sabato
-                </h3>
-                <img src="//www.porticodelleparole.it/photos/?id=5da5c62e59990" alt="Tè del sabato">
+                <img src="//www.porticodelleparole.it/photos/?id=617bc5bfc9bbe" alt="Tè del sabato">
+                <p>Partecipa online agli incontri del Tè del Sabato</p>
             </a>
         </div>
         <div class="div-column col-third">
             <a href="/eventi-speciali/">
-                <h3>
-                    Eventi speciali
-                </h3>
                 <img src="/img/2018-maslenitsa.jpg" alt="Eventi speciali">
+                <p>Consulta l’elenco degli eventi speciali</p>
             </a>
         </div>
     </div>
