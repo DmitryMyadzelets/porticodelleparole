@@ -47,7 +47,7 @@
     <h1 id="test-di-russo">
         Test di russo &mdash; scopri subito il tuo livello
     </h1>
-<p>Questo test online è adatto a tutti i livelli di lingua russa (A1, A2, B1, B2, C1 e C2), si completa velocemente e in maniera anonima. Per passare un livello, rispondi a tutte le 20 domande e commetti non più di 5 errori, senza utilizzare alcun manuale o dizionario.</p>
+<p>Questo test online è adatto a tutti i livelli di lingua russa (A1, A2, B1, B2, C1 e C2), si completa velocemente e in maniera anonima. Per passare un livello, rispondi a tutte le <b>20 domande</b> e commetti non più di 5 errori, senza utilizzare alcun manuale o dizionario.</p>
 <p>Ricorda che qualsiasi test online può fornire solo una stima approssimativa. Se pensi che il tuo livello di russo sia più alto, probabilmente lo è. Contattaci e ti aiuteremo a valutare la tua attuale conoscenza della lingua russa, nonché migliorarla!</p>
    
     <ul id='level-buttons'></ul>
