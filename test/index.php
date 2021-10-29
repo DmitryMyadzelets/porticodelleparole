@@ -47,8 +47,10 @@
     <h1 id="test-di-russo">
         Test di russo &mdash; scopri subito il tuo livello
     </h1>
-    <p>Mettiti alla prova e valuta il tuo attuale livello di conoscenza della lingua russa! Completa il nostro test diviso in 6 livelli (A1, A2, B1, B2, C1 e C2) senza utilizzare alcun manuale o dizionario. Il risultato ti verrà mostrato alla fine della prova.</p>
-    <p>Il test è stato elaborato con la collaborazione della scuola di lingua russa <a href="https://enjoyrussian.com/" target="_blank">Enjoy Russian</a>, nostro partner in Russia.</p>
+<p>Scopri il tuo livello di conoscenza della lingua russa grazie a questo test online, che si completa velocemente e in maniera anonima. Il test è adatto a tutti i livelli di lingua russa (A1, A2, B1, B2, C1 e C2).</p>
+<p>Per passare un livello, rispondi a tutte le 20 domande e commetti non più di 5 errori. Non utilizzare libri di testo o dizionari.</p>
+<p>Ricorda che qualsiasi test online può fornire solo una stima approssimativa. Se pensi che il tuo livello di russo sia più alto, probabilmente lo è. Contattaci e ti aiuteremo a valutare la tua attuale conoscenza della lingua russa, nonché migliorarla!</p>
+<p>Il test è stato elaborato con la collaborazione della scuola di lingua russa <a href="https://enjoyrussian.com/" target="_blank">Enjoy Russian</a>, nostro partner in Russia.</p>
     
     <ul id='level-buttons'></ul>
     
