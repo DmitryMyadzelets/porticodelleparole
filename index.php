@@ -268,7 +268,7 @@
 <h2 id="attivita">Attività</h2>
 <p>Quando si impara una lingua, la pratica e la costanza sono fondamentali, per questo l'associazione Portico delle Parole ti da la possibilità di praticare il russo con svariati tipi di attività extra utili e coinvolgenti, alle quali puoi accedere gratuitamente in quanto corsista. Gli incontri extra ti permetteranno di interagire con studenti, insegnanti e soci, promuovendo così una pratica stimolante della lingua anche oltre l'orario di lezione in un ambiente favorevole al perfezionamento delle capacità linguistiche.
 </p>
-    <div class="div-table te-di-sabato-table">
+    <div class="div-table activities-table">
         <div class="div-column col-third">
             <a href="/laboratori/">
                 <img src="//www.porticodelleparole.it/photos/?id=5db17d4bdcd20" alt="Laboratori linguistici">

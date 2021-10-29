@@ -256,11 +256,18 @@ iframe.reviews {
 }
 
 @media (max-width: 46em) {
+    .activities-table > .div-column,
     .contacts-table > .div-column,
     .price-table > .div-column,
     .hours-table > .div-column {
         width: 100%;
         display: block;
+    }
+
+    .activities-table img {
+      max-width: 30%;
+      float: left;
+      margin-right: 1em;
     }
 }
 
@@ -300,11 +307,13 @@ header > h1 {
     border-bottom: solid 1px gray;
 }
 
+.activities-table > .div-column,
 .special-courses-table .div-column,
 .te-di-sabato-table .div-column {
     padding: 1em 1em 1em 1em;
 }
 
+.activities-table p,
 .te-di-sabato-table p {
     padding: 0;
     margin-bottom: 0;
@@ -318,6 +327,7 @@ header > h1 {
     padding: 1em 1em 0 1em;
 }
 
+.activities-table > .div-column:hover, 
 .partners-table > .div-column:hover, 
 .te-di-sabato-table > .div-column:hover, 
 .special-courses-table > .div-column:hover {
