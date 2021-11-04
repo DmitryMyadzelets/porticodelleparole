@@ -1,17 +1,17 @@
 <!DOCTYPE HTML>
 <html lang="it">
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
-    <link rel="stylesheet" type="text/css" href="/css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>
-        Richesta di adesione - Associazione Portico delle Parole
-    </title>
+  <link rel="stylesheet" type="text/css" href="/css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
 
-    <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
+  <script async src='//api.porticodelleparole.it/js/request.js'></script>
+
+  <title>Richesta di adesione - Associazione Portico delle Parole</title>
+
+  <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
 </head>
 
 <body>
