@@ -1,7 +1,6 @@
 ﻿<!DOCTYPE HTML>
 <html lang="it">
 <head>
-    <meta http-equiv="Content-Security-Policy" content="default-src https:">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <meta name="description" content="Vuoi imparare il russo parlato e scritto in maniera coinvolgente, divertente e sempre motivante? Vieni da noi e fai il Corso di Lingua Russa a Bologna in Associazione Portoco delle Parole"> -->
@@ -59,8 +58,8 @@
     <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
     <?php require $_SERVER['DOCUMENT_ROOT']."/main.css.php" ?>
-    <link defer rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">
-    <link defer rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css">
+    <link defer rel="stylesheet" type="text/css" href="/css/slick.min.css">
+    <link defer rel="stylesheet" type="text/css" href="/css/slick-theme.min.css">
 
     <title>
         Corsi di Russo a Bologna &mdash; Associazione Portico delle Parole
