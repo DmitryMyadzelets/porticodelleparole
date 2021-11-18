@@ -11,7 +11,7 @@
   <body> <?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?> <div class="main-container shadow">
       <h1>Statuto dell'associazione Portico&nbsp;delle&nbsp;Parole</h1>
       <h2 id="1">1. Costituzione, denominazione</h2>
-      <p>È costituita un'Associazione nella forma dell'associazione priva di personalità giuridica con durata illimitata nel tempo e senza scopo di lucro, regolata a norma del Titolo I Cap. III, <a href="https://www.gazzettaufficiale.it/dettaglio/codici/codiceCivile/1_2_1">art. 36</a> e sgg., del codice civile, nonché del presente Statuto.</p>
+      <p>È costituita un'Associazione nella forma dell'associazione priva di personalità giuridica con durata illimitata nel tempo e senza scopo di lucro, regolata a norma del Titolo I Cap. III, art. 36 e sgg., del <a href="https://www.gazzettaufficiale.it/dettaglio/codici/codiceCivile/" target="_blank">Codice civile</a>, nonché del presente Statuto.</p>
       <p>L'Associazione assume la denominazione di "Portico delle Parole".</p>
       <p>L'Associazione ha la propria sede nel Comune di Bologna. La durata è illimitata.</p>
       <h2 id="2">2. Caratteristiche</h2>
