@@ -16,7 +16,7 @@
 
   $header = $config['firstDateFormatted'];
   if ($days == 1) {
-    $manca = "E' <mark>già domani</mark>!";
+    $manca = "È <mark>già domani</mark>!";
   } else {
     $manca = "Mancano <mark>solo ".$days." giorni</mark>!";
   }
