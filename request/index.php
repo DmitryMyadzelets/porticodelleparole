@@ -43,7 +43,7 @@
 
 	<p>
 		<label>
-			<input type="checkbox" name="statute_approved" value="yes" required>
+			<input type="checkbox" name="statute_accepted" value="yes" required>
       Accetto <a href="/statuto" target="_blank">lo Statuto della associazaione</a><br>
 		</label>
 	</p>
