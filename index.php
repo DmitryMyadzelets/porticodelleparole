@@ -102,47 +102,6 @@
 
 <div class="main-container shadow">
 
-<!--     <div class="center" style="font-size: 1.618em; padding: 1.618em 0; color: red;">
-        <p>Contattaci per iscriverti ai corsi estivi di lingua russa. <br>Ti aspettiamo!</p>
-    </div>
- -->
-<!--     <p>
-        Sono già aperte le iscrizioni ai nostri corsi collettivi dei vari livelli ma il numero dei posti è limitato! 
-        Affrettatevi a salpare con noi verso i lidi della lingua e della cultura russe!<br/>Vi aspettiamo con impazienza!
-    </p>
- -->
-<!-- <p class='center'>Siamo aperti per i corsi <b>anche ad agosto</b>.</p> -->
-
-<!-- <p style="color:red" class="center">
-    <a href="#corso_italiano">C'è una novità! Lingua e cultura italiane per stranieri!</a>
-</p>
- -->
-
-<!-- <div style="display: none">
-    <div class="review_photo">
-        <div class="stretchy-wrapper">
-            <div>
-                <img src="/img/petrozavodsk.jpg" alt='Foto of Petrozavodsk'/>
-            </div>
-        </div>
-    </div>
-    <p>
-        Vuoi fare un’esperienza unica in Russia quest’estate? Vuoi fare un’immersione nella lingua russa in Russia? 
-        Allora ti invitiamo a fare il corso di russo a Petrozavodsk, nella fantastica scuola di russo 
-        con la quale siamo convenzionati.
-    </p>
-    <p>
-        Petrozavodsk si trova vicino alla Finlandia, è quindi facile raggiungerla. 
-        La città è situata sul Lago Onega e attorno vi sono tanti altri laghi per cui potrai godere della natura. 
-        Il clima assomiglia al clima della Svezia o della Finlandia. 
-        San Pietroburgo è raggiungibile in treno in 5 ore e mezza.
-    </p>
-    <p>
-        <a href="enjoyrussian">Scoprire di più</a>
-    </p>
-</div>
- -->
-
 <!-- Video -->
 <p>
 <div class="stretchy-wrapper" id="video-wrapper">
@@ -159,44 +118,31 @@
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
-<p>Ti insegniamo il russo online su Zoom oppure in sede a Bologna, sia parlato che scritto, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti madrelingua russi, specializzati nell’insegnamento del russo per stranieri.</p>
-<p>Nei nostri corsi troverai un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento! Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
+<p>Ti insegniamo il russo online su Zoom oppure in sede a Bologna, sia parlato che scritto, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti madrelingua russi, specializzati nell’insegnamento del russo per stranieri. Ci sono 15 classi di livelli differenti, quindi troverai sicuramente la classe più adatta a te!</p>
+<p>Nei nostri corsi troverai un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento!</p>
+<p>Il nostro approccio è dinamico e stimolante: ti diamo le basi grammaticali che puoi mettere subito in pratica in situazioni comunicative concrete.</p>
+<p>L’associazione "Portico delle Parole" è particolarmente apprezzata per il suo ambiente professionale, stimolante ed accogliente, nel quale apprenderai in maniera piacevole e dinamica la lingua e la cultura russa.</p>
 <p>Le nostre lezioni sono interattive e affrontano tutti i vari aspetti linguistici:</p>
 <ul>
-<li>Spiegazione chiara delle regole grammaticali</li>
-<li>Attività di ascolto e di conversazione</li>
-<li>Lettura e comprensione di testi scritti</li>
-<li>Ampliamento del lessico</li>
+  <li>Spiegazione chiara delle regole grammaticali</li>
+  <li>Attività di ascolto e di conversazione</li>
+  <li>Lettura e comprensione di testi scritti</li>
+  <li>Ampliamento del lessico</li>
 </ul>
-<p>Il nostro approccio è dinamico e stimolante: ti diamo le basi grammaticali che puoi mettere subito in pratica in situazioni comunicative concrete.</p>
-<p>Nel corso per principianti di <b>12 lezioni (20 ore)</b> imparerai:</p>
+<p>Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
+<h2>Per i principianti</h2>
+<p>Nel corso per principianti di <b>12 lezioni (20 ore)</b> imparerai: </p>
 <ul>
-<li>L’alfabeto cirillico</li>
-<li>A leggere semplici testi in cirillico</li>
-<li>A presentarti e a parlare di te stesso (età, famiglia, hobby, interessi, professione)</li>
-<li>A sostenere una conversazione su temi quotidiani con un madrelingua russo</li>
-<li>A chiedere informazioni in situazioni comunicative utili durante un viaggio in Russia</li>
+  <li>L’alfabeto cirillico</li>
+  <li>A leggere semplici testi in cirillico</li>
+  <li>A presentarti e a parlare di te stesso (età, famiglia, hobby, interessi, professione)</li>
+  <li>A sostenere una conversazione su temi quotidiani con un madrelingua russo</li>
+  <li>A chiedere informazioni in situazioni comunicative utili durante un viaggio in Russia</li>
 </ul>
-<p>Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="http://it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>.
-</p>
-<p>Per conoscere il <b>programma dei livelli successivi</b>, contattaci direttamente.</p>
-<p>Se non sei un principiante, contattaci per fissare un incontro personale in sede oppure online su zoom e ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello. Ci sono 15 classi di livelli differenti, quindi troverai sicuramente la classe più adatta a te!</p>
-<p>L’associazione "Portico delle Parole" è particolarmente apprezzata per il suo ambiente professionale, stimolante ed accogliente, nel quale apprenderai in maniera piacevole e dinamica la lingua e la cultura russa.</p>
+<h2>Per altri livelli</h2>
+<p>Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="http://it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>. </p>
+<p>Contattaci per fissare un incontro personale gratuito in sede oppure online su Zoom e ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello. Oppure scopri lo subito con il nostro <a href="/test">test di russo online</a>.</p>
 
-<?php
-// <h3>Nel corso sono compresi:</h3>
-
-// <p>
-//     <ul>
-//         <li>Il <b>manuale</b>;
-//         <li>Email settimanali con info, link e altri materiali utili per imparare il russo;
-//         <li>Supporto via email, Facebook, WhatsApp per qualsiasi domanda riguardante i corsi e la lingua russa;
-//         <li><b>Il laboratorio del lessico settimanale</b> (1 ora e 30 minuti);
-//         <li>Lezioni di recupero per eventuali chiarimenti;
-//         <li>Attività culturali gratuite per tutti i corsisti: tè del sabato e gli eventi speciali.
-//     </ul>
-// </p>
-?>
 <h2>Certificazioni TRKI</h2>
 <p><b>Siamo un centro ufficiale di certificazione</b> TRKI/TORFL, e abbiamo stipulato un accordo con l'Università Statale di San Pietroburgo.</p>
 <p>Puoi svolgere l'esame di certificazione nella nostra sede a Bologna. <a href="/trki/#certificazione">Scopri più info</a> sull'esame e quando saranno le prossime sessioni.</p>
@@ -348,31 +294,6 @@
             </p>
         </div>
     </div>
-
-<?php
-//    <div class="review" itemscope itemtype="http://schema.org/Review">
-//        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-//            Anna, <?php echo age('1995-11-18');  anni, Mosca, Russia
-//        </h3>
-//        <div class="review_photo">
-//            <div class="stretchy-wrapper">
-//                <div>
-//                    <img src="/img/surikova.jpg" alt="Foto di Anna"/>
-//                </div>
-//            </div>
-//        </div>
-//            
-//        <div itemprop="reviewbody">
-//            <p>Nel 2017 ho conseguito la laurea in “Pedagogia linguistica” presso l'Università pedagogica di Mosca e, nello stesso anno, mi sono iscritta al corso di laurea magistrale in “Comunicazione pubblica e d’impresa” presso l'Università di Bologna. Qui ho conosciuto l’associazione Portico delle Parole dove insegno dall'ottobre 2017, grazie alla mia laurea e all'esperienza di insegnamento della lingua russa agli stranieri maturata a Mosca.</p>
-//            <div id="surikova_readmore" style="display: none">
-//                <p>Lavoro con studenti di tutti i livelli, inclusi quelli dei corsi collettivi e individuali, ma mi trovi anche ai laboratori del lessico. Per me, come insegnante, è importante vedere l'interesse negli occhi degli studenti, perciò in classe svolgo diversi tipi di attività: esercizi di grammatica, giochi di ruolo, ascolto di canzoni, visione di video da YouTube e di video-lezioni, spezzoni di film, discussioni su vari argomenti, scrittura di composizioni, lettere, e-mail; e inoltre, lettura e analisi di articoli da giornali russi. Questo lavoro mi piace molto perché trovo che sia molto gratificante vedere i miei studenti migliorare di volta in volta, lezione dopo lezione. Non vedo l’ora di fare la tua conoscenza e di introdurti in questo meraviglioso ambiente offerto dall'associazione Portico delle Parole.</p>
-//            </div>
-//            <p>
-//                <a id="surikova_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-//            </p>
-//        </div>
-//    </div>
-?>
 
     <div class="review" itemscope itemtype="http://schema.org/Review">
         <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
