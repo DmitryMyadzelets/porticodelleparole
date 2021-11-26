@@ -49,7 +49,10 @@ body.reviews {
     }
 }
 
-
+ul, ol {
+  /* Make left padding smaller */
+  padding-left: 2.5ch;
+}
 
 p, ul, ol, td {
     font-size: 88%;
