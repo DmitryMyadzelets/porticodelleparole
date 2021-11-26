@@ -142,7 +142,7 @@
   <li>A chiedere informazioni in situazioni comunicative utili durante un viaggio in Russia</li>
 </ul>
 <h2>Per altri livelli</h2>
-<p>Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa. Per informazioni più dettagliate sui livelli puoi consultare il <a href="http://it.russia.edu.ru/rus/levels/" target="_blank">sito ufficiale del Ministero</a>. </p>
+<p>Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa.</p>
 <p>Contattaci per fissare un incontro personale gratuito in sede oppure online su Zoom e ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello. Oppure scopri lo subito con il nostro <a href="/test/#test-di-russo">test di russo online</a>.</p>
 
 <h2>Certificazioni TRKI</h2>
