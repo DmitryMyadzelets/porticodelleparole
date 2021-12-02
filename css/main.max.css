@@ -55,8 +55,8 @@ ul, ol {
 }
 
 p, ul, ol, td {
-    font-size: 88%;
-    line-height: 150%;
+    font-size: 0.88rem;
+    line-height: 1.5rem;
 }
 
 h1, h2, h3 {
