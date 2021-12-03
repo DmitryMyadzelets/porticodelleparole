@@ -5,10 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
 
-  <link rel="stylesheet" type="text/css" href="/css/normalize.css">
-  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link defer rel="stylesheet" type="text/css" href="/css/normalize.css">
+  <link defer rel="stylesheet" type="text/css" href="/css/main.css">
+  <link defer rel="stylesheet" type="text/css" href="http://localhost:9000/bundle.css">
 
-  <script async src='//api.porticodelleparole.it/js/request.js'></script>
+  <script defer src='//api.porticodelleparole.it/js/request.js'></script>
+  <script defer src='http://localhost:9000/index.js'></script>
 
   <title>Richiesta di adesione - Associazione Portico delle Parole</title>
 </head>
@@ -16,36 +18,45 @@
 <body>
 <?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?>
 
-<div class="main-container shadow">
+<div class="main-container shadow" id="app">
   <h1>Richiesta di adesione all'associazione Portico delle Parole</h1>
   <p>In qualita di socio ordinario (quota associativa annuale pari a 20 euro).</p>
+  <?php /*
 	<form method="POST" action="<?php $_PHP_SELF ?>">
 
-	<p>Nome, Cognome
-		<br/>
+	<p>Nome, Cognome<br/>
 		<input type="text" name="name" style="width:100%" required autofocus>
 	</p>
 
-	<p>Data di nascita
-		<br/>
+	<p>Data di nascita<br/>
 		<input type="date" name="birthday" required>
 	</p>
 
-	<p>Indirizzo e-mail
-		<br/>
+	<p>Data di nascita<br/>
+    <fieldset style="display: inline-block; width:4rem; border:none;">
+      <legend style="font-size:small;">&nbsp;Giorno&nbsp;</legend>
+      <input type="text" pattern="[0-9]+" required style="width:100%;">
+    </fieldset>
+    <fieldset style="display: inline-block; width:8rem; border:none;">
+      <legend style="font-size:small;">&nbsp;Mese&nbsp;</legend>
+      <input type="text" required style="width:100%;">
+    </fieldset>
+    <input type="text" required style="width:4rem;">
+	</p>
+
+	<p>Indirizzo e-mail<br/>
 		<input type="email" name="email" style="width:100%" required>
 	</p>
 
-  <p>Numero di telefono
-    <br/>
+  <p>Numero di telefono<br/>
 		<input type="tel" name="phone">
 	</p>
 
 	<p>
 		<label>
 			<input type="checkbox" name="statute_accepted" value="yes" required>
-      Accetto <a href="/statuto" target="_blank">lo Statuto della associazaione</a><br>
-		</label>
+      Accetto <a href="/statuto" target="_blank">lo Statuto della associazaione</a>
+    </label>
 	</p>
 
 	<p>
@@ -60,6 +71,7 @@
   </p>
 
   </form>
+  */?>
 
 </div>
 
