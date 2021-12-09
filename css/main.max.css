@@ -4,7 +4,6 @@ html {
     font: normal 100% "Arial", sans-serif;
 }
 
-
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -17,7 +16,7 @@ body {
     color: #444;
     /*opacity: .9;*/ /*bad - affects also images*/
     background-color: #cddeb0;
-
+    font-size: 0.88rem; 
 }
 
 body.reviews {
@@ -55,7 +54,6 @@ ul, ol {
 }
 
 p, ul, ol, td {
-    font-size: 0.88rem;
     line-height: 1.5rem;
 }
 
