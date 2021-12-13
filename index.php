@@ -437,7 +437,7 @@
             <br/>
             20 ore – 534&#8364; (27,70 all'ora)
             <br/>
-            10 ore – 287&#8364; (29,70 all'ora)
+            10 ore – 287&#8364; (28,70 all'ora)
         </p>
         <p>
             In sede oppure su Skype
