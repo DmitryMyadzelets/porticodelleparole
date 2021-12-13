@@ -21,6 +21,9 @@
 <div class="main-container shadow" id="app">
   <h1>Richiesta di adesione all'associazione Portico delle Parole</h1>
   <p>In qualita di socio ordinario (quota associativa annuale pari a 20 euro).</p>
+  <p class="center">
+    <?php include "oval.svg"?>
+  </p>
   <?php /*
 	<form method="POST" action="<?php $_PHP_SELF ?>">
 
