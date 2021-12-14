@@ -5,12 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
 
-  <link defer rel="stylesheet" type="text/css" href="/css/normalize.css">
-  <link defer rel="stylesheet" type="text/css" href="/css/main.css">
-  <link defer rel="stylesheet" type="text/css" href="http://localhost:9000/bundle.css">
+  <link async rel="stylesheet" type="text/css" href="/css/normalize.css">
+  <link async rel="stylesheet" type="text/css" href="/css/main.css">
+  <link async rel="stylesheet" type="text/css" href="http://localhost:9000/bundle.css">
 
   <script defer src='//api.porticodelleparole.it/js/request.js'></script>
-  <script defer src='http://localhost:9000/index.js'></script>
+  <script>function removeLoader() { document.getElementById('loader').remove() }</script>
+  <script defer src='http://localhost:9000/index.js' onload="removeLoader()"></script>
 
   <title>Richiesta di adesione - Associazione Portico delle Parole</title>
 </head>
@@ -21,7 +22,7 @@
 <div class="main-container shadow" id="app">
   <h1>Richiesta di adesione all'associazione Portico delle Parole</h1>
   <p>In qualita di socio ordinario (quota associativa annuale pari a 20 euro).</p>
-  <p class="center">
+  <p id="loader" class="center">
     <?php include "oval.svg"?>
   </p>
   <?php /*
