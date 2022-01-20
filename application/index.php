@@ -7,10 +7,10 @@
 
   <link async rel="stylesheet" type="text/css" href="/css/normalize.css">
   <link async rel="stylesheet" type="text/css" href="/css/main.css">
-  <link async rel="stylesheet" type="text/css" href="//api.porticodelleparole.it/bundle.css">
+  <link async rel="stylesheet" type="text/css" href="//api.porticodelleparole.it/application.css">
 
   <script>function removeLoader() { document.getElementById('loader').remove() }</script>
-  <script defer src='//api.porticodelleparole.it/index.js' onload="removeLoader()"></script>
+  <script defer src='//api.porticodelleparole.it/application.js' onload="removeLoader()"></script>
 
   <title>Richiesta di adesione - Associazione Portico delle Parole</title>
 </head>
