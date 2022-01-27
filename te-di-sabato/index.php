@@ -47,13 +47,9 @@
   <h1>
       Tè del sabato
   </h1>
-  <p>Quando si impara una lingua la pratica e la costanza sono fondamentali, per questo motivo ti diamo la
-possibilità di ampliare il lessico e apprendere vari aspetti della cultura russa, letteratura,storia, tradizioni,
-viaggi, geografia, economia con il <b>Tè del sabato (Чай по субботам)</b>.</p>
+  <p>Quando si impara una lingua la pratica e la costanza sono fondamentali, per questo motivo ti diamo la possibilità di ampliare il lessico, allenare l'ascolto e apprendere vari aspetti della cultura russa, letteratura, storia, tradizioni, viaggi, geografia e economia con il <b>Tè del sabato (Чай по субботам)</b>.</p>
   <p>Le presentazioni sono in lingua russa tenute da madrelingua, con la traduzione in italiano.</p>
-<p>Ti aspettiamo ogni sabato dalle 11 alle 13, online su Zoom. La prima partecipazione è gratis per tutti,
-dalla seconda ti chiediamo di fare la tessera dell'associazione di 20 euro.</p>
-  <p hidden>Accogliere gli ospiti con tè e biscotti è una delle tradizioni russe più diffuse: per questo abbiamo creato il Tè del sabato (чай по субботам), un'attività <b>gratuita</b> per tutti i tesserati dell'associazione che si svolge <b>due sabati al mese dalle 11 alle 13</b>. Durante gli incontri, potrai assistere a presentazioni <b>in russo con la traduzione in italiano</b> su argomenti sempre diversi riguardanti la storia, la geografia, l'economia, i viaggi in Russia, la cultura e le tradizioni, degustando insieme a noi il classico tè russo in un'atmosfera piacevole e informale. Durante questi incontri avrai la possibilità di conoscere altri studenti e scambiare con loro idee e punti di vista, confrontandoti sui temi proposti.</p>
+<p>Ti aspettiamo due sabate al mese dalle 10:30 alle 12:30, online su Zoom. La prima partecipazione è gratis per tutti, dalla seconda ti chiediamo di fare la tessera dell'associazione di 20 euro.</p>
   <section hidden>
       <p>
           Il Tè del sabato si svolgerà nei seguenti giorni:
