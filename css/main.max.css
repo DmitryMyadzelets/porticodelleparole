@@ -545,5 +545,10 @@ input[type=submit] {
 }
 
 .error {
-  color: red;
+  /* 
+    #b60000 is red which passes the test:
+    https://webaim.org/resources/contrastchecker/ 
+  */
+  color: #b60000;
+  /* color: red; */
 }
