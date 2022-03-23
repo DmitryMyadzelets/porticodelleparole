@@ -384,7 +384,7 @@
                <span style="color:red"> adesso in offerta 257&#8364; (12,85 all'ora)</span>
            </p>
            <p>
-               I gruppi sono formati da 3 &mdash; max. 6 persone.
+               I gruppi sono formati da 3 &mdash; max. 7 persone.
            </p>
            <p>
                Durante il corso sono previste 3 lezioni di recupero.
