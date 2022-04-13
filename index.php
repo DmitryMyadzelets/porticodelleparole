@@ -440,7 +440,7 @@
             10 ore – 287&#8364; (28,70 all'ora)
         </p>
         <p>
-            In sede oppure su Skype
+            In sede oppure su Zoom
         </p>
     </div>
 </div>
