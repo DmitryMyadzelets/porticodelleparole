@@ -88,8 +88,8 @@ russo online
 <p hidden>Le sessioni d'esame dell'anno 2021 si terranno:</p>
 <p>Le prossime sessioni dell'anno 2022 si terranno:</p>
 <ul>
-  <li>24&dash;25 febbraio</li>
   <li>26&dash;27 maggio</li>
+  <li>24&dash;25 novembre</li>
 </ul>
 <p>L’esame può essere svolto anche in una giornata.</p>
 <h2>Dove si tengono gli esami?</h2>
