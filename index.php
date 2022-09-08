@@ -380,11 +380,11 @@
                <h3>In gruppo</h3>
            </div>
            <p>
-               20 ore – <span style="text-decoration: line-through;">290&#8364;</span>
-               <span style="color:red"> adesso in offerta 257&#8364; (12,85 all'ora)</span>
+               20 ore – <span style="text-decoration: line-through;">320&#8364;</span>
+               <span style="color:red"> adesso in offerta 287&#8364; (14,85 all'ora)</span>
            </p>
            <p>
-               I gruppi sono formati da 3 &mdash; max. 7 persone.
+               I gruppi sono formati da 3 &mdash; max. 8 persone.
            </p>
            <p>
                Durante il corso sono previste 3 lezioni di recupero.
