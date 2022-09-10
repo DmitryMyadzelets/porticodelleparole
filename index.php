@@ -446,7 +446,7 @@
 </div>
 
 <p>
-    È obbligatorio il rilascio di una tessera associativa del costo di 20&#8364;.
+    È obbligatorio il rilascio di una tessera associativa del costo di 40&#8364;.
 </p>
 <p>
     Nel corso sono <b>compresi</b>: il manuale, attività linguistico-culturali: tè del sabato, laboratori del lessico e gli eventi speciali.
