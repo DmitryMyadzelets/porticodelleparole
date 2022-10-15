@@ -86,10 +86,10 @@ russo online
 <p>La certificazione di livello A1 ha validità di 5 anni, mentre le certificazioni di livelli A2, B1, B2, C1, C2 non hanno scadenza.</p>
 <h2>Quando si tengono gli esami?</h2>
 <p hidden>Le sessioni d'esame dell'anno 2021 si terranno:</p>
-<p>Le prossime sessioni dell'anno 2022 si terranno:</p>
+<p>Le prossime sessioni dell'anno academico 2022/2023 si terranno:</p>
 <ul>
-  <li>26&dash;27 maggio</li>
-  <li>24&dash;25 novembre</li>
+  <li>24&dash;25 novembre 2022</li>
+  <li>25&dash;26 maggio 2023</li>
 </ul>
 <p>L’esame può essere svolto anche in una giornata.</p>
 <h2>Dove si tengono gli esami?</h2>
