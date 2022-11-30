@@ -298,6 +298,7 @@ header > h1 {
   text-align: center;
 }
 
+.trki-table,
 .price-table,
 .hours-table {
     border: solid 1px gray;

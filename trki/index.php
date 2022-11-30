@@ -48,8 +48,8 @@ russo online
 <p>L'associazione <b>Portico delle Parole è un centro di certificazione ufficiale</b> della lingua russa TRKI/TORFL (Тест по русскому языку как иностранному/ Test of Russian as a foreign language), che ha stipulato un accordo con l'Università Statale di San Pietroburgo.</p>
 <p>La certificazione rilasciata viene riconosciuta dal MIUR (Ministero dell'Istruzione, dell'Università e della Ricerca).</p>
 <h2>Livelli e tariffe delle certificazioni</h2>
-<div class="div-table price-table">
-    <div class="div-column col-third">
+<div class="div-table trki-table">
+    <div class="div-column col-half">
        <div class="col-head">
            <h3>Livello</h3>
        </div>
@@ -60,7 +60,7 @@ russo online
        <p>C1 (padronanza)</p>
        <p>C2 (padronanza)</p>
      </div>
-    <div class="div-column col-third">
+    <div class="div-column col-half">
       <div class="col-head">
         <h3>Codice</h3>
       </div>
@@ -70,17 +70,6 @@ russo online
       <p>TRKI2</p>
       <p>TRKI3</p>
       <p>TRKI4</p>
-    </div>
-    <div class="div-column col-third">
-        <div class="col-head">
-            <h3>Prezzo</h3>
-        </div>
-        <p>77&#8364;</p>
-        <p>97&#8364;</p>
-        <p>107&#8364;</p>
-        <p>117&#8364;</p>
-        <p>127&#8364;</p>
-        <p>137&#8364;</p>
     </div>
 </div>
 <p>La certificazione di livello A1 ha validità di 5 anni, mentre le certificazioni di livelli A2, B1, B2, C1, C2 non hanno scadenza.</p>
