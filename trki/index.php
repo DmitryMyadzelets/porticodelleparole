@@ -112,8 +112,71 @@ russo online
 <h2 id="preparazione">Preparazione all'esame TRKI</h2>
 <p>Ti prepariamo a superare le varie prove di tutti i livelli dell'esame ufficiale TRKI.</p>
 <p>Ti forniamo i materiali adatti e ben organizzati che, insieme alle simulazioni fatte durante il corso e alla competenza dei nostri insegnanti, risulteranno necessari alla preparazione degli esami.</p>
-<p>Sono disponibili sia <a href="/#corsi-di-russo">corsi collettivi in piccoli gruppi che individuali</a>.</p> 
-<p><a href="/#prezzi">Guarda le tariffe</a> dei nostri corsi di russo online su Zoom oppure in sede a Bologna.</p>
+
+<div class="div-table price-table">
+  <div class="div-column col-third">
+     <div class="col-head">
+         <h3>In gruppo</h3>
+     </div>
+     <p>
+         20 ore – <span style="text-decoration: line-through;">380&#8364;</span>
+         <span style="color:red"> adesso in offerta 357&#8364; (17,85 all'ora)</span>
+     </p>
+     <p>
+         I gruppi sono formati da 3 &mdash; max. 5 persone.
+     </p>
+  </div>
+  <div class="div-column col-third">
+      <div class="col-head">
+          <h3>In due</h3>
+      </div>
+      <p>
+          20 ore – 387&#8364; (19,35 all'ora)
+          <br/>
+          10 ore – 207&#8364; (20,70 all'ora)
+      </p>
+      <p>
+          Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
+          <br/>
+          20 ore – 428&#8364; (21,40 all'ora)
+          <br/>
+          10 ore – 227&#8364; (22,70 all'ora)
+      </p>
+      <p>
+          Prezzo a persona
+      </p>
+  </div>
+  <div class="div-column col-third">
+    <div class="col-head">
+        <h3>Individuale</h3>
+    </div>
+    <p>
+        20 ore –
+        <span style="text-decoration: line-through;">517&#8364;</span>
+        <span style="color:red">
+          adesso in offerta 474&#8364; (23,70 all'ora)
+        </span>
+
+        <br/>
+
+        10 ore –
+        <span style="text-decoration: line-through;">317&#8364;</span>
+        <span style="color:red">
+          adesso in offerta 257&#8364; (25,70 all'ora)
+        </span>
+    </p>
+    <p>
+        Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
+        <br/>
+        20 ore – 574&#8364; (28,70 all'ora)
+        <br/>
+        10 ore – 297&#8364; (29,70 all'ora)
+    </p>
+    <p>
+        In sede oppure su Zoom
+    </p>
+  </div>
+</div>
 
 </div>
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
