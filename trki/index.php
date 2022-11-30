@@ -172,11 +172,11 @@ russo online
         <br/>
         10 ore – 297&#8364; (29,70 all'ora)
     </p>
-    <p>
-        In sede oppure su Zoom
-    </p>
   </div>
 </div>
+<p>
+  Preparazione all'esame TRKI si svolge online su Zoom oppure in sede a Bologna.
+</p>
 
 </div>
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts-bottom.php" ?>
