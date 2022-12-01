@@ -79,7 +79,8 @@ and let know the browser the image size before loading it is taken there:;
 http://www.goldenapplewebdesign.com/responsive-aspect-ratios-with-pure-css/*/
 div.stretchy-wrapper {
     position: relative;
-    /* set the padding-bottom as a percentage to the width, inline or other way*/
+    /* padding-bottom: set as a percentage to the width, inline or other way*/
+    overflow: hidden; /* hide the content if padding-bottom is not presize */
 }
 
 /* can use the same trick for another block element either*/
@@ -552,4 +553,14 @@ input[type=submit] {
   */
   color: #b60000;
   /* color: red; */
+}
+
+.block-image {
+  color: gray;
+  font-size: smaller;
+}
+
+.block-image > a:link,
+.block-image > a:visited {
+  color: inherit;
 }
