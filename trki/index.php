@@ -38,6 +38,14 @@ russo online
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <h1 id="certificazione">Certificazione di Lingua Russa TRKI</h1>
+<div class="block-image">
+  <div class="stretchy-wrapper shadow" style="padding-bottom: calc(475%/6.40)">
+    <div>
+      <img src="https://www.porticodelleparole.it/photos/?id=6388b90aafb5f" alt="Foto del certifacato TRKI" loading="lazy"/>
+    </div>
+  </div>
+  <p>L'esempio del tuo futuro certificato</p>
+</div>
 
 <h2>Perchè sostenere l'esame di certificazione?</h2>
 <ul>
@@ -49,13 +57,14 @@ russo online
 <p>La certificazione rilasciata viene riconosciuta dal MIUR (Ministero dell'Istruzione, dell'Università e della Ricerca).</p>
 
 <div class="block-image">
-  <div class="stretchy-wrapper" style="padding-bottom: 67%">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(427%/6.40)">
     <div>
       <img src="https://www.porticodelleparole.it/photos/?id=6388908d736d4" alt="Foto del complesso universitario" loading="lazy"/>
     </div>
   </div>
-Complesso universitario a San Pietroburgo &mdash; 
-Origine:&nbsp;<a href="https://commons.wikimedia.org/w/index.php?curid=70622014" target="_blank">Wikipedia</a>
+  <p>Complesso universitario a San Pietroburgo &mdash; 
+  Origine:&nbsp;<a href="https://commons.wikimedia.org/w/index.php?curid=70622014" target="_blank">Wikipedia</a>
+  </p>
 </div>
 
 <h2>Livelli e prezzo della certificazione</h2>
