@@ -39,12 +39,17 @@ russo online
 
 <h1 id="certificazione">Certificazione di Lingua Russa TRKI</h1>
 <div class="block-image">
-  <div class="stretchy-wrapper shadow" style="padding-bottom: calc(475%/6.40)">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(480%/6.40)">
+    <div>
+      <img src="https://www.porticodelleparole.it/photos/?id=6388dc33a639f" alt="Foto di una studentessa con il suo certifacato TRKI" loading="lazy"/>
+    </div>
+  </div>
+  <div hidden class="stretchy-wrapper" style="padding-bottom: calc(475%/6.40)">
     <div>
       <img src="https://www.porticodelleparole.it/photos/?id=6388b90aafb5f" alt="Foto del certifacato TRKI" loading="lazy"/>
     </div>
   </div>
-  <p>L'esempio del tuo futuro certificato</p>
+  <p>Una felice studentessa con il suo certificato dall'Università Statale di San Pietroburgo dopo aver svolto l'esame presso Portico delle Parole</p>
 </div>
 
 <h2>Perchè sostenere l'esame di certificazione?</h2>
@@ -54,7 +59,7 @@ russo online
   <li>Per avere un riconoscimento ufficiale delle tue conoscenze linguistiche</li>
 </ul>
 <p>L'associazione <b>Portico delle Parole è un centro di certificazione ufficiale</b> della lingua russa TRKI/TORFL (Тест по русскому языку как иностранному/ Test of Russian as a foreign language), che ha stipulato un accordo con l'Università Statale di San Pietroburgo.</p>
-<p>La certificazione rilasciata viene riconosciuta dal MIUR (Ministero dell'Istruzione, dell'Università e della Ricerca).</p>
+<p>La certificazione rilasciata viene riconosciuta dal MIUR (Ministero dell'Istruzione, dell'Università e della Ricerca d'Italia).</p>
 
 <div class="block-image">
   <div class="stretchy-wrapper" style="padding-bottom: calc(427%/6.40)">
