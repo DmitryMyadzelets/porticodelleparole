@@ -560,7 +560,6 @@ input[type=submit] {
   font-size: smaller;
 }
 
-.block-image > a:link,
-.block-image > a:visited {
+.block-image a {
   color: inherit;
 }
