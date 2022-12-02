@@ -548,7 +548,7 @@
 
 <a href="https://www.google.com/maps?cid=16854914928900207445" target="_blank">
   <div class="block-image">
-    <div class="stretchy-wrapper" style="padding-bottom: calc(381%/6.40)">
+    <div class="stretchy-wrapper" style="padding-bottom: calc(380%/6.40)">
       <div>
         <img src="/img/map.png" alt="Mapa: via dell Pratello, 9, Bologna" title="Mapa di Bolgona" loading="lazy">
       </div>
@@ -564,8 +564,13 @@
 <h2 id="foto">
     Foto
 </h2>
-<div class='slideshow'></div>
+<div class="block-image">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(480%/6.40)">
+    <div class='slideshow'></div>
+  </div>
+</div>
 </div> <!-- main-container shadow -->
+
 
 <br>
 <div class="main-container shadow">
