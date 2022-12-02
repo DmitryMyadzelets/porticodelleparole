@@ -39,7 +39,13 @@ lezioni di russo online
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <h1 id="russo-online">Russo online</h1>
-<img src="/img/russo-online-insegnanti.jpg" alt="Insegnianti di russo online" loading="lazy">
+<div class="block-image">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(640%/6.40)">
+    <div>
+      <img src="/img/russo-online-insegnanti.jpg" alt="Insegnianti di russo online" loading="lazy">
+    </div>
+  </div>
+</div>
 <p>Ti diamo la possibilità di imparare il russo online su Zoom con i nostri corsi collettivi di piccoli
 gruppi (3-6 persone max) oppure individuali. Ecco i benefici che offrono le lezioni di russo online:</p>
 <ul>

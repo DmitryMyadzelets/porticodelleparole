@@ -119,7 +119,13 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
 <p>Ti insegniamo il russo online su Zoom oppure in sede a Bologna, sia parlato che scritto, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti madrelingua russi, specializzati nell’insegnamento del russo per stranieri. Ci sono <b>15 classi</b> di livelli differenti, quindi troverai sicuramente la classe più adatta a te!</p>
-<img src="/img/insegnianti.jpg" alt/>
+<div class="block-image">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(360%/8.40)">
+    <div>
+      <img src="/img/insegnianti.jpg" alt="Foto dei insegnianti" loading="lazy"/>
+    </div>
+  </div>
+</div>
 <p>Nei nostri corsi troverai un ricco materiale didattico, grande coinvolgimento e ovviamente un pizzico di divertimento!</p>
 <p>Il nostro approccio è dinamico e stimolante: ti diamo le basi grammaticali che puoi mettere subito in pratica in situazioni comunicative concrete.</p>
 <p>L’associazione "Portico delle Parole" è particolarmente apprezzata per il suo ambiente professionale, stimolante ed accogliente, nel quale apprenderai in maniera piacevole e dinamica la lingua e la cultura russa.</p>
@@ -132,7 +138,14 @@
 </ul>
 <p>Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
 <h2>Per i principianti</h2>
-<img src="/img/levello-principianti.jpg" alt/>
+<div class="block-image">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(360%/8.40)">
+    <div>
+      <img src="/img/levello-principianti.jpg" alt="Foto dei principianti" loading="lazy"/>
+    </div>
+  </div>
+</div>
+
 <p>Nel corso per principianti di <b>12 lezioni (20 ore)</b> imparerai: </p>
 <ul>
   <li>L’alfabeto cirillico</li>
@@ -534,9 +547,15 @@
 </ul>
 
 <a href="https://www.google.com/maps?cid=16854914928900207445" target="_blank">
-<img src="/img/map.png" alt="Map: via dell Pratello, 9, Bologna" title="mapa del Portico delle Parole">
+  <div class="block-image">
+    <div class="stretchy-wrapper" style="padding-bottom: calc(381%/6.40)">
+      <div>
+        <img src="/img/map.png" alt="Mapa: via dell Pratello, 9, Bologna" title="Mapa di Bolgona" loading="lazy">
+      </div>
+    </div>
+  </div>
 </a>
-
+<p/>
 
 </div> <!-- main-container shadow -->
 
@@ -617,7 +636,7 @@
             var el
             while (i > 0) {
                 i = i - 1;
-                el = "<div><div loading='lazy' class='slick-frame'><img data-lazy='//www.porticodelleparole.it/photos/?id=" + ids[i] + "'/></div></div>"
+                el = "<div><div class=\"slick-frame\"><img data-lazy=\"//www.porticodelleparole.it/photos/?id=" + ids[i] + "\" loading=\"lasy\"></div></div>"
                 slides.append(el);
             }
             slides.slick({
