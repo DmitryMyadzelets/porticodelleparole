@@ -573,7 +573,7 @@
     <div class="div-table partners-table">
         <a href="//enjoyrussian.com">
             <div class="div-column col-fourth">
-                <img src="//enjoyrussian.com/wp-content/uploads/2017/05/logo_bez_fona.png" alt="Logo">
+                <img src="/img/logo-enjoyrussian.webp" alt loading="lasy">
                 <p>
                     Enjoy Russian Language School
                 </p>
@@ -581,7 +581,7 @@
         </a>
         <a href="//lidenz.ru">
             <div class="div-column col-fourth">
-                <img src="//lidenz.ru/wp-content/uploads/2016/12/newlogo.jpg" alt="Logo">
+                <img src="/img/logo-lidendenz.webp" alt loading="lasy">
                 <p>
                     Liden &amp; Denz Intercultural Institute of Languages
                 </p>
@@ -589,7 +589,7 @@
         </a>
         <a href="//ruslanguage.ru">
             <div class="div-column col-fourth">
-                <img src="//ruslanguage.ru/wp-content/uploads/2019/03/ruslanguage_logo_color1.svg" alt="Logo">
+                <img src="//ruslanguage.ru/wp-content/uploads/2019/03/ruslanguage_logo_color1.svg" alt loading="lasy">
                 <p>
                     Ruslanguage Russian Language School
                 </p>
@@ -597,7 +597,7 @@
         </a>
         <a href="//educalanguageschool.com">
             <div class="div-column col-fourth">
-                <img src="//educalanguageschool.com/wp-content/uploads/2017/06/logo_school.svg" alt="Logo">
+                <img src="//educalanguageschool.com/wp-content/uploads/2017/06/logo_school.svg" alt loading="lasy">
                 <p>
                     Educa Russian Language School
                 </p>
