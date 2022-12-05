@@ -120,9 +120,9 @@
 
 <p>Ti insegniamo il russo online su Zoom oppure in sede a Bologna, sia parlato che scritto, e proponiamo un percorso ben strutturato per <b>tutti i livelli (A1, A2, B1, B2, C1)</b>, offrendoti la professionalità e l'entusiasmo dei nostri insegnanti madrelingua russi, specializzati nell’insegnamento del russo per stranieri. Ci sono <b>15 classi</b> di livelli differenti, quindi troverai sicuramente la classe più adatta a te!</p>
 <div class="block-image">
-  <div class="stretchy-wrapper" style="padding-bottom: calc(360%/8.40)">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(444%/8.40)">
     <div>
-      <img src="/img/insegnianti.jpg" alt="Foto dei insegnianti" loading="lazy"/>
+      <img src="/img/insegnianti.webp" alt="Foto degli insegnianti" loading="lazy" title="Gli insegnianti di Portico delle Parole"/>
     </div>
   </div>
 </div>
