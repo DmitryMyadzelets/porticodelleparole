@@ -286,32 +286,6 @@
 
     <div class="review" itemscope itemtype="http://schema.org/Review">
         <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Iana, <?php echo age('1987-04-15'); ?> anni, Mosca, Russia
-        </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/yana.jpg" alt="Foto di Iana"/>
-                </div>
-            </div>
-        </div>
-            
-        <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
-            <p>Insegno al Portico delle Parole da febbraio 2016. Per un apprendimento veloce ed efficace del russo ti servono tre cose: volontà, motivazione e un insegnante che sostenga  questi due aspetti fondamentali. Al Portico delle Parole ti viene garantito un apprendimento produttivo e dinamico grazie alle lezioni ben strutturate e al tempo stesso interattive che coinvolgono tutti gli aspetti linguistici: fonetica, grammatica, lessico, ascolto, lettura e scrittura.</p>
-            <div id="yana_readmore" style="display: none">
-                <p>Grazie alla mia esperienza pluriennale e al mio percorso di studi incentrato sull’insegnamento della lingua russa come lingua straniera all'Università Statale di Mosca, preparo i programmi per i corsi collettivi e per quelli individuali, adattandoli alle esigenze degli studenti.</p>
-                <p>I miei corsisti hanno superato con successo sia gli esami all'università in Italia sia i corsi universitari per i programmi di scambio a Mosca e a San Pietroburgo. Molti di loro, inoltre, sono stati in Russia per lavoro, per viaggi, e hanno partecipato a numerose conferenze in Russia.</p>
-                <p>Oltre a questo, lavoro anche con bambini bilingue. Con loro mi occupo di lingua russa seguendo il programma scolastico ministeriale della Federazione Russa. E, naturalmente, impariamo a leggere, scrivere e parlare, giocando. I miei piccoli studenti superano con successo esami in russo sia in Italia che in Russia.</p>
-                <p>Spero di vederti al Portico delle Parole dove troverai un ambiente professionale, stimolante ed accogliente.</p>
-            </div>
-            <p>
-                <a id="yana_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
-            </p>
-        </div>
-    </div>
-
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
             Liubov, <?php echo age('1988-04-21'); ?> anni, Irkutsk, Russia
         </h3>
         <div class="review_photo">
