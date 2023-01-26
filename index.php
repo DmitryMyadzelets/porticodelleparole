@@ -327,7 +327,8 @@
     <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
         <h3>
           <span itemprop="name">Maria</span>,
-          <span itemprop="birthPlace">Russia</span>
+          <?php echo age('1992-05-11'); ?> anni,
+          <span itemprop="birthPlace">San Pietroburgo, Russia</span>
         </h3>
         <div class="photo">
           <img src="/img/egorova.webp" alt="Foto di Maria"/>
@@ -342,7 +343,8 @@
     <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
         <h3>
           <span itemprop="name">Veronika</span>,
-          <span itempro="birthPlace">Belorussia</span>
+          <?php echo age('1996-03-06'); ?> anni,
+          <span itempro="birthPlace">Minsk, Belorussia</span>
         </h3>
         <div class="photo">
             <img src="/img/veronika.webp" alt="Foto di Veronika"/>
