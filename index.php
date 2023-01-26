@@ -344,12 +344,11 @@
         <div class="photo">
             <img src="/img/veronika.webp" alt="Foto di Veronika"/>
         </div>
+            
         <div itemprop="description">
-          <p></p>
         </div>
     </div>
 </div>
-
 
 </div> <!-- main-container shadow -->
 <br>

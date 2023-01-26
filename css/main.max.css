@@ -202,6 +202,7 @@ div[itemprop="instructor"] {
 div[itemprop="instructor"] > .photo {
   float: left;
   width: 160px;
+  height: 160px;
   margin-right: 1em;
 }
 
