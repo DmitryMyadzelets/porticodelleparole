@@ -26,6 +26,7 @@ body.reviews {
 .main-container {
     background: white; 
     padding: 0 1em;
+    padding-bottom:1em;
     overflow: hidden;
 }
 
@@ -44,7 +45,6 @@ body.reviews {
 
     .main-container {
         padding: 0 2em;
-        padding-bottom: 0.618em;
     }
 }
 
@@ -192,6 +192,20 @@ div.review_photo {
 div.review_photo > div {
     /*see stretchy-wrapper class*/
     padding-bottom: 100%;
+}
+
+div[itemprop="instructor"] {
+  overflow: hidden;
+}
+
+div[itemprop="instructor"] > .photo {
+  float: left;
+  width: 160px;
+  margin-right: 1em;
+}
+
+div[itemprop="instructor"] > div[itemprop="description"] {
+    font-style: italic;
 }
 
 [itemprop="reviewbody"] {
