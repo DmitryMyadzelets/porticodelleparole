@@ -9,7 +9,7 @@
     <meta name="keywords" content="corso di russo a bologna,
     lezioni di russo online,
     corso di russo online,
-    corso di russo bologna,
+    orso di russo bologna,
     come studiare russo,
     come studiare bene russo,
     come studiare la lingua russa,
@@ -259,19 +259,17 @@
     I nostri insegnanti sono tutti <b>madrelingua russi</b>, specializzati nell'insegnamento della lingua russa per stranieri:
 </p>
 
-<div class="reviews">
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Olga, <?php echo age('1987-10-21'); ?> anni, Irkutsk (Siberia), Russia
+<div class="instructors">
+    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+        <h3>
+          <span itemprop="name">Olga</span>, 
+          <?php echo age('1987-10-21'); ?> anni,
+          <span itemprop="birthPlace">Irkutsk (Siberia), Russia</span>
         </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/olga-m.webp" alt="Foto di Olga"/>
-                </div>
-            </div>
+        <div class="photo">
+          <img src="/img/olga-m.webp" alt="Foto di Olga"/>
         </div>
-        <div itemprop="reviewbody" itemscope itemtype="http://schema.org/Text">
+        <div itemprop="description">
             <p>Sono una dei fondatori dell’associazione “Portico delle Parole”. L’associazione è nata nell’ottobre del 2013 con l’obbiettivo di creare un centro di didattica della lingua russa e di costruire un ponte tra la cultura russa e quella italiana.</p>
             <div id="olga_readmore" style="display: none;">
                 <p>Il mio lavoro presso l’associazione include l'insegnamento della lingua russa e la gestione della scuola e delle varie attività didattiche che proponiamo. Mi sono specializzata nell’insegnamento del russo come lingua straniera presso l'Università statale di Mosca e dal 2010 impartisco lezioni di russo, la mia lingua madre, a studenti americani e italiani. Grazie alla mia formazione didattica e professionale ho avuto l’opportunità di approfondire e mettere in pratica le tecniche più adeguate all’insegnamento della lingua russa.</p>
@@ -284,19 +282,16 @@
         </div>
     </div>
 
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Liubov, <?php echo age('1988-04-21'); ?> anni, Irkutsk, Russia
+    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+        <h3>
+          <span itemprop="name">Liubov<span>,
+          <?php echo age('1988-04-21'); ?> anni,
+          <span itemprop="birthPlace"> Irkutsk, Russia</span>
         </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/ermolaeva.webp" alt="Foto di Liuba"/>
-                </div>
-            </div>
+        <div class="photo">
+          <img src="/img/ermolaeva.webp" alt="Foto di Liuba"/>
         </div>
-            
-        <div itemprop="reviewbody">
+        <div itemprop="description">
             <p>Da marzo 2016 insegno lingua russa al Portico delle Parole. Mi sono laureata all’università pedagogica di Irkutsk e ho terminato i corsi di insegnamento del russo come lingua straniera all’Università Statale di Mosca. Grazie alla mia laurea, mi occupo della preparazione dei materiali didattici per i corsi collettivi e individuali, incluso il laboratorio del lessico, e della creazione del materiale audiovisivo per tutti i livelli.</p>
             <div id="ermolaeva_readmore" style="display: none">
                 <p>Generalmente, tengo lezioni individuali o a due, e il corso di russo per il business. In questi anni, molti dei miei studenti sono stati in Russia per lavoro, per l’università, o semplicemente per turismo. Sin dalla prima lezione cerco subito di coinvolgerti nell&#39;apprendimento della lingua russa con il supporto di materiali audiovisivi e mettendo subito in pratica gli argomenti di grammatica. Molti dei miei studenti sono lavoratori, per questo le mie lezioni sono molto flessibili e possiamo concordare insieme di volta in volta la lezione, secondo le tue esigenze.</p>
@@ -308,19 +303,16 @@
         </div>
     </div>
 
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Anna, <?php echo age('1996-05-08'); ?> anni, Voronezh, Russia
+    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+        <h3>
+          <span itemprop="name">Anna<span>,
+          <?php echo age('1996-05-08'); ?> anni,
+          <span itemprop="birthPlace">Voronezh, Russia</span>
         </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/stepina.webp" alt="Foto di Anna"/>
-                </div>
-            </div>
+        <div class="photo">
+            <img src="/img/stepina.webp" alt="Foto di Anna"/>
         </div>
-            
-        <div itemprop="reviewbody">
+        <div itemprop="description">
             <p>Nel 2017 mi sono laureata in <q>Linguistica</q> presso l'Università Statale di Voronezh, dove ho ottenuto anche il certificato in <q>Didattica del russo come lingua straniera</q>. All'Università di Bologna ho deciso di continuare gli studi in glottodidattica, iscrivendomi al corso di laurea magistrale in <q>Lingua e Cultura Italiane per Stranieri</q>. Da ottobre 2019 insegno russo presso il Portico delle Parole.</p>
             <div id="stepina_readmore" style="display: none">
                 <p>Le lingue sono sempre state la mia passione, sia studiarle e perfezionarle, che insegnarle. In Italia ho realizzato questa passione e ho maturato esperienza insegnando la lingua russa a studenti, viaggiatori e professionisti italiani di vari livelli. Mi piace condividere le mie conoscenze e vedere il risultato e l'utilità del mio lavoro nei successi dei miei studenti. Oltre a insegnare la lingua, cerco sempre di coltivare e trasmettere l'interesse per la cultura del mio paese: il mio lavoro da insegnante è molto stimolante, creativo e divertente; mi spinge a imparare cose nuove per poi trasmetterle agli studenti.</p>
@@ -332,35 +324,28 @@
         </div>
     </div>
 
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Maria, Russia
+    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+        <h3>
+          <span itemprop="name">Maria</span>,
+          <span itemprop="birthPlace">Russia</span>
         </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/egorova.webp" alt="Foto di Maria"/>
-                </div>
-            </div>
+        <div class="photo">
+          <img src="/img/egorova.webp" alt="Foto di Maria"/>
         </div>
-            
-        <div itemprop="reviewbody">
+        <div itemprop="description">
         </div>
     </div>
 
-    <div class="review" itemscope itemtype="http://schema.org/Review">
-        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
-            Veronika, Belorussia
+    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+        <h3>
+          <span itemprop="name">Veronika</span>,
+          <span itempro="birthPlace">Belorussia</span>
         </h3>
-        <div class="review_photo">
-            <div class="stretchy-wrapper">
-                <div>
-                    <img src="/img/veronika.webp" alt="Foto di Veronika"/>
-                </div>
-            </div>
+        <div class="photo">
+            <img src="/img/veronika.webp" alt="Foto di Veronika"/>
         </div>
-            
-        <div itemprop="reviewbody">
+        <div itemprop="description">
+          <p></p>
         </div>
     </div>
 </div>
