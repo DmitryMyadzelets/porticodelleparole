@@ -333,6 +333,9 @@
           <img src="/img/egorova.webp" alt="Foto di Maria"/>
         </div>
         <div itemprop="description">
+          <p>Laureata in Lingua e Letteratura Russa presso l'Università Statale di San Pietroburgo e nel 2017 ho conseguito un Master di secondo livello in Lingue e Culture ad Heidelberg-Germania.</p>
+          <p>La mia carriera come insegnante di Lingua Russa nasce a San Pietroburgo nel 2013, ho proseguito ad insegnare in altre realtà come a Singapore nel 2016 fino a ritrovarmi in un bellissimo team a Bologna presso il Portico delle Parole.</p>
+          <p>Vivo la preparazione e la pratica dell'insegnamento con un interesse mai esausto tanto per la didattica quanto per l’approccio allo studio della letteratura.</p>
         </div>
     </div>
 
