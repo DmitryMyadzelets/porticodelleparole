@@ -1,60 +1,89 @@
 {
   "@context":"https://schema.org",
-  "@graph":[
+  "@type":"ItemList",
+  "itemListElement":[
     {
-      "@type":"Course",
-      "name":"Russo",
-      "description":"Il corso da 20 ore in 12 lezioni di russo parlato e scritto, sia in sede a Bologna sia online su Zoom. Per tutti i livelli (A1, A2, B1, B2, C1).",
-      "provider":{
-        "@id":"https://porticodelleparole.it/#organization"
+      "@type":"ListItem",
+      "position":1,
+      "item":{
+        "@type":"Course",
+        "name":"Russo",
+        "description":"Il corso da 20 ore in 12 lezioni di russo parlato e scritto, sia in sede a Bologna sia online su Zoom. Per tutti i livelli (A1, A2, B1, B2, C1).",
+        "provider":{
+          "@id":"https://porticodelleparole.it/#organization"
+        }
       }
     },
     {
-      "@type":"Course",
-      "name":"Russo per l'azienda",
-      "description":"Relazioni commerciali con la Federazione Russa e i paesi russofoni, terminologia aziendale e corrispondenza commerciale.",
-      "provider":{
-        "@id":"https://porticodelleparole.it/#organization"
+      "@type":"ListItem",
+      "position":2,
+      "item":{
+        "@type":"Course",
+        "name":"Russo per l'azienda",
+        "description":"Relazioni commerciali con la Federazione Russa e i paesi russofoni, terminologia aziendale e corrispondenza commerciale.",
+        "provider":{
+          "@id":"https://porticodelleparole.it/#organization"
+        }
       }
     },
     {
-      "@type":"Course",
-      "name":"Russo per preparazione esami universitari",
-      "description":"Il corso ti permetterà di superare sia la parte scritta che quella orale degli esami universitari di lingua russa.",
-      "provider":{
-        "@id":"https://porticodelleparole.it/#organization"
+      "@type":"ListItem",
+      "position":3,
+      "item":{
+        "@type":"Course",
+        "name":"Russo per preparazione esami universitari",
+        "description":"Il corso ti permetterà di superare sia la parte scritta che quella orale degli esami universitari di lingua russa.",
+        "provider":{
+          "@id":"https://porticodelleparole.it/#organization"
+        }
       }
     },
     {
-      "@type":"Course",
-      "name":"Russo per adozione",
-      "description":"Programma speciale per genitori che vogliono adottare un bambino russo.",
-      "provider":{
-        "@id":"https://porticodelleparole.it/#organization"
+      "@type":"ListItem",
+      "position":4,
+      "item":{
+        "@type":"Course",
+        "name":"Russo per adozione",
+        "description":"Programma speciale per genitori che vogliono adottare un bambino russo.",
+        "provider":{
+          "@id":"https://porticodelleparole.it/#organization"
+        }
       }
     },
     {
-      "@type":"Course",
-      "name":"Russo per viaggiare",
-      "description":"Programma per imparare come usare la lingua russa nelle situazioni di viaggio più comuni.",
-      "provider":{
-        "@id":"https://porticodelleparole.it/#organization"
+      "@type":"ListItem",
+      "position":5,
+      "item":{
+        "@type":"Course",
+        "name":"Russo per viaggiare",
+        "description":"Programma per imparare come usare la lingua russa nelle situazioni di viaggio più comuni.",
+        "provider":{
+          "@id":"https://porticodelleparole.it/#organization"
+        }
       }
     },
     {
-      "@type":"Course",
-      "name":"Preparazione all'esame di ТРКИ-TORFL",
-      "description":"Ti prepariamo a superare delle prove di tutti i livelli dell'esame ufficiale di certificazione internazionale TORFL.",
-      "provider":{
-        "@id":"https://porticodelleparole.it/#organization"
+      "@type":"ListItem",
+      "position":6,
+      "item":{
+        "@type":"Course",
+        "name":"Preparazione all'esame di ТРКИ-TORFL",
+        "description":"Ti prepariamo a superare delle prove di tutti i livelli dell'esame ufficiale di certificazione internazionale TORFL.",
+        "provider":{
+          "@id":"https://porticodelleparole.it/#organization"
+        }
       }
     },
     {
-      "@type":"Course",
-      "name":"Corso di conversazione",
-      "description":"Un corso dedicato esclusivamente alla conversazione in lingua russa.",
-      "provider":{
-        "@id":"https://porticodelleparole.it/#organization"
+      "@type":"ListItem",
+      "position":7,
+      "item":{
+        "@type":"Course",
+        "name":"Corso di conversazione",
+        "description":"Un corso dedicato esclusivamente alla conversazione in lingua russa.",
+        "provider":{
+          "@id":"https://porticodelleparole.it/#organization"
+        }
       }
     }
   ]

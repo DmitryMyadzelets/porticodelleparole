@@ -139,7 +139,7 @@
 <p>Al termine di ogni corso di 20 ore, puoi proseguire col corso successivo.</p>
 <h2>Per i principianti</h2>
 <div class="block-image">
-  <div class="stretchy-wrapper" style="padding-bottom: calc(360%/8.40)">
+  <div class="stretchy-wrapper" style="padding-bottom: calc(574%/11.40)">
     <div>
       <img src="/img/levello-principianti.jpg" alt="Foto dei principianti" loading="lazy"/>
     </div>
@@ -267,7 +267,7 @@
         <div class="review_photo">
             <div class="stretchy-wrapper">
                 <div>
-                    <img src="/img/olga.jpg" alt="Foto di Olga"/>
+                    <img src="/img/olga-m.webp" alt="Foto di Olga"/>
                 </div>
             </div>
         </div>
@@ -291,7 +291,7 @@
         <div class="review_photo">
             <div class="stretchy-wrapper">
                 <div>
-                    <img src="/img/ermolaeva.jpg" alt="Foto di Liubov"/>
+                    <img src="/img/ermolaeva.webp" alt="Foto di Liuba"/>
                 </div>
             </div>
         </div>
@@ -315,13 +315,13 @@
         <div class="review_photo">
             <div class="stretchy-wrapper">
                 <div>
-                    <img src="//www.porticodelleparole.it/photos/?id=5db81fc47c2c0" alt="Foto di Anna"/>
+                    <img src="/img/stepina.webp" alt="Foto di Anna"/>
                 </div>
             </div>
         </div>
             
         <div itemprop="reviewbody">
-            <p>Nel 2017 mi sono laureata in <q>Linguistica</q> presso l'Università Statale di Voronezh, dove ho ottenuto anche il certificato in <q>Didattica del russo come lingua straniera</q>. All'Università di Bologna ho deciso di continuare gli studi in glottodidattica, iscrivendomi al corso di laurea magistrale in <q>Lingua e Cultura Italiane per Stranieri</q>. Da ottobre 2019 insegno russo presso il Portico Delle Parole.</p>
+            <p>Nel 2017 mi sono laureata in <q>Linguistica</q> presso l'Università Statale di Voronezh, dove ho ottenuto anche il certificato in <q>Didattica del russo come lingua straniera</q>. All'Università di Bologna ho deciso di continuare gli studi in glottodidattica, iscrivendomi al corso di laurea magistrale in <q>Lingua e Cultura Italiane per Stranieri</q>. Da ottobre 2019 insegno russo presso il Portico delle Parole.</p>
             <div id="stepina_readmore" style="display: none">
                 <p>Le lingue sono sempre state la mia passione, sia studiarle e perfezionarle, che insegnarle. In Italia ho realizzato questa passione e ho maturato esperienza insegnando la lingua russa a studenti, viaggiatori e professionisti italiani di vari livelli. Mi piace condividere le mie conoscenze e vedere il risultato e l'utilità del mio lavoro nei successi dei miei studenti. Oltre a insegnare la lingua, cerco sempre di coltivare e trasmettere l'interesse per la cultura del mio paese: il mio lavoro da insegnante è molto stimolante, creativo e divertente; mi spinge a imparare cose nuove per poi trasmetterle agli studenti.</p>
                 <p>Ti aspettiamo qui, al Portico delle Parole, dove, grazie alle nostre lezioni e numerose attività ed eventi culturali, ti immergerai nella cultura e lingua russa!</p>
@@ -329,6 +329,38 @@
             <p>
                 <a id="stepina_readmore_btn" style="cursor: pointer; text-decoration: underline;"></a>
             </p>
+        </div>
+    </div>
+
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Maria, Russia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="/img/egorova.webp" alt="Foto di Maria"/>
+                </div>
+            </div>
+        </div>
+            
+        <div itemprop="reviewbody">
+        </div>
+    </div>
+
+    <div class="review" itemscope itemtype="http://schema.org/Review">
+        <h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+            Veronika, Belorussia
+        </h3>
+        <div class="review_photo">
+            <div class="stretchy-wrapper">
+                <div>
+                    <img src="/img/veronika.webp" alt="Foto di Veronika"/>
+                </div>
+            </div>
+        </div>
+            
+        <div itemprop="reviewbody">
         </div>
     </div>
 </div>
