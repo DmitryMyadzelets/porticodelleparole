@@ -72,7 +72,7 @@ russo online
   </p>
 </div>
 
-<h2>Livelli e prezzo della certificazione</h2>
+<h2>Livelli della certificazione</h2>
 <div class="div-table trki-table">
     <div class="div-column col-half">
        <div class="col-head">
@@ -98,6 +98,7 @@ russo online
     </div>
 </div>
 <p>La certificazione di livello A1 ha validità di 5 anni, mentre le certificazioni di livelli A2, B1, B2, C1, C2 non hanno scadenza.</p>
+<h2>Prezzo</h2>
 <p>
   Il prezzo per la certificazione è di 140&#8364; per ogni livello. 
 </p>
