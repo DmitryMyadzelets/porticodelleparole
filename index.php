@@ -351,6 +351,11 @@
         </div>
             
         <div itemprop="description">
+          <p>Laureata in giornalismo all’Università Statale in Bielorussia dove, successivamente,
+  ho lavorato due anni come giornalista televisiva approfondendo sempre più la stilistica della lingua russa. 
+  Ho proseguito con il master di secondo livello in Public Relations a Varsavia e Laurea magistrale in organizzazione dei media all’Universita di Bologna.</p>
+          <p>Considero un aspetto molto importante creare una buona atmosfera durante la lezione, parlare in lingua russa con gli studenti anche a livello base, trovando nuovi approcci e metodi adatti allo studente.</p>
+          <p>Insegno russo dal 2018 ed ho capito che è diventata una parte importante della mia vita insieme alla famiglia Portico delle Parole.</p>
         </div>
     </div>
 </div>
