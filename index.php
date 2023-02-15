@@ -47,6 +47,8 @@
     preparazione esami universitari a Bologna,
     ">
 
+    <link rel="canonical" href="https://www.porticodelleparole.it/" />
+
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@BolognaRusso" />
