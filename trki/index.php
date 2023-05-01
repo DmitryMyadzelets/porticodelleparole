@@ -105,8 +105,8 @@ russo online
 <h2>Quando si tengono gli esami?</h2>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
-  <li>24 marzo 2023</li>
   <li>26 maggio 2023</li>
+  <li>27 ottobre 2023</li>
   <li>24 novembre 2023</li>
 </ul>
 <h2>Dove si tengono gli esami?</h2>
