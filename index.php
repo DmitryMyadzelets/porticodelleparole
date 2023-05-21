@@ -47,7 +47,7 @@
     preparazione esami universitari a Bologna,
     ">
 
-    <link rel="canonical" href="https://www.porticodelleparole.it/" />
+    <link rel="canonical" href="https://www.porticodelleparole.it" />
 
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary" />
