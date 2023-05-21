@@ -104,6 +104,8 @@
 
 <div class="main-container shadow">
 
+<?php echo '>'; echo before('2023-06-01'); ?>
+
 <!-- Video -->
 <p>
 <div class="stretchy-wrapper" id="video-wrapper">
@@ -305,7 +307,7 @@
         </div>
     </div>
 
-    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+      <div <?php echo before('2023-06-01') ? '' : 'hidden'; ?> itemprop="instructor" itemscope itemtype="http://schema.org/Person">
         <h3>
           <span itemprop="name">Anna<span>,
           <?php echo age('1996-05-08'); ?> anni,
