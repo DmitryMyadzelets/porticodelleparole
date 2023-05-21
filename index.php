@@ -103,9 +103,6 @@
 <?php include $_SERVER['DOCUMENT_ROOT']."/header.php" ?>
 
 <div class="main-container shadow">
-
-<?php echo '>'; echo before('2023-06-01'); ?>
-
 <!-- Video -->
 <p>
 <div class="stretchy-wrapper" id="video-wrapper">
