@@ -105,9 +105,9 @@ russo online
 <h2>Quando si tengono gli esami?</h2>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
-  <li>9 giugno 2023</li>
-  <li>27 ottobre 2023</li>
-  <li>24 novembre 2023</li>
+  <li>29 settembre 2023 in sede</li>
+  <li>27 ottobre 2023 online</li>
+  <li>24 novembre 2023 in sede</li>
 </ul>
 <h2>Dove si tengono gli esami?</h2>
 <p>Tutte le sessioni d'esame si tengono presso le aule dell'associazione in Via del Pratello 9, 40122 Bologna (BO). I rappresentanti dell’Università di San Pietroburgo partecipano in modo diretto alle sessione.</p>
