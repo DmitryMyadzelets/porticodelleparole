@@ -110,7 +110,8 @@ russo online
   <li>24 novembre 2023 in sede</li>
 </ul>
 <h2>Dove si tengono gli esami?</h2>
-<p>Tutte le sessioni d'esame si tengono presso le aule dell'associazione in Via del Pratello 9, 40122 Bologna (BO). I rappresentanti dell’Università di San Pietroburgo partecipano in modo diretto alle sessione.</p>
+<p>Le sessioni d'esame si tengono sia presso la nostra sede a Bologna sia in modalità online. Potete scegliere l'opzione che andrebbe più comodo per voi.</p>
+<p>I rappresentanti dell’Università di San Pietroburgo partecipano in modo diretto alle sessione.</p>
 <h2>Le modalità d'esame</h2>
 <p>Per le certificazioni è consentito l'utilizzo:</p>
 <ul>
