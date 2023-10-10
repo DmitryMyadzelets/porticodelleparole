@@ -5,6 +5,6 @@
     <li><a href="/#orari">Orari</a></li>
     <li><a href="/#i-nostri-insegnanti">Insegnanti</a></li>
     <li><a href="/#foto">Foto</a></li>
-    <li><a href="/trki/#certificazione">TRKI</a></li>
+    <li><a href="/trki/#certificazione">TRKI/TORFL</a></li>
     <li><a href="/test/#test-di-russo">Test</a></li>
 </ul>

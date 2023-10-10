@@ -159,7 +159,7 @@
 <p>Nei nostri corsi ci atteniamo alla divisione dei livelli di conoscenza della lingua russa stabilita dal Ministero dell’Educazione e della Scienza della Federazione Russa.</p>
 <p>Contattaci per fissare un incontro personale gratuito in sede oppure online su Zoom e ti indirizzeremo verso il corso migliore per le tue esigenze e il tuo livello. Oppure scopri lo subito con il nostro <a href="/test/#test-di-russo">test di russo online</a>.</p>
 
-<h2>Certificazioni TRKI</h2>
+<h2>Certificazioni TRKI/TORFL</h2>
 <p><b>Siamo un centro ufficiale di certificazione</b> TRKI/TORFL, e abbiamo stipulato un accordo con l'Università Statale di San Pietroburgo.</p>
 <p>Puoi svolgere l'esame di certificazione nella nostra sede a Bologna. <a href="/trki/#certificazione">Scopri più info</a> sull'esame e quando saranno le prossime sessioni.</p>
 
@@ -214,7 +214,7 @@
         <div class="div-column col-third">
             <a href="/trki/#preparazione">
                 <img src="/img/trki.jpg" alt="Russo per adozione">
-                <p>Preparazione per l'esame ufficiale TRKI</p>
+                <p>Preparazione per l'esame ufficiale TRKI/TORFL</p>
             </a>
         </div>
     </div>

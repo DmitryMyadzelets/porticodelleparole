@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Insegniamo il russo, parlato e scritto, utilizzando un percorso ben strutturato per tutti i livelli, offrendo semplicità, grande coinvolgimento&hellip;. E un pizzico di divertimento!">
     <meta name="keywords" content="
-TRKI,
+TRKI/TORFL,
 TORFL,
-Certificazione di lingua russa TRKI TORFL,
-Corsi di preparazione all'esame TRKI TORFL,
-Esami e certificazione TRKI TORFL,
+Certificazione di lingua russa TRKI/TORFL TORFL,
+Corsi di preparazione all'esame TRKI/TORFL TORFL,
+Esami e certificazione TRKI/TORFL TORFL,
 russo online
     ">
 
@@ -25,7 +25,7 @@ russo online
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 
     <title>
-        Certificazione di lingua russa TRKI TORFL &mdash; Associazione Portico delle Parole
+        Certificazione di lingua russa TRKI/TORFL TORFL &mdash; Associazione Portico delle Parole
     </title>
 
     <?php include_once $_SERVER['DOCUMENT_ROOT']."/google-analytics.php" ?>
@@ -37,16 +37,16 @@ russo online
 <div class="main-container shadow">
 <?php include $_SERVER['DOCUMENT_ROOT']."/contacts.php" ?>
 
-<h1 id="certificazione">Certificazione di Lingua Russa TRKI</h1>
+<h1 id="certificazione">Certificazione di Lingua Russa TRKI/TORFL</h1>
 <div class="block-image">
   <div class="stretchy-wrapper" style="padding-bottom: calc(480%/6.40)">
     <div>
-      <img src="https://www.porticodelleparole.it/photos/?id=6388dc33a639f" alt="Foto di una studentessa con il suo certifacato TRKI" loading="lazy"/>
+      <img src="https://www.porticodelleparole.it/photos/?id=6388dc33a639f" alt="Foto di una studentessa con il suo certifacato TRKI/TORFL" loading="lazy"/>
     </div>
   </div>
   <div hidden class="stretchy-wrapper" style="padding-bottom: calc(475%/6.40)">
     <div>
-      <img src="https://www.porticodelleparole.it/photos/?id=6388b90aafb5f" alt="Foto del certifacato TRKI" loading="lazy"/>
+      <img src="https://www.porticodelleparole.it/photos/?id=6388b90aafb5f" alt="Foto del certifacato TRKI/TORFL" loading="lazy"/>
     </div>
   </div>
   <p>Una felice studentessa con il suo certificato dall'Università Statale di San Pietroburgo dopo aver svolto l'esame presso Portico delle Parole</p>
@@ -91,10 +91,10 @@ russo online
       </div>
       <p>TEU</p>
       <p>TBU</p>
-      <p>TRKI-1</p>
-      <p>TRKI-2</p>
-      <p>TRKI-3</p>
-      <p>TRKI-4</p>
+      <p>TRKI/TORFL-1</p>
+      <p>TRKI/TORFL-2</p>
+      <p>TRKI/TORFL-3</p>
+      <p>TRKI/TORFL-4</p>
     </div>
 </div>
 <p>La certificazione di livello A1 ha validità di 5 anni, mentre le certificazioni di livelli A2, B1, B2, C1, C2 non hanno scadenza.</p>
@@ -129,8 +129,8 @@ russo online
 </ol>
 <p>Per avere più informazioni sullo svolgimento degli esami puoi <a href="https://testingcenter.spbu.ru/vebinary.html" target="_blank">guardare i video</a> registrati dall'Università Statale di San Pietroburgo dalla durata di 1 ora per ogni livello. In lingua inglese per i livelli A1, B1, B2 ed in lingua russa per i livelli B2, C1, C2.</p>
 <p>Puoi <a href="https://testingcenter.spbu.ru/ekzameny/russia/trki.html" target="_blank">scaricare</a> le versioni demo del test per tutti i livelli.<p>
-<h2 id="preparazione">Preparazione all'esame TRKI</h2>
-<p>Ti prepariamo a superare le varie prove di tutti i livelli dell'esame ufficiale TRKI.</p>
+<h2 id="preparazione">Preparazione all'esame TRKI/TORFL</h2>
+<p>Ti prepariamo a superare le varie prove di tutti i livelli dell'esame ufficiale TRKI/TORFL.</p>
 <p>Ti forniamo i materiali adatti e ben organizzati che, insieme alle simulazioni fatte durante il corso e alla competenza dei nostri insegnanti, risulteranno necessari alla preparazione degli esami.</p>
 
 <div class="div-table price-table">
@@ -195,7 +195,7 @@ russo online
   </div>
 </div>
 <p>
-  Preparazione all'esame TRKI si svolge online su Zoom oppure in sede a Bologna.
+  Preparazione all'esame TRKI/TORFL si svolge online su Zoom oppure in sede a Bologna.
 </p>
 
 </div>
