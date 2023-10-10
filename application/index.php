@@ -20,7 +20,7 @@
 
 <div class="main-container shadow" id="app">
   <h1>Richiesta di adesione all'associazione Portico&nbsp;delle&nbsp;Parole</h1>
-  <p>In qualita di socio ordinario (quota associativa annuale pari a 20 euro).</p>
+  <p>In qualita di socio ordinario (quota associativa annuale pari a 40 euro).</p>
   <p id="loader" class="center">
     <?php include "oval.svg"?>
   </p>
