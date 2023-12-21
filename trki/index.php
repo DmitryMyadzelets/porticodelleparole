@@ -105,9 +105,8 @@ russo online
 <h2>Quando si tengono gli esami?</h2>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
-  <li>29 settembre 2023 in sede</li>
-  <li>27 ottobre 2023 online</li>
-  <li>24 novembre 2023 in sede</li>
+  <li>22 marzo 2024 in sede e online</li>
+  <li>14 giugno 2024 in sede e online</li>
 </ul>
 <h2>Dove si tengono gli esami?</h2>
 <p>Le sessioni d'esame si tengono sia <b>presso la nostra sede a Bologna</b> sia <b>online</b>. Puoi scegliere l'opzione che andrebbe più comodo per te.</p>
