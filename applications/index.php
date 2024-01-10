@@ -7,9 +7,9 @@
 
   <link async rel="stylesheet" type="text/css" href="/css/normalize.css">
   <link async rel="stylesheet" type="text/css" href="/css/main.css">
-  <link async rel="stylesheet" type="text/css" href="//api.porticodelleparole.it/app.css">
+  <link rel="stylesheet" type="text/css" href="//api.portico.lvh.me/app.css">
 
-  <script defer src='//api.porticodelleparole.it/app.js'></script>
+  <script defer src='//api.portico.lvh.me/app.js'></script>
 
   <title>Applications - Associazione Portico delle Parole</title>
 </head>
