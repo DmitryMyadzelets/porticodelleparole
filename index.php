@@ -359,6 +359,23 @@
           <p>Insegno russo dal 2018 ed ho capito che è diventata una parte importante della mia vita insieme alla famiglia Portico delle Parole.</p>
         </div>
     </div>
+
+    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+        <h3>
+          <span itemprop="name">Natalia</span>,
+          <?php echo age('1994-10-14'); ?> anni,
+          <span itempro="birthPlace">Mosca, Russia</span>
+        </h3>
+        <div class="photo">
+            <img src="/img/evgrafova.webp" alt="Foto di Natalia"/>
+        </div>
+            
+        <div itemprop="description">
+          <p>Mi sono trasferita a Bologna nel 2019 per studiare all’università. Qui ho trovato la mia vera passione: l’insegnamento della lingua russa. Sempre cerco e studio nuove metodiche e dei modi che aiutano i miei studenti ad imparare la lingua in modo più efficace e piacevole.</p>
+          <p>Credo davvero che imparare una nuova lingua sia un'opportunità per esplorare nuovi mondi e la loro bellezza. Sono felice di essere al fianco dei miei studenti e di aiutarli a fare proprio questo!</p>
+        </div>
+    </div>
+
 </div>
 
 </div> <!-- main-container shadow -->
