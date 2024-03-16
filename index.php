@@ -416,7 +416,7 @@
     Metodi di pagamento
 </h2>
 <p>
-    I metodi di pagamento: contanti, bonifico, assegno bancario.
+    I metodi di pagamento: contanti, bonifico.
 </p>
 <p>
     Dati per effettuare il bonifico:<br>
