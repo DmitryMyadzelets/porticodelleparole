@@ -22,7 +22,7 @@ russo online
 
     <!--  -->
     <link rel="stylesheet" type="text/css" href="/css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <?php require $_SERVER['DOCUMENT_ROOT']."/main.css.php" ?>
 
     <title>
         Certificazione di lingua russa TRKI/TORFL TORFL &mdash; Associazione Portico delle Parole

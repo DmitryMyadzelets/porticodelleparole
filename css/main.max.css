@@ -242,6 +242,7 @@ iframe.reviews {
 .div-column {
     /*display: table-cell;*/
     float: left;
+    width: 100%;
 }
 
 .div-column > .col-head {
