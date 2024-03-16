@@ -102,6 +102,7 @@ russo online
 <p>
   Il prezzo per la certificazione è di <b>140&#8364; per ogni livello</b>. 
 </p>
+<?php include $_SERVER['DOCUMENT_ROOT']."/payment.php" ?>
 <h2>Quando si tengono gli esami?</h2>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
