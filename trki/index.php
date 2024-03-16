@@ -100,7 +100,7 @@ russo online
 <p>La certificazione di livello A1 ha validità di 5 anni, mentre le certificazioni di livelli A2, B1, B2, C1, C2 non hanno scadenza.</p>
 <h2>Prezzo</h2>
 <p>
-  Il prezzo per la certificazione è di 140&#8364; per ogni livello. 
+  Il prezzo per la certificazione è di <b>140&#8364; per ogni livello</b>. 
 </p>
 <h2>Quando si tengono gli esami?</h2>
 <p>Le prossime sessioni si terranno:</p>
