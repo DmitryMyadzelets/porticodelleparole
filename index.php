@@ -404,17 +404,9 @@
 <div class="main-container shadow">
 
 <h2 id="prezzi">Prezzi</h2>
-<?php include $_SERVER['DOCUMENT_ROOT']."/prices.php" ?>
-<p>
-    È obbligatorio il rilascio di una tessera associativa del costo di 40&#8364;.
-</p>
-<p>
-    Nel corso sono <b>compresi</b>: il manuale, attività linguistico-culturali: tè del sabato, laboratori del lessico e gli eventi speciali.
-</p>
+<?php $discount = true; include $_SERVER['DOCUMENT_ROOT']."/prices.php" ?>
 
-<h2>
-    Metodi di pagamento
-</h2>
+<h2>Metodi di pagamento</h2>
 <?php include $_SERVER['DOCUMENT_ROOT']."/payment.php" ?>
 
 </div> <!-- main-container shadow -->

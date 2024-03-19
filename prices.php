@@ -16,12 +16,14 @@ function perHour($price, $hours) {
     <p>
       I gruppi sono formati da 3 &mdash; max. 8 persone.
     </p>
+<?php if ($discount) { echo '
     <p>
       Durante il corso sono previste 3 lezioni di recupero.
     </p>
     <p>
       Per i corsi collettivi offriamo uno sconto del 10&#37; per chi ha meno di 26 anni.
     </p>
+'; } ?>
   </div>
   <div class="div-column col-third">
     <div class="col-head">
@@ -59,6 +61,10 @@ function perHour($price, $hours) {
       <span style="color:red">
       adesso in offerta 257&#8364; (<?php perHour(257, 10); ?> all'ora)
       </span>
+      <br/>
+      5 ore - 133&#8364; (<?php perHour(133, 5); ?> all'ora)
+      <br/>
+      1 ora - 28,70&#8364;
     </p>
     <p>
       Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
@@ -66,13 +72,17 @@ function perHour($price, $hours) {
       20 ore – 534&#8364; (<?php perHour(534, 20); ?> all'ora)
       <br/>
       10 ore – 287&#8364; (<?php perHour(287, 10); ?> all'ora)
-      <br/>
-      5 ore - 133&#8364; (<?php perHour(133, 5); ?> all'ora)
-      <br/>
-      1 ora - 28,70&#8364;
-    </p>
-    <p>
-      In sede oppure su Zoom
     </p>
   </div>
 </div>
+
+<p>
+    È obbligatorio il rilascio di una tessera associativa del costo di 40&#8364;.
+</p>
+<p>
+    Nel corso sono <b>compresi</b>: il manuale, attività linguistico-culturali: tè del sabato, laboratori del lessico e gli eventi speciali.
+</p>
+<p>
+  I corsi e attività si svolgano online su Zoom oppure in sede a Bologna.
+</p>
+
