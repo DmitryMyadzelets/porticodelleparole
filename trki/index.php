@@ -102,12 +102,15 @@ russo online
 <p>
   Il prezzo per la certificazione è di <b>140&#8364; per ogni livello</b>. 
 </p>
+<p>
+  È obbligatorio il rilascio di una tessera associativa del costo di 40&#8364;.
+</p>
 <?php include $_SERVER['DOCUMENT_ROOT']."/payment.php" ?>
 <h2>Quando si tengono gli esami?</h2>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
-  <li>14 giugno 2024 in sede e online</li>
   <li>29 novembre 2024 in sede e online</li>
+  <li>28 marzo 2025 in sede e online</li>
 </ul>
 <h2>Dove si tengono gli esami?</h2>
 <p>Le sessioni d'esame si tengono sia <b>presso la nostra sede a Bologna</b> sia <b>online</b>. Puoi scegliere l'opzione che andrebbe più comodo per te.</p>
