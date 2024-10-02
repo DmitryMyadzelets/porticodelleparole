@@ -14,7 +14,7 @@ function perHour($price, $hours) {
       <span style="color:red"> adesso in offerta 287&#8364; (<?php perHour(287, 20); ?> all'ora)</span>
     </p>
     <p>
-      I gruppi sono formati da 3 &mdash; max. 8 persone.
+      I gruppi sono formati da 3 &mdash; max. 9 persone.
     </p>
 <?php if ($discount) { echo '
     <p>
