@@ -404,7 +404,7 @@
 <div class="main-container shadow">
 
 <h2 id="prezzi">Prezzi</h2>
-<?php $discount = true; include $_SERVER['DOCUMENT_ROOT']."/prices.php" ?>
+<?php $discount = false; include $_SERVER['DOCUMENT_ROOT']."/prices.php" ?>
 
 <h2>Metodi di pagamento</h2>
 <?php include $_SERVER['DOCUMENT_ROOT']."/payment.php" ?>

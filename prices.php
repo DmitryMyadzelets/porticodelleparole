@@ -16,10 +16,10 @@ function perHour($price, $hours) {
     <p>
       I gruppi sono formati da 3 &mdash; max. 9 persone.
     </p>
-<?php if ($discount) { echo '
     <p>
       Durante il corso sono previste 3 lezioni di recupero.
     </p>
+<?php if ($discount) { echo '
     <p>
       Per i corsi collettivi offriamo uno sconto del 10&#37; per chi ha meno di 26 anni.
     </p>
