@@ -109,9 +109,9 @@ russo online
 <h2>Quando si tengono gli esami?</h2>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
-  <li>29 novembre 2024 in sede e online</li>
   <li>28 marzo 2025 in sede e online</li>
-</ul>
+  <li>13 giugno 2025 in sede e online</li>
+<</ul>
 <h2>Dove si tengono gli esami?</h2>
 <p>Le sessioni d'esame si tengono sia <b>presso la nostra sede a Bologna</b> sia <b>online</b>. Puoi scegliere l'opzione che andrebbe più comodo per te.</p>
 <p>I rappresentanti dell’Università di San Pietroburgo partecipano in modo diretto alle sessione.</p>
