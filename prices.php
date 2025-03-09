@@ -11,10 +11,10 @@ function perHour($price, $hours) {
     </div>
     <p>
       20 ore – <span style="text-decoration: line-through;">320&#8364;</span>
-      <span style="color:red"> adesso in offerta 287&#8364; (<?php perHour(287, 20); ?> all'ora)</span>
+      <span style="color:red"> adesso in offerta 297&#8364; (<?php perHour(297, 20); ?> all'ora)</span>
     </p>
     <p>
-      I gruppi sono formati da 3 &mdash; max. 9 persone.
+      I gruppi sono formati da 3 &mdash; max. 8 persone.
     </p>
     <p>
       Durante il corso sono previste 3 lezioni di recupero.
