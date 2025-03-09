@@ -360,7 +360,7 @@
         </div>
     </div>
 
-    <div itemprop="instructor" itemscope itemtype="http://schema.org/Person">
+    <div hidden itemprop="instructor" itemscope itemtype="http://schema.org/Person">
         <h3>
           <span itemprop="name">Natalia</span>,
           <?php echo age('1994-10-14'); ?> anni,
