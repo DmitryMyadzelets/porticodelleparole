@@ -107,6 +107,20 @@ russo online
 </p>
 <?php include $_SERVER['DOCUMENT_ROOT']."/payment.php" ?>
 <h2>Quando si tengono gli esami?</h2>
+<?php
+function before($date) {
+  return date_create('now') < date_create($date);
+}
+$exams = [
+  '2020-03-28' => 'in sede e online',
+  '2025-04-14' => '',
+  '2030-06-13' => 'in sede e online'
+];
+$exams = array_filter($exams, before, ARRAY_FILTER_USE_KEY);
+#echo implode('<br>', array_keys($exams));
+foreach ($exams as $date => $description) {
+}
+?>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
   <li>28 marzo 2025 in sede e online</li>
