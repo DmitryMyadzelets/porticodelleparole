@@ -123,7 +123,6 @@ foreach ($exams as $date => $description) {
 ?>
 <p>Le prossime sessioni si terranno:</p>
 <ul>
-  <li>28 marzo 2025 in sede e online</li>
   <li>13 giugno 2025 in sede e online</li>
 </ul>
 <h2>Dove si tengono gli esami?</h2>
