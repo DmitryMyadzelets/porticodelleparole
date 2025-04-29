@@ -482,6 +482,7 @@ mark {
   padding: 0 .1em;
   /* background-color: #ffe359; */
   background-color: rgba(204, 255, 0, 1); /* green */
+  box-decoration-break: clone;
 }
 
 @media (max-width: 46em) {
