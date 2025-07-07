@@ -51,20 +51,20 @@ function perHour($price, $hours) {
     </div>
     <p>
       20 ore –
-      <span style="text-decoration: line-through;">517&#8364;</span>
+      <span style="text-decoration: line-through;">574&#8364;</span>
       <span style="color:red">
-      adesso in offerta 474&#8364; (<?php perHour(474, 20); ?> all'ora)
+      adesso in offerta 534&#8364; (<?php perHour(534, 20); ?> all'ora)
       </span>
       <br/>
       10 ore – 
-      <span style="text-decoration: line-through;">317&#8364;</span>
+      <span style="text-decoration: line-through;">374&#8364;</span>
       <span style="color:red">
-      adesso in offerta 257&#8364; (<?php perHour(257, 10); ?> all'ora)
+      adesso in offerta 297&#8364; (<?php perHour(297, 10); ?> all'ora)
       </span>
       <br/>
-      5 ore - 133&#8364; (<?php perHour(133, 5); ?> all'ora)
+      5 ore - 163&#8364; (<?php perHour(163, 5); ?> all'ora)
       <br/>
-      1 ora - 28,70&#8364;
+      1 ora - 35,70&#8364;
     </p>
     <p>
       Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
