@@ -67,11 +67,11 @@ function perHour($price, $hours) {
       1 ora - 35,70&#8364;
     </p>
     <p>
-      Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
+      Nei giorni feriali dopo le 17:30 e il sabato mattina:
       <br/>
-      20 ore – 534&#8364; (<?php perHour(534, 20); ?> all'ora)
+      20 ore – 594&#8364; (<?php perHour(594, 20); ?> all'ora)
       <br/>
-      10 ore – 287&#8364; (<?php perHour(287, 10); ?> all'ora)
+      10 ore – 327&#8364; (<?php perHour(327, 10); ?> all'ora)
     </p>
   </div>
 </div>
