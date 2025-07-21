@@ -30,16 +30,16 @@ function perHour($price, $hours) {
       <h3>In due</h3>
     </div>
     <p>
-      20 ore – 314&#8364; (<?php perHour(314, 20); ?> all'ora)
+      20 ore – 374&#8364; (<?php perHour(374, 20); ?> all'ora)
       <br/>
-      10 ore – 167&#8364; (<?php perHour(167, 10); ?> all'ora)
+      10 ore – 197&#8364; (<?php perHour(197, 10); ?> all'ora)
     </p>
     <p>
       Nei giorni feriali dopo le 17:30 e il sabato a qualsiasi orario:
       <br/>
-      20 ore – 334&#8364; (<?php perHour(334, 20); ?> all'ora)
+      20 ore – 404&#8364; (<?php perHour(404, 20); ?> all'ora)
       <br/>
-      10 ore – 187&#8364; (<?php perHour(187, 10); ?> all'ora)
+      10 ore – 217&#8364; (<?php perHour(217, 10); ?> all'ora)
     </p>
     <p>
       Prezzo a persona
