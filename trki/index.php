@@ -121,8 +121,7 @@ function iso2str($date) {
   return $d.' '.$m.' '.$y;
 }
 $exams = [
-  '2025-03-28' => 'in sede e online',
-  '2025-06-13' => 'in sede e online'
+  '2025-10-10' => 'In presenza a Bologna oppure online sulla piattaforma dell\'Università Statale di San Pietroburgo'
 ];
 $exams = array_filter($exams, before, ARRAY_FILTER_USE_KEY);
 #echo implode('<br>', array_keys($exams));
